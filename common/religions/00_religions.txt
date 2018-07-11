@@ -582,7 +582,7 @@ kneo = {
 
 darevi = {
 	has_coa_on_barony_only = yes
-	graphical_culture = jewishgfx
+	graphical_culture = muslimgfx
 	playable = yes
 	hostile_within_group = yes
 	male_names = {
@@ -590,7 +590,7 @@ darevi = {
 	female_names = {
 			Aslaug Bothild Björg Freja Grima Gytha Kráka Malmfrid Thora Thordis Thyra Ragnfrid Ragnhild Svanhild Ulvhilde	}
 	ninala = {
-		graphical_culture = westerngfx
+		graphical_culture = muslimgfx
 		icon = 40
 		heresy_icon = 8
 		ai_convert_other_group = 0
@@ -636,7 +636,7 @@ darevi = {
 		religious_clothing_priest = 2
 	}
 	tluku = {
-		graphical_culture = westerngfx
+		graphical_culture = muslimgfx
 		icon = 33
 		heresy_icon = 44
 		ai_convert_other_group = 0
@@ -682,7 +682,7 @@ darevi = {
 		religious_clothing_priest = 2
 	}
 	nerapur = {
-		graphical_culture = westerngfx
+		graphical_culture = muslimgfx
 		icon = 39
 		heresy_icon = 14
 		ai_convert_other_group = 0
@@ -727,7 +727,7 @@ darevi = {
 		religious_clothing_priest = 0
 	}
 	kmemar = {
-		graphical_culture = westerngfx
+		graphical_culture = muslimgfx
 		icon = 4
 		heresy_icon = 51
 		ai_convert_other_group = 0
@@ -788,7 +788,7 @@ lamita = {
 		icon = 28
 		heresy_icon = 6
 		ai_convert_other_group = 2
-		color = { 126 106 0 }
+		color = { 216 213 246 }
 		crusade_name = turiel
 		scripture_name = durelen
 		priest_title = raveppo
@@ -968,9 +968,66 @@ lamita = {
 	}
 }
 
-ebatel = {
+agrakma = {
+
 	has_coa_on_barony_only = yes
 	graphical_culture = buddhistgfx
+	playable = yes
+	hostile_within_group = no
+	
+agrakma = {
+
+		graphical_culture = buddhistgfx
+		icon = 22
+		heresy_icon = 24
+		ai_convert_other_group = 0
+		color = { 163 126 34 }
+		
+		crusade_name = srai
+		scripture_name = katise
+		priest_title = sobamur
+		high_god_name = borm
+		god_names = {
+			kul tyl lum natn sumn acatn wha benn ry esl rzem as lagm rozm qel nibm lzin k tm qev rra trai qeik echok ron kei donb deib rork kra		}
+		evil_god_names = {
+			tatn taun sodl amaul dda shob syk dy trel ron		}
+			
+		investiture = no
+		can_have_antipopes = no
+		can_excommunicate = no
+		can_grant_divorce = yes
+		can_grant_claim = no
+		can_call_crusade = no
+		can_retire_to_monastery = yes
+		priests_can_inherit = yes
+		can_hold_temples = yes
+		pacifist = no
+		bs_marriage = no
+		pc_marriage = no
+		psc_marriage = no
+		cousin_marriage = no
+		matrilineal_marriages = no
+		intermarry = no
+		allow_viking_invasion = no
+		allow_looting = no
+		allow_rivermovement = no
+		female_temple_holders = no
+		autocephaly = no
+		divine_blood = no
+		has_heir_designation = no
+		peace_prestige_loss = no
+		max_wives = 1
+		uses_decadence = no
+		uses_jizya_tax = no
+		can_grant_invasion_cb = invasion
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 0
+	}}
+
+ebatel = {
+	has_coa_on_barony_only = yes
+	graphical_culture = mongolgfx
 	playable = yes
 	hostile_within_group = no
 	male_names = {
@@ -978,7 +1035,7 @@ ebatel = {
 	female_names = {
 			Aslaug Bothild Björg Freja Grima Gytha Kráka Malmfrid Thora Thordis Thyra Ragnfrid Ragnhild Svanhild Ulvhilde	}
 	emonurga = {
-		graphical_culture = westerngfx
+		graphical_culture = mongolgfx
 		icon = 23
 		heresy_icon = 22
 		ai_convert_other_group = 0
@@ -1022,53 +1079,9 @@ ebatel = {
 		religious_clothing_head = 0
 		religious_clothing_priest = 2
 	}
-	agrakma = {
-		graphical_culture = westerngfx
-		icon = 31
-		heresy_icon = 19
-		ai_convert_other_group = 0
-		color = { 172 36 132 }
-		crusade_name = srai
-		scripture_name = katise
-		priest_title = sobamur
-		high_god_name = borm
-		god_names = {
-			kul tyl lum natn sumn acatn wha benn ry esl rzem as lagm rozm qel nibm lzin k tm qev rra trai qeik echok ron kei donb deib rork kra		}
-		evil_god_names = {
-			tatn taun sodl amaul dda shob syk dy trel ron		}
-		investiture = no
-		can_have_antipopes = yes
-		can_excommunicate = no
-		can_grant_divorce = yes
-		can_grant_claim = yes
-		can_call_crusade = yes
-		can_retire_to_monastery = yes
-		priests_can_inherit = yes
-		can_hold_temples = yes
-		pacifist = yes
-		bs_marriage = yes
-		pc_marriage = no
-		psc_marriage = yes
-		cousin_marriage = yes
-		matrilineal_marriages = yes
-		intermarry = no
-		allow_viking_invasion = yes
-		allow_looting = yes
-		allow_rivermovement = no
-		female_temple_holders = no
-		autocephaly = no
-		divine_blood = no
-		has_heir_designation = no
-		peace_prestige_loss = yes
-		max_wives = 1
-		uses_decadence = no
-		uses_jizya_tax = no
-		can_grant_invasion_cb = invasion
-		religious_clothing_head = 3
-		religious_clothing_priest = 0
-	}
+	
 	bukena = {
-		graphical_culture = westerngfx
+		graphical_culture = mongolgfx
 		icon = 43
 		heresy_icon = 11
 		ai_convert_other_group = 2
@@ -1113,7 +1126,7 @@ ebatel = {
 		religious_clothing_priest = 2
 	}
 	kanyo = {
-		graphical_culture = westerngfx
+		graphical_culture = mongolgfx
 		icon = 49
 		heresy_icon = 50
 		ai_convert_other_group = 0
@@ -1160,10 +1173,11 @@ ebatel = {
 }
 
 naijlu = {
+
 	has_coa_on_barony_only = yes
 	graphical_culture = norsegfx
 	playable = yes
-	hostile_within_group = yes
+	hostile_within_group = no
 
 	male_names = {
 			Anund Asbjörn Aslak Audun Bagge Balder Brage Egil Emund Frej Gnupa Gorm Gudmund Gudröd Hardeknud Helge Odd Orm Orvar Ottar Rikulfr Rurik Sigbjörn Styrbjörn Starkad Styrkar Sämund Sölve Sörkver Thorolf Tjudmund Toke Tolir Torbjörn Torbrand Torfinn Torgeir Toste Tyke	}
@@ -1172,6 +1186,7 @@ naijlu = {
 			Aslaug Bothild Björg Freja Grima Gytha Kráka Malmfrid Thora Thordis Thyra Ragnfrid Ragnhild Svanhild Ulvhilde	}
 			
 	echukas = {
+	
 		graphical_culture = norsegfx
 		icon = 31
 		heresy_icon = 33
@@ -1204,7 +1219,7 @@ naijlu = {
 		hard_to_convert = yes
 		
 		dislike_tribal_organization = yes
-		can_demand_religious_conversion = no
+		can_demand_religious_conversion = yes
 	}
 	
 	wering = {

@@ -2696,7 +2696,7 @@ releze = {
 	wubutr = {
 		color = { 255 233 50 }
 		graphical_cultures = {
-			mongolgfx		}
+			byzantinegfx		}
 		male_names = {
 			Ekamig Emert Rald Ekaaleg Kiet Akozuth Qalat Tozat Rumed Rzin Biiit Rracob Kozeg Qrig Asamit Qameg Bekech Kirert Enoumit Lozeg Kujert Trec Rired Kekig Qyalit Tyalig Sozit Esameg Rired Nerin Taalit Brin Bekeg Qyaldat Relin Wlech Tieg Tirin Tuth Kaaled Nuulig Kireg Dreg Ramat Daurig Soumat Teg Loumin Terit Tig Suulig Liet Wmech Ramit Boumit Tuleg Qoumner Qoumed Tozeg Lozacob Damat Sert Telig Lumech Dirin Elig Dulech Enyaled Ralech Trit Telit Koumner Namat Nureg Qyaleg Kaled Laleg Wc Lameg Laurit Kn Kmeg Tamit Nirat Roumec Teekner Wreg Sekd Named Dyaleg Emeg Toumner Siiat Direg Smert Wujed Kulit Qzit Kmit Tujat		}
 		female_names = {
@@ -2724,7 +2724,7 @@ releze = {
 	relita = {
 		color = { 244 245 92 }
 		graphical_cultures = {
-			mongolgfx		}
+			byzantinegfx		}
 		male_names = {
 		}
 		female_names = {
@@ -2752,7 +2752,7 @@ releze = {
 	kujacob = {
 		color = { 255 210 89 }
 		graphical_cultures = {
-			mongolgfx		}
+			byzantinegfx		}
 		male_names = {
 		}
 		female_names = {
@@ -2780,7 +2780,7 @@ releze = {
 	woumner = {
 		color = { 241 211 77 }
 		graphical_cultures = {
-			mongolgfx		}
+			byzantinegfx		}
 		male_names = {
 		}
 		female_names = {
@@ -2808,7 +2808,7 @@ releze = {
 	namuthe = {
 		color = { 240 189 50 }
 		graphical_cultures = {
-			mongolgfx		}
+			byzantinegfx		}
 		male_names = {
 		}
 		female_names = {
@@ -2836,7 +2836,7 @@ releze = {
 	waurat = {
 		color = { 238 188 97 }
 		graphical_cultures = {
-			mongolgfx		}
+			byzantinegfx		}
 		male_names = {
 		}
 		female_names = {
@@ -2864,7 +2864,7 @@ releze = {
 	rerega = {
 		color = { 250 234 72 }
 		graphical_cultures = {
-			mongolgfx		}
+			byzantinegfx		}
 		male_names = {
 		}
 		female_names = {
@@ -2892,7 +2892,7 @@ releze = {
 	kamat = {
 		color = { 239 236 63 }
 		graphical_cultures = {
-			mongolgfx		}
+			byzantinegfx		}
 		male_names = {
 		}
 		female_names = {
@@ -2920,7 +2920,7 @@ releze = {
 	woumner = {
 		color = { 251 202 54 }
 		graphical_cultures = {
-			mongolgfx		}
+			byzantinegfx		}
 		male_names = {
 		}
 		female_names = {
@@ -2949,9 +2949,9 @@ releze = {
 
 wamat = {
 	graphical_cultures = {
-			indiangfx	}
+			easternslavicgfx	}
 	doumat = {
-		color = { 130 19 22 }
+		color = { 134 44 11 }
 		graphical_cultures = {
 			easternslavicgfx		}
 		male_names = {
@@ -2979,7 +2979,7 @@ wamat = {
 		seafarer = no
 	}
 	donada = {
-		color = { 116 0 0 }
+		color = { 144 44 20 }
 		graphical_cultures = {
 			easternslavicgfx		}
 		male_names = {
@@ -3007,7 +3007,7 @@ wamat = {
 		seafarer = no
 	}
 	ekozusa = {
-		color = { 99 8 1 }
+		color = { 150 30 10 }
 		graphical_cultures = {
 			easternslavicgfx		}
 		male_names = {
@@ -3206,11 +3206,11 @@ wamat = {
 
 latani = {
 	graphical_cultures = {
-			easterngfx	}
+			mongolgfx	}
 	rresa = {
 		color = { 86 171 88 }
 		graphical_cultures = {
-			ugricgfx		}
+			mongolgfx		}
 		male_names = {
 			Draus Kneth Kanah Ejev Tujen Rhel Nel Sujel Kear Tdet Nanet Erv Ns Qirahid Nis Ten Ar Bad Nujor Qegist Siram Lisaus Loragop Akist Wyivig Wallor Laneth Qjk Krem Ajetem Keth Qs Devig Blarj Khist Kjunl Norist Enah Wearaus Wjist Eruyiv Agerv Kkev Kjeth Kgirad Kand Tuyim Dketh Trerv Trisr Kanen Dr Ralet Agujel Seth Etor Ld Kanel Ajodah Qreth Ror Ebegerv Sevig Arahid Dhist Rl Kvig Qaneth Negel Qeth Aviran Raus Kkk Ralir Arel Buyinen Rist Kearen Lhelen Wl Ad Atarj Regel Rand Kr Rist Reten Segarj Rujem Ararj Kgerv Kist Tem Sn Tandet Brirad Sunl Krah Nket Tujanos		}
 		female_names = {
@@ -3238,7 +3238,7 @@ latani = {
 	beth = {
 		color = { 106 151 92 }
 		graphical_cultures = {
-			ugricgfx		}
+			mongolgfx		}
 		male_names = {
 		}
 		female_names = {
@@ -3266,7 +3266,7 @@ latani = {
 	learah = {
 		color = { 70 135 77 }
 		graphical_cultures = {
-			ugricgfx		}
+			mongolgfx		}
 		male_names = {
 		}
 		female_names = {
@@ -3294,7 +3294,7 @@ latani = {
 	kegirad = {
 		color = { 100 162 74 }
 		graphical_cultures = {
-			ugricgfx		}
+			mongolgfx		}
 		male_names = {
 		}
 		female_names = {
@@ -3322,7 +3322,7 @@ latani = {
 	wiragop = {
 		color = { 72 166 102 }
 		graphical_cultures = {
-			ugricgfx		}
+			mongolgfx		}
 		male_names = {
 		}
 		female_names = {
@@ -3350,7 +3350,7 @@ latani = {
 	tujeth = {
 		color = { 91 157 53 }
 		graphical_cultures = {
-			ugricgfx		}
+			mongolgfx		}
 		male_names = {
 		}
 		female_names = {
@@ -3378,7 +3378,7 @@ latani = {
 	negeth = {
 		color = { 87 133 75 }
 		graphical_cultures = {
-			ugricgfx		}
+			mongolgfx		}
 		male_names = {
 		}
 		female_names = {
@@ -3406,7 +3406,7 @@ latani = {
 	srisre = {
 		color = { 89 123 126 }
 		graphical_cultures = {
-			ugricgfx		}
+			mongolgfx		}
 		male_names = {
 		}
 		female_names = {
@@ -3434,7 +3434,7 @@ latani = {
 	dukanos = {
 		color = { 108 165 88 }
 		graphical_cultures = {
-			ugricgfx		}
+			mongolgfx		}
 		male_names = {
 		}
 		female_names = {
@@ -3461,17 +3461,19 @@ latani = {
 	}
 }
 
-deekner = {
-	graphical_cultures = {
-			westerngfx	}
+karish = {
+	graphical_cultures = { westerngfx }
+	
 	telita = {
+	
 		color = { 0 116 154 }
 		graphical_cultures = {
-			mesoamericangfx		}
+			celticgfx }
 		male_names = {
 			Tijind Bbin Käas Esvas Kozaid Qert Tavic Qavas Adavind Tert Traet Ekäiot Sulert Wvog Asric Raboet Navas Tab Ralaet Balas Qloin Noin Qrenr Kkas Qhas Qet Nraid Trind Tlog Ejar Nvic Bhoet Dalas Khoin Kar Retuk Kc Qalar Nbeid Loin Lanc Dhind Narert Daleid Saras Qavas Wvuk Qabas Wvind Ntic Kuloet Nijeid Kroet Dic Ekaald Talanc Eäanc Liedr Laijoin Qvas Dabic Slas Esabic Nabaid Wavic Nloin Rvak Dert Wozert Naluk Tabeid Rzenr Dabind Bbog Walar Tyalk Tic Dlukas Netas Dabas Daroin Ebaid Lar Rn Tavas Elk Tedr Kalog Reid Lhoin Taranc Eviedr Tedr Kulas Blar Aranc Qenr Labas Raalas Bvaid		}
 		female_names = {
 			Läa Dbin Aranca Ela Lula Tala Tloe Laroi Betice Nli Dlin Nben Kaete Raallu Bler Qetice Rerta Ralin Qeti Karice Nalice Wlin Lanca Sli Warin Käerta Asranca Echiota Kecaide Tala Alan Rlice Tvice Tecare Qozerta Tvanca Räoe Tulaide Raide Tlan Kloe Emara Lna Saete Klice Wherta Lanca Qan Tben Kalde Tloe Kroge Elaloge Kalare Räaete Kae Taide Kaboe Rzice Naete Enca Bka Betoe Larare Tlei Lulerta Arer Tabaide Barare Nbaete Rtuka Nla Kaba Daranca Rrae Khin Wava Saali Rei Troge Rruka Epulaete Toza Akozanca Rulen Dvaide Kliota Khare Aten Tide Wabice Bara Rtice Kai Eberta Dlare Kboge Thice Riedre Dozanca		}
+			
 		dukes_called_kings = no
 		baron_titles_hidden = no
 		count_titles_hidden = no
@@ -3490,16 +3492,19 @@ deekner = {
 		mother_name_chance = 25
 		modifier = default_culture_modifier
 		allow_looting = yes
-		seafarer = no
+		seafarer = yes
 	}
+	
 	qerta = {
+	
 		color = { 0 120 141 }
 		graphical_cultures = {
-			mesoamericangfx		}
+			celticgfx		}
 		male_names = {
 		}
 		female_names = {
 		}
+		
 		dukes_called_kings = no
 		baron_titles_hidden = no
 		count_titles_hidden = yes
@@ -3520,14 +3525,17 @@ deekner = {
 		allow_looting = yes
 		seafarer = yes
 	}
+	
 	akozerta = {
 		color = { 0 139 164 }
 		graphical_cultures = {
-			mesoamericangfx		}
+			celticgfx		}
+			
 		male_names = {
 		}
 		female_names = {
 		}
+		
 		dukes_called_kings = no
 		baron_titles_hidden = yes
 		count_titles_hidden = no
@@ -3548,10 +3556,11 @@ deekner = {
 		allow_looting = yes
 		seafarer = yes
 	}
+	
 	taaloin = {
 		color = { 18 96 159 }
 		graphical_cultures = {
-			mesoamericangfx		}
+			celticgfx		}
 		male_names = {
 		}
 		female_names = {
@@ -3574,12 +3583,13 @@ deekner = {
 		mother_name_chance = 25
 		modifier = default_culture_modifier
 		allow_looting = yes
-		seafarer = no
+		seafarer = yes
 	}
+	
 	ekozare = {
 		color = { 0 101 191 }
 		graphical_cultures = {
-			mesoamericangfx		}
+			celticgfx		}
 		male_names = {
 		}
 		female_names = {
@@ -3602,12 +3612,13 @@ deekner = {
 		mother_name_chance = 25
 		modifier = default_culture_modifier
 		allow_looting = yes
-		seafarer = no
+		seafarer = yes
 	}
+	
 	wvaku = {
 		color = { 0 82 193 }
 		graphical_cultures = {
-			mesoamericangfx		}
+			celticgfx		}
 		male_names = {
 		}
 		female_names = {
@@ -3632,10 +3643,11 @@ deekner = {
 		allow_looting = yes
 		seafarer = yes
 	}
+	
 	svare = {
 		color = { 35 99 177 }
 		graphical_cultures = {
-			mesoamericangfx		}
+			celticgfx		}
 		male_names = {
 		}
 		female_names = {
@@ -3658,12 +3670,13 @@ deekner = {
 		mother_name_chance = 25
 		modifier = default_culture_modifier
 		allow_looting = yes
-		seafarer = no
+		seafarer = yes
 	}
+	
 	kaloet = {
 		color = { 34 110 159 }
 		graphical_cultures = {
-			mesoamericangfx		}
+			celticgfx		}
 		male_names = {
 		}
 		female_names = {
@@ -3686,12 +3699,13 @@ deekner = {
 		mother_name_chance = 25
 		modifier = default_culture_modifier
 		allow_looting = yes
-		seafarer = no
+		seafarer = yes
 	}
+	
 	lanca = {
 		color = { 0 112 150 }
 		graphical_cultures = {
-			mesoamericangfx		}
+			celticgfx		}
 		male_names = {
 		}
 		female_names = {
@@ -3714,7 +3728,7 @@ deekner = {
 		mother_name_chance = 25
 		modifier = default_culture_modifier
 		allow_looting = yes
-		seafarer = no
+		seafarer = yes
 	}
 }
 
