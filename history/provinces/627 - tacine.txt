@@ -1,0 +1,17 @@
+	title = c_tacine
+	max_settlements = 7
+	culture = katunn
+	religion = takice
+	b_soliyya = tribal
+242.4.1 = {
+	culture = amurein
+}
+
+548.3.1 = {
+	religion = emonurga
+}
+
+613.4.1 = {
+	culture = wiragop
+}
+

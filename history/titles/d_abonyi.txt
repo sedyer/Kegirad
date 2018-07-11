@@ -1,0 +1,3094 @@
+200.2.1 = {
+	holder = 1002080
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1002310
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+201.2.1 = {
+	holder = 1002938
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+202.2.1 = {
+	holder = 1003117
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+203.2.1 = {
+	holder = 1003262
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+204.2.1 = {
+	holder = 1003434
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+205.2.1 = {
+	holder = 1003544
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+206.2.1 = {
+	holder = 1003667
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+207.2.1 = {
+	holder = 1003802
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+208.2.1 = {
+	holder = 1003925
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+209.2.1 = {
+	holder = 1004024
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+210.2.1 = {
+	holder = 1004126
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+211.2.1 = {
+	holder = 1004239
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+212.2.1 = {
+	holder = 1004329
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+213.2.1 = {
+	holder = 1004418
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+214.2.1 = {
+	holder = 1004519
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+215.2.1 = {
+	holder = 1004610
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+216.2.1 = {
+	holder = 1004688
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+217.2.1 = {
+	holder = 1004793
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+218.2.1 = {
+	holder = 1004912
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+218.2.2 = {
+	holder = 1004914
+}
+
+219.2.1 = {
+	holder = 1005001
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+220.2.1 = {
+	holder = 1005092
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+221.2.1 = {
+	holder = 1005200
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+222.2.1 = {
+	holder = 1005301
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+223.2.1 = {
+	holder = 1005387
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+224.2.1 = {
+	holder = 1005481
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+225.2.1 = {
+	holder = 1005568
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+226.2.1 = {
+	holder = 1005653
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+227.2.1 = {
+	holder = 1005727
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+228.2.1 = {
+	holder = 1005815
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+228.2.2 = {
+	holder = 1005818
+}
+
+229.2.1 = {
+	holder = 1005913
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+230.2.1 = {
+	holder = 1006010
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+231.2.1 = {
+	holder = 1006086
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+232.2.1 = {
+	holder = 1006173
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+233.2.1 = {
+	holder = 1006258
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+234.2.1 = {
+	holder = 1006353
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+235.2.1 = {
+	holder = 1006440
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+236.2.1 = {
+	holder = 1006541
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+237.2.1 = {
+	holder = 1006636
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+238.2.1 = {
+	holder = 1006732
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+239.2.1 = {
+	holder = 1006826
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+240.2.1 = {
+	holder = 1006930
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+241.2.1 = {
+	holder = 1007031
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+242.2.1 = {
+	holder = 1007121
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+243.2.1 = {
+	holder = 1007209
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+244.2.1 = {
+	holder = 1007304
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+245.2.1 = {
+	holder = 1007387
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+246.2.1 = {
+	holder = 1007486
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+247.2.1 = {
+	holder = 1007585
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+248.2.1 = {
+	holder = 1007674
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+249.2.1 = {
+	holder = 1007766
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+250.2.1 = {
+	holder = 1007861
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+251.2.1 = {
+	holder = 1007955
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+252.2.1 = {
+	holder = 1008057
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+253.2.1 = {
+	holder = 1008160
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+254.2.1 = {
+	holder = 1008244
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+255.2.1 = {
+	holder = 1008335
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+256.2.1 = {
+	holder = 1008412
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+256.2.2 = {
+	holder = 1008415
+}
+
+257.2.1 = {
+	holder = 1008501
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+258.2.1 = {
+	holder = 1008607
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+259.2.1 = {
+	holder = 1008690
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+260.2.1 = {
+	holder = 1008788
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+261.2.1 = {
+	holder = 1008883
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+261.2.2 = {
+	holder = 1008886
+}
+
+262.2.1 = {
+	holder = 1008980
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+263.2.1 = {
+	holder = 1009071
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+264.2.1 = {
+	holder = 1009151
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+265.2.1 = {
+	holder = 1009245
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+266.2.1 = {
+	holder = 1009340
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+267.2.1 = {
+	holder = 1009420
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+268.2.1 = {
+	holder = 1009504
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+269.2.1 = {
+	holder = 1009577
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+270.2.1 = {
+	holder = 1009651
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+271.2.1 = {
+	holder = 1009743
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+272.2.1 = {
+	holder = 1009824
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+273.2.1 = {
+	holder = 1009919
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+274.2.1 = {
+	holder = 1010021
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+275.2.1 = {
+	holder = 1010109
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+276.2.1 = {
+	holder = 1010200
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+277.2.1 = {
+	holder = 1010291
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+277.2.2 = {
+	holder = 1010293
+}
+
+278.2.1 = {
+	holder = 1010375
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+279.2.1 = {
+	holder = 1010463
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+280.2.1 = {
+	holder = 1010540
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+281.2.1 = {
+	holder = 1010630
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+282.2.1 = {
+	holder = 1010714
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+283.2.1 = {
+	holder = 1010810
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+284.2.1 = {
+	holder = 1010902
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+285.2.1 = {
+	holder = 1010997
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+286.2.1 = {
+	holder = 1011096
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+287.2.1 = {
+	holder = 1011169
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+288.2.1 = {
+	holder = 1011255
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+289.2.1 = {
+	holder = 1011336
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+290.2.1 = {
+	holder = 1011425
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+291.2.1 = {
+	holder = 1011518
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+292.2.1 = {
+	holder = 1011601
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+293.2.1 = {
+	holder = 1011690
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+294.2.1 = {
+	holder = 1011767
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+295.2.1 = {
+	holder = 1011844
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+296.2.1 = {
+	holder = 1011928
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+297.2.1 = {
+	holder = 1011986
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+298.2.1 = {
+	holder = 1012052
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+299.2.1 = {
+	holder = 1012136
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+299.2.2 = {
+	holder = 1012138
+}
+
+300.2.1 = {
+	holder = 1012211
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+301.2.1 = {
+	holder = 1012419
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+302.2.1 = {
+	holder = 1012511
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+303.2.1 = {
+	holder = 1012594
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+304.2.1 = {
+	holder = 1012688
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+305.2.1 = {
+	holder = 1012783
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+306.2.1 = {
+	holder = 1012855
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+307.2.1 = {
+	holder = 1012940
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+308.2.1 = {
+	holder = 1013017
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+309.2.1 = {
+	holder = 1013090
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+310.2.1 = {
+	holder = 1013172
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+311.2.1 = {
+	holder = 1013309
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+312.2.1 = {
+	holder = 1013384
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+313.2.1 = {
+	holder = 1013456
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+314.2.1 = {
+	holder = 1013542
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+315.2.1 = {
+	holder = 1013616
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+316.2.1 = {
+	holder = 1013695
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+317.2.1 = {
+	holder = 1013786
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+318.2.1 = {
+	holder = 1013861
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+319.2.1 = {
+	holder = 1013938
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+320.2.1 = {
+	holder = 1014023
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+321.2.1 = {
+	holder = 1014129
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+322.2.1 = {
+	holder = 1014218
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+323.2.1 = {
+	holder = 1014308
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+324.2.1 = {
+	holder = 1014380
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+325.2.1 = {
+	holder = 1014453
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+326.2.1 = {
+	holder = 1014524
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+327.2.1 = {
+	holder = 1014601
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+328.2.1 = {
+	holder = 1014678
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+329.2.1 = {
+	holder = 1014751
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+330.2.1 = {
+	holder = 1014832
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+331.2.1 = {
+	holder = 1014922
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+332.2.1 = {
+	holder = 1015001
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+333.2.1 = {
+	holder = 1015080
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+334.2.1 = {
+	holder = 1015150
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+335.2.1 = {
+	holder = 1015221
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+336.2.1 = {
+	holder = 1015278
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+337.2.1 = {
+	holder = 1015361
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+338.2.1 = {
+	holder = 1015437
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+339.2.1 = {
+	holder = 1015504
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+340.2.1 = {
+	holder = 1015594
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+341.2.1 = {
+	holder = 1015678
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+342.2.1 = {
+	holder = 1015745
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+343.2.1 = {
+	holder = 1015835
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+344.2.1 = {
+	holder = 1015912
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+345.2.1 = {
+	holder = 1015996
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+346.2.1 = {
+	holder = 1016072
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+347.2.1 = {
+	holder = 1016147
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+348.2.1 = {
+	holder = 1016230
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+349.2.1 = {
+	holder = 1016303
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+350.2.1 = {
+	holder = 1016391
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+351.2.1 = {
+	holder = 1016466
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+352.2.1 = {
+	holder = 1016539
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+353.2.1 = {
+	holder = 1016633
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+354.2.1 = {
+	holder = 1016705
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+355.2.1 = {
+	holder = 1016780
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+356.2.1 = {
+	holder = 1016866
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+357.2.1 = {
+	holder = 1016946
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+358.2.1 = {
+	holder = 1017035
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+359.2.1 = {
+	holder = 1017105
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+360.2.1 = {
+	holder = 1017186
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+361.2.1 = {
+	holder = 1017268
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+362.2.1 = {
+	holder = 1017340
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+362.2.2 = {
+	holder = 1017342
+}
+
+363.2.1 = {
+	holder = 1017423
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+364.2.1 = {
+	holder = 1017516
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+365.2.1 = {
+	holder = 1017603
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+366.2.1 = {
+	holder = 1017680
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+367.2.1 = {
+	holder = 1017757
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+368.2.1 = {
+	holder = 1017837
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+369.2.1 = {
+	holder = 1017914
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+370.2.1 = {
+	holder = 1017974
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+371.2.1 = {
+	holder = 1018073
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+371.2.2 = {
+	holder = 1018075
+}
+
+372.2.1 = {
+	holder = 1018171
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+372.2.2 = {
+	holder = 1018173
+}
+
+373.2.1 = {
+	holder = 1018239
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+374.2.1 = {
+	holder = 1018328
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+375.2.1 = {
+	holder = 1018389
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+376.2.1 = {
+	holder = 1018459
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+377.2.1 = {
+	holder = 1018526
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+378.2.1 = {
+	holder = 1018608
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+379.2.1 = {
+	holder = 1018692
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+380.2.1 = {
+	holder = 1018761
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+381.2.1 = {
+	holder = 1018836
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+382.2.1 = {
+	holder = 1018907
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+383.2.1 = {
+	holder = 1018969
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+384.2.1 = {
+	holder = 1019061
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+385.2.1 = {
+	holder = 1019146
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+386.2.1 = {
+	holder = 1019212
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+387.2.1 = {
+	holder = 1019285
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+388.2.1 = {
+	holder = 1019359
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+389.2.1 = {
+	holder = 1019429
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+390.2.1 = {
+	holder = 1019501
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+391.2.1 = {
+	holder = 1019565
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+392.2.1 = {
+	holder = 1019637
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+393.2.1 = {
+	holder = 1019716
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+394.2.1 = {
+	holder = 1019791
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+395.2.1 = {
+	holder = 1019879
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+396.2.1 = {
+	holder = 1019954
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+397.2.1 = {
+	holder = 1020031
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+398.2.1 = {
+	holder = 1020093
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+399.2.1 = {
+	holder = 1020148
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+400.2.1 = {
+	holder = 1020218
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+401.2.1 = {
+	holder = 1020489
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+402.2.1 = {
+	holder = 1020562
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+403.2.1 = {
+	holder = 1020630
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+404.2.1 = {
+	holder = 1020733
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+405.2.1 = {
+	holder = 1020806
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+406.2.1 = {
+	holder = 1020878
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+407.2.1 = {
+	holder = 1020969
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+408.2.1 = {
+	holder = 1021048
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+409.2.1 = {
+	holder = 1021126
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+410.2.1 = {
+	holder = 1021184
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+411.2.1 = {
+	holder = 1021259
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+412.2.1 = {
+	holder = 1021331
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+413.2.1 = {
+	holder = 1021400
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+414.2.1 = {
+	holder = 1021469
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+415.2.1 = {
+	holder = 1021547
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+416.2.1 = {
+	holder = 1021625
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+417.2.1 = {
+	holder = 1021688
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+418.2.1 = {
+	holder = 1021763
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+419.2.1 = {
+	holder = 1021843
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+420.2.1 = {
+	holder = 1021910
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+421.2.1 = {
+	holder = 1021980
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+422.2.1 = {
+	holder = 1022053
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+423.2.1 = {
+	holder = 1022136
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+424.2.1 = {
+	holder = 1022206
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+425.2.1 = {
+	holder = 1022275
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+426.2.1 = {
+	holder = 1022341
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+427.2.1 = {
+	holder = 1022404
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+428.2.1 = {
+	holder = 1022489
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+429.2.1 = {
+	holder = 1022559
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+430.2.1 = {
+	holder = 1022620
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+431.2.1 = {
+	holder = 1022684
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+432.2.1 = {
+	holder = 1022749
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+432.2.2 = {
+	holder = 1022751
+}
+
+433.2.1 = {
+	holder = 1022850
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+434.2.1 = {
+	holder = 1022945
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+435.2.1 = {
+	holder = 1023023
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+436.2.1 = {
+	holder = 1023091
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+437.2.1 = {
+	holder = 1023158
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+438.2.1 = {
+	holder = 1023231
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+439.2.1 = {
+	holder = 1023303
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+440.2.1 = {
+	holder = 1023378
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+441.2.1 = {
+	holder = 1023450
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+442.2.1 = {
+	holder = 1023536
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+443.2.1 = {
+	holder = 1023606
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+444.2.1 = {
+	holder = 1023680
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+445.2.1 = {
+	holder = 1023739
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+446.2.1 = {
+	holder = 1023807
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+447.2.1 = {
+	holder = 1023890
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+448.2.1 = {
+	holder = 1023959
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+449.2.1 = {
+	holder = 1024027
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+450.2.1 = {
+	holder = 1024098
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+451.2.1 = {
+	holder = 1024182
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+452.2.1 = {
+	holder = 1024266
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+453.2.1 = {
+	holder = 1024360
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+454.2.1 = {
+	holder = 1024432
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+455.2.1 = {
+	holder = 1024517
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+456.2.1 = {
+	holder = 1024590
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+456.2.2 = {
+	holder = 1024592
+}
+
+457.2.1 = {
+	holder = 1024661
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+458.2.1 = {
+	holder = 1024740
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+459.2.1 = {
+	holder = 1024812
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+460.2.1 = {
+	holder = 1024875
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+460.2.2 = {
+	holder = 1024877
+}
+
+461.2.1 = {
+	holder = 1024949
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+462.2.1 = {
+	holder = 1025013
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+463.2.1 = {
+	holder = 1025083
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+464.2.1 = {
+	holder = 1025135
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+465.2.1 = {
+	holder = 1025199
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+466.2.1 = {
+	holder = 1025295
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+467.2.1 = {
+	holder = 1025367
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+468.2.1 = {
+	holder = 1025428
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+469.2.1 = {
+	holder = 1025496
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+470.2.1 = {
+	holder = 1025559
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+471.2.1 = {
+	holder = 1025629
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+472.2.1 = {
+	holder = 1025706
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+473.2.1 = {
+	holder = 1025773
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+473.2.2 = {
+	holder = 1025775
+}
+
+474.2.1 = {
+	holder = 1025845
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+475.2.1 = {
+	holder = 1025908
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+476.2.1 = {
+	holder = 1025978
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+477.2.1 = {
+	holder = 1026039
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+478.2.1 = {
+	holder = 1026103
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+479.2.1 = {
+	holder = 1026170
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+480.2.1 = {
+	holder = 1026237
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+481.2.1 = {
+	holder = 1026319
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+482.2.1 = {
+	holder = 1026394
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+483.2.1 = {
+	holder = 1026457
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+484.2.1 = {
+	holder = 1026521
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+485.2.1 = {
+	holder = 1026625
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+486.2.1 = {
+	holder = 1026699
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+487.2.1 = {
+	holder = 1026754
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+488.2.1 = {
+	holder = 1026807
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+489.2.1 = {
+	holder = 1026873
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+490.2.1 = {
+	holder = 1026961
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+491.2.1 = {
+	holder = 1027021
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+492.2.1 = {
+	holder = 1027090
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+493.2.1 = {
+	holder = 1027156
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+494.2.1 = {
+	holder = 1027213
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+495.2.1 = {
+	holder = 1027270
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+495.2.2 = {
+	holder = 1027272
+}
+
+496.2.1 = {
+	holder = 1027334
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+497.2.1 = {
+	holder = 1027387
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+498.2.1 = {
+	holder = 1027447
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+499.2.1 = {
+	holder = 1027510
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+500.2.1 = {
+	holder = 1027588
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+501.2.1 = {
+	holder = 1027929
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+501.2.2 = {
+	holder = 1027931
+}
+
+502.2.1 = {
+	holder = 1028008
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+503.2.1 = {
+	holder = 1028073
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+504.2.1 = {
+	holder = 1028141
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+505.2.1 = {
+	holder = 1028222
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+506.2.1 = {
+	holder = 1028298
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+507.2.1 = {
+	holder = 1028369
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+508.2.1 = {
+	holder = 1028465
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+509.2.1 = {
+	holder = 1028532
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+510.2.1 = {
+	holder = 1028609
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+511.2.1 = {
+	holder = 1028688
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+512.2.1 = {
+	holder = 1028750
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+512.2.2 = {
+	holder = 1028752
+}
+
+513.2.1 = {
+	holder = 1028814
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+514.2.1 = {
+	holder = 1028870
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+515.2.1 = {
+	holder = 1028952
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+516.2.1 = {
+	holder = 1029003
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+517.2.1 = {
+	holder = 1029073
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+518.2.1 = {
+	holder = 1029176
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+519.2.1 = {
+	holder = 1029243
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+520.2.1 = {
+	holder = 1029320
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+521.2.1 = {
+	holder = 1029375
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+522.2.1 = {
+	holder = 1029435
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+523.2.1 = {
+	holder = 1029508
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+524.2.1 = {
+	holder = 1029559
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+525.2.1 = {
+	holder = 1029621
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+526.2.1 = {
+	holder = 1029674
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+527.2.1 = {
+	holder = 1029755
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+528.2.1 = {
+	holder = 1029831
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+529.2.1 = {
+	holder = 1029886
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+530.2.1 = {
+	holder = 1029948
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+531.2.1 = {
+	holder = 1030004
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+532.2.1 = {
+	holder = 1030058
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+533.2.1 = {
+	holder = 1030117
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+534.2.1 = {
+	holder = 1030177
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+535.2.1 = {
+	holder = 1030236
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+536.2.1 = {
+	holder = 1030299
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+537.2.1 = {
+	holder = 1030360
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+538.2.1 = {
+	holder = 1030422
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+539.2.1 = {
+	holder = 1030482
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+540.2.1 = {
+	holder = 1030534
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+541.2.1 = {
+	holder = 1030589
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+542.2.1 = {
+	holder = 1030640
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+543.2.1 = {
+	holder = 1030723
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+544.2.1 = {
+	holder = 1030803
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+545.2.1 = {
+	holder = 1030857
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+546.2.1 = {
+	holder = 1030947
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+547.2.1 = {
+	holder = 1031036
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+548.2.1 = {
+	holder = 1031093
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+549.2.1 = {
+	holder = 1031151
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+550.2.1 = {
+	holder = 1031212
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+551.2.1 = {
+	holder = 1031286
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+552.2.1 = {
+	holder = 1031359
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+553.2.1 = {
+	holder = 1031427
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+554.2.1 = {
+	holder = 1031495
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+555.2.1 = {
+	holder = 1031564
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+556.2.1 = {
+	holder = 1031625
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+557.2.1 = {
+	holder = 1031685
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+558.2.1 = {
+	holder = 1031740
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+559.2.1 = {
+	holder = 1031803
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+560.2.1 = {
+	holder = 1031885
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+561.2.1 = {
+	holder = 1031949
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+562.2.1 = {
+	holder = 1032001
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+563.2.1 = {
+	holder = 1032076
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+564.2.1 = {
+	holder = 1032152
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+565.2.1 = {
+	holder = 1032227
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+565.2.2 = {
+	holder = 1032230
+}
+
+566.2.1 = {
+	holder = 1032303
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+567.2.1 = {
+	holder = 1032356
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+568.2.1 = {
+	holder = 1032424
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+569.2.1 = {
+	holder = 1032485
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+570.2.1 = {
+	holder = 1032553
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+570.2.2 = {
+	holder = 1032555
+}
+
+571.2.1 = {
+	holder = 1032626
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+572.2.1 = {
+	holder = 1032701
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+573.2.1 = {
+	holder = 1032773
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+574.2.1 = {
+	holder = 1032839
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+575.2.1 = {
+	holder = 1032891
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+576.2.1 = {
+	holder = 1032968
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+577.2.1 = {
+	holder = 1033032
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+578.2.1 = {
+	holder = 1033085
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+579.2.1 = {
+	holder = 1033146
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+580.2.1 = {
+	holder = 1033200
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+581.2.1 = {
+	holder = 1033252
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+582.2.1 = {
+	holder = 1033315
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+583.2.1 = {
+	holder = 1033382
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+584.2.1 = {
+	holder = 1033453
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+585.2.1 = {
+	holder = 1033503
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+586.2.1 = {
+	holder = 1033565
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+587.2.1 = {
+	holder = 1033624
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+588.2.1 = {
+	holder = 1033687
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+589.2.1 = {
+	holder = 1033734
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+590.2.1 = {
+	holder = 1033798
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+591.2.1 = {
+	holder = 1033862
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+592.2.1 = {
+	holder = 1033927
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+593.2.1 = {
+	holder = 1033972
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+593.2.2 = {
+	holder = 1033974
+}
+
+594.2.1 = {
+	holder = 1034027
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+595.2.1 = {
+	holder = 1034099
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+596.2.1 = {
+	holder = 1034154
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+597.2.1 = {
+	holder = 1034206
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+598.2.1 = {
+	holder = 1034261
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+599.2.1 = {
+	holder = 1034319
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+600.2.1 = {
+	holder = 1034412
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+601.2.1 = {
+	holder = 1034779
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+602.2.1 = {
+	holder = 1034860
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+603.2.1 = {
+	holder = 1034954
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+604.2.1 = {
+	holder = 1035027
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+605.2.1 = {
+	holder = 1035094
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+606.2.1 = {
+	holder = 1035152
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+607.2.1 = {
+	holder = 1035212
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+608.2.1 = {
+	holder = 1035260
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+609.2.1 = {
+	holder = 1035317
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+610.2.1 = {
+	holder = 1035375
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+611.2.1 = {
+	holder = 1035437
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+612.2.1 = {
+	holder = 1035498
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+613.2.1 = {
+	holder = 1035547
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+614.2.1 = {
+	holder = 1035607
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+614.2.2 = {
+	holder = 1035609
+}
+
+615.2.1 = {
+	holder = 1035665
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+616.2.1 = {
+	holder = 1035724
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+617.2.1 = {
+	holder = 1035776
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+618.2.1 = {
+	holder = 1035840
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+619.2.1 = {
+	holder = 1035892
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+620.2.1 = {
+	holder = 1035952
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+621.2.1 = {
+	holder = 1036022
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+622.2.1 = {
+	holder = 1036078
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+623.2.1 = {
+	holder = 1036132
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+624.2.1 = {
+	holder = 1036205
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+625.2.1 = {
+	holder = 1036276
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+626.2.1 = {
+	holder = 1036331
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+627.2.1 = {
+	holder = 1036384
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+628.2.1 = {
+	holder = 1036438
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+629.2.1 = {
+	holder = 1036506
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+630.2.1 = {
+	holder = 1036585
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+631.2.1 = {
+	holder = 1036664
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+632.2.1 = {
+	holder = 1036724
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+633.2.1 = {
+	holder = 1036788
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+634.2.1 = {
+	holder = 1036842
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+635.2.1 = {
+	holder = 1036897
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+636.2.1 = {
+	holder = 1036964
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+637.2.1 = {
+	holder = 1037020
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+638.2.1 = {
+	holder = 1037083
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+639.2.1 = {
+	holder = 1037134
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+640.2.1 = {
+	holder = 1037187
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+641.2.1 = {
+	holder = 1037245
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+642.2.1 = {
+	holder = 1037317
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+643.2.1 = {
+	holder = 1037372
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+644.2.1 = {
+	holder = 1037431
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+645.2.1 = {
+	holder = 1037484
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+646.2.1 = {
+	holder = 1037540
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+647.2.1 = {
+	holder = 1037591
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+648.2.1 = {
+	holder = 1037651
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+649.2.1 = {
+	holder = 1037715
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+650.2.1 = {
+	holder = 1037772
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+651.2.1 = {
+	holder = 1037831
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+652.2.1 = {
+	holder = 1037888
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+653.2.1 = {
+	holder = 1037952
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+654.2.1 = {
+	holder = 1038006
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+655.2.1 = {
+	holder = 1038067
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+656.2.1 = {
+	holder = 1038116
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+657.2.1 = {
+	holder = 1038170
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+658.2.1 = {
+	holder = 1038240
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+659.2.1 = {
+	holder = 1038300
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+659.2.2 = {
+	holder = 1038302
+}
+
+660.2.1 = {
+	holder = 1038346
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+661.2.1 = {
+	holder = 1038397
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+662.2.1 = {
+	holder = 1038444
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+663.2.1 = {
+	holder = 1038498
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+664.2.1 = {
+	holder = 1038551
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+665.2.1 = {
+	holder = 1038616
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+666.2.1 = {
+	holder = 1038679
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+667.2.1 = {
+	holder = 1038748
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+668.2.1 = {
+	holder = 1038798
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+669.2.1 = {
+	holder = 1038855
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+670.2.1 = {
+	holder = 1038924
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+671.2.1 = {
+	holder = 1038988
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+672.2.1 = {
+	holder = 1039043
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+673.2.1 = {
+	holder = 1039106
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+674.2.1 = {
+	holder = 1039175
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+675.2.1 = {
+	holder = 1039227
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+676.2.1 = {
+	holder = 1039280
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+677.2.1 = {
+	holder = 1039331
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+678.2.1 = {
+	holder = 1039374
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+679.2.1 = {
+	holder = 1039440
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+680.2.1 = {
+	holder = 1039491
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+681.2.1 = {
+	holder = 1039546
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+682.2.1 = {
+	holder = 1039611
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+683.2.1 = {
+	holder = 1039673
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+684.2.1 = {
+	holder = 1039726
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+685.2.1 = {
+	holder = 1039786
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+686.2.1 = {
+	holder = 1039836
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+687.2.1 = {
+	holder = 1039892
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+688.2.1 = {
+	holder = 1039970
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+689.2.1 = {
+	holder = 1040018
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+690.2.1 = {
+	holder = 1040079
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+691.2.1 = {
+	holder = 1040125
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+692.2.1 = {
+	holder = 1040175
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+693.2.1 = {
+	holder = 1040227
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+694.2.1 = {
+	holder = 1040321
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+695.2.1 = {
+	holder = 1040394
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+696.2.1 = {
+	holder = 1040447
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+697.2.1 = {
+	holder = 1040510
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+698.2.1 = {
+	holder = 1040563
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+698.2.2 = {
+	holder = 1040566
+}
+
+699.2.1 = {
+	holder = 1040626
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+

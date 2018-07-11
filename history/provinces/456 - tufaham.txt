@@ -1,0 +1,9 @@
+	title = c_tufaham
+	max_settlements = 2
+	culture = qibemas
+	religion = abonyi
+	b_epekigid = tribal
+245.4.1 = {
+	culture = batanes
+}
+

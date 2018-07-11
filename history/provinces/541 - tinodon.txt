@@ -1,0 +1,21 @@
+	title = c_tinodon
+	max_settlements = 2
+	culture = batanes
+	religion = rerech
+	b_ridoba = tribal
+204.3.1 = {
+	religion = abonyi
+}
+
+224.3.1 = {
+	religion = rerech
+}
+
+468.3.1 = {
+	religion = emonurga
+}
+
+572.3.1 = {
+	religion = rerech
+}
+

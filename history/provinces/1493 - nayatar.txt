@@ -1,0 +1,17 @@
+	title = c_nayatar
+	max_settlements = 5
+	culture = linian
+	religion = rni
+	b_wakin = tribal
+443.3.1 = {
+	religion = emonurga
+}
+
+600.3.1 = {
+	religion = rni
+}
+
+603.3.1 = {
+	religion = emonurga
+}
+

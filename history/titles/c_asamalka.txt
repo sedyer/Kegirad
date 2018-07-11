@@ -1,0 +1,470 @@
+200.2.1 = {
+	liege = d_lorel
+}
+
+200.2.2 = {
+	liege = d_lorel
+}
+
+200.2.3 = {
+	holder = 1001720
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+200.2.4 = {
+	liege = d_lorel
+}
+
+200.2.5 = {
+	liege = k_ekoses
+}
+
+201.2.1 = {
+	liege = d_lorel
+}
+
+201.2.2 = {
+	liege = k_ekoses
+}
+
+202.2.1 = {
+	liege = d_lorel
+}
+
+202.2.2 = {
+	liege = k_ekoses
+}
+
+203.2.1 = {
+	liege = d_lorel
+}
+
+203.2.2 = {
+	liege = k_ekoses
+}
+
+204.2.1 = {
+	liege = d_lorel
+}
+
+204.2.2 = {
+	liege = k_ekoses
+}
+
+205.2.1 = {
+	liege = d_lorel
+}
+
+205.2.2 = {
+	liege = k_ekoses
+}
+
+206.2.1 = {
+	liege = d_lorel
+}
+
+206.2.2 = {
+	liege = k_ekoses
+}
+
+207.2.1 = {
+	liege = d_lorel
+}
+
+207.2.2 = {
+	liege = k_ekoses
+}
+
+208.2.1 = {
+	liege = d_lorel
+}
+
+208.2.2 = {
+	liege = k_ekoses
+}
+
+209.2.1 = {
+	liege = d_lorel
+}
+
+209.2.2 = {
+	liege = k_ekoses
+}
+
+210.2.1 = {
+	liege = d_lorel
+}
+
+210.2.2 = {
+	liege = k_ekoses
+}
+
+211.2.1 = {
+	liege = d_lorel
+}
+
+211.2.2 = {
+	liege = k_ekoses
+}
+
+212.2.1 = {
+	liege = d_lorel
+}
+
+212.2.2 = {
+	liege = k_ekoses
+}
+
+213.2.1 = {
+	liege = d_lorel
+}
+
+213.2.2 = {
+	liege = k_ekoses
+}
+
+214.2.1 = {
+	liege = d_lorel
+}
+
+214.2.2 = {
+	liege = k_ekoses
+}
+
+215.2.1 = {
+	liege = d_lorel
+}
+
+215.2.2 = {
+	liege = k_ekoses
+}
+
+216.2.1 = {
+	liege = d_lorel
+}
+
+216.2.2 = {
+	liege = k_ekoses
+}
+
+217.2.1 = {
+	liege = d_lorel
+}
+
+217.2.2 = {
+	liege = k_ekoses
+}
+
+218.2.1 = {
+	liege = d_lorel
+}
+
+218.2.2 = {
+	liege = k_ekoses
+}
+
+219.2.1 = {
+	liege = d_lorel
+}
+
+219.2.2 = {
+	liege = k_ekoses
+}
+
+220.2.1 = {
+	liege = d_lorel
+}
+
+220.2.2 = {
+	liege = k_ekoses
+}
+
+221.2.1 = {
+	liege = d_lorel
+}
+
+221.2.2 = {
+	liege = k_ekoses
+}
+
+222.2.1 = {
+	liege = d_lorel
+}
+
+222.2.2 = {
+	liege = k_ekoses
+}
+
+223.2.1 = {
+	liege = d_lorel
+}
+
+223.2.2 = {
+	liege = k_ekoses
+}
+
+224.2.1 = {
+	liege = d_lorel
+}
+
+224.2.2 = {
+	liege = k_ekoses
+}
+
+225.2.1 = {
+	liege = d_lorel
+}
+
+225.2.2 = {
+	liege = k_ekoses
+}
+
+226.2.1 = {
+	liege = d_lorel
+}
+
+226.2.2 = {
+	liege = k_ekoses
+}
+
+227.2.1 = {
+	liege = d_lorel
+}
+
+227.2.2 = {
+	liege = k_ekoses
+}
+
+228.2.1 = {
+	liege = d_lorel
+}
+
+228.2.2 = {
+	liege = k_ekoses
+}
+
+229.2.1 = {
+	liege = d_lorel
+}
+
+229.2.2 = {
+	liege = k_ekoses
+}
+
+230.2.1 = {
+	liege = d_lorel
+}
+
+230.2.2 = {
+	liege = k_ekoses
+}
+
+231.2.1 = {
+	liege = d_lorel
+}
+
+231.2.2 = {
+	liege = k_ekoses
+}
+
+232.2.1 = {
+	liege = d_lorel
+}
+
+232.2.2 = {
+	liege = k_ekoses
+}
+
+233.2.1 = {
+	liege = d_lhukea
+}
+
+233.2.2 = {
+	liege = k_ekoses
+}
+
+234.2.1 = {
+	liege = d_lhukea
+}
+
+234.2.2 = {
+	liege = k_ekoses
+}
+
+235.2.1 = {
+	liege = d_lhukea
+}
+
+235.2.2 = {
+	liege = k_ekoses
+}
+
+236.2.1 = {
+	liege = d_lhukea
+}
+
+236.2.2 = {
+	liege = k_ekoses
+}
+
+237.2.1 = {
+	liege = d_lhukea
+}
+
+237.2.2 = {
+	liege = k_ekoses
+}
+
+238.2.1 = {
+	liege = d_lhukea
+}
+
+238.2.2 = {
+	liege = k_ekoses
+}
+
+239.2.1 = {
+	liege = d_lhukea
+}
+
+239.2.2 = {
+	liege = k_ekoses
+}
+
+240.2.1 = {
+	liege = d_lhukea
+}
+
+240.2.2 = {
+	liege = k_ekoses
+}
+
+241.2.1 = {
+	liege = d_lhukea
+}
+
+241.2.2 = {
+	liege = k_ekoses
+}
+
+242.2.1 = {
+	liege = d_lhukea
+}
+
+242.2.2 = {
+	liege = k_ekoses
+}
+
+243.2.1 = {
+	liege = d_lhukea
+}
+
+243.2.2 = {
+	liege = k_ekoses
+}
+
+244.2.1 = {
+	liege = d_lhukea
+}
+
+244.2.2 = {
+	liege = k_ekoses
+}
+
+245.2.1 = {
+	liege = d_lhukea
+}
+
+245.2.2 = {
+	liege = k_ekoses
+}
+
+246.2.1 = {
+	liege = d_lhukea
+}
+
+246.2.2 = {
+	liege = k_ekoses
+}
+
+247.2.1 = {
+	liege = d_thuken
+}
+
+247.2.2 = {
+	liege = k_ekoses
+}
+
+248.2.1 = {
+	holder = 1007723
+}
+
+248.2.2 = {
+	liege = k_ekoses
+}
+
+248.2.3 = {
+	holder = 1003419
+}
+
+255.2.1 = {
+	liege = 0
+}
+
+255.2.2 = {
+	holder = 1007749
+}
+
+264.2.1 = {
+	holder = 1006408
+}
+
+274.2.1 = {
+	holder = 1007356
+}
+
+327.2.1 = {
+	holder = 1010274
+}
+
+337.2.1 = {
+	holder = 1015420
+}
+
+351.2.1 = {
+	holder = 1015819
+}
+
+375.2.1 = {
+	holder = 1017090
+}
+
+407.2.1 = {
+	holder = 1018747
+}
+
+419.2.1 = {
+	holder = 1021894
+}
+
+420.2.1 = {
+	holder = 1016611
+}
+
+421.2.1 = {
+	holder = 1022037
+}
+
+421.2.2 = {
+	liege = k_ekoses
+}
+
+600.2.1 = {
+	holder = 1028729
+}
+
+600.2.2 = {
+	holder = 1032755
+}
+

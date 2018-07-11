@@ -1,0 +1,17 @@
+	title = c_tatagno
+	max_settlements = 2
+	culture = wobagik
+	religion = rerech
+	b_atacoba = tribal
+202.3.1 = {
+	religion = ninala
+}
+
+435.3.1 = {
+	religion = rerech
+}
+
+631.3.1 = {
+	religion = tluku
+}
+

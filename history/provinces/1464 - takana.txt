@@ -1,0 +1,9 @@
+	title = c_takana
+	max_settlements = 7
+	culture = negeth
+	religion = emonurga
+	b_dakin = tribal
+480.3.1 = {
+	religion = takice
+}
+

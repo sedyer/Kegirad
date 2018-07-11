@@ -1,0 +1,9 @@
+	title = c_denusa
+	max_settlements = 2
+	culture = kasius
+	religion = rni
+	b_kalusa = tribal
+433.4.1 = {
+	culture = wenius
+}
+

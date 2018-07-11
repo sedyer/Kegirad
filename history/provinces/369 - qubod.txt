@@ -1,0 +1,9 @@
+	title = c_qubod
+	max_settlements = 2
+	culture = edanyi
+	religion = rerech
+	b_diudega = tribal
+395.3.1 = {
+	religion = echukas
+}
+

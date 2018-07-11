@@ -1,0 +1,5 @@
+	title = c_kulas
+	max_settlements = 2
+	culture = taaloin
+	religion = lavukas
+	b_tlare = tribal

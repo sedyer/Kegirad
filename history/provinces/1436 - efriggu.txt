@@ -1,0 +1,9 @@
+	title = c_efriggu
+	max_settlements = 2
+	culture = brirat
+	religion = egrirat
+	b_evile = tribal
+489.3.1 = {
+	religion = rgance
+}
+

@@ -1,0 +1,45 @@
+	title = c_ricuald
+	max_settlements = 2
+	culture = nemojan
+	religion = ticojan
+	b_sinilof = tribal
+238.3.1 = {
+	religion = ricily
+}
+
+246.3.1 = {
+	religion = ticojan
+}
+
+253.3.1 = {
+	religion = ricily
+}
+
+254.3.1 = {
+	religion = ticojan
+}
+
+254.3.1 = {
+	religion = ricily
+}
+
+263.3.1 = {
+	religion = ticojan
+}
+
+265.3.1 = {
+	religion = ricily
+}
+
+270.3.1 = {
+	religion = ticojan
+}
+
+275.3.1 = {
+	religion = ricily
+}
+
+472.4.1 = {
+	culture = elada
+}
+

@@ -1,0 +1,5 @@
+	title = c_rulazal
+	max_settlements = 2
+	culture = ricepan
+	religion = ticojan
+	b_ekanunn = tribal

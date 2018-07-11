@@ -1,0 +1,33 @@
+	title = c_kinaria
+	max_settlements = 2
+	culture = edanyi
+	religion = rerech
+	b_dgine = tribal
+291.3.1 = {
+	religion = echukas
+}
+
+292.3.1 = {
+	religion = rerech
+}
+
+298.3.1 = {
+	religion = echukas
+}
+
+302.3.1 = {
+	religion = rerech
+}
+
+323.3.1 = {
+	religion = echukas
+}
+
+331.3.1 = {
+	religion = rerech
+}
+
+351.3.1 = {
+	religion = echukas
+}
+

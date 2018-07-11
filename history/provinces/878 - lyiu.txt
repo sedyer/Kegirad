@@ -1,0 +1,9 @@
+	title = c_lyiu
+	max_settlements = 7
+	culture = krance
+	religion = egrirat
+	b_nrick = tribal
+206.3.1 = {
+	religion = rgance
+}
+

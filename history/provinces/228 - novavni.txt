@@ -1,0 +1,9 @@
+	title = c_novavni
+	max_settlements = 2
+	culture = rerega
+	religion = wering
+	b_bima = tribal
+288.3.1 = {
+	religion = rerech
+}
+

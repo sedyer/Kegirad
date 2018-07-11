@@ -1,0 +1,17 @@
+	title = c_llert
+	max_settlements = 2
+	culture = kilik
+	religion = agamel
+	b_ralacob = tribal
+204.3.1 = {
+	religion = tedusa
+}
+
+205.3.1 = {
+	religion = agamel
+}
+
+208.3.1 = {
+	religion = tedusa
+}
+

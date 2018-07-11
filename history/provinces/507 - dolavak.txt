@@ -1,0 +1,13 @@
+	title = c_dolavak
+	max_settlements = 2
+	culture = robas
+	religion = abonyi
+	b_wolene = tribal
+253.3.1 = {
+	religion = ninala
+}
+
+464.4.1 = {
+	culture = sitilje
+}
+

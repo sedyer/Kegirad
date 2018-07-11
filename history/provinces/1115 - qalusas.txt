@@ -1,0 +1,5 @@
+	title = c_qalusas
+	max_settlements = 4
+	culture = balilof
+	religion = rni
+	b_kilenet = tribal

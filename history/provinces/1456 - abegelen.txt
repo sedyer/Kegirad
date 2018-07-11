@@ -1,0 +1,41 @@
+	title = c_abegelen
+	max_settlements = 7
+	culture = kegirad
+	religion = bukena
+	b_neteth = tribal
+218.4.1 = {
+	culture = rresa
+}
+
+241.3.1 = {
+	religion = emonurga
+}
+
+251.3.1 = {
+	religion = bukena
+}
+
+265.3.1 = {
+	religion = emonurga
+}
+
+331.3.1 = {
+	religion = bukena
+}
+
+397.4.1 = {
+	culture = kegirad
+}
+
+451.3.1 = {
+	religion = emonurga
+}
+
+474.4.1 = {
+	culture = rresa
+}
+
+589.4.1 = {
+	culture = kegirad
+}
+

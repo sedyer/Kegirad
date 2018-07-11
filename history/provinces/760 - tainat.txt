@@ -1,0 +1,5 @@
+	title = c_tainat
+	max_settlements = 2
+	culture = eiremar
+	religion = kmemar
+	b_aplagno = tribal

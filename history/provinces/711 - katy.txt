@@ -1,0 +1,17 @@
+	title = c_katy
+	max_settlements = 3
+	culture = bodoba
+	religion = wsosro
+	b_tety = tribal
+228.3.1 = {
+	religion = rerech
+}
+
+298.3.1 = {
+	religion = wsosro
+}
+
+329.4.1 = {
+	culture = lorius
+}
+

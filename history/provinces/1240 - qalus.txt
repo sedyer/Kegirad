@@ -1,0 +1,13 @@
+	title = c_qalus
+	max_settlements = 2
+	culture = tuprind
+	religion = ricily
+	b_asacilof = tribal
+361.4.1 = {
+	culture = scachi
+}
+
+403.4.1 = {
+	culture = tuprind
+}
+

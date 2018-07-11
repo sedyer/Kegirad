@@ -1,0 +1,33 @@
+	title = c_rolian
+	max_settlements = 5
+	culture = linian
+	religion = ricily
+	b_axinai = tribal
+204.3.1 = {
+	religion = rni
+}
+
+497.3.1 = {
+	religion = emonurga
+}
+
+592.3.1 = {
+	religion = rni
+}
+
+598.3.1 = {
+	religion = emonurga
+}
+
+625.3.1 = {
+	religion = rni
+}
+
+627.3.1 = {
+	religion = emonurga
+}
+
+649.3.1 = {
+	religion = rni
+}
+

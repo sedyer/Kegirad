@@ -1,0 +1,29 @@
+	title = c_bonemia
+	max_settlements = 2
+	culture = dziga
+	religion = abonyi
+	b_kahadav = tribal
+200.3.1 = {
+	religion = kereze
+}
+
+207.3.1 = {
+	religion = wering
+}
+
+238.3.1 = {
+	religion = kereze
+}
+
+245.3.1 = {
+	religion = wering
+}
+
+255.3.1 = {
+	religion = kereze
+}
+
+296.3.1 = {
+	religion = wering
+}
+

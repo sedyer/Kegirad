@@ -1,0 +1,98 @@
+200.2.1 = {
+	holder = 1000017
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1001078
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_renirun
+}
+
+200.2.4 = {
+	holder = 1001077
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+208.2.1 = {
+	holder = 1003341
+}
+
+210.2.1 = {
+	holder = 1001081
+}
+
+214.2.1 = {
+	holder = 1004564
+}
+
+290.2.1 = {
+	holder = 1011496
+}
+
+295.2.1 = {
+	holder = 1011805
+}
+
+319.2.1 = {
+	liege = d_qaliyar
+}
+
+319.2.2 = {
+	holder = 1013337
+}
+
+319.2.3 = {
+	liege = d_renirun
+}
+
+336.2.1 = {
+	holder = 1012835
+}
+
+338.2.1 = {
+	holder = 1012347
+}
+
+338.2.2 = {
+	holder = 1015484
+}
+
+362.2.1 = {
+	holder = 1015773
+}
+
+413.2.1 = {
+	holder = 1017707
+}
+
+422.2.1 = {
+	holder = 1022006
+}
+
+436.2.1 = {
+	holder = 1020375
+}
+
+436.2.2 = {
+	holder = 1023137
+}
+
+600.2.1 = {
+	holder = 1033365
+}
+
+602.2.1 = {
+	holder = 1034919
+}
+
+700.2.1 = {
+	holder = 1038282
+}
+

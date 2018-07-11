@@ -1,0 +1,13 @@
+	title = c_lovazal
+	max_settlements = 2
+	culture = wubutr
+	religion = wering
+	b_arahavni = tribal
+328.3.1 = {
+	religion = rerech
+}
+
+544.4.1 = {
+	culture = rerega
+}
+

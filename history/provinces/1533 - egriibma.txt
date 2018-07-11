@@ -1,0 +1,17 @@
+	title = c_egriibma
+	max_settlements = 2
+	culture = drebe
+	religion = tluku
+	b_loulka = tribal
+260.3.1 = {
+	religion = ninala
+}
+
+308.3.1 = {
+	religion = tluku
+}
+
+436.4.1 = {
+	culture = qlunai
+}
+

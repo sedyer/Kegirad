@@ -1,0 +1,29 @@
+	title = c_tamiga
+	max_settlements = 2
+	culture = ejoanel
+	religion = emonurga
+	b_niracob = tribal
+213.3.1 = {
+	religion = echukas
+}
+
+251.3.1 = {
+	religion = emonurga
+}
+
+262.3.1 = {
+	religion = echukas
+}
+
+268.3.1 = {
+	religion = emonurga
+}
+
+271.3.1 = {
+	religion = echukas
+}
+
+614.4.1 = {
+	culture = safha
+}
+

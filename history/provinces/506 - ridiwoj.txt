@@ -1,0 +1,13 @@
+	title = c_ridiwoj
+	max_settlements = 2
+	culture = robas
+	religion = abonyi
+	b_tacevi = tribal
+257.3.1 = {
+	religion = ninala
+}
+
+393.4.1 = {
+	culture = sitilje
+}
+

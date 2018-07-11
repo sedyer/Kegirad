@@ -1,0 +1,9 @@
+	title = c_ticama
+	max_settlements = 2
+	culture = ranjada
+	religion = ticojan
+	b_tidada = tribal
+538.4.1 = {
+	culture = balilof
+}
+

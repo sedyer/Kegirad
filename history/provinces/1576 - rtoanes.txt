@@ -1,0 +1,5 @@
+	title = c_rtoanes
+	max_settlements = 2
+	culture = tlacik
+	religion = tedusa
+	b_kisan = tribal

@@ -1,0 +1,29 @@
+	title = c_ranela
+	max_settlements = 4
+	culture = qsuthe
+	religion = rerech
+	b_nanuthe = tribal
+205.3.1 = {
+	religion = emonurga
+}
+
+252.3.1 = {
+	religion = rerech
+}
+
+265.3.1 = {
+	religion = emonurga
+}
+
+277.3.1 = {
+	religion = rerech
+}
+
+561.4.1 = {
+	culture = srisre
+}
+
+671.3.1 = {
+	religion = echukas
+}
+

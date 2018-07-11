@@ -1,0 +1,17 @@
+	title = c_agovari
+	max_settlements = 2
+	culture = wubutr
+	religion = echukas
+	b_dugiyya = tribal
+226.3.1 = {
+	religion = wozine
+}
+
+239.3.1 = {
+	religion = echukas
+}
+
+239.3.1 = {
+	religion = wozine
+}
+

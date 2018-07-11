@@ -1,0 +1,9 @@
+	title = c_nupre
+	max_settlements = 3
+	culture = kuogoi
+	religion = ricily
+	b_tlian = tribal
+258.4.1 = {
+	culture = batna
+}
+

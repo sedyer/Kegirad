@@ -1,0 +1,9 @@
+	title = c_qavesha
+	max_settlements = 2
+	culture = brirat
+	religion = egrirat
+	b_byace = tribal
+484.3.1 = {
+	religion = tluku
+}
+

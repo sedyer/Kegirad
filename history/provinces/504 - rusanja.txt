@@ -1,0 +1,9 @@
+	title = c_rusanja
+	max_settlements = 2
+	culture = batanes
+	religion = abonyi
+	b_tmimon = tribal
+668.3.1 = {
+	religion = ninala
+}
+

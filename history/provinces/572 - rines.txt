@@ -1,0 +1,13 @@
+	title = c_rines
+	max_settlements = 2
+	culture = srisre
+	religion = kanyo
+	b_brida = tribal
+331.4.1 = {
+	culture = tujeth
+}
+
+527.4.1 = {
+	culture = rresa
+}
+

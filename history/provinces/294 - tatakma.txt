@@ -1,0 +1,9 @@
+	title = c_tatakma
+	max_settlements = 2
+	culture = bozusa
+	religion = emonurga
+	b_lafada = tribal
+219.3.1 = {
+	religion = agrakma
+}
+

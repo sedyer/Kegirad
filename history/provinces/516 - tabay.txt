@@ -1,0 +1,61 @@
+	title = c_tabay
+	max_settlements = 3
+	culture = robas
+	religion = abonyi
+	b_tdadevi = tribal
+264.3.1 = {
+	religion = rerech
+}
+
+293.3.1 = {
+	religion = abonyi
+}
+
+296.3.1 = {
+	religion = rerech
+}
+
+343.3.1 = {
+	religion = abonyi
+}
+
+343.3.1 = {
+	religion = rerech
+}
+
+348.3.1 = {
+	religion = abonyi
+}
+
+352.3.1 = {
+	religion = rerech
+}
+
+355.3.1 = {
+	religion = abonyi
+}
+
+369.3.1 = {
+	religion = rerech
+}
+
+381.3.1 = {
+	religion = abonyi
+}
+
+385.3.1 = {
+	religion = rerech
+}
+
+386.3.1 = {
+	religion = abonyi
+}
+
+386.3.1 = {
+	religion = rerech
+}
+
+456.4.1 = {
+	culture = batanes
+}
+

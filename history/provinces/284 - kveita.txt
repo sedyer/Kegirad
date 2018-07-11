@@ -1,0 +1,9 @@
+	title = c_kveita
+	max_settlements = 3
+	culture = bozusa
+	religion = agrakma
+	b_ekotenr = tribal
+535.4.1 = {
+	culture = doumat
+}
+

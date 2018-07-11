@@ -1,0 +1,9 @@
+	title = c_binemis
+	max_settlements = 2
+	culture = balilof
+	religion = ricily
+	b_kicus = tribal
+280.4.1 = {
+	culture = tuprind
+}
+

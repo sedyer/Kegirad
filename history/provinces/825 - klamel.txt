@@ -1,0 +1,5 @@
+	title = c_klamel
+	max_settlements = 2
+	culture = tance
+	religion = rgance
+	b_esanti = tribal

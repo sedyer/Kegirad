@@ -1,0 +1,9 @@
+	title = c_lyalner
+	max_settlements = 2
+	culture = woumner
+	religion = wozine
+	b_kaaline = tribal
+247.4.1 = {
+	culture = wubutr
+}
+

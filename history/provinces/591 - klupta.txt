@@ -1,0 +1,5 @@
+	title = c_klupta
+	max_settlements = 7
+	culture = tujeth
+	religion = kanyo
+	b_sacha = tribal

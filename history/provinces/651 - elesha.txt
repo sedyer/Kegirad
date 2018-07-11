@@ -1,0 +1,13 @@
+	title = c_elesha
+	max_settlements = 3
+	culture = kliz
+	religion = tluku
+	b_ruoksa = tribal
+325.3.1 = {
+	religion = wsosro
+}
+
+365.3.1 = {
+	religion = tluku
+}
+

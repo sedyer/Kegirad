@@ -1,0 +1,9 @@
+	title = c_talada
+	max_settlements = 2
+	culture = lorius
+	religion = wsosro
+	b_lragik = tribal
+527.4.1 = {
+	culture = adietech
+}
+

@@ -1,0 +1,9 @@
+	title = c_tsasr
+	max_settlements = 7
+	culture = druoksa
+	religion = rgance
+	b_nyiha = tribal
+424.4.1 = {
+	culture = tance
+}
+

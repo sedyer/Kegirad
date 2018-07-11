@@ -1,0 +1,206 @@
+200.2.1 = {
+	holder = 1000020
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1001210
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.3 = {
+	liege = d_enares
+}
+
+200.2.4 = {
+	liege = d_ranya
+}
+
+200.2.5 = {
+	holder = 1001231
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+206.2.1 = {
+	liege = k_kziga
+}
+
+222.2.1 = {
+	liege = d_kicing
+}
+
+222.2.2 = {
+	holder = 1003484
+}
+
+268.2.1 = {
+	holder = 1005795
+}
+
+283.2.1 = {
+	holder = 1009895
+}
+
+291.2.1 = {
+	holder = 1011313
+}
+
+310.2.1 = {
+	holder = 1012754
+}
+
+311.2.1 = {
+	holder = 1010576
+}
+
+312.2.1 = {
+	liege = k_kziga
+}
+
+312.2.2 = {
+	holder = 1008828
+}
+
+312.2.3 = {
+	liege = k_buyinen
+}
+
+312.2.4 = {
+	holder = 1010869
+}
+
+315.2.1 = {
+	liege = d_ehugih
+}
+
+315.2.2 = {
+	holder = 1013361
+}
+
+347.2.1 = {
+	holder = 1016198
+}
+
+347.2.2 = {
+	liege = k_waleth
+}
+
+347.2.3 = {
+	holder = 1014735
+}
+
+354.2.1 = {
+	liege = d_ehugih
+}
+
+354.2.2 = {
+	holder = 1016053
+}
+
+354.2.3 = {
+	liege = k_waleth
+}
+
+359.2.1 = {
+	liege = d_rolein
+}
+
+359.2.2 = {
+	liege = d_ehugih
+}
+
+359.2.3 = {
+	holder = 1014093
+}
+
+359.2.4 = {
+	liege = k_waleth
+}
+
+362.2.1 = {
+	liege = d_ehugih
+}
+
+362.2.2 = {
+	liege = d_rolein
+}
+
+362.2.3 = {
+	holder = 1014633
+}
+
+383.2.1 = {
+	holder = 1016494
+}
+
+400.2.1 = {
+	holder = 1020395
+}
+
+500.2.1 = {
+	holder = 1025059
+}
+
+506.2.1 = {
+	holder = 1026155
+}
+
+530.2.1 = {
+	holder = 1028513
+}
+
+562.2.1 = {
+	holder = 1030219
+}
+
+572.2.1 = {
+	holder = 1032406
+}
+
+589.2.1 = {
+	liege = d_tnuko
+}
+
+589.2.2 = {
+	liege = 0
+}
+
+589.2.3 = {
+	holder = 1033588
+}
+
+600.2.1 = {
+	holder = 1034458
+}
+
+600.2.2 = {
+	liege = d_dukemka
+}
+
+626.2.1 = {
+	holder = 1033588
+}
+
+628.2.1 = {
+	liege = d_rolein
+}
+
+639.2.1 = {
+	holder = 1035045
+}
+
+645.2.1 = {
+	holder = 1037210
+}
+
+651.2.1 = {
+	holder = 1037852
+}
+
+686.2.1 = {
+	holder = 1039571
+}
+

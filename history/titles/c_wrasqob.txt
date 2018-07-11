@@ -1,0 +1,62 @@
+200.2.1 = {
+	holder = 1000045
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1001934
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_ksena
+}
+
+200.2.4 = {
+	holder = 1001932
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+276.2.1 = {
+	holder = 1010269
+}
+
+279.2.1 = {
+	holder = 1005530
+}
+
+281.2.1 = {
+	holder = 1010696
+}
+
+400.2.1 = {
+	holder = 1020199
+}
+
+501.2.1 = {
+	holder = 1027071
+}
+
+501.2.2 = {
+	holder = 1027983
+}
+
+600.2.1 = {
+	holder = 1030401
+}
+
+600.2.2 = {
+	holder = 1034659
+}
+
+700.2.1 = {
+	holder = 1034661
+}
+
+700.2.2 = {
+	holder = 1039707
+}
+

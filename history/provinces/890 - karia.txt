@@ -1,0 +1,33 @@
+	title = c_karia
+	max_settlements = 7
+	culture = kegirad
+	religion = bukena
+	b_kanuko = tribal
+286.3.1 = {
+	religion = kanyo
+}
+
+319.3.1 = {
+	religion = bukena
+}
+
+328.3.1 = {
+	religion = kanyo
+}
+
+344.3.1 = {
+	religion = bukena
+}
+
+466.3.1 = {
+	religion = emonurga
+}
+
+527.3.1 = {
+	religion = kanyo
+}
+
+552.3.1 = {
+	religion = emonurga
+}
+

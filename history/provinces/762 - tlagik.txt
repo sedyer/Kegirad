@@ -1,0 +1,13 @@
+	title = c_tlagik
+	max_settlements = 2
+	culture = eiremar
+	religion = kmemar
+	b_btada = tribal
+252.4.1 = {
+	culture = eliuden
+}
+
+405.4.1 = {
+	culture = eiremar
+}
+

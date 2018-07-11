@@ -1,0 +1,9 @@
+	title = c_tlesha
+	max_settlements = 5
+	culture = drebe
+	religion = nerapur
+	b_rvoss = tribal
+205.3.1 = {
+	religion = tluku
+}
+

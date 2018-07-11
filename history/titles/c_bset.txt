@@ -1,0 +1,76 @@
+200.2.1 = {
+	holder = 1000007
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	liege = d_nalan
+}
+
+200.2.3 = {
+	holder = 1000520
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+252.2.1 = {
+	holder = 1003583
+}
+
+256.2.1 = {
+	holder = 1003515
+}
+
+267.2.1 = {
+	liege = d_nlert
+}
+
+267.2.2 = {
+	holder = 1008032
+}
+
+297.2.1 = {
+	liege = d_qisan
+}
+
+297.2.2 = {
+	holder = 1009625
+}
+
+297.2.3 = {
+	liege = k_navra
+}
+
+300.2.1 = {
+	holder = 1012322
+}
+
+344.2.1 = {
+	holder = 1010494
+}
+
+346.2.1 = {
+	holder = 1016119
+}
+
+500.2.1 = {
+	holder = 1023504
+}
+
+500.2.2 = {
+	holder = 1027715
+}
+
+504.2.1 = {
+	holder = 1028194
+}
+
+509.2.1 = {
+	holder = 1028570
+}
+
+606.2.1 = {
+	holder = 1035165
+}
+

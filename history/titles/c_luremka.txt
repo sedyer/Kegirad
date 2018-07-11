@@ -1,0 +1,386 @@
+200.2.1 = {
+	holder = 1000048
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1001950
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_kiciga
+}
+
+200.2.4 = {
+	holder = 1001949
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+202.2.1 = {
+	holder = 1002145
+}
+
+205.2.1 = {
+	holder = 1001231
+}
+
+222.2.1 = {
+	liege = d_kicing
+}
+
+222.2.2 = {
+	holder = 1003484
+}
+
+268.2.1 = {
+	holder = 1005795
+}
+
+283.2.1 = {
+	holder = 1009895
+}
+
+291.2.1 = {
+	holder = 1011313
+}
+
+310.2.1 = {
+	holder = 1012754
+}
+
+311.2.1 = {
+	holder = 1010576
+}
+
+312.2.1 = {
+	liege = k_kziga
+}
+
+312.2.2 = {
+	holder = 1013437
+}
+
+366.2.1 = {
+	liege = d_qacanes
+}
+
+389.2.1 = {
+	holder = 1019465
+}
+
+396.2.1 = {
+	holder = 1019673
+}
+
+436.2.1 = {
+	holder = 1023113
+}
+
+451.2.1 = {
+	holder = 1021870
+}
+
+457.2.1 = {
+	liege = d_elak
+}
+
+457.2.2 = {
+	holder = 1022119
+}
+
+457.2.3 = {
+	holder = 1021240
+}
+
+600.2.1 = {
+	holder = 1024295
+}
+
+602.2.1 = {
+	holder = 1033366
+}
+
+628.2.1 = {
+	holder = 1033421
+}
+
+645.2.1 = {
+	holder = 1036749
+}
+
+651.2.1 = {
+	holder = 1037618
+}
+
+652.2.1 = {
+	liege = d_ekobaria
+}
+
+652.2.2 = {
+	liege = k_kziga
+}
+
+653.2.1 = {
+	liege = d_ekobaria
+}
+
+653.2.2 = {
+	liege = k_kziga
+}
+
+654.2.1 = {
+	liege = d_ekobaria
+}
+
+654.2.2 = {
+	liege = k_kziga
+}
+
+655.2.1 = {
+	liege = d_ekobaria
+}
+
+655.2.2 = {
+	liege = k_kziga
+}
+
+656.2.1 = {
+	liege = d_ekobaria
+}
+
+656.2.2 = {
+	liege = k_kziga
+}
+
+657.2.1 = {
+	liege = d_ekobaria
+}
+
+657.2.2 = {
+	liege = k_kziga
+}
+
+658.2.1 = {
+	liege = d_ekobaria
+}
+
+658.2.2 = {
+	liege = k_kziga
+}
+
+659.2.1 = {
+	liege = d_ekobaria
+}
+
+659.2.2 = {
+	liege = k_kziga
+}
+
+660.2.1 = {
+	liege = d_elak
+}
+
+660.2.2 = {
+	liege = k_sinahid
+}
+
+660.2.3 = {
+	liege = d_ekobaria
+}
+
+660.2.4 = {
+	liege = k_kziga
+}
+
+661.2.1 = {
+	liege = d_ekobaria
+}
+
+661.2.2 = {
+	liege = k_kziga
+}
+
+662.2.1 = {
+	liege = d_ekobaria
+}
+
+662.2.2 = {
+	liege = k_kziga
+}
+
+663.2.1 = {
+	liege = d_ekobaria
+}
+
+663.2.2 = {
+	liege = k_kziga
+}
+
+664.2.1 = {
+	liege = d_ekobaria
+}
+
+664.2.2 = {
+	liege = k_kziga
+}
+
+665.2.1 = {
+	liege = d_ekobaria
+}
+
+665.2.2 = {
+	liege = k_kziga
+}
+
+666.2.1 = {
+	liege = d_ekobaria
+}
+
+666.2.2 = {
+	liege = k_kziga
+}
+
+667.2.1 = {
+	liege = d_ekobaria
+}
+
+667.2.2 = {
+	liege = k_kziga
+}
+
+668.2.1 = {
+	liege = d_ekobaria
+}
+
+668.2.2 = {
+	liege = k_kziga
+}
+
+669.2.1 = {
+	liege = d_ekobaria
+}
+
+669.2.2 = {
+	liege = k_kziga
+}
+
+670.2.1 = {
+	liege = d_ekobaria
+}
+
+670.2.2 = {
+	liege = k_kziga
+}
+
+671.2.1 = {
+	liege = d_ekobaria
+}
+
+671.2.2 = {
+	liege = k_kziga
+}
+
+672.2.1 = {
+	liege = d_ekobaria
+}
+
+672.2.2 = {
+	liege = k_kziga
+}
+
+673.2.1 = {
+	liege = d_ekobaria
+}
+
+673.2.2 = {
+	liege = k_kziga
+}
+
+674.2.1 = {
+	liege = d_ekobaria
+}
+
+674.2.2 = {
+	liege = k_kziga
+}
+
+675.2.1 = {
+	liege = d_ekobaria
+}
+
+675.2.2 = {
+	liege = k_kziga
+}
+
+676.2.1 = {
+	liege = d_ekobaria
+}
+
+676.2.2 = {
+	liege = k_kziga
+}
+
+677.2.1 = {
+	liege = d_ekobaria
+}
+
+677.2.2 = {
+	liege = k_kziga
+}
+
+678.2.1 = {
+	liege = d_ekobaria
+}
+
+678.2.2 = {
+	liege = k_kziga
+}
+
+679.2.1 = {
+	liege = d_ekobaria
+}
+
+679.2.2 = {
+	liege = k_kziga
+}
+
+680.2.1 = {
+	liege = d_elak
+}
+
+680.2.2 = {
+	liege = k_sinahid
+}
+
+680.2.3 = {
+	liege = d_ekobaria
+}
+
+680.2.4 = {
+	liege = k_kziga
+}
+
+680.2.5 = {
+	liege = 0
+}
+
+680.2.6 = {
+	holder = 1037675
+}
+
+681.2.1 = {
+	holder = 1036458
+}
+
+681.2.2 = {
+	holder = 1039590
+}
+
+681.2.3 = {
+	liege = k_kziga
+}
+

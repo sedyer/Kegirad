@@ -1,0 +1,13 @@
+	title = c_dtoslav
+	max_settlements = 4
+	culture = tujeth
+	religion = kanyo
+	b_torory = tribal
+555.4.1 = {
+	culture = rresa
+}
+
+674.3.1 = {
+	religion = wsosro
+}
+

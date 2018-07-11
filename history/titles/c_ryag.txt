@@ -1,0 +1,52 @@
+200.2.1 = {
+	holder = 1000014
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	liege = d_siraar
+}
+
+200.2.3 = {
+	holder = 1000829
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+242.2.1 = {
+	holder = 1004950
+}
+
+257.2.1 = {
+	holder = 1006801
+}
+
+257.2.2 = {
+	holder = 1008583
+}
+
+400.2.1 = {
+	holder = 1015803
+}
+
+500.2.1 = {
+	holder = 1024567
+}
+
+500.2.2 = {
+	holder = 1027740
+}
+
+600.2.1 = {
+	holder = 1031909
+}
+
+600.2.2 = {
+	holder = 1034584
+}
+
+700.2.1 = {
+	holder = 1039522
+}
+

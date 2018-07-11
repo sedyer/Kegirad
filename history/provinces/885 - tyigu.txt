@@ -1,0 +1,17 @@
+	title = c_tyigu
+	max_settlements = 2
+	culture = krance
+	religion = rriyya
+	b_silu = tribal
+204.3.1 = {
+	religion = egrirat
+}
+
+245.4.1 = {
+	culture = brirat
+}
+
+483.3.1 = {
+	religion = rgance
+}
+

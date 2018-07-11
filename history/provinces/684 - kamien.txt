@@ -1,0 +1,21 @@
+	title = c_kamien
+	max_settlements = 2
+	culture = dobius
+	religion = ninala
+	b_bla = tribal
+247.3.1 = {
+	religion = wsosro
+}
+
+259.4.1 = {
+	culture = lorius
+}
+
+289.3.1 = {
+	religion = rerech
+}
+
+318.3.1 = {
+	religion = wsosro
+}
+

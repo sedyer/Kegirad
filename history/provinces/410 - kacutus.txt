@@ -1,0 +1,9 @@
+	title = c_kacutus
+	max_settlements = 4
+	culture = srisre
+	religion = kanyo
+	b_lacim = tribal
+286.3.1 = {
+	religion = emonurga
+}
+

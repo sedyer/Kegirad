@@ -1,0 +1,33 @@
+	title = c_lrine
+	max_settlements = 7
+	culture = wiragop
+	religion = bukena
+	b_kuradi = tribal
+299.3.1 = {
+	religion = emonurga
+}
+
+334.3.1 = {
+	religion = kanyo
+}
+
+377.3.1 = {
+	religion = bukena
+}
+
+457.3.1 = {
+	religion = emonurga
+}
+
+526.3.1 = {
+	religion = kanyo
+}
+
+542.3.1 = {
+	religion = emonurga
+}
+
+542.4.1 = {
+	culture = kegirad
+}
+

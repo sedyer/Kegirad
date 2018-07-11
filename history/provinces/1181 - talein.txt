@@ -1,0 +1,21 @@
+	title = c_talein
+	max_settlements = 7
+	culture = learah
+	religion = emonurga
+	b_sudilic = tribal
+261.3.1 = {
+	religion = takice
+}
+
+293.3.1 = {
+	religion = emonurga
+}
+
+371.3.1 = {
+	religion = takice
+}
+
+620.3.1 = {
+	religion = kanyo
+}
+

@@ -1,0 +1,17 @@
+	title = c_krahis
+	max_settlements = 4
+	culture = nrimir
+	religion = ricily
+	b_dicega = tribal
+320.3.1 = {
+	religion = ticojan
+}
+
+333.3.1 = {
+	religion = ricily
+}
+
+346.3.1 = {
+	religion = ticojan
+}
+

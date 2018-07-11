@@ -1,0 +1,17 @@
+	title = c_tumur
+	max_settlements = 2
+	culture = alert
+	religion = tedusa
+	b_rulyuk = tribal
+249.3.1 = {
+	religion = agamel
+}
+
+279.4.1 = {
+	culture = wsaka
+}
+
+450.4.1 = {
+	culture = alert
+}
+

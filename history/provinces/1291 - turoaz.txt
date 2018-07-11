@@ -1,0 +1,9 @@
+	title = c_turoaz
+	max_settlements = 2
+	culture = ricepan
+	religion = ticojan
+	b_kavawid = tribal
+204.4.1 = {
+	culture = balilof
+}
+

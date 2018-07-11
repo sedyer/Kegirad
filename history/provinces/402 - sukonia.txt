@@ -1,0 +1,13 @@
+	title = c_sukonia
+	max_settlements = 5
+	culture = rresa
+	religion = bukena
+	b_topia = tribal
+223.3.1 = {
+	religion = kanyo
+}
+
+667.3.1 = {
+	religion = emonurga
+}
+

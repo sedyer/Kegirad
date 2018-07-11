@@ -1,0 +1,17 @@
+	title = c_nalemas
+	max_settlements = 2
+	culture = edanyi
+	religion = rerech
+	b_ralyi = tribal
+233.3.1 = {
+	religion = abonyi
+}
+
+420.3.1 = {
+	religion = echukas
+}
+
+680.3.1 = {
+	religion = abonyi
+}
+

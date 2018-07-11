@@ -1,0 +1,13 @@
+	title = c_kalan
+	max_settlements = 6
+	culture = bavirat
+	religion = qriibma
+	b_lyti = tribal
+227.4.1 = {
+	culture = norse
+}
+
+464.4.1 = {
+	culture = bavirat
+}
+

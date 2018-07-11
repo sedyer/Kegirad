@@ -1,0 +1,17 @@
+	title = c_lalelge
+	max_settlements = 2
+	culture = batanes
+	religion = abonyi
+	b_dtaud = tribal
+226.3.1 = {
+	religion = rerech
+}
+
+273.3.1 = {
+	religion = abonyi
+}
+
+287.3.1 = {
+	religion = rerech
+}
+

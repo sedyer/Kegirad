@@ -1,0 +1,29 @@
+	title = c_rmugis
+	max_settlements = 2
+	culture = dobius
+	religion = ninala
+	b_rarode = tribal
+208.3.1 = {
+	religion = kmemar
+}
+
+212.3.1 = {
+	religion = ninala
+}
+
+213.3.1 = {
+	religion = kmemar
+}
+
+220.3.1 = {
+	religion = ninala
+}
+
+233.3.1 = {
+	religion = kmemar
+}
+
+396.4.1 = {
+	culture = eiremar
+}
+

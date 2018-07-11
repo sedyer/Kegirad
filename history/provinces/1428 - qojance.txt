@@ -1,0 +1,41 @@
+	title = c_qojance
+	max_settlements = 2
+	culture = krance
+	religion = rriyya
+	b_toulba = tribal
+217.3.1 = {
+	religion = egrirat
+}
+
+224.3.1 = {
+	religion = rriyya
+}
+
+235.3.1 = {
+	religion = egrirat
+}
+
+237.3.1 = {
+	religion = rriyya
+}
+
+239.3.1 = {
+	religion = egrirat
+}
+
+283.4.1 = {
+	culture = brirat
+}
+
+436.3.1 = {
+	religion = rgance
+}
+
+467.3.1 = {
+	religion = egrirat
+}
+
+483.3.1 = {
+	religion = rgance
+}
+

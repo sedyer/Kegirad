@@ -1,0 +1,9 @@
+	title = c_evicosh
+	max_settlements = 4
+	culture = azolachi
+	religion = rni
+	b_qolahis = tribal
+371.3.1 = {
+	religion = ricily
+}
+

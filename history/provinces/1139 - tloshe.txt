@@ -1,0 +1,17 @@
+	title = c_tloshe
+	max_settlements = 7
+	culture = leuleja
+	religion = rni
+	b_wurapur = tribal
+281.3.1 = {
+	religion = wsosro
+}
+
+355.3.1 = {
+	religion = rni
+}
+
+417.4.1 = {
+	culture = talin
+}
+

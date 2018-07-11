@@ -1,0 +1,13 @@
+	title = c_taka
+	max_settlements = 4
+	culture = rresa
+	religion = emonurga
+	b_sadohn = tribal
+408.3.1 = {
+	religion = takice
+}
+
+553.4.1 = {
+	culture = negeth
+}
+

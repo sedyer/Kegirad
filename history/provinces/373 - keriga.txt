@@ -1,0 +1,5 @@
+	title = c_keriga
+	max_settlements = 2
+	culture = racine
+	religion = rerech
+	b_dsutr = tribal

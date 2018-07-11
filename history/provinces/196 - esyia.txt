@@ -1,0 +1,25 @@
+	title = c_esyia
+	max_settlements = 2
+	culture = tilirat
+	religion = agamel
+	b_dlert = tribal
+211.3.1 = {
+	religion = tedusa
+}
+
+222.3.1 = {
+	religion = agamel
+}
+
+223.3.1 = {
+	religion = tedusa
+}
+
+238.3.1 = {
+	religion = agamel
+}
+
+272.3.1 = {
+	religion = tedusa
+}
+

@@ -1,0 +1,13 @@
+	title = c_tumind
+	max_settlements = 3
+	culture = topius
+	religion = wsosro
+	b_lumat = tribal
+253.3.1 = {
+	religion = ninala
+}
+
+452.3.1 = {
+	religion = wsosro
+}
+

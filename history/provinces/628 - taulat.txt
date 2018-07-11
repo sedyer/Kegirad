@@ -1,0 +1,9 @@
+	title = c_taulat
+	max_settlements = 6
+	culture = kerin
+	religion = takice
+	b_llivai = tribal
+618.3.1 = {
+	religion = rni
+}
+

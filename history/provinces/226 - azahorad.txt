@@ -1,0 +1,9 @@
+	title = c_azahorad
+	max_settlements = 2
+	culture = relita
+	religion = echukas
+	b_kilavni = tribal
+459.4.1 = {
+	culture = kujacob
+}
+

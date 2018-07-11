@@ -1,0 +1,5 @@
+	title = c_kiren
+	max_settlements = 2
+	culture = dites
+	religion = ninala
+	b_weogs = tribal

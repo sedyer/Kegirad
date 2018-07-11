@@ -1,0 +1,5 @@
+	title = c_dniy
+	max_settlements = 2
+	culture = batna
+	religion = ricily
+	b_ratnai = tribal

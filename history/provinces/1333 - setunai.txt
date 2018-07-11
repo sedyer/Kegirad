@@ -1,0 +1,13 @@
+	title = c_setunai
+	max_settlements = 2
+	culture = talin
+	religion = rni
+	b_awacupta = tribal
+223.3.1 = {
+	religion = ticojan
+}
+
+226.3.1 = {
+	religion = rni
+}
+

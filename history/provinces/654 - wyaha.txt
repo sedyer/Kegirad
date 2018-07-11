@@ -1,0 +1,5 @@
+	title = c_wyaha
+	max_settlements = 4
+	culture = kliz
+	religion = tluku
+	b_tavile = tribal

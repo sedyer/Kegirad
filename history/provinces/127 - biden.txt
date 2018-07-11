@@ -1,0 +1,61 @@
+	title = c_biden
+	max_settlements = 2
+	culture = wubutr
+	religion = echukas
+	b_wharid = tribal
+201.3.1 = {
+	religion = wozine
+}
+
+207.3.1 = {
+	religion = echukas
+}
+
+208.3.1 = {
+	religion = wozine
+}
+
+211.3.1 = {
+	religion = echukas
+}
+
+211.4.1 = {
+	culture = namuthe
+}
+
+233.3.1 = {
+	religion = wozine
+}
+
+237.3.1 = {
+	religion = echukas
+}
+
+237.3.1 = {
+	religion = wozine
+}
+
+260.3.1 = {
+	religion = echukas
+}
+
+275.3.1 = {
+	religion = wozine
+}
+
+279.3.1 = {
+	religion = echukas
+}
+
+329.3.1 = {
+	religion = wozine
+}
+
+497.3.1 = {
+	religion = echukas
+}
+
+518.3.1 = {
+	religion = wozine
+}
+

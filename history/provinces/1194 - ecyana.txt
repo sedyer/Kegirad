@@ -1,0 +1,9 @@
+	title = c_ecyana
+	max_settlements = 2
+	culture = kasius
+	religion = rni
+	b_tsusa = tribal
+260.4.1 = {
+	culture = wenius
+}
+

@@ -1,0 +1,13 @@
+	title = c_rerat
+	max_settlements = 2
+	culture = wlick
+	religion = ninala
+	b_donius = tribal
+273.3.1 = {
+	religion = rerech
+}
+
+686.3.1 = {
+	religion = ninala
+}
+

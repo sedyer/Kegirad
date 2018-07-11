@@ -1,0 +1,13 @@
+	title = c_rukemka
+	max_settlements = 2
+	culture = rresa
+	religion = kanyo
+	b_anya = tribal
+345.4.1 = {
+	culture = srisre
+}
+
+675.3.1 = {
+	religion = wsosro
+}
+

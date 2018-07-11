@@ -1,0 +1,9 @@
+	title = c_kauline
+	max_settlements = 7
+	culture = kerin
+	religion = takice
+	b_noline = tribal
+559.3.1 = {
+	religion = emonurga
+}
+

@@ -1,0 +1,9 @@
+	title = c_ekumvi
+	max_settlements = 2
+	culture = wsaka
+	religion = agamel
+	b_kuerar = tribal
+244.3.1 = {
+	religion = tedusa
+}
+

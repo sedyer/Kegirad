@@ -1,0 +1,9 @@
+	title = c_kukista
+	max_settlements = 5
+	culture = beth
+	religion = emonurga
+	b_qodunla = tribal
+230.4.1 = {
+	culture = rresa
+}
+

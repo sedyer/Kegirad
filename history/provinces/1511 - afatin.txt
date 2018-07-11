@@ -1,0 +1,9 @@
+	title = c_afatin
+	max_settlements = 7
+	culture = negeth
+	religion = emonurga
+	b_wudiwal = tribal
+457.3.1 = {
+	religion = takice
+}
+

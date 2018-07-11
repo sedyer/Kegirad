@@ -1,0 +1,9 @@
+	title = c_raurega
+	max_settlements = 3
+	culture = safha
+	religion = emonurga
+	b_liriga = tribal
+278.3.1 = {
+	religion = echukas
+}
+

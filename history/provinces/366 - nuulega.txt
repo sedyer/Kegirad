@@ -1,0 +1,49 @@
+	title = c_nuulega
+	max_settlements = 2
+	culture = wubutr
+	religion = echukas
+	b_kamega = tribal
+204.3.1 = {
+	religion = rerech
+}
+
+226.3.1 = {
+	religion = echukas
+}
+
+231.3.1 = {
+	religion = rerech
+}
+
+237.3.1 = {
+	religion = echukas
+}
+
+239.3.1 = {
+	religion = rerech
+}
+
+251.3.1 = {
+	religion = echukas
+}
+
+260.3.1 = {
+	religion = rerech
+}
+
+267.3.1 = {
+	religion = echukas
+}
+
+273.3.1 = {
+	religion = rerech
+}
+
+297.3.1 = {
+	religion = echukas
+}
+
+403.4.1 = {
+	culture = edanyi
+}
+

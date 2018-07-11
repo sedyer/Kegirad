@@ -1,0 +1,13 @@
+	title = c_byre
+	max_settlements = 7
+	culture = bavirat
+	religion = qriibma
+	b_necik = tribal
+278.4.1 = {
+	culture = norse
+}
+
+387.4.1 = {
+	culture = bavirat
+}
+

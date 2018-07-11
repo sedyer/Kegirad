@@ -1,0 +1,13 @@
+	title = c_korind
+	max_settlements = 2
+	culture = eliuden
+	religion = ninala
+	b_tilosro = tribal
+211.3.1 = {
+	religion = wsosro
+}
+
+255.3.1 = {
+	religion = ninala
+}
+

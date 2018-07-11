@@ -1,0 +1,5 @@
+	title = c_tugoi
+	max_settlements = 2
+	culture = wubutr
+	religion = wozine
+	b_rasudah = tribal

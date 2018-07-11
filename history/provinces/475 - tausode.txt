@@ -1,0 +1,13 @@
+	title = c_tausode
+	max_settlements = 2
+	culture = kanaha
+	religion = rerech
+	b_rolode = tribal
+398.3.1 = {
+	religion = abonyi
+}
+
+601.3.1 = {
+	religion = ninala
+}
+

@@ -1,0 +1,13 @@
+	title = c_qarelie
+	max_settlements = 2
+	culture = dobius
+	religion = ninala
+	b_emule = tribal
+200.3.1 = {
+	religion = kmemar
+}
+
+477.4.1 = {
+	culture = eiremar
+}
+

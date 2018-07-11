@@ -1,0 +1,9 @@
+	title = c_lkatli
+	max_settlements = 7
+	culture = norse
+	religion = qriibma
+	b_rolatli = tribal
+550.4.1 = {
+	culture = bavirat
+}
+

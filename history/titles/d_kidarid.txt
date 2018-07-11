@@ -1,0 +1,46 @@
+200.2.1 = {
+	holder = 1001615
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	liege = k_lelun
+}
+
+200.2.3 = {
+	liege = k_aterutr
+}
+
+200.2.4 = {
+	holder = 1002183
+}
+
+225.2.1 = {
+	holder = 1004316
+}
+
+255.2.1 = {
+	holder = 1006161
+}
+
+265.2.1 = {
+	holder = 1008593
+}
+
+271.2.1 = {
+	holder = 1008290
+}
+
+298.2.1 = {
+	holder = 1012124
+}
+
+319.2.1 = {
+	liege = 0
+}
+
+319.2.2 = {
+	holder = 1009087
+}
+

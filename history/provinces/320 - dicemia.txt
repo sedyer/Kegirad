@@ -1,0 +1,5 @@
+	title = c_dicemia
+	max_settlements = 2
+	culture = dziga
+	religion = kereze
+	b_dahania = tribal

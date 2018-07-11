@@ -1,0 +1,17 @@
+	title = c_bolada
+	max_settlements = 2
+	culture = tujeth
+	religion = kanyo
+	b_tinodon = tribal
+382.3.1 = {
+	religion = rerech
+}
+
+402.3.1 = {
+	religion = kanyo
+}
+
+461.3.1 = {
+	religion = emonurga
+}
+

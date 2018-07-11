@@ -1,0 +1,17 @@
+	title = c_letaha
+	max_settlements = 2
+	culture = tilirat
+	religion = agamel
+	b_rring = tribal
+229.3.1 = {
+	religion = tedusa
+}
+
+573.4.1 = {
+	culture = norik
+}
+
+678.4.1 = {
+	culture = wsaka
+}
+

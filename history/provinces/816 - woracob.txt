@@ -1,0 +1,9 @@
+	title = c_woracob
+	max_settlements = 2
+	culture = rakael
+	religion = rgance
+	b_balti = tribal
+263.4.1 = {
+	culture = tance
+}
+

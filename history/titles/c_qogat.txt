@@ -1,0 +1,84 @@
+200.2.1 = {
+	holder = 1000003
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1000004
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	holder = 1000385
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+200.2.4 = {
+	liege = d_taris
+}
+
+200.2.5 = {
+	holder = 1000382
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+224.2.1 = {
+	holder = 1005504
+}
+
+332.2.1 = {
+	holder = 1015055
+}
+
+348.2.1 = {
+	holder = 1016278
+}
+
+350.2.1 = {
+	liege = d_ekophah
+}
+
+350.2.2 = {
+	holder = 1015055
+}
+
+350.2.3 = {
+	liege = k_dararet
+}
+
+350.2.4 = {
+	holder = 1016439
+}
+
+446.2.1 = {
+	holder = 1023854
+}
+
+561.2.1 = {
+	holder = 1031391
+}
+
+562.2.1 = {
+	holder = 1032037
+}
+
+623.2.1 = {
+	liege = d_taris
+}
+
+640.2.1 = {
+	holder = 1036682
+}
+
+642.2.1 = {
+	holder = 1036756
+}
+
+652.2.1 = {
+	holder = 1037927
+}
+

@@ -1,0 +1,9 @@
+	title = c_brance
+	max_settlements = 2
+	culture = kliz
+	religion = ninala
+	b_wousael = tribal
+211.3.1 = {
+	religion = tluku
+}
+

@@ -1,0 +1,13 @@
+	title = c_tremesa
+	max_settlements = 2
+	culture = linian
+	religion = rni
+	b_sakoda = tribal
+207.3.1 = {
+	religion = ricily
+}
+
+382.3.1 = {
+	religion = rni
+}
+

@@ -1,0 +1,13 @@
+	title = c_tililof
+	max_settlements = 2
+	culture = aterovit
+	religion = abonyi
+	b_nomun = tribal
+421.4.1 = {
+	culture = qibemas
+}
+
+458.4.1 = {
+	culture = batanes
+}
+

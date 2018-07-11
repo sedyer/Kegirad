@@ -1,0 +1,17 @@
+	title = c_qalilof
+	max_settlements = 2
+	culture = batanes
+	religion = abonyi
+	b_qsilof = tribal
+335.4.1 = {
+	culture = aterovit
+}
+
+642.3.1 = {
+	religion = rerech
+}
+
+644.4.1 = {
+	culture = batanes
+}
+

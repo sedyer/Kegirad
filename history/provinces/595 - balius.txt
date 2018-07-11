@@ -1,0 +1,49 @@
+	title = c_balius
+	max_settlements = 7
+	culture = tujeth
+	religion = emonurga
+	b_bogosro = tribal
+216.3.1 = {
+	religion = kanyo
+}
+
+236.3.1 = {
+	religion = wsosro
+}
+
+242.3.1 = {
+	religion = kanyo
+}
+
+310.3.1 = {
+	religion = wsosro
+}
+
+382.3.1 = {
+	religion = emonurga
+}
+
+382.3.1 = {
+	religion = wsosro
+}
+
+383.3.1 = {
+	religion = emonurga
+}
+
+414.3.1 = {
+	religion = wsosro
+}
+
+424.3.1 = {
+	religion = emonurga
+}
+
+429.3.1 = {
+	religion = wsosro
+}
+
+558.4.1 = {
+	culture = adietech
+}
+

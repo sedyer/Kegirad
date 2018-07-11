@@ -1,0 +1,13 @@
+	title = c_siudule
+	max_settlements = 2
+	culture = robas
+	religion = abonyi
+	b_larode = tribal
+214.3.1 = {
+	religion = ninala
+}
+
+359.4.1 = {
+	culture = sitilje
+}
+

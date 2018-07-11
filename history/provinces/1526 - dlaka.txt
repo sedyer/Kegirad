@@ -1,0 +1,17 @@
+	title = c_dlaka
+	max_settlements = 2
+	culture = rresa
+	religion = emonurga
+	b_akakesa = tribal
+383.3.1 = {
+	religion = takice
+}
+
+427.4.1 = {
+	culture = kerin
+}
+
+643.4.1 = {
+	culture = negeth
+}
+

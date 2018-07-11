@@ -1,0 +1,9 @@
+	title = c_aminine
+	max_settlements = 2
+	culture = edanyi
+	religion = rerech
+	b_tremine = tribal
+363.3.1 = {
+	religion = echukas
+}
+

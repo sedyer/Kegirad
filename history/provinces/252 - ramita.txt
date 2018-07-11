@@ -1,0 +1,13 @@
+	title = c_ramita
+	max_settlements = 2
+	culture = waurat
+	religion = echukas
+	b_neekiga = tribal
+271.3.1 = {
+	religion = emonurga
+}
+
+361.3.1 = {
+	religion = echukas
+}
+

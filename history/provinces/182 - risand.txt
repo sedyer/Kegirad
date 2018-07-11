@@ -1,0 +1,5 @@
+	title = c_risand
+	max_settlements = 2
+	culture = kilik
+	religion = tedusa
+	b_soraka = tribal

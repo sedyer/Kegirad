@@ -1,0 +1,9 @@
+	title = c_ticert
+	max_settlements = 2
+	culture = dziga
+	religion = kereze
+	b_asina = tribal
+325.4.1 = {
+	culture = banevi
+}
+

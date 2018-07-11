@@ -1,0 +1,25 @@
+	title = c_knico
+	max_settlements = 3
+	culture = nemojan
+	religion = ricily
+	b_dicosh = tribal
+232.3.1 = {
+	religion = ticojan
+}
+
+258.3.1 = {
+	religion = ricily
+}
+
+261.3.1 = {
+	religion = ticojan
+}
+
+278.3.1 = {
+	religion = ricily
+}
+
+490.4.1 = {
+	culture = elada
+}
+

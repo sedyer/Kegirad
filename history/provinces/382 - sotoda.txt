@@ -1,0 +1,9 @@
+	title = c_sotoda
+	max_settlements = 2
+	culture = roralka
+	religion = emonurga
+	b_avozai = tribal
+406.4.1 = {
+	culture = borama
+}
+

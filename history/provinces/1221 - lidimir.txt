@@ -1,0 +1,33 @@
+	title = c_lidimir
+	max_settlements = 2
+	culture = balilof
+	religion = rni
+	b_linaka = tribal
+201.3.1 = {
+	religion = ticojan
+}
+
+221.3.1 = {
+	religion = rni
+}
+
+222.3.1 = {
+	religion = ticojan
+}
+
+233.3.1 = {
+	religion = rni
+}
+
+264.3.1 = {
+	religion = ticojan
+}
+
+274.3.1 = {
+	religion = rni
+}
+
+299.3.1 = {
+	religion = ticojan
+}
+

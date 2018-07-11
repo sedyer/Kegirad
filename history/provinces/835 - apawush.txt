@@ -1,0 +1,5 @@
+	title = c_apawush
+	max_settlements = 6
+	culture = norse
+	religion = rgance
+	b_kalurd = tribal

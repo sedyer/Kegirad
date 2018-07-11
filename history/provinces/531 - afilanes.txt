@@ -1,0 +1,29 @@
+	title = c_afilanes
+	max_settlements = 2
+	culture = aterovit
+	religion = rerech
+	b_tusen = tribal
+255.3.1 = {
+	religion = kanyo
+}
+
+266.3.1 = {
+	religion = rerech
+}
+
+289.4.1 = {
+	culture = srisre
+}
+
+299.3.1 = {
+	religion = kanyo
+}
+
+302.3.1 = {
+	religion = rerech
+}
+
+625.3.1 = {
+	religion = emonurga
+}
+

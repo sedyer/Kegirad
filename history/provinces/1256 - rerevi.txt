@@ -1,0 +1,17 @@
+	title = c_rerevi
+	max_settlements = 2
+	culture = kerada
+	religion = ticojan
+	b_rduna = tribal
+230.3.1 = {
+	religion = rni
+}
+
+247.3.1 = {
+	religion = ticojan
+}
+
+374.4.1 = {
+	culture = nrimir
+}
+

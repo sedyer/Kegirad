@@ -1,0 +1,38 @@
+200.2.1 = {
+	holder = 1000233
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	liege = k_bolivai
+}
+
+200.2.3 = {
+	holder = 1002095
+}
+
+200.2.4 = {
+	holder = 1002801
+}
+
+250.2.1 = {
+	holder = 1005936
+}
+
+265.2.1 = {
+	holder = 1009168
+}
+
+281.2.1 = {
+	holder = 1006947
+}
+
+305.2.1 = {
+	holder = 1008805
+}
+
+313.2.1 = {
+	liege = 0
+}
+

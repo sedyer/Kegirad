@@ -1,0 +1,462 @@
+200.2.1 = {
+	holder = 1000024
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1001392
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_subun
+}
+
+200.2.4 = {
+	liege = d_ekobaria
+}
+
+200.2.5 = {
+	holder = 1001368
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.6 = {
+	holder = 1002151
+}
+
+204.2.1 = {
+	liege = k_amiciga
+}
+
+208.2.1 = {
+	holder = 1003092
+}
+
+225.2.1 = {
+	holder = 1004983
+}
+
+284.2.1 = {
+	liege = d_subun
+}
+
+284.2.2 = {
+	holder = 1006908
+}
+
+302.2.1 = {
+	liege = d_wujita
+}
+
+302.2.2 = {
+	holder = 1012576
+}
+
+326.2.1 = {
+	liege = k_amiciga
+}
+
+337.2.1 = {
+	holder = 1012666
+}
+
+354.2.1 = {
+	holder = 1016765
+}
+
+391.2.1 = {
+	holder = 1016926
+}
+
+393.2.1 = {
+	holder = 1016609
+}
+
+394.2.1 = {
+	holder = 1019855
+}
+
+500.2.1 = {
+	holder = 1019858
+}
+
+500.2.2 = {
+	holder = 1027566
+}
+
+500.2.3 = {
+	liege = d_subun
+}
+
+501.2.1 = {
+	holder = 1027831
+}
+
+505.2.1 = {
+	holder = 1028033
+}
+
+556.2.1 = {
+	holder = 1029204
+}
+
+560.2.1 = {
+	liege = d_ekobaria
+}
+
+561.2.1 = {
+	holder = 1031970
+}
+
+584.2.1 = {
+	holder = 1029852
+}
+
+585.2.1 = {
+	liege = d_beitiga
+}
+
+585.2.2 = {
+	liege = k_sinahid
+}
+
+586.2.1 = {
+	liege = d_beitiga
+}
+
+586.2.2 = {
+	liege = k_sinahid
+}
+
+587.2.1 = {
+	liege = d_beitiga
+}
+
+587.2.2 = {
+	liege = k_sinahid
+}
+
+588.2.1 = {
+	liege = d_beitiga
+}
+
+588.2.2 = {
+	liege = k_sinahid
+}
+
+589.2.1 = {
+	liege = d_beitiga
+}
+
+589.2.2 = {
+	liege = k_sinahid
+}
+
+590.2.1 = {
+	liege = d_beitiga
+}
+
+590.2.2 = {
+	liege = k_sinahid
+}
+
+591.2.1 = {
+	holder = 1032919
+}
+
+591.2.2 = {
+	liege = d_beitiga
+}
+
+591.2.3 = {
+	liege = k_sinahid
+}
+
+592.2.1 = {
+	liege = d_beitiga
+}
+
+592.2.2 = {
+	liege = k_sinahid
+}
+
+593.2.1 = {
+	liege = d_beitiga
+}
+
+593.2.2 = {
+	liege = k_sinahid
+}
+
+594.2.1 = {
+	liege = d_beitiga
+}
+
+594.2.2 = {
+	liege = k_sinahid
+}
+
+595.2.1 = {
+	liege = d_beitiga
+}
+
+595.2.2 = {
+	liege = k_sinahid
+}
+
+596.2.1 = {
+	liege = d_beitiga
+}
+
+596.2.2 = {
+	liege = k_sinahid
+}
+
+597.2.1 = {
+	liege = d_beitiga
+}
+
+597.2.2 = {
+	liege = k_sinahid
+}
+
+598.2.1 = {
+	liege = d_beitiga
+}
+
+598.2.2 = {
+	liege = k_sinahid
+}
+
+599.2.1 = {
+	liege = d_beitiga
+}
+
+599.2.2 = {
+	liege = k_sinahid
+}
+
+600.2.1 = {
+	liege = d_beitiga
+}
+
+600.2.2 = {
+	liege = k_sinahid
+}
+
+601.2.1 = {
+	liege = d_beitiga
+}
+
+601.2.2 = {
+	liege = k_sinahid
+}
+
+602.2.1 = {
+	liege = d_beitiga
+}
+
+602.2.2 = {
+	liege = k_sinahid
+}
+
+603.2.1 = {
+	liege = d_beitiga
+}
+
+603.2.2 = {
+	liege = k_sinahid
+}
+
+604.2.1 = {
+	liege = d_beitiga
+}
+
+604.2.2 = {
+	liege = k_sinahid
+}
+
+605.2.1 = {
+	liege = d_beitiga
+}
+
+605.2.2 = {
+	liege = k_sinahid
+}
+
+606.2.1 = {
+	liege = d_beitiga
+}
+
+606.2.2 = {
+	liege = k_sinahid
+}
+
+607.2.1 = {
+	liege = d_beitiga
+}
+
+607.2.2 = {
+	liege = k_sinahid
+}
+
+608.2.1 = {
+	liege = d_beitiga
+}
+
+608.2.2 = {
+	liege = k_sinahid
+}
+
+609.2.1 = {
+	liege = d_beitiga
+}
+
+609.2.2 = {
+	liege = k_sinahid
+}
+
+610.2.1 = {
+	liege = d_beitiga
+}
+
+610.2.2 = {
+	liege = k_sinahid
+}
+
+611.2.1 = {
+	liege = d_beitiga
+}
+
+611.2.2 = {
+	liege = k_sinahid
+}
+
+612.2.1 = {
+	liege = d_beitiga
+}
+
+612.2.2 = {
+	liege = k_sinahid
+}
+
+613.2.1 = {
+	liege = d_beitiga
+}
+
+613.2.2 = {
+	liege = k_sinahid
+}
+
+614.2.1 = {
+	liege = d_beitiga
+}
+
+614.2.2 = {
+	liege = k_sinahid
+}
+
+615.2.1 = {
+	liege = d_beitiga
+}
+
+615.2.2 = {
+	liege = k_sinahid
+}
+
+616.2.1 = {
+	liege = d_beitiga
+}
+
+616.2.2 = {
+	liege = k_sinahid
+}
+
+617.2.1 = {
+	liege = d_beitiga
+}
+
+617.2.2 = {
+	liege = k_sinahid
+}
+
+618.2.1 = {
+	liege = d_beitiga
+}
+
+618.2.2 = {
+	liege = k_sinahid
+}
+
+619.2.1 = {
+	liege = d_beitiga
+}
+
+619.2.2 = {
+	liege = k_sinahid
+}
+
+620.2.1 = {
+	liege = d_beitiga
+}
+
+620.2.2 = {
+	liege = k_sinahid
+}
+
+621.2.1 = {
+	liege = d_beitiga
+}
+
+621.2.2 = {
+	liege = k_sinahid
+}
+
+622.2.1 = {
+	liege = d_beitiga
+}
+
+622.2.2 = {
+	liege = k_lelun
+}
+
+623.2.1 = {
+	liege = d_beitiga
+}
+
+623.2.2 = {
+	liege = k_lelun
+}
+
+623.2.3 = {
+	holder = 1036187
+}
+
+623.2.4 = {
+	liege = k_relovit
+}
+
+623.2.5 = {
+	holder = 1033906
+}
+
+628.2.1 = {
+	holder = 1035300
+}
+
+663.2.1 = {
+	holder = 1037294
+}
+
+666.2.1 = {
+	holder = 1038596
+}
+
+674.2.1 = {
+	holder = 1039210
+}
+

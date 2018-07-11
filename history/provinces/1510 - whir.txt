@@ -1,0 +1,5 @@
+	title = c_whir
+	max_settlements = 2
+	culture = rresa
+	religion = emonurga
+	b_lzunio = tribal

@@ -1,0 +1,17 @@
+	title = c_byuta
+	max_settlements = 5
+	culture = dudatli
+	religion = takice
+	b_kuleja = tribal
+264.3.1 = {
+	religion = emonurga
+}
+
+390.3.1 = {
+	religion = takice
+}
+
+608.4.1 = {
+	culture = amurein
+}
+

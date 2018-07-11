@@ -1,0 +1,25 @@
+	title = c_nalti
+	max_settlements = 2
+	culture = rinmi
+	religion = rerech
+	b_asonan = tribal
+235.3.1 = {
+	religion = tedusa
+}
+
+254.4.1 = {
+	culture = stacik
+}
+
+269.3.1 = {
+	religion = rerech
+}
+
+300.3.1 = {
+	religion = tedusa
+}
+
+336.4.1 = {
+	culture = rinmi
+}
+

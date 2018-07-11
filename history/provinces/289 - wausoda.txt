@@ -1,0 +1,13 @@
+	title = c_wausoda
+	max_settlements = 2
+	culture = bozusa
+	religion = agrakma
+	b_namer = tribal
+202.3.1 = {
+	religion = emonurga
+}
+
+213.3.1 = {
+	religion = agrakma
+}
+

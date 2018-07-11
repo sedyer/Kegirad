@@ -1,0 +1,33 @@
+	title = c_nunid
+	max_settlements = 2
+	culture = nemojan
+	religion = ricily
+	b_qurudah = tribal
+230.3.1 = {
+	religion = ticojan
+}
+
+241.3.1 = {
+	religion = ricily
+}
+
+242.3.1 = {
+	religion = ticojan
+}
+
+244.3.1 = {
+	religion = ricily
+}
+
+257.3.1 = {
+	religion = ticojan
+}
+
+274.3.1 = {
+	religion = ricily
+}
+
+435.4.1 = {
+	culture = elada
+}
+

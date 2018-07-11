@@ -1,0 +1,9 @@
+	title = c_enerada
+	max_settlements = 2
+	culture = ributhe
+	religion = rerech
+	b_domirad = tribal
+245.3.1 = {
+	religion = abonyi
+}
+

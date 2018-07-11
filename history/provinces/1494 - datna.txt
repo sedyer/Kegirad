@@ -1,0 +1,73 @@
+	title = c_datna
+	max_settlements = 5
+	culture = linian
+	religion = rni
+	b_rhimeg = tribal
+425.4.1 = {
+	culture = batna
+}
+
+449.3.1 = {
+	religion = emonurga
+}
+
+450.3.1 = {
+	religion = rni
+}
+
+459.3.1 = {
+	religion = emonurga
+}
+
+466.3.1 = {
+	religion = rni
+}
+
+467.3.1 = {
+	religion = emonurga
+}
+
+473.3.1 = {
+	religion = rni
+}
+
+479.3.1 = {
+	religion = emonurga
+}
+
+487.3.1 = {
+	religion = rni
+}
+
+488.3.1 = {
+	religion = emonurga
+}
+
+489.4.1 = {
+	culture = kuogoi
+}
+
+581.4.1 = {
+	culture = batna
+}
+
+586.3.1 = {
+	religion = rni
+}
+
+593.3.1 = {
+	religion = emonurga
+}
+
+595.3.1 = {
+	religion = rni
+}
+
+598.3.1 = {
+	religion = emonurga
+}
+
+645.4.1 = {
+	culture = rresa
+}
+

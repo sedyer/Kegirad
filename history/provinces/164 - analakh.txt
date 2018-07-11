@@ -1,0 +1,13 @@
+	title = c_analakh
+	max_settlements = 2
+	culture = kilik
+	religion = agamel
+	b_ntamel = tribal
+206.3.1 = {
+	religion = tedusa
+}
+
+597.4.1 = {
+	culture = wsaka
+}
+

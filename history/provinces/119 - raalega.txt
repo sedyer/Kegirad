@@ -1,0 +1,5 @@
+	title = c_raalega
+	max_settlements = 2
+	culture = namuthe
+	religion = echukas
+	b_roumat = tribal

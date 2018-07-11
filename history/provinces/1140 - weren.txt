@@ -1,0 +1,9 @@
+	title = c_weren
+	max_settlements = 2
+	culture = balilof
+	religion = rni
+	b_egotayi = tribal
+338.3.1 = {
+	religion = ticojan
+}
+

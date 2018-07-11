@@ -1,0 +1,29 @@
+	title = c_qoronan
+	max_settlements = 2
+	culture = stacik
+	religion = slonan
+	b_aryti = tribal
+204.3.1 = {
+	religion = rerech
+}
+
+217.3.1 = {
+	religion = slonan
+}
+
+218.3.1 = {
+	religion = rerech
+}
+
+265.3.1 = {
+	religion = tedusa
+}
+
+275.3.1 = {
+	religion = rerech
+}
+
+306.3.1 = {
+	religion = tedusa
+}
+

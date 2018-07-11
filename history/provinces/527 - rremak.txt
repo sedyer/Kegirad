@@ -1,0 +1,29 @@
+	title = c_rremak
+	max_settlements = 2
+	culture = aterovit
+	religion = rerech
+	b_banahid = tribal
+240.3.1 = {
+	religion = abonyi
+}
+
+241.4.1 = {
+	culture = edanyi
+}
+
+242.3.1 = {
+	religion = rerech
+}
+
+244.3.1 = {
+	religion = abonyi
+}
+
+467.3.1 = {
+	religion = echukas
+}
+
+678.3.1 = {
+	religion = emonurga
+}
+

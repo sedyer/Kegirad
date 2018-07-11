@@ -1,0 +1,210 @@
+200.2.1 = {
+	holder = 1000000
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000001
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	holder = 1000002
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.4 = {
+	holder = 1000250
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+200.2.5 = {
+	liege = d_qeous
+}
+
+200.2.6 = {
+	holder = 1000247
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+300.2.1 = {
+	holder = 1010041
+}
+
+307.2.1 = {
+	holder = 1009936
+}
+
+308.2.1 = {
+	holder = 1012706
+}
+
+309.2.1 = {
+	holder = 1011819
+}
+
+309.2.2 = {
+	holder = 1013138
+}
+
+351.2.1 = {
+	holder = 1013502
+}
+
+363.2.1 = {
+	liege = d_svasha
+}
+
+363.2.2 = {
+	holder = 1016318
+}
+
+384.2.1 = {
+	liege = d_svasha
+}
+
+384.2.2 = {
+	liege = k_bainind
+}
+
+385.2.1 = {
+	liege = d_svasha
+}
+
+385.2.2 = {
+	liege = k_bainind
+}
+
+386.2.1 = {
+	liege = d_svasha
+}
+
+386.2.2 = {
+	liege = k_bainind
+}
+
+387.2.1 = {
+	liege = d_svasha
+}
+
+387.2.2 = {
+	liege = k_bainind
+}
+
+388.2.1 = {
+	liege = d_svasha
+}
+
+388.2.2 = {
+	liege = k_bainind
+}
+
+389.2.1 = {
+	liege = d_svasha
+}
+
+389.2.2 = {
+	liege = k_bainind
+}
+
+390.2.1 = {
+	liege = d_svasha
+}
+
+390.2.2 = {
+	liege = k_bainind
+}
+
+391.2.1 = {
+	liege = d_svasha
+}
+
+391.2.2 = {
+	liege = k_bainind
+}
+
+391.2.3 = {
+	holder = 1019086
+}
+
+392.2.1 = {
+	liege = d_qeous
+}
+
+392.2.2 = {
+	liege = 0
+}
+
+392.2.3 = {
+	holder = 1015647
+}
+
+392.2.4 = {
+	holder = 1017562
+}
+
+392.2.5 = {
+	holder = 1015859
+}
+
+393.2.1 = {
+	holder = 1016250
+}
+
+393.2.2 = {
+	liege = k_eloshe
+}
+
+396.2.1 = {
+	holder = 1019995
+}
+
+496.2.1 = {
+	liege = d_akolat
+}
+
+500.2.1 = {
+	holder = 1027528
+}
+
+508.2.1 = {
+	holder = 1024560
+}
+
+508.2.2 = {
+	holder = 1028505
+}
+
+600.2.1 = {
+	holder = 1030674
+}
+
+603.2.1 = {
+	holder = 1034901
+}
+
+613.2.1 = {
+	holder = 1035582
+}
+
+617.2.1 = {
+	holder = 1035810
+}
+
+618.2.1 = {
+	holder = 1035868
+}
+
+663.2.1 = {
+	holder = 1035928
+}
+
+670.2.1 = {
+	holder = 1038643
+}
+

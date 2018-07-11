@@ -1,0 +1,9 @@
+	title = c_qabita
+	max_settlements = 2
+	culture = rresa
+	religion = kanyo
+	b_kacada = tribal
+664.3.1 = {
+	religion = wsosro
+}
+

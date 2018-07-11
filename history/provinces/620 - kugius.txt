@@ -1,0 +1,9 @@
+	title = c_kugius
+	max_settlements = 7
+	culture = adietech
+	religion = rerech
+	b_noludis = tribal
+216.3.1 = {
+	religion = wsosro
+}
+

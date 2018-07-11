@@ -1,0 +1,9 @@
+	title = c_rnohe
+	max_settlements = 2
+	culture = kuogoi
+	religion = ricily
+	b_tuloi = tribal
+275.4.1 = {
+	culture = batna
+}
+

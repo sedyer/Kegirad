@@ -1,0 +1,30 @@
+200.2.1 = {
+	holder = 1001397
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	liege = k_sinahid
+}
+
+206.2.1 = {
+	liege = k_amiciga
+}
+
+239.2.1 = {
+	holder = 1003870
+}
+
+260.2.1 = {
+	holder = 1007351
+}
+
+306.2.1 = {
+	holder = 1012020
+}
+
+306.2.2 = {
+	liege = 0
+}
+

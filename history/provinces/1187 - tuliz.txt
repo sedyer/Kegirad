@@ -1,0 +1,17 @@
+	title = c_tuliz
+	max_settlements = 3
+	culture = dudatli
+	religion = takice
+	b_akanolf = tribal
+519.4.1 = {
+	culture = katunn
+}
+
+571.4.1 = {
+	culture = dudatli
+}
+
+623.4.1 = {
+	culture = amurein
+}
+

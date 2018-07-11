@@ -1,0 +1,5 @@
+	title = c_tecacik
+	max_settlements = 2
+	culture = norik
+	religion = tedusa
+	b_qecibar = tribal

@@ -1,0 +1,5 @@
+	title = c_baroshe
+	max_settlements = 2
+	culture = kuogoi
+	religion = ricily
+	b_exineer = tribal

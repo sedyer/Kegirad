@@ -1,0 +1,9 @@
+	title = c_buch
+	max_settlements = 2
+	culture = qibemas
+	religion = abonyi
+	b_sufayak = tribal
+425.4.1 = {
+	culture = batanes
+}
+

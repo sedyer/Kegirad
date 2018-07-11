@@ -1,0 +1,77 @@
+	title = c_khatal
+	max_settlements = 7
+	culture = rresa
+	religion = emonurga
+	b_eboucayi = tribal
+230.3.1 = {
+	religion = rni
+}
+
+431.3.1 = {
+	religion = emonurga
+}
+
+434.3.1 = {
+	religion = rni
+}
+
+437.3.1 = {
+	religion = emonurga
+}
+
+443.3.1 = {
+	religion = rni
+}
+
+447.3.1 = {
+	religion = emonurga
+}
+
+453.3.1 = {
+	religion = rni
+}
+
+462.3.1 = {
+	religion = emonurga
+}
+
+466.3.1 = {
+	religion = rni
+}
+
+479.3.1 = {
+	religion = emonurga
+}
+
+487.3.1 = {
+	religion = rni
+}
+
+488.3.1 = {
+	religion = emonurga
+}
+
+496.3.1 = {
+	religion = rni
+}
+
+496.3.1 = {
+	religion = emonurga
+}
+
+499.3.1 = {
+	religion = rni
+}
+
+523.3.1 = {
+	religion = ricily
+}
+
+531.3.1 = {
+	religion = rni
+}
+
+557.3.1 = {
+	religion = emonurga
+}
+

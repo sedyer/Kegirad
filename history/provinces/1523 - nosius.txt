@@ -1,0 +1,13 @@
+	title = c_nosius
+	max_settlements = 4
+	culture = rresa
+	religion = emonurga
+	b_slaja = tribal
+403.3.1 = {
+	religion = takice
+}
+
+519.4.1 = {
+	culture = negeth
+}
+

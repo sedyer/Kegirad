@@ -1,0 +1,17 @@
+	title = c_wyaa
+	max_settlements = 2
+	culture = niloaz
+	religion = ninala
+	b_kapat = tribal
+303.4.1 = {
+	culture = wobagik
+}
+
+452.3.1 = {
+	religion = rerech
+}
+
+642.3.1 = {
+	religion = tluku
+}
+

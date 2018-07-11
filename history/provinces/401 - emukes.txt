@@ -1,0 +1,29 @@
+	title = c_emukes
+	max_settlements = 3
+	culture = rresa
+	religion = bukena
+	b_rarih = tribal
+204.3.1 = {
+	religion = emonurga
+}
+
+333.3.1 = {
+	religion = kanyo
+}
+
+438.3.1 = {
+	religion = emonurga
+}
+
+445.4.1 = {
+	culture = tujeth
+}
+
+462.3.1 = {
+	religion = kanyo
+}
+
+656.3.1 = {
+	religion = emonurga
+}
+

@@ -1,0 +1,9 @@
+	title = c_syof
+	max_settlements = 2
+	culture = balilof
+	religion = ticojan
+	b_tucoaz = tribal
+432.4.1 = {
+	culture = kerada
+}
+

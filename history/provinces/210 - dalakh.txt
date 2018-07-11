@@ -1,0 +1,13 @@
+	title = c_dalakh
+	max_settlements = 2
+	culture = rinmi
+	religion = rerech
+	b_qgaka = tribal
+518.4.1 = {
+	culture = wubutr
+}
+
+537.4.1 = {
+	culture = rinmi
+}
+

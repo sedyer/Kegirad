@@ -1,0 +1,220 @@
+200.2.1 = {
+	holder = 1000000
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000002
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	holder = 1000248
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+200.2.4 = {
+	liege = d_qeous
+}
+
+200.2.5 = {
+	holder = 1000247
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+219.2.1 = {
+	holder = 1005063
+}
+
+255.2.1 = {
+	holder = 1005114
+}
+
+268.2.1 = {
+	holder = 1008524
+}
+
+289.2.1 = {
+	holder = 1010041
+}
+
+307.2.1 = {
+	holder = 1009936
+}
+
+308.2.1 = {
+	holder = 1012706
+}
+
+309.2.1 = {
+	holder = 1011819
+}
+
+309.2.2 = {
+	holder = 1013137
+}
+
+318.2.1 = {
+	holder = 1013906
+}
+
+322.2.1 = {
+	holder = 1010396
+}
+
+332.2.1 = {
+	holder = 1014236
+}
+
+334.2.1 = {
+	holder = 1013135
+}
+
+347.2.1 = {
+	liege = d_rance
+}
+
+347.2.2 = {
+	holder = 1013502
+}
+
+347.2.3 = {
+	liege = d_qeous
+}
+
+351.2.1 = {
+	liege = d_svasha
+}
+
+363.2.1 = {
+	holder = 1016318
+}
+
+384.2.1 = {
+	liege = d_svasha
+}
+
+384.2.2 = {
+	liege = k_bainind
+}
+
+385.2.1 = {
+	liege = d_svasha
+}
+
+385.2.2 = {
+	liege = k_bainind
+}
+
+386.2.1 = {
+	liege = d_svasha
+}
+
+386.2.2 = {
+	liege = k_bainind
+}
+
+387.2.1 = {
+	liege = d_svasha
+}
+
+387.2.2 = {
+	liege = k_bainind
+}
+
+388.2.1 = {
+	liege = d_svasha
+}
+
+388.2.2 = {
+	liege = k_bainind
+}
+
+389.2.1 = {
+	liege = d_svasha
+}
+
+389.2.2 = {
+	liege = k_bainind
+}
+
+390.2.1 = {
+	liege = d_svasha
+}
+
+390.2.2 = {
+	liege = k_bainind
+}
+
+391.2.1 = {
+	liege = d_svasha
+}
+
+391.2.2 = {
+	liege = k_bainind
+}
+
+391.2.3 = {
+	holder = 1019086
+}
+
+392.2.1 = {
+	liege = d_qeous
+}
+
+392.2.2 = {
+	liege = 0
+}
+
+392.2.3 = {
+	holder = 1018190
+}
+
+392.2.4 = {
+	holder = 1019686
+}
+
+392.2.5 = {
+	liege = k_bolivai
+}
+
+403.2.1 = {
+	holder = 1019086
+}
+
+403.2.2 = {
+	holder = 1020694
+}
+
+465.2.1 = {
+	holder = 1025236
+}
+
+571.2.1 = {
+	liege = d_ratat
+}
+
+575.2.1 = {
+	liege = d_alasha
+}
+
+575.2.2 = {
+	holder = 1030762
+}
+
+575.2.3 = {
+	liege = k_bolivai
+}
+
+575.2.4 = {
+	holder = 1032933
+}
+
+700.2.1 = {
+	holder = 1035394
+}
+

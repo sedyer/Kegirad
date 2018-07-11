@@ -1,0 +1,9 @@
+	title = c_luogoi
+	max_settlements = 2
+	culture = teludah
+	religion = ticojan
+	b_tulalda = tribal
+454.4.1 = {
+	culture = ricepan
+}
+

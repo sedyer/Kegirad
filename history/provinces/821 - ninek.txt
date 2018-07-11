@@ -1,0 +1,5 @@
+	title = c_ninek
+	max_settlements = 3
+	culture = tance
+	religion = rgance
+	b_egaluz = tribal

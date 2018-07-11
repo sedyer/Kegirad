@@ -1,0 +1,5 @@
+	title = c_riyusob
+	max_settlements = 2
+	culture = qibemas
+	religion = abonyi
+	b_tudayak = tribal

@@ -1,0 +1,122 @@
+200.2.1 = {
+	holder = 1000000
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000091
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_alasha
+}
+
+200.2.4 = {
+	holder = 1000089
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+228.2.1 = {
+	holder = 1003448
+}
+
+238.2.1 = {
+	holder = 1005930
+}
+
+303.2.1 = {
+	holder = 1009936
+}
+
+308.2.1 = {
+	holder = 1013042
+}
+
+383.2.1 = {
+	holder = 1018190
+}
+
+383.2.2 = {
+	holder = 1019011
+}
+
+403.2.1 = {
+	holder = 1019086
+}
+
+403.2.2 = {
+	holder = 1020671
+}
+
+408.2.1 = {
+	holder = 1020688
+}
+
+439.2.1 = {
+	holder = 1021861
+}
+
+471.2.1 = {
+	holder = 1023975
+}
+
+489.2.1 = {
+	holder = 1025928
+}
+
+515.2.1 = {
+	holder = 1028979
+}
+
+538.2.1 = {
+	holder = 1029966
+}
+
+571.2.1 = {
+	holder = 1025236
+}
+
+575.2.1 = {
+	holder = 1030762
+}
+
+575.2.2 = {
+	holder = 1032929
+}
+
+589.2.1 = {
+	holder = 1030762
+}
+
+589.2.2 = {
+	holder = 1033758
+}
+
+596.2.1 = {
+	holder = 1034180
+}
+
+598.2.1 = {
+	holder = 1034293
+}
+
+600.2.1 = {
+	holder = 1034492
+}
+
+616.2.1 = {
+	holder = 1035739
+}
+
+668.2.1 = {
+	holder = 1038825
+}
+
+697.2.1 = {
+	holder = 1039122
+}
+

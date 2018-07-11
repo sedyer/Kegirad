@@ -1,0 +1,45 @@
+	title = c_keitod
+	max_settlements = 2
+	culture = ributhe
+	religion = echukas
+	b_derun = tribal
+238.3.1 = {
+	religion = rerech
+}
+
+258.3.1 = {
+	religion = echukas
+}
+
+275.3.1 = {
+	religion = rerech
+}
+
+337.3.1 = {
+	religion = echukas
+}
+
+342.3.1 = {
+	religion = rerech
+}
+
+356.3.1 = {
+	religion = echukas
+}
+
+373.3.1 = {
+	religion = abonyi
+}
+
+391.4.1 = {
+	culture = edanyi
+}
+
+445.3.1 = {
+	religion = echukas
+}
+
+695.3.1 = {
+	religion = abonyi
+}
+

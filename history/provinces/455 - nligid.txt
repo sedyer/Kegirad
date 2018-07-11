@@ -1,0 +1,13 @@
+	title = c_nligid
+	max_settlements = 2
+	culture = qibemas
+	religion = abonyi
+	b_tuderta = tribal
+407.4.1 = {
+	culture = batanes
+}
+
+644.3.1 = {
+	religion = rerech
+}
+

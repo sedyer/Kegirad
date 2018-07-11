@@ -1,0 +1,13 @@
+	title = c_nurirat
+	max_settlements = 7
+	culture = norse
+	religion = rgance
+	b_dalawna = tribal
+383.3.1 = {
+	religion = qriibma
+}
+
+479.4.1 = {
+	culture = bavirat
+}
+

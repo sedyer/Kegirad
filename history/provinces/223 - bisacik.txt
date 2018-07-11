@@ -1,0 +1,13 @@
+	title = c_bisacik
+	max_settlements = 2
+	culture = rerega
+	religion = echukas
+	b_recik = tribal
+219.3.1 = {
+	religion = wering
+}
+
+277.3.1 = {
+	religion = rerech
+}
+

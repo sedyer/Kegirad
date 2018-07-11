@@ -1,0 +1,13 @@
+	title = c_linius
+	max_settlements = 2
+	culture = dsien
+	religion = rerech
+	b_nmoba = tribal
+376.3.1 = {
+	religion = wsosro
+}
+
+695.4.1 = {
+	culture = adietech
+}
+

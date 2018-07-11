@@ -1,0 +1,25 @@
+	title = c_rareer
+	max_settlements = 2
+	culture = eleer
+	religion = ricily
+	b_bicoi = tribal
+220.3.1 = {
+	religion = ticojan
+}
+
+223.3.1 = {
+	religion = ricily
+}
+
+239.3.1 = {
+	religion = ticojan
+}
+
+520.4.1 = {
+	culture = elada
+}
+
+537.3.1 = {
+	religion = ricily
+}
+

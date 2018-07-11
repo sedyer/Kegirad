@@ -1,0 +1,21 @@
+	title = c_ethatal
+	max_settlements = 7
+	culture = rresa
+	religion = emonurga
+	b_qupresa = tribal
+218.3.1 = {
+	religion = rni
+}
+
+481.3.1 = {
+	religion = emonurga
+}
+
+587.3.1 = {
+	religion = rni
+}
+
+608.3.1 = {
+	religion = emonurga
+}
+

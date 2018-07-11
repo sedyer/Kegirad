@@ -1,0 +1,5 @@
+	title = c_togahis
+	max_settlements = 2
+	culture = tuprind
+	religion = ricily
+	b_tidosh = tribal

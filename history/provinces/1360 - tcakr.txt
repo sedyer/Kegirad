@@ -1,0 +1,5 @@
+	title = c_tcakr
+	max_settlements = 2
+	culture = dicetar
+	religion = rni
+	b_renusas = tribal

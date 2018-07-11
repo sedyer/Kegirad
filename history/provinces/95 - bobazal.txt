@@ -1,0 +1,25 @@
+	title = c_bobazal
+	max_settlements = 2
+	culture = wubutr
+	religion = echukas
+	b_nugad = tribal
+201.3.1 = {
+	religion = wozine
+}
+
+218.3.1 = {
+	religion = echukas
+}
+
+220.3.1 = {
+	religion = wozine
+}
+
+227.3.1 = {
+	religion = echukas
+}
+
+257.3.1 = {
+	religion = wozine
+}
+

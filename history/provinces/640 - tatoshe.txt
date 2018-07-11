@@ -1,0 +1,9 @@
+	title = c_tatoshe
+	max_settlements = 6
+	culture = arivai
+	religion = nerapur
+	b_agerine = tribal
+208.3.1 = {
+	religion = wsosro
+}
+

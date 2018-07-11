@@ -1,0 +1,21 @@
+	title = c_egalonan
+	max_settlements = 2
+	culture = kilik
+	religion = tedusa
+	b_kilamel = tribal
+204.4.1 = {
+	culture = norse
+}
+
+219.3.1 = {
+	religion = rgance
+}
+
+225.3.1 = {
+	religion = tedusa
+}
+
+226.3.1 = {
+	religion = rgance
+}
+

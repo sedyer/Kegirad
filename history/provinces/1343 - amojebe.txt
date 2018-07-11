@@ -1,0 +1,9 @@
+	title = c_amojebe
+	max_settlements = 2
+	culture = brirat
+	religion = egrirat
+	b_rrael = tribal
+408.3.1 = {
+	religion = rgance
+}
+

@@ -1,0 +1,17 @@
+	title = c_belat
+	max_settlements = 2
+	culture = ekozare
+	religion = lavukas
+	b_ekamuthe = tribal
+204.3.1 = {
+	religion = echukas
+}
+
+356.4.1 = {
+	culture = kaloet
+}
+
+604.3.1 = {
+	religion = lavukas
+}
+

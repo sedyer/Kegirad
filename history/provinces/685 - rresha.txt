@@ -1,0 +1,9 @@
+	title = c_rresha
+	max_settlements = 2
+	culture = bodoba
+	religion = wsosro
+	b_rgiste = tribal
+479.3.1 = {
+	religion = tluku
+}
+

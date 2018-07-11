@@ -1,0 +1,29 @@
+	title = c_esind
+	max_settlements = 2
+	culture = dogugis
+	religion = ninala
+	b_lugagik = tribal
+207.3.1 = {
+	religion = wsosro
+}
+
+232.3.1 = {
+	religion = ninala
+}
+
+235.3.1 = {
+	religion = wsosro
+}
+
+253.3.1 = {
+	religion = ninala
+}
+
+539.3.1 = {
+	religion = wsosro
+}
+
+689.4.1 = {
+	culture = lorius
+}
+

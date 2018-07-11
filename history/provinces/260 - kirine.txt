@@ -1,0 +1,45 @@
+	title = c_kirine
+	max_settlements = 2
+	culture = ejoanel
+	religion = emonurga
+	b_lamech = tribal
+222.3.1 = {
+	religion = echukas
+}
+
+230.3.1 = {
+	religion = emonurga
+}
+
+232.3.1 = {
+	religion = echukas
+}
+
+238.3.1 = {
+	religion = emonurga
+}
+
+258.3.1 = {
+	religion = echukas
+}
+
+266.3.1 = {
+	religion = emonurga
+}
+
+266.3.1 = {
+	religion = echukas
+}
+
+287.3.1 = {
+	religion = emonurga
+}
+
+296.3.1 = {
+	religion = echukas
+}
+
+564.4.1 = {
+	culture = safha
+}
+

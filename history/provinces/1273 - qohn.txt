@@ -1,0 +1,25 @@
+	title = c_qohn
+	max_settlements = 7
+	culture = wiragop
+	religion = emonurga
+	b_srani = tribal
+266.3.1 = {
+	religion = takice
+}
+
+273.3.1 = {
+	religion = emonurga
+}
+
+288.3.1 = {
+	religion = takice
+}
+
+324.3.1 = {
+	religion = emonurga
+}
+
+687.3.1 = {
+	religion = kanyo
+}
+

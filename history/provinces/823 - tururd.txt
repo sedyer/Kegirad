@@ -1,0 +1,5 @@
+	title = c_tururd
+	max_settlements = 3
+	culture = tance
+	religion = rgance
+	b_tudawna = tribal

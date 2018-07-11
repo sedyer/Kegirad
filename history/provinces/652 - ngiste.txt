@@ -1,0 +1,5 @@
+	title = c_ngiste
+	max_settlements = 6
+	culture = kliz
+	religion = tluku
+	b_trael = tribal

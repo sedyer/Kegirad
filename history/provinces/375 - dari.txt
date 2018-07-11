@@ -1,0 +1,5 @@
+	title = c_dari
+	max_settlements = 3
+	culture = racine
+	religion = rerech
+	b_banida = tribal

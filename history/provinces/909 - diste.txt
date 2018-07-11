@@ -1,0 +1,5 @@
+	title = c_diste
+	max_settlements = 7
+	culture = druoksa
+	religion = rgance
+	b_datael = tribal

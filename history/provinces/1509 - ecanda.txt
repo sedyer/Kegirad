@@ -1,0 +1,9 @@
+	title = c_ecanda
+	max_settlements = 2
+	culture = beth
+	religion = emonurga
+	b_rujyo = tribal
+392.4.1 = {
+	culture = rresa
+}
+

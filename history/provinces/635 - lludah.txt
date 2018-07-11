@@ -1,0 +1,17 @@
+	title = c_lludah
+	max_settlements = 7
+	culture = amurein
+	religion = takice
+	b_syiai = tribal
+264.3.1 = {
+	religion = wsosro
+}
+
+395.4.1 = {
+	culture = topius
+}
+
+577.4.1 = {
+	culture = amurein
+}
+

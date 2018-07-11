@@ -1,0 +1,13 @@
+	title = c_avakiste
+	max_settlements = 7
+	culture = krance
+	religion = rriyya
+	b_sousile = tribal
+201.3.1 = {
+	religion = egrirat
+}
+
+208.3.1 = {
+	religion = rgance
+}
+

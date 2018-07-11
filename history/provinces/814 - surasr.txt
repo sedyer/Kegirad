@@ -1,0 +1,9 @@
+	title = c_surasr
+	max_settlements = 4
+	culture = druoksa
+	religion = rgance
+	b_wanalup = tribal
+255.4.1 = {
+	culture = tance
+}
+

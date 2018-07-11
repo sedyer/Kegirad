@@ -1,0 +1,17 @@
+	title = c_qatya
+	max_settlements = 6
+	culture = dukanos
+	religion = kanyo
+	b_rugohn = tribal
+368.3.1 = {
+	religion = rerech
+}
+
+401.3.1 = {
+	religion = kanyo
+}
+
+675.3.1 = {
+	religion = emonurga
+}
+

@@ -1,0 +1,198 @@
+200.2.1 = {
+	holder = 1000001
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000020
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	holder = 1001213
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.4 = {
+	liege = d_snida
+}
+
+200.2.5 = {
+	holder = 1001214
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.6 = {
+	holder = 1001211
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+238.2.1 = {
+	liege = d_bacupta
+}
+
+238.2.2 = {
+	holder = 1003024
+}
+
+238.2.3 = {
+	liege = d_snida
+}
+
+257.2.1 = {
+	holder = 1007607
+}
+
+259.2.1 = {
+	liege = d_bacupta
+}
+
+259.2.2 = {
+	liege = 0
+}
+
+266.2.1 = {
+	liege = d_snida
+}
+
+266.2.2 = {
+	liege = 0
+}
+
+276.2.1 = {
+	holder = 1009933
+}
+
+277.2.1 = {
+	holder = 1010306
+}
+
+280.2.1 = {
+	holder = 1010477
+}
+
+301.2.1 = {
+	liege = d_snida
+}
+
+301.2.2 = {
+	liege = 0
+}
+
+305.2.1 = {
+	holder = 1012068
+}
+
+316.2.1 = {
+	liege = d_snida
+}
+
+316.2.2 = {
+	liege = 0
+}
+
+328.2.1 = {
+	holder = 1013799
+}
+
+336.2.1 = {
+	liege = d_snida
+}
+
+336.2.2 = {
+	liege = 0
+}
+
+358.2.1 = {
+	holder = 1015095
+}
+
+360.2.1 = {
+	holder = 1017199
+}
+
+361.2.1 = {
+	liege = d_snida
+}
+
+361.2.2 = {
+	liege = 0
+}
+
+367.2.1 = {
+	holder = 1017282
+}
+
+375.2.1 = {
+	liege = d_snida
+}
+
+375.2.2 = {
+	liege = 0
+}
+
+404.2.1 = {
+	holder = 1016880
+}
+
+410.2.1 = {
+	holder = 1020645
+}
+
+411.2.1 = {
+	liege = d_niirat
+}
+
+411.2.2 = {
+	liege = 0
+}
+
+452.2.1 = {
+	holder = 1021950
+}
+
+486.2.1 = {
+	holder = 1023652
+}
+
+508.2.1 = {
+	holder = 1027184
+}
+
+511.2.1 = {
+	holder = 1028717
+}
+
+554.2.1 = {
+	holder = 1029539
+}
+
+584.2.1 = {
+	holder = 1032665
+}
+
+588.2.1 = {
+	holder = 1033712
+}
+
+643.2.1 = {
+	holder = 1035869
+}
+
+662.2.1 = {
+	holder = 1037858
+}
+
+666.2.1 = {
+	holder = 1034537
+}
+
+672.2.1 = {
+	holder = 1038882
+}
+

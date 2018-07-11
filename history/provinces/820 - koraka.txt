@@ -1,0 +1,5 @@
+	title = c_koraka
+	max_settlements = 2
+	culture = tance
+	religion = rgance
+	b_nisan = tribal

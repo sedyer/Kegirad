@@ -1,0 +1,9 @@
+	title = c_kza
+	max_settlements = 6
+	culture = druoksa
+	religion = rgance
+	b_nmaaman = tribal
+323.4.1 = {
+	culture = tance
+}
+

@@ -1,0 +1,5 @@
+	title = c_tilacik
+	max_settlements = 2
+	culture = tance
+	religion = rgance
+	b_dlonan = tribal

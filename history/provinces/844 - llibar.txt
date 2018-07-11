@@ -1,0 +1,9 @@
+	title = c_llibar
+	max_settlements = 3
+	culture = norse
+	religion = rriyya
+	b_lorand = tribal
+230.3.1 = {
+	religion = rgance
+}
+

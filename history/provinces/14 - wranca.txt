@@ -1,0 +1,9 @@
+	title = c_wranca
+	max_settlements = 2
+	culture = akozerta
+	religion = lavukas
+	b_rarice = tribal
+369.4.1 = {
+	culture = taaloin
+}
+

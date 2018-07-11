@@ -1,0 +1,5 @@
+	title = c_keos
+	max_settlements = 2
+	culture = eiremar
+	religion = kmemar
+	b_beos = tribal

@@ -1,0 +1,13 @@
+	title = c_dvesha
+	max_settlements = 2
+	culture = kliz
+	religion = tluku
+	b_tliibma = tribal
+320.3.1 = {
+	religion = wsosro
+}
+
+372.3.1 = {
+	religion = tluku
+}
+

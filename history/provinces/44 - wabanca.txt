@@ -1,0 +1,13 @@
+	title = c_wabanca
+	max_settlements = 2
+	culture = wvaku
+	religion = echukas
+	b_baboge = tribal
+225.4.1 = {
+	culture = kaloet
+}
+
+648.4.1 = {
+	culture = wvaku
+}
+

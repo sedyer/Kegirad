@@ -1,0 +1,9 @@
+	title = c_kubodar
+	max_settlements = 2
+	culture = waurat
+	religion = wering
+	b_rahamey = tribal
+373.4.1 = {
+	culture = dziga
+}
+

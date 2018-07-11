@@ -1,0 +1,57 @@
+	title = c_licus
+	max_settlements = 2
+	culture = scachi
+	religion = rni
+	b_qlunla = tribal
+202.3.1 = {
+	religion = ricily
+}
+
+213.3.1 = {
+	religion = rni
+}
+
+216.3.1 = {
+	religion = ricily
+}
+
+218.3.1 = {
+	religion = rni
+}
+
+221.3.1 = {
+	religion = ricily
+}
+
+222.3.1 = {
+	religion = rni
+}
+
+238.3.1 = {
+	religion = ricily
+}
+
+247.3.1 = {
+	religion = rni
+}
+
+258.3.1 = {
+	religion = ricily
+}
+
+259.3.1 = {
+	religion = rni
+}
+
+260.3.1 = {
+	religion = ricily
+}
+
+282.3.1 = {
+	religion = rni
+}
+
+333.3.1 = {
+	religion = ricily
+}
+

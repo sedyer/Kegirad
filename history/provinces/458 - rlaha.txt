@@ -1,0 +1,17 @@
+	title = c_rlaha
+	max_settlements = 2
+	culture = batanes
+	religion = abonyi
+	b_qiyusay = tribal
+211.4.1 = {
+	culture = dziga
+}
+
+214.4.1 = {
+	culture = batanes
+}
+
+646.4.1 = {
+	culture = qibemas
+}
+

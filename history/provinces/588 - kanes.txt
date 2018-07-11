@@ -1,0 +1,41 @@
+	title = c_kanes
+	max_settlements = 4
+	culture = rresa
+	religion = emonurga
+	b_linia = tribal
+290.3.1 = {
+	religion = kanyo
+}
+
+294.3.1 = {
+	religion = emonurga
+}
+
+311.3.1 = {
+	religion = kanyo
+}
+
+313.3.1 = {
+	religion = emonurga
+}
+
+333.3.1 = {
+	religion = kanyo
+}
+
+349.3.1 = {
+	religion = emonurga
+}
+
+366.3.1 = {
+	religion = kanyo
+}
+
+414.4.1 = {
+	culture = tujeth
+}
+
+654.3.1 = {
+	religion = emonurga
+}
+

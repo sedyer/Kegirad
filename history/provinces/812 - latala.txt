@@ -1,0 +1,5 @@
+	title = c_latala
+	max_settlements = 2
+	culture = dabevi
+	religion = rerech
+	b_rrahevi = tribal

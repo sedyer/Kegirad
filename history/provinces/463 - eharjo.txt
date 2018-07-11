@@ -1,0 +1,9 @@
+	title = c_eharjo
+	max_settlements = 2
+	culture = batanes
+	religion = abonyi
+	b_ababiwoj = tribal
+677.3.1 = {
+	religion = ninala
+}
+

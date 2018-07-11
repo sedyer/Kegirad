@@ -1,0 +1,82 @@
+200.2.1 = {
+	holder = 1000012
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000787
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_ebrani
+}
+
+200.2.4 = {
+	holder = 1000786
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+235.2.1 = {
+	holder = 1003234
+}
+
+236.2.1 = {
+	holder = 1005599
+}
+
+258.2.1 = {
+	holder = 1006304
+}
+
+284.2.1 = {
+	holder = 1010970
+}
+
+369.2.1 = {
+	holder = 1016282
+}
+
+370.2.1 = {
+	holder = 1018027
+}
+
+406.2.1 = {
+	holder = 1018268
+}
+
+420.2.1 = {
+	holder = 1020997
+}
+
+452.2.1 = {
+	liege = k_abegeth
+}
+
+452.2.2 = {
+	holder = 1019694
+}
+
+452.2.3 = {
+	holder = 1021381
+}
+
+600.2.1 = {
+	holder = 1024986
+}
+
+600.2.2 = {
+	holder = 1030834
+}
+
+600.2.3 = {
+	holder = 1031475
+}
+
+700.2.1 = {
+	holder = 1037167
+}
+

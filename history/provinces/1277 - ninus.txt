@@ -1,0 +1,9 @@
+	title = c_ninus
+	max_settlements = 2
+	culture = nemojan
+	religion = ricily
+	b_rnunla = tribal
+497.4.1 = {
+	culture = elada
+}
+

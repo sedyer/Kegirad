@@ -1,0 +1,5 @@
+	title = c_qumeli
+	max_settlements = 2
+	culture = wsaka
+	religion = agamel
+	b_tereli = tribal

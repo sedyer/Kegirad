@@ -1,0 +1,17 @@
+	title = c_siracob
+	max_settlements = 2
+	culture = waurat
+	religion = echukas
+	b_raurega = tribal
+235.3.1 = {
+	religion = abonyi
+}
+
+361.4.1 = {
+	culture = ributhe
+}
+
+639.3.1 = {
+	religion = rerech
+}
+

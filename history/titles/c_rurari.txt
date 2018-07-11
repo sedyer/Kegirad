@@ -1,0 +1,222 @@
+200.2.1 = {
+	holder = 1000030
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1001633
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+200.2.3 = {
+	liege = d_tiloi
+}
+
+200.2.4 = {
+	holder = 1001632
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+200.2.5 = {
+	holder = 1002165
+}
+
+206.2.1 = {
+	liege = d_sabazal
+}
+
+206.2.2 = {
+	holder = 1003526
+}
+
+206.2.3 = {
+	liege = k_tamita
+}
+
+263.2.1 = {
+	liege = d_talana
+}
+
+263.2.2 = {
+	holder = 1008483
+}
+
+300.2.1 = {
+	holder = 1012381
+}
+
+400.2.1 = {
+	holder = 1018590
+}
+
+400.2.2 = {
+	holder = 1020442
+}
+
+500.2.1 = {
+	holder = 1023518
+}
+
+500.2.2 = {
+	holder = 1027864
+}
+
+522.2.1 = {
+	holder = 1028172
+}
+
+523.2.1 = {
+	holder = 1024555
+}
+
+540.2.1 = {
+	holder = 1029798
+}
+
+544.2.1 = {
+	liege = d_tiloi
+}
+
+560.2.1 = {
+	holder = 1030888
+}
+
+571.2.1 = {
+	liege = d_asimana
+}
+
+571.2.2 = {
+	liege = 0
+}
+
+577.2.1 = {
+	liege = d_tiloi
+}
+
+577.2.2 = {
+	liege = 0
+}
+
+579.2.1 = {
+	liege = d_tiloi
+}
+
+579.2.2 = {
+	liege = 0
+}
+
+583.2.1 = {
+	liege = d_tiloi
+}
+
+583.2.2 = {
+	liege = 0
+}
+
+598.2.1 = {
+	liege = d_tiloi
+}
+
+598.2.2 = {
+	liege = 0
+}
+
+599.2.1 = {
+	liege = d_asimana
+}
+
+599.2.2 = {
+	liege = 0
+}
+
+600.2.1 = {
+	liege = 0
+}
+
+600.2.2 = {
+	liege = k_dyalat
+}
+
+610.2.1 = {
+	liege = d_tiloi
+}
+
+610.2.2 = {
+	liege = 0
+}
+
+612.2.1 = {
+	holder = 1031385
+}
+
+613.2.1 = {
+	holder = 1035563
+}
+
+617.2.1 = {
+	holder = 1035678
+}
+
+621.2.1 = {
+	liege = d_asimana
+}
+
+621.2.2 = {
+	liege = 0
+}
+
+634.2.1 = {
+	liege = d_asimana
+}
+
+634.2.2 = {
+	liege = 0
+}
+
+640.2.1 = {
+	liege = d_tiloi
+}
+
+640.2.2 = {
+	liege = 0
+}
+
+640.2.3 = {
+	holder = 1037202
+}
+
+656.2.1 = {
+	liege = d_tiloi
+}
+
+656.2.2 = {
+	liege = 0
+}
+
+671.2.1 = {
+	liege = 0
+}
+
+671.2.2 = {
+	liege = k_welega
+}
+
+674.2.1 = {
+	liege = d_asimana
+}
+
+674.2.2 = {
+	liege = d_tiloi
+}
+
+674.2.3 = {
+	liege = 0
+}
+
+679.2.1 = {
+	holder = 1038021
+}
+

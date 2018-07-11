@@ -1,0 +1,9 @@
+	title = c_rakesha
+	max_settlements = 7
+	culture = norse
+	religion = rgance
+	b_kavick = tribal
+277.4.1 = {
+	culture = krance
+}
+

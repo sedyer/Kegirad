@@ -1,0 +1,37 @@
+	title = c_emanesh
+	max_settlements = 4
+	culture = srisre
+	religion = emonurga
+	b_boduthe = tribal
+200.3.1 = {
+	religion = rerech
+}
+
+212.3.1 = {
+	religion = emonurga
+}
+
+224.3.1 = {
+	religion = rerech
+}
+
+245.3.1 = {
+	religion = emonurga
+}
+
+260.3.1 = {
+	religion = rerech
+}
+
+264.3.1 = {
+	religion = emonurga
+}
+
+487.3.1 = {
+	religion = rerech
+}
+
+690.4.1 = {
+	culture = racine
+}
+

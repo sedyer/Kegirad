@@ -1,0 +1,5 @@
+	title = c_ddevi
+	max_settlements = 2
+	culture = batanes
+	religion = abonyi
+	b_dayunja = tribal

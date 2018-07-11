@@ -1,0 +1,13 @@
+	title = c_bamega
+	max_settlements = 2
+	culture = ejoanel
+	religion = emonurga
+	b_tyalner = tribal
+289.3.1 = {
+	religion = echukas
+}
+
+442.4.1 = {
+	culture = safha
+}
+

@@ -1,0 +1,25 @@
+	title = c_rausein
+	max_settlements = 2
+	culture = qsuthe
+	religion = rerech
+	b_nausart = tribal
+244.3.1 = {
+	religion = abonyi
+}
+
+255.4.1 = {
+	culture = edanyi
+}
+
+280.3.1 = {
+	religion = rerech
+}
+
+287.3.1 = {
+	religion = abonyi
+}
+
+353.3.1 = {
+	religion = emonurga
+}
+

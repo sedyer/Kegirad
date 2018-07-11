@@ -1,0 +1,9 @@
+	title = c_kauloi
+	max_settlements = 2
+	culture = wubutr
+	religion = echukas
+	b_esadad = tribal
+270.3.1 = {
+	religion = wozine
+}
+

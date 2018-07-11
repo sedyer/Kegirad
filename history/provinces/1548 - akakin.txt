@@ -1,0 +1,17 @@
+	title = c_akakin
+	max_settlements = 5
+	culture = learah
+	religion = emonurga
+	b_budana = tribal
+412.3.1 = {
+	religion = takice
+}
+
+580.4.1 = {
+	culture = rresa
+}
+
+585.3.1 = {
+	religion = emonurga
+}
+

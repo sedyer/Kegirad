@@ -1,0 +1,17 @@
+	title = c_ewereli
+	max_settlements = 2
+	culture = tilirat
+	religion = agamel
+	b_tigur = tribal
+227.3.1 = {
+	religion = tedusa
+}
+
+235.3.1 = {
+	religion = agamel
+}
+
+491.4.1 = {
+	culture = alert
+}
+

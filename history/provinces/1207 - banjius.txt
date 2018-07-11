@@ -1,0 +1,49 @@
+	title = c_banjius
+	max_settlements = 2
+	culture = balilof
+	religion = rni
+	b_rdalia = tribal
+200.3.1 = {
+	religion = ticojan
+}
+
+218.3.1 = {
+	religion = rni
+}
+
+218.3.1 = {
+	religion = ticojan
+}
+
+221.3.1 = {
+	religion = rni
+}
+
+261.3.1 = {
+	religion = ticojan
+}
+
+265.3.1 = {
+	religion = rni
+}
+
+287.3.1 = {
+	religion = ticojan
+}
+
+289.3.1 = {
+	religion = rni
+}
+
+299.3.1 = {
+	religion = ticojan
+}
+
+303.3.1 = {
+	religion = rni
+}
+
+326.3.1 = {
+	religion = ticojan
+}
+

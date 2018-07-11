@@ -1,0 +1,794 @@
+200.2.1 = {
+	holder = 1000019
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1001154
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_netius
+}
+
+200.2.4 = {
+	holder = 1001153
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+300.2.1 = {
+	holder = 1009444
+}
+
+300.2.2 = {
+	holder = 1012318
+}
+
+400.2.1 = {
+	holder = 1020000
+}
+
+442.2.1 = {
+	holder = 1020769
+}
+
+443.2.1 = {
+	holder = 1023640
+}
+
+444.2.1 = {
+	holder = 1021512
+}
+
+445.2.1 = {
+	holder = 1023769
+}
+
+445.2.2 = {
+	liege = k_tsahid
+}
+
+445.2.3 = {
+	holder = 1022594
+}
+
+445.2.4 = {
+	holder = 1023789
+}
+
+465.2.1 = {
+	holder = 1022653
+}
+
+465.2.2 = {
+	holder = 1025263
+}
+
+467.2.1 = {
+	liege = d_qrisfan
+}
+
+474.2.1 = {
+	liege = d_qrisfan
+}
+
+474.2.2 = {
+	liege = k_buyinen
+}
+
+475.2.1 = {
+	liege = d_qrisfan
+}
+
+475.2.2 = {
+	liege = k_buyinen
+}
+
+476.2.1 = {
+	liege = d_qrisfan
+}
+
+476.2.2 = {
+	liege = k_buyinen
+}
+
+477.2.1 = {
+	liege = d_qrisfan
+}
+
+477.2.2 = {
+	liege = k_buyinen
+}
+
+478.2.1 = {
+	liege = d_qrisfan
+}
+
+478.2.2 = {
+	liege = k_buyinen
+}
+
+479.2.1 = {
+	liege = d_qrisfan
+}
+
+479.2.2 = {
+	liege = k_buyinen
+}
+
+480.2.1 = {
+	liege = d_qrisfan
+}
+
+480.2.2 = {
+	liege = k_buyinen
+}
+
+481.2.1 = {
+	liege = d_qrisfan
+}
+
+481.2.2 = {
+	liege = k_buyinen
+}
+
+482.2.1 = {
+	liege = d_qrisfan
+}
+
+482.2.2 = {
+	liege = k_buyinen
+}
+
+483.2.1 = {
+	liege = d_qrisfan
+}
+
+483.2.2 = {
+	liege = k_buyinen
+}
+
+484.2.1 = {
+	liege = d_qrisfan
+}
+
+484.2.2 = {
+	liege = k_buyinen
+}
+
+485.2.1 = {
+	liege = d_qrisfan
+}
+
+485.2.2 = {
+	liege = k_buyinen
+}
+
+486.2.1 = {
+	liege = d_qrisfan
+}
+
+486.2.2 = {
+	liege = k_buyinen
+}
+
+487.2.1 = {
+	liege = d_qrisfan
+}
+
+487.2.2 = {
+	liege = k_buyinen
+}
+
+488.2.1 = {
+	holder = 1026553
+}
+
+488.2.2 = {
+	liege = d_qrisfan
+}
+
+488.2.3 = {
+	liege = k_buyinen
+}
+
+489.2.1 = {
+	liege = d_qrisfan
+}
+
+489.2.2 = {
+	liege = k_buyinen
+}
+
+490.2.1 = {
+	liege = d_qrisfan
+}
+
+490.2.2 = {
+	liege = k_buyinen
+}
+
+491.2.1 = {
+	liege = d_qrisfan
+}
+
+491.2.2 = {
+	liege = k_buyinen
+}
+
+492.2.1 = {
+	liege = d_qrisfan
+}
+
+492.2.2 = {
+	liege = k_buyinen
+}
+
+493.2.1 = {
+	liege = d_qrisfan
+}
+
+493.2.2 = {
+	liege = k_buyinen
+}
+
+494.2.1 = {
+	liege = d_qrisfan
+}
+
+494.2.2 = {
+	liege = k_buyinen
+}
+
+495.2.1 = {
+	liege = d_qrisfan
+}
+
+495.2.2 = {
+	liege = k_buyinen
+}
+
+496.2.1 = {
+	liege = d_qacanes
+}
+
+496.2.2 = {
+	liege = k_buyinen
+}
+
+497.2.1 = {
+	liege = d_qacanes
+}
+
+497.2.2 = {
+	liege = k_waleth
+}
+
+498.2.1 = {
+	liege = d_qacanes
+}
+
+498.2.2 = {
+	liege = k_waleth
+}
+
+499.2.1 = {
+	liege = d_qacanes
+}
+
+499.2.2 = {
+	liege = k_waleth
+}
+
+500.2.1 = {
+	liege = d_qrisfan
+}
+
+500.2.2 = {
+	liege = k_waleth
+}
+
+501.2.1 = {
+	liege = d_qrisfan
+}
+
+501.2.2 = {
+	liege = k_waleth
+}
+
+502.2.1 = {
+	liege = d_qrisfan
+}
+
+502.2.2 = {
+	liege = k_waleth
+}
+
+503.2.1 = {
+	liege = d_qrisfan
+}
+
+503.2.2 = {
+	liege = k_waleth
+}
+
+504.2.1 = {
+	liege = d_qrisfan
+}
+
+504.2.2 = {
+	liege = k_waleth
+}
+
+505.2.1 = {
+	liege = d_qrisfan
+}
+
+505.2.2 = {
+	liege = k_waleth
+}
+
+506.2.1 = {
+	liege = d_qrisfan
+}
+
+506.2.2 = {
+	liege = k_waleth
+}
+
+507.2.1 = {
+	liege = d_qrisfan
+}
+
+507.2.2 = {
+	liege = k_waleth
+}
+
+508.2.1 = {
+	liege = d_qrisfan
+}
+
+508.2.2 = {
+	liege = k_waleth
+}
+
+509.2.1 = {
+	liege = d_qrisfan
+}
+
+509.2.2 = {
+	liege = k_waleth
+}
+
+510.2.1 = {
+	liege = d_qrisfan
+}
+
+510.2.2 = {
+	liege = k_waleth
+}
+
+511.2.1 = {
+	liege = d_qrisfan
+}
+
+511.2.2 = {
+	liege = k_waleth
+}
+
+512.2.1 = {
+	liege = d_qrisfan
+}
+
+512.2.2 = {
+	liege = k_waleth
+}
+
+513.2.1 = {
+	liege = d_qrisfan
+}
+
+513.2.2 = {
+	liege = k_waleth
+}
+
+514.2.1 = {
+	liege = d_qrisfan
+}
+
+514.2.2 = {
+	liege = k_waleth
+}
+
+515.2.1 = {
+	liege = d_qrisfan
+}
+
+515.2.2 = {
+	liege = k_waleth
+}
+
+516.2.1 = {
+	liege = d_qrisfan
+}
+
+516.2.2 = {
+	liege = k_waleth
+}
+
+517.2.1 = {
+	liege = d_qrisfan
+}
+
+517.2.2 = {
+	liege = k_waleth
+}
+
+518.2.1 = {
+	liege = d_qrisfan
+}
+
+518.2.2 = {
+	liege = k_waleth
+}
+
+519.2.1 = {
+	liege = d_qrisfan
+}
+
+519.2.2 = {
+	liege = k_waleth
+}
+
+520.2.1 = {
+	liege = d_qrisfan
+}
+
+520.2.2 = {
+	liege = k_buyinen
+}
+
+521.2.1 = {
+	liege = d_qrisfan
+}
+
+521.2.2 = {
+	liege = k_buyinen
+}
+
+522.2.1 = {
+	liege = d_qrisfan
+}
+
+522.2.2 = {
+	liege = k_buyinen
+}
+
+523.2.1 = {
+	liege = d_qrisfan
+}
+
+523.2.2 = {
+	liege = k_buyinen
+}
+
+524.2.1 = {
+	liege = d_qrisfan
+}
+
+524.2.2 = {
+	liege = k_buyinen
+}
+
+525.2.1 = {
+	liege = d_qrisfan
+}
+
+525.2.2 = {
+	liege = k_buyinen
+}
+
+526.2.1 = {
+	liege = d_qrisfan
+}
+
+526.2.2 = {
+	liege = k_buyinen
+}
+
+527.2.1 = {
+	liege = d_qrisfan
+}
+
+527.2.2 = {
+	liege = k_buyinen
+}
+
+528.2.1 = {
+	liege = d_qrisfan
+}
+
+528.2.2 = {
+	liege = k_buyinen
+}
+
+529.2.1 = {
+	liege = d_qrisfan
+}
+
+529.2.2 = {
+	liege = k_buyinen
+}
+
+530.2.1 = {
+	liege = d_qrisfan
+}
+
+530.2.2 = {
+	liege = k_buyinen
+}
+
+531.2.1 = {
+	liege = d_qrisfan
+}
+
+531.2.2 = {
+	liege = k_buyinen
+}
+
+532.2.1 = {
+	liege = d_qrisfan
+}
+
+532.2.2 = {
+	liege = k_buyinen
+}
+
+533.2.1 = {
+	liege = d_qrisfan
+}
+
+533.2.2 = {
+	liege = k_buyinen
+}
+
+534.2.1 = {
+	liege = d_qrisfan
+}
+
+534.2.2 = {
+	liege = k_buyinen
+}
+
+535.2.1 = {
+	liege = d_qrisfan
+}
+
+535.2.2 = {
+	liege = k_buyinen
+}
+
+536.2.1 = {
+	liege = d_qrisfan
+}
+
+536.2.2 = {
+	liege = k_buyinen
+}
+
+537.2.1 = {
+	liege = d_qrisfan
+}
+
+537.2.2 = {
+	liege = k_buyinen
+}
+
+538.2.1 = {
+	liege = d_qrisfan
+}
+
+538.2.2 = {
+	liege = k_buyinen
+}
+
+539.2.1 = {
+	liege = d_qrisfan
+}
+
+539.2.2 = {
+	liege = k_buyinen
+}
+
+540.2.1 = {
+	liege = d_qrisfan
+}
+
+540.2.2 = {
+	liege = k_waleth
+}
+
+541.2.1 = {
+	liege = d_qrisfan
+}
+
+541.2.2 = {
+	liege = k_waleth
+}
+
+542.2.1 = {
+	liege = d_qrisfan
+}
+
+542.2.2 = {
+	liege = k_waleth
+}
+
+543.2.1 = {
+	liege = d_qacanes
+}
+
+543.2.2 = {
+	holder = 1027962
+}
+
+543.2.3 = {
+	liege = d_qrisfan
+}
+
+543.2.4 = {
+	liege = k_waleth
+}
+
+544.2.1 = {
+	liege = d_qacanes
+}
+
+544.2.2 = {
+	liege = d_qacanes
+}
+
+544.2.3 = {
+	liege = k_kziga
+}
+
+544.2.4 = {
+	liege = d_qacanes
+}
+
+544.2.5 = {
+	liege = k_waleth
+}
+
+545.2.1 = {
+	liege = d_qacanes
+}
+
+545.2.2 = {
+	liege = k_waleth
+}
+
+546.2.1 = {
+	liege = d_qacanes
+}
+
+546.2.2 = {
+	liege = k_waleth
+}
+
+547.2.1 = {
+	liege = d_qacanes
+}
+
+547.2.2 = {
+	liege = k_waleth
+}
+
+548.2.1 = {
+	liege = d_qacanes
+}
+
+548.2.2 = {
+	liege = k_waleth
+}
+
+549.2.1 = {
+	holder = 1030972
+}
+
+549.2.2 = {
+	liege = d_qacanes
+}
+
+549.2.3 = {
+	liege = k_waleth
+}
+
+550.2.1 = {
+	liege = d_qacanes
+}
+
+550.2.2 = {
+	liege = k_waleth
+}
+
+551.2.1 = {
+	liege = d_qacanes
+}
+
+551.2.2 = {
+	liege = k_waleth
+}
+
+552.2.1 = {
+	holder = 1027982
+}
+
+552.2.2 = {
+	holder = 1028645
+}
+
+552.2.3 = {
+	liege = k_tsahid
+}
+
+552.2.4 = {
+	holder = 1025258
+}
+
+553.2.1 = {
+	holder = 1031466
+}
+
+557.2.1 = {
+	liege = k_sinahid
+}
+
+557.2.2 = {
+	liege = d_werutus
+}
+
+569.2.1 = {
+	liege = k_rekusa
+}
+
+569.2.2 = {
+	holder = 1030220
+}
+
+569.2.3 = {
+	holder = 1032534
+}
+
+569.2.4 = {
+	liege = k_waleth
+}
+
+569.2.5 = {
+	holder = 1032437
+}
+
+570.2.1 = {
+	holder = 1032600
+}
+
+570.2.2 = {
+	liege = k_wsuthe
+}
+
+570.2.3 = {
+	holder = 1032455
+}
+
+571.2.1 = {
+	holder = 1032668
+}
+
+692.2.1 = {
+	holder = 1040202
+}
+

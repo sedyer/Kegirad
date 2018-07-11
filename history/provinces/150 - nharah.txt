@@ -1,0 +1,13 @@
+	title = c_nharah
+	max_settlements = 2
+	culture = tilirat
+	religion = slonan
+	b_nsayla = tribal
+218.3.1 = {
+	religion = rerech
+}
+
+424.4.1 = {
+	culture = rinmi
+}
+

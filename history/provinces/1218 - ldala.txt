@@ -1,0 +1,13 @@
+	title = c_ldala
+	max_settlements = 2
+	culture = balilof
+	religion = rni
+	b_kicimir = tribal
+215.3.1 = {
+	religion = takice
+}
+
+292.3.1 = {
+	religion = ticojan
+}
+

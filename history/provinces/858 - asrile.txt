@@ -1,0 +1,17 @@
+	title = c_asrile
+	max_settlements = 2
+	culture = wlick
+	religion = ninala
+	b_qoulka = tribal
+210.3.1 = {
+	religion = tluku
+}
+
+212.3.1 = {
+	religion = ninala
+}
+
+306.3.1 = {
+	religion = tluku
+}
+

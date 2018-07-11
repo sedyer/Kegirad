@@ -1,0 +1,13 @@
+	title = c_korory
+	max_settlements = 6
+	culture = batanes
+	religion = rerech
+	b_damita = tribal
+281.3.1 = {
+	religion = emonurga
+}
+
+695.3.1 = {
+	religion = rerech
+}
+

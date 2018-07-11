@@ -1,0 +1,86 @@
+200.2.1 = {
+	holder = 1000031
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1001721
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_lorel
+}
+
+200.2.4 = {
+	holder = 1001720
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+248.2.1 = {
+	holder = 1007721
+}
+
+400.2.1 = {
+	holder = 1018888
+}
+
+409.2.1 = {
+	liege = d_thuken
+}
+
+409.2.2 = {
+	holder = 1018997
+}
+
+409.2.3 = {
+	liege = d_lorel
+}
+
+434.2.1 = {
+	holder = 1021217
+}
+
+435.2.1 = {
+	holder = 1023060
+}
+
+473.2.1 = {
+	holder = 1023939
+}
+
+473.2.2 = {
+	holder = 1025825
+}
+
+509.2.1 = {
+	holder = 1026554
+}
+
+521.2.1 = {
+	holder = 1028908
+}
+
+564.2.1 = {
+	holder = 1032213
+}
+
+602.2.1 = {
+	holder = 1034923
+}
+
+649.2.1 = {
+	holder = 1035050
+}
+
+659.2.1 = {
+	holder = 1038332
+}
+
+700.2.1 = {
+	holder = 1039211
+}
+

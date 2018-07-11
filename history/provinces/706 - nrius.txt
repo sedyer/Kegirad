@@ -1,0 +1,17 @@
+	title = c_nrius
+	max_settlements = 2
+	culture = dogugis
+	religion = kmemar
+	b_nalada = tribal
+300.3.1 = {
+	religion = ninala
+}
+
+544.3.1 = {
+	religion = kmemar
+}
+
+617.4.1 = {
+	culture = eiremar
+}
+

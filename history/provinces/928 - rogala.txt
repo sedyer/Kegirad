@@ -1,0 +1,13 @@
+	title = c_rogala
+	max_settlements = 7
+	culture = norse
+	religion = rgance
+	b_esusemey = tribal
+376.3.1 = {
+	religion = qriibma
+}
+
+586.4.1 = {
+	culture = bavirat
+}
+

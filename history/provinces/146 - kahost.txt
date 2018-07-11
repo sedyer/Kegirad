@@ -1,0 +1,9 @@
+	title = c_kahost
+	max_settlements = 2
+	culture = relita
+	religion = echukas
+	b_kijah = tribal
+363.4.1 = {
+	culture = kujacob
+}
+

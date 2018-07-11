@@ -1,0 +1,17 @@
+	title = c_riibma
+	max_settlements = 3
+	culture = bodoba
+	religion = wsosro
+	b_wousra = tribal
+258.3.1 = {
+	religion = nerapur
+}
+
+266.3.1 = {
+	religion = wsosro
+}
+
+378.3.1 = {
+	religion = tluku
+}
+

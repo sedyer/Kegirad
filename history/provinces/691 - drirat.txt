@@ -1,0 +1,9 @@
+	title = c_drirat
+	max_settlements = 7
+	culture = rmada
+	religion = wsosro
+	b_wvance = tribal
+489.3.1 = {
+	religion = tluku
+}
+

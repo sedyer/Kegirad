@@ -1,0 +1,9 @@
+	title = c_sonai
+	max_settlements = 2
+	culture = ekozusa
+	religion = emonurga
+	b_lekyava = tribal
+257.3.1 = {
+	religion = agrakma
+}
+

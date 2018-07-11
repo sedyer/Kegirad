@@ -1,0 +1,53 @@
+	title = c_kutiona
+	max_settlements = 7
+	culture = dukanos
+	religion = emonurga
+	b_qosonia = tribal
+206.3.1 = {
+	religion = agrakma
+}
+
+211.3.1 = {
+	religion = emonurga
+}
+
+214.3.1 = {
+	religion = agrakma
+}
+
+217.3.1 = {
+	religion = emonurga
+}
+
+231.3.1 = {
+	religion = agrakma
+}
+
+239.3.1 = {
+	religion = emonurga
+}
+
+240.3.1 = {
+	religion = agrakma
+}
+
+246.3.1 = {
+	religion = emonurga
+}
+
+249.3.1 = {
+	religion = agrakma
+}
+
+251.3.1 = {
+	religion = emonurga
+}
+
+291.4.1 = {
+	culture = roralka
+}
+
+612.4.1 = {
+	culture = borama
+}
+

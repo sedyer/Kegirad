@@ -1,0 +1,29 @@
+	title = c_qerva
+	max_settlements = 7
+	culture = rresa
+	religion = emonurga
+	b_qerohn = tribal
+204.3.1 = {
+	religion = bukena
+}
+
+230.3.1 = {
+	religion = emonurga
+}
+
+358.3.1 = {
+	religion = bukena
+}
+
+442.3.1 = {
+	religion = emonurga
+}
+
+496.3.1 = {
+	religion = kanyo
+}
+
+502.3.1 = {
+	religion = emonurga
+}
+

@@ -1,0 +1,9 @@
+	title = c_weekech
+	max_settlements = 2
+	culture = svare
+	religion = echukas
+	b_biriga = tribal
+359.4.1 = {
+	culture = qerta
+}
+

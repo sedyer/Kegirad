@@ -1,0 +1,17 @@
+	title = c_toluje
+	max_settlements = 2
+	culture = batna
+	religion = ricily
+	b_dluje = tribal
+255.4.1 = {
+	culture = scachi
+}
+
+268.3.1 = {
+	religion = rni
+}
+
+327.3.1 = {
+	religion = ricily
+}
+

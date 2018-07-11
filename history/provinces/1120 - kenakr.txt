@@ -1,0 +1,5 @@
+	title = c_kenakr
+	max_settlements = 2
+	culture = balilof
+	religion = rni
+	b_tanusas = tribal

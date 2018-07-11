@@ -1,0 +1,13 @@
+	title = c_ryuta
+	max_settlements = 3
+	culture = elada
+	religion = ricily
+	b_rinein = tribal
+258.4.1 = {
+	culture = nemojan
+}
+
+311.4.1 = {
+	culture = elada
+}
+

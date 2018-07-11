@@ -1,0 +1,22 @@
+200.2.1 = {
+	holder = 1000516
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	liege = k_esyace
+}
+
+226.2.1 = {
+	holder = 1000508
+}
+
+253.2.1 = {
+	holder = 1003158
+}
+
+254.2.1 = {
+	liege = 0
+}
+

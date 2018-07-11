@@ -1,0 +1,29 @@
+	title = c_qarene
+	max_settlements = 2
+	culture = tolugis
+	religion = ninala
+	b_dietew = tribal
+216.3.1 = {
+	religion = rerech
+}
+
+233.3.1 = {
+	religion = ninala
+}
+
+234.3.1 = {
+	religion = rerech
+}
+
+324.4.1 = {
+	culture = kanaha
+}
+
+391.3.1 = {
+	religion = abonyi
+}
+
+603.3.1 = {
+	religion = ninala
+}
+

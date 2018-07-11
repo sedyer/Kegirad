@@ -1,0 +1,9 @@
+	title = c_ninein
+	max_settlements = 3
+	culture = nemojan
+	religion = ricily
+	b_ekanen = tribal
+397.4.1 = {
+	culture = elada
+}
+

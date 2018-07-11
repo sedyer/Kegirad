@@ -1,0 +1,17 @@
+	title = c_qolapur
+	max_settlements = 7
+	culture = wiragop
+	religion = emonurga
+	b_roloaz = tribal
+203.3.1 = {
+	religion = takice
+}
+
+294.4.1 = {
+	culture = amurein
+}
+
+611.4.1 = {
+	culture = rresa
+}
+

@@ -1,0 +1,13 @@
+	title = c_kruoksa
+	max_settlements = 2
+	culture = bodoba
+	religion = rerech
+	b_acatebe = tribal
+210.3.1 = {
+	religion = tluku
+}
+
+397.3.1 = {
+	religion = rerech
+}
+

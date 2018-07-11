@@ -1,0 +1,5 @@
+	title = c_tozeid
+	max_settlements = 2
+	culture = telita
+	religion = echukas
+	b_bhoin = tribal

@@ -1,0 +1,85 @@
+	title = c_ramien
+	max_settlements = 2
+	culture = eliuden
+	religion = ninala
+	b_keot = tribal
+202.3.1 = {
+	religion = wsosro
+}
+
+202.4.1 = {
+	culture = bodoba
+}
+
+210.3.1 = {
+	religion = kmemar
+}
+
+211.3.1 = {
+	religion = wsosro
+}
+
+223.3.1 = {
+	religion = kmemar
+}
+
+223.3.1 = {
+	religion = wsosro
+}
+
+238.3.1 = {
+	religion = ninala
+}
+
+241.4.1 = {
+	culture = dogugis
+}
+
+243.3.1 = {
+	religion = kmemar
+}
+
+252.3.1 = {
+	religion = ninala
+}
+
+285.3.1 = {
+	religion = wsosro
+}
+
+289.3.1 = {
+	religion = ninala
+}
+
+290.3.1 = {
+	religion = wsosro
+}
+
+290.3.1 = {
+	religion = ninala
+}
+
+292.3.1 = {
+	religion = wsosro
+}
+
+296.3.1 = {
+	religion = ninala
+}
+
+539.3.1 = {
+	religion = kmemar
+}
+
+539.4.1 = {
+	culture = eiremar
+}
+
+619.3.1 = {
+	religion = wsosro
+}
+
+681.4.1 = {
+	culture = lorius
+}
+

@@ -1,0 +1,17 @@
+	title = c_wusmi
+	max_settlements = 2
+	culture = qmaraja
+	religion = rerech
+	b_raraya = tribal
+256.3.1 = {
+	religion = abonyi
+}
+
+478.4.1 = {
+	culture = qusala
+}
+
+683.4.1 = {
+	culture = kanaha
+}
+

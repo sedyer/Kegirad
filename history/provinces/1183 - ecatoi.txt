@@ -1,0 +1,25 @@
+	title = c_ecatoi
+	max_settlements = 7
+	culture = leuleja
+	religion = takice
+	b_nyiya = tribal
+270.3.1 = {
+	religion = wsosro
+}
+
+384.4.1 = {
+	culture = katunn
+}
+
+441.4.1 = {
+	culture = leuleja
+}
+
+542.4.1 = {
+	culture = katunn
+}
+
+568.3.1 = {
+	religion = rni
+}
+

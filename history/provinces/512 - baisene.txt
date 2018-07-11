@@ -1,0 +1,25 @@
+	title = c_baisene
+	max_settlements = 2
+	culture = batanes
+	religion = abonyi
+	b_wremis = tribal
+227.3.1 = {
+	religion = rerech
+}
+
+428.3.1 = {
+	religion = emonurga
+}
+
+431.3.1 = {
+	religion = rerech
+}
+
+437.3.1 = {
+	religion = emonurga
+}
+
+584.3.1 = {
+	religion = rerech
+}
+

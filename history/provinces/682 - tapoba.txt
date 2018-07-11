@@ -1,0 +1,21 @@
+	title = c_tapoba
+	max_settlements = 5
+	culture = dogugis
+	religion = ninala
+	b_tamaud = tribal
+210.3.1 = {
+	religion = wsosro
+}
+
+236.3.1 = {
+	religion = ninala
+}
+
+568.3.1 = {
+	religion = wsosro
+}
+
+581.4.1 = {
+	culture = lorius
+}
+

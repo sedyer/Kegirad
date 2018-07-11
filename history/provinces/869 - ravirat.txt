@@ -1,0 +1,5 @@
+	title = c_ravirat
+	max_settlements = 4
+	culture = drebe
+	religion = tluku
+	b_klile = tribal

@@ -1,0 +1,13 @@
+	title = c_epauliz
+	max_settlements = 4
+	culture = katunn
+	religion = takice
+	b_drri = tribal
+229.4.1 = {
+	culture = kerin
+}
+
+626.3.1 = {
+	religion = rni
+}
+

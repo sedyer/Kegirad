@@ -1,0 +1,17 @@
+	title = c_kuludah
+	max_settlements = 2
+	culture = ranjada
+	religion = ticojan
+	b_tteja = tribal
+245.4.1 = {
+	culture = kerada
+}
+
+489.4.1 = {
+	culture = balilof
+}
+
+514.4.1 = {
+	culture = kerada
+}
+

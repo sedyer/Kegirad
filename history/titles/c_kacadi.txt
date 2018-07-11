@@ -1,0 +1,332 @@
+200.2.1 = {
+	holder = 1000002
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	liege = d_staud
+}
+
+200.2.3 = {
+	liege = d_quriyya
+}
+
+200.2.4 = {
+	holder = 1000185
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+232.2.1 = {
+	holder = 1004259
+}
+
+243.2.1 = {
+	holder = 1006751
+}
+
+297.2.1 = {
+	liege = d_wiiroaz
+}
+
+297.2.2 = {
+	holder = 1009092
+}
+
+298.2.1 = {
+	holder = 1011894
+}
+
+298.2.2 = {
+	holder = 1007507
+}
+
+351.2.1 = {
+	liege = k_wogeard
+}
+
+351.2.2 = {
+	holder = 1014656
+}
+
+351.2.3 = {
+	liege = d_acatoaz
+}
+
+351.2.4 = {
+	holder = 1016199
+}
+
+388.2.1 = {
+	liege = d_baloba
+}
+
+388.2.2 = {
+	liege = 0
+}
+
+388.2.3 = {
+	holder = 1017562
+}
+
+394.2.1 = {
+	holder = 1019847
+}
+
+394.2.2 = {
+	liege = k_wogeard
+}
+
+484.2.1 = {
+	holder = 1025312
+}
+
+501.2.1 = {
+	holder = 1026484
+}
+
+513.2.1 = {
+	liege = d_sabeja
+}
+
+513.2.2 = {
+	holder = 1026560
+}
+
+517.2.1 = {
+	liege = d_sabeja
+}
+
+517.2.2 = {
+	liege = k_bolivai
+}
+
+518.2.1 = {
+	liege = d_sabeja
+}
+
+518.2.2 = {
+	liege = k_bolivai
+}
+
+519.2.1 = {
+	liege = d_sabeja
+}
+
+519.2.2 = {
+	liege = k_bolivai
+}
+
+520.2.1 = {
+	liege = d_sabeja
+}
+
+520.2.2 = {
+	liege = k_bolivai
+}
+
+521.2.1 = {
+	liege = d_sabeja
+}
+
+521.2.2 = {
+	liege = k_bolivai
+}
+
+522.2.1 = {
+	liege = d_sabeja
+}
+
+522.2.2 = {
+	liege = k_bolivai
+}
+
+523.2.1 = {
+	liege = d_sabeja
+}
+
+523.2.2 = {
+	liege = k_bolivai
+}
+
+524.2.1 = {
+	liege = d_sabeja
+}
+
+524.2.2 = {
+	liege = k_bolivai
+}
+
+524.2.3 = {
+	holder = 1026647
+}
+
+525.2.1 = {
+	liege = d_sabeja
+}
+
+525.2.2 = {
+	liege = k_bolivai
+}
+
+525.2.3 = {
+	holder = 1026565
+}
+
+526.2.1 = {
+	liege = d_sabeja
+}
+
+526.2.2 = {
+	liege = k_bolivai
+}
+
+527.2.1 = {
+	liege = d_sabeja
+}
+
+527.2.2 = {
+	liege = k_bolivai
+}
+
+528.2.1 = {
+	liege = d_sabeja
+}
+
+528.2.2 = {
+	liege = k_bolivai
+}
+
+529.2.1 = {
+	liege = d_sabeja
+}
+
+529.2.2 = {
+	liege = k_bolivai
+}
+
+530.2.1 = {
+	liege = d_sabeja
+}
+
+530.2.2 = {
+	liege = k_bolivai
+}
+
+530.2.3 = {
+	holder = 1029971
+}
+
+531.2.1 = {
+	liege = d_sabeja
+}
+
+531.2.2 = {
+	liege = k_bolivai
+}
+
+532.2.1 = {
+	liege = d_sabeja
+}
+
+532.2.2 = {
+	liege = k_bolivai
+}
+
+533.2.1 = {
+	liege = d_sabeja
+}
+
+533.2.2 = {
+	liege = k_bolivai
+}
+
+534.2.1 = {
+	liege = d_sabeja
+}
+
+534.2.2 = {
+	liege = k_bolivai
+}
+
+535.2.1 = {
+	liege = d_sabeja
+}
+
+535.2.2 = {
+	liege = k_bolivai
+}
+
+536.2.1 = {
+	liege = d_sabeja
+}
+
+536.2.2 = {
+	liege = k_bolivai
+}
+
+537.2.1 = {
+	liege = d_sabeja
+}
+
+537.2.2 = {
+	liege = k_bolivai
+}
+
+538.2.1 = {
+	liege = d_kopudis
+}
+
+538.2.2 = {
+	liege = 0
+}
+
+538.2.3 = {
+	holder = 1028260
+}
+
+538.2.4 = {
+	holder = 1030462
+}
+
+538.2.5 = {
+	liege = k_dararet
+}
+
+538.2.6 = {
+	liege = k_bolivai
+}
+
+538.2.7 = {
+	holder = 1027652
+}
+
+539.2.1 = {
+	holder = 1026718
+}
+
+600.2.1 = {
+	holder = 1027658
+}
+
+600.2.2 = {
+	liege = d_alasha
+}
+
+600.2.3 = {
+	liege = d_drael
+}
+
+600.2.4 = {
+	holder = 1031377
+}
+
+600.2.5 = {
+	holder = 1034503
+}
+
+700.2.1 = {
+	holder = 1034508
+}
+

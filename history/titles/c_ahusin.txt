@@ -1,0 +1,498 @@
+200.2.1 = {
+	holder = 1000009
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000012
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_dudae
+}
+
+200.2.4 = {
+	holder = 1000754
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+202.2.1 = {
+	holder = 1003170
+}
+
+206.2.1 = {
+	holder = 1000163
+}
+
+219.2.1 = {
+	holder = 1003139
+}
+
+252.2.1 = {
+	holder = 1005232
+}
+
+253.2.1 = {
+	holder = 1008178
+}
+
+272.2.1 = {
+	liege = k_buyinen
+}
+
+272.2.2 = {
+	holder = 1005242
+}
+
+277.2.1 = {
+	liege = d_lreca
+}
+
+277.2.2 = {
+	holder = 1007734
+}
+
+300.2.1 = {
+	holder = 1012293
+}
+
+341.2.1 = {
+	liege = k_buyinen
+}
+
+341.2.2 = {
+	holder = 1013361
+}
+
+377.2.1 = {
+	liege = d_katofan
+}
+
+377.2.2 = {
+	holder = 1015712
+}
+
+402.2.1 = {
+	holder = 1019541
+}
+
+414.2.1 = {
+	holder = 1021380
+}
+
+448.2.1 = {
+	liege = d_akotonia
+}
+
+448.2.2 = {
+	holder = 1023070
+}
+
+448.2.3 = {
+	liege = k_buyinen
+}
+
+497.2.1 = {
+	liege = d_akotonia
+}
+
+497.2.2 = {
+	holder = 1024305
+}
+
+509.2.1 = {
+	liege = d_katofan
+}
+
+509.2.2 = {
+	holder = 1025227
+}
+
+524.2.1 = {
+	liege = d_akotonia
+}
+
+524.2.2 = {
+	holder = 1028330
+}
+
+557.2.1 = {
+	liege = d_kaleth
+}
+
+557.2.2 = {
+	holder = 1029859
+}
+
+557.2.3 = {
+	liege = k_buyinen
+}
+
+568.2.1 = {
+	liege = d_akotonia
+}
+
+568.2.2 = {
+	holder = 1031771
+}
+
+570.2.1 = {
+	liege = d_kaleth
+}
+
+570.2.2 = {
+	liege = k_akakin
+}
+
+571.2.1 = {
+	liege = d_kaleth
+}
+
+571.2.2 = {
+	liege = k_akakin
+}
+
+572.2.1 = {
+	liege = d_kaleth
+}
+
+572.2.2 = {
+	liege = k_akakin
+}
+
+573.2.1 = {
+	liege = d_kaleth
+}
+
+573.2.2 = {
+	liege = k_akakin
+}
+
+574.2.1 = {
+	liege = d_kaleth
+}
+
+574.2.2 = {
+	liege = k_akakin
+}
+
+575.2.1 = {
+	liege = d_kaleth
+}
+
+575.2.2 = {
+	liege = k_akakin
+}
+
+576.2.1 = {
+	liege = d_kaleth
+}
+
+576.2.2 = {
+	liege = k_akakin
+}
+
+577.2.1 = {
+	liege = d_kaleth
+}
+
+577.2.2 = {
+	liege = k_akakin
+}
+
+578.2.1 = {
+	liege = d_kaleth
+}
+
+578.2.2 = {
+	liege = k_akakin
+}
+
+579.2.1 = {
+	liege = d_kaleth
+}
+
+579.2.2 = {
+	liege = k_akakin
+}
+
+580.2.1 = {
+	liege = d_akotonia
+}
+
+580.2.2 = {
+	liege = k_dakarda
+}
+
+581.2.1 = {
+	liege = d_akotonia
+}
+
+581.2.2 = {
+	liege = k_dakarda
+}
+
+582.2.1 = {
+	liege = d_akotonia
+}
+
+582.2.2 = {
+	liege = k_dakarda
+}
+
+583.2.1 = {
+	liege = d_akotonia
+}
+
+583.2.2 = {
+	liege = k_dakarda
+}
+
+584.2.1 = {
+	liege = d_akotonia
+}
+
+584.2.2 = {
+	liege = k_dakarda
+}
+
+585.2.1 = {
+	liege = d_akotonia
+}
+
+585.2.2 = {
+	liege = k_dakarda
+}
+
+586.2.1 = {
+	liege = d_akotonia
+}
+
+586.2.2 = {
+	liege = k_dakarda
+}
+
+587.2.1 = {
+	liege = d_akotonia
+}
+
+587.2.2 = {
+	liege = k_dakarda
+}
+
+588.2.1 = {
+	liege = d_akotonia
+}
+
+588.2.2 = {
+	liege = k_dakarda
+}
+
+589.2.1 = {
+	liege = d_akotonia
+}
+
+589.2.2 = {
+	liege = k_dakarda
+}
+
+590.2.1 = {
+	liege = d_akotonia
+}
+
+590.2.2 = {
+	liege = k_dakarda
+}
+
+591.2.1 = {
+	liege = d_akotonia
+}
+
+591.2.2 = {
+	liege = k_dakarda
+}
+
+592.2.1 = {
+	liege = d_akotonia
+}
+
+592.2.2 = {
+	liege = k_dakarda
+}
+
+593.2.1 = {
+	liege = d_akotonia
+}
+
+593.2.2 = {
+	liege = k_dakarda
+}
+
+594.2.1 = {
+	liege = d_akotonia
+}
+
+594.2.2 = {
+	liege = k_dakarda
+}
+
+595.2.1 = {
+	liege = d_akotonia
+}
+
+595.2.2 = {
+	liege = k_dakarda
+}
+
+596.2.1 = {
+	liege = d_akotonia
+}
+
+596.2.2 = {
+	liege = k_dakarda
+}
+
+597.2.1 = {
+	liege = d_akotonia
+}
+
+597.2.2 = {
+	liege = k_dakarda
+}
+
+598.2.1 = {
+	liege = d_akotonia
+}
+
+598.2.2 = {
+	liege = k_dakarda
+}
+
+599.2.1 = {
+	liege = d_akotonia
+}
+
+599.2.2 = {
+	liege = k_dakarda
+}
+
+600.2.1 = {
+	liege = d_akotonia
+}
+
+600.2.2 = {
+	liege = k_dakarda
+}
+
+601.2.1 = {
+	liege = d_akotonia
+}
+
+601.2.2 = {
+	liege = k_dakarda
+}
+
+602.2.1 = {
+	liege = d_akotonia
+}
+
+602.2.2 = {
+	liege = k_dakarda
+}
+
+603.2.1 = {
+	liege = d_akotonia
+}
+
+603.2.2 = {
+	liege = k_dakarda
+}
+
+604.2.1 = {
+	liege = d_akotonia
+}
+
+604.2.2 = {
+	liege = k_dakarda
+}
+
+605.2.1 = {
+	liege = d_akotonia
+}
+
+605.2.2 = {
+	liege = k_dakarda
+}
+
+606.2.1 = {
+	liege = d_qogih
+}
+
+606.2.2 = {
+	liege = 0
+}
+
+606.2.3 = {
+	holder = 1031073
+}
+
+606.2.4 = {
+	holder = 1031187
+}
+
+606.2.5 = {
+	liege = k_dakarda
+}
+
+606.2.6 = {
+	liege = k_buyinen
+}
+
+606.2.7 = {
+	holder = 1033595
+}
+
+607.2.1 = {
+	holder = 1035233
+}
+
+607.2.2 = {
+	liege = k_dakarda
+}
+
+607.2.3 = {
+	holder = 1031073
+}
+
+609.2.1 = {
+	holder = 1035296
+}
+
+624.2.1 = {
+	holder = 1034133
+}
+
+638.2.1 = {
+	holder = 1036358
+}
+
+680.2.1 = {
+	holder = 1030904
+}
+
+685.2.1 = {
+	holder = 1039819
+}
+
+695.2.1 = {
+	holder = 1036306
+}
+
+697.2.1 = {
+	holder = 1040539
+}
+

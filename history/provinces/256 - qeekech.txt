@@ -1,0 +1,9 @@
+	title = c_qeekech
+	max_settlements = 2
+	culture = woumner
+	religion = echukas
+	b_teekiga = tribal
+418.4.1 = {
+	culture = namuthe
+}
+

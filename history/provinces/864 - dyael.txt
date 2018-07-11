@@ -1,0 +1,13 @@
+	title = c_dyael
+	max_settlements = 7
+	culture = dlebe
+	religion = ninala
+	b_ryos = tribal
+217.3.1 = {
+	religion = tluku
+}
+
+308.3.1 = {
+	religion = rerech
+}
+

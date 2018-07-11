@@ -1,0 +1,45 @@
+	title = c_epawapur
+	max_settlements = 5
+	culture = katunn
+	religion = takice
+	b_ketat = tribal
+229.3.1 = {
+	religion = emonurga
+}
+
+242.3.1 = {
+	religion = takice
+}
+
+250.3.1 = {
+	religion = emonurga
+}
+
+251.3.1 = {
+	religion = takice
+}
+
+252.3.1 = {
+	religion = emonurga
+}
+
+252.3.1 = {
+	religion = takice
+}
+
+467.3.1 = {
+	religion = wsosro
+}
+
+486.3.1 = {
+	religion = rni
+}
+
+524.3.1 = {
+	religion = wsosro
+}
+
+614.4.1 = {
+	culture = amurein
+}
+

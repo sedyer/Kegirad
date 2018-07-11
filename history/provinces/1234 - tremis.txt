@@ -1,0 +1,9 @@
+	title = c_tremis
+	max_settlements = 2
+	culture = kuogoi
+	religion = ricily
+	b_nidega = tribal
+620.4.1 = {
+	culture = tuprind
+}
+

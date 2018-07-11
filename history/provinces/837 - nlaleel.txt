@@ -1,0 +1,5 @@
+	title = c_nlaleel
+	max_settlements = 6
+	culture = norse
+	religion = rgance
+	b_rleddin = tribal

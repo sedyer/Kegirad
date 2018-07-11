@@ -1,0 +1,9 @@
+	title = c_daravak
+	max_settlements = 3
+	culture = dobius
+	religion = kmemar
+	b_tiravak = tribal
+499.4.1 = {
+	culture = eiremar
+}
+

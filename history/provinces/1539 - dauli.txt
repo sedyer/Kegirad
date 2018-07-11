@@ -1,0 +1,37 @@
+	title = c_dauli
+	max_settlements = 4
+	culture = katunn
+	religion = takice
+	b_seriyya = tribal
+236.3.1 = {
+	religion = emonurga
+}
+
+247.3.1 = {
+	religion = takice
+}
+
+256.3.1 = {
+	religion = emonurga
+}
+
+269.3.1 = {
+	religion = takice
+}
+
+302.4.1 = {
+	culture = kerin
+}
+
+550.4.1 = {
+	culture = katunn
+}
+
+558.3.1 = {
+	religion = wsosro
+}
+
+634.3.1 = {
+	religion = rni
+}
+

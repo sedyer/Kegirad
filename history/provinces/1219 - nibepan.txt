@@ -1,0 +1,5 @@
+	title = c_nibepan
+	max_settlements = 2
+	culture = balilof
+	religion = rni
+	b_saraicu = tribal

@@ -1,0 +1,9 @@
+	title = c_nlivia
+	max_settlements = 6
+	culture = negeth
+	religion = emonurga
+	b_tadohn = tribal
+397.3.1 = {
+	religion = takice
+}
+

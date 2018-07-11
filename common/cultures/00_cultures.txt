@@ -1,0 +1,3720 @@
+barbarian = {
+	graphical_cultures = {
+			cumangfx	}
+	norse = {
+		color = { 245 107 172 }
+		graphical_cultures = {
+			westernslavicgfx		}
+		male_names = {
+			Buoks Tulb Alüuoks Savv Werg Wiibm Ngil Evanc Ql Stael Tavil Rir Davist Tüael Wg Tn Wr Kir Qr Wgil Bvil Lteb Alüael Tulb Asrael Bv Nreb Kabirat Qavirat Davist Afrirat Afril Alüil Rash Sojil Bvil Ratick Qgael Qs Egross Bkoss Tiibm Nl Ranc Kkael Nuoks Wavanc Babir Tatil Krael Ttoss Nr Koulb Triibm Eranc Wael Qoss Kn Asrist Tlil Sulb Bloss Kesh Eétiibm Nrist Dael Wreb Tousv Ltil Qirat Ranc Savr Bigg Eüist Sruoks Afr Kak Nüick Bü B Rvirat Avv Treb Terg Takirat Dranc Süanc Kanc Kibm Rusil Klick Duoks Nross Lüirat Ttigg Dr Blil Sir Rkash Wr		}
+		female_names = {
+			Ngilu Rta Qjilu Kiibma Ravos Kuli Tta Tlae Ngiste Rva Tla Egric Ttiibma Tüa Niibma Rra Eétos Wtance Rulra Kvebe Nira Nesha Qra Lrier Rakesha Tabile Sgic S Arier Kakebe Triibma Qbebe Dtic Rra Sira Tvebe Rojiste Rüae Trance Krance Krier Ravra Egruoksa Acati Rebe Bra Wira Dta Katasha Rlis Brile Syee Krance Suoksa Kuoksa Qrier Nouska Nrebe Wrebe Wroav Qav Tne Bier Dvebe Lrebe Lrae Kabilu Tüilu Qvira Abos Toav Loav Qulilu Tvile Kriibma Esrae Rlasha Tvae Wtiibma Rrebe Lkae Qüile Brebe Ab Aksa Evakiggu Sse Qrira Qousba Sousebe Nra Qlu Wousa Tira Elüilu Tojasha Siste Wira Tae Tilu		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rga "
+		male_patronym = sra
+		female_patronym = rra
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	rakael = {
+		color = { 230 96 155 }
+		graphical_cultures = {
+			westernslavicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rga "
+		male_patronym = sra
+		female_patronym = rra
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = yes
+	}
+	rriste = {
+		color = { 255 135 169 }
+		graphical_cultures = {
+			westernslavicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rga "
+		male_patronym = sra
+		female_patronym = rra
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	tabesha = {
+		color = { 255 102 175 }
+		graphical_cultures = {
+			westernslavicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rga "
+		male_patronym = kaa
+		female_patronym = kü
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	bavirat = {
+		color = { 232 93 171 }
+		graphical_cultures = {
+			westernslavicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rga "
+		male_patronym = sra
+		female_patronym = rra
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	krance = {
+		color = { 255 119 183 }
+		graphical_cultures = {
+			westernslavicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rga "
+		male_patronym = sra
+		female_patronym = rra
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	tance = {
+		color = { 251 139 169 }
+		graphical_cultures = {
+			westernslavicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Sa
+		male_patronym = sra
+		female_patronym = rra
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	brirat = {
+		color = { 208 141 184 }
+		graphical_cultures = {
+			westernslavicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rga "
+		male_patronym = sra
+		female_patronym = rra
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	druoksa = {
+		color = { 227 141 145 }
+		graphical_cultures = {
+			westernslavicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rga "
+		male_patronym = efra
+		female_patronym = dr
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+}
+
+avebe = {
+	graphical_cultures = {
+			westerngfx	}
+	wlick = {
+		color = { 101 154 102 }
+		graphical_cultures = {
+			persiangfx		}
+		male_names = {
+			Nwap Ratupt Ewacun Wizé Dceb Katapur Epawiz Eliv Dawiv Klizé Koluk Loleb Waulin Wacuk Aturin Llin Ryam Biirad Keb Doleb Kupt Run Tacizé Roliv Ketin Ktapur S Kr Deré Srapur T Nurapur Wciv Alizé Eludah Tacapur Wroaz Er Tetiv Dawad Retapur Awacé Qacapur Lil D Kriz Rawiv Rceb D Nacoaz Klin Til Sacun Qirizé Blr Er Ll Qrosh Sulin Tiirat L Bin Tolat Riv Soleb Sativ Qurap Kizé Nauliz Ewupt Qulmin Bapur Bileb Dsr Awacuk Blun Tacé Wer Ecatat Lap Qruk Aket Laciv Kdah Rrin Nudah Ririn Adiliv Wlin Dsapur Nad Katé Awad Krin Burap Soliv Rwap Tol Ssizé Lrun		}
+		female_names = {
+			Aturapu Kawebe Qapu Kla Koa Kiiroi Lacoi Dami Nyoi Rlup Qupta Arine Rra Keroshe Bliyya Qyoi Akoluku Nupta Roliz Tivai Kilha Bawéi Detoshe Kyau Kawivai Arivai Sapu Ssivai Noline Diloshe Kaciyya N Kolapu Wsapu Nra Lurapu Nunai Nuléi Rruku Syua Lwunai Sauline Avai Buléi Rra Nlapu Nacadi Byie Npa Kra Ta Tyoi Ewacéi Kroi Esuda Brapu Wauliz Drai Drri Tsupta Noshe Noloa Tlos Tlupta Durebe Trapu Trine Nul Watupta D Asunai Rawa Drine Taulha Eli Elu Krri Klupta Wru Qline Seruku Rrupta Rawa Alivai Qruku Dciz Qyai Ra Ecladi Krunai Tuda Wsine Tawiyya Sya Rauliz Nya Dauladi Qiyya Kladi Tetoi		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rr "
+		male_patronym = tur
+		female_patronym = nur
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	tiiriz = {
+		color = { 60 163 101 }
+		graphical_cultures = {
+			persiangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Dr
+		male_patronym = tur
+		female_patronym = nur
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	drebe = {
+		color = { 123 136 82 }
+		graphical_cultures = {
+			persiangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Ll
+		male_patronym = ber
+		female_patronym = rr
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	lriz = {
+		color = { 85 144 75 }
+		graphical_cultures = {
+			persiangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rr "
+		male_patronym = qer
+		female_patronym = dac
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	niloaz = {
+		color = { 99 158 90 }
+		graphical_cultures = {
+			persiangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rr "
+		male_patronym = wol
+		female_patronym = tr
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	kliz = {
+		color = { 83 159 111 }
+		graphical_cultures = {
+			persiangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rr "
+		male_patronym = tur
+		female_patronym = nur
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = yes
+	}
+	qlunai = {
+		color = { 71 165 89 }
+		graphical_cultures = {
+			persiangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rr "
+		male_patronym = awac
+		female_patronym = ll
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	dlebe = {
+		color = { 96 133 94 }
+		graphical_cultures = {
+			persiangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rr "
+		male_patronym = tur
+		female_patronym = nur
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = yes
+	}
+	arivai = {
+		color = { 70 141 88 }
+		graphical_cultures = {
+			persiangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rr "
+		male_patronym = tur
+		female_patronym = nur
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = yes
+	}
+}
+
+kamagik = {
+	graphical_cultures = {
+			celticgfx	}
+	lorius = {
+		color = { 49 255 105 }
+		graphical_cultures = {
+			muslimgfx		}
+		male_names = {
+			Rtech Bob Teond Rlud Korob Lr Ttagn Torat Rsob Bg Korob Kah Sutat Nut Lreard Qtir Dsosr Tragik Asat Dopius Egrad Qorudis Qolagn Emodhah Wius Kut Nobh Beor Tsat Rolat Bolien Klob Egag Rorhah Lobir Ralob Wobad Qopien Kbag Tolind Ekal Nmeard Dlagik Roech Tlob Nrat Wob Rog Tad Egrob Sutat Sop Sobad Etien Wmn Sodh Qsir Duid Kd Drius Qopob Dalius Erir Kmat Qrad Nopob Rogad Qmat Talat Kugius Ebob Dsagik Krag Kbius Qrob Ekobad Khah Qln Sietat Atolaud Robudis Ntob Ssius Torob Dutaud Lrob Aplagik Rmob Robien Erosr Koin Ekopir Bugad Abudis Keot Worat Kodat Rmad Qorat Tugad		}
+		female_names = {
+			Lui Wbau Ksoba Krudi Emodada Adoba Qsau Dau Lagno Wtau Kliu Alada Ntos Enada Apa Dogiu Rmira Noba Sbie Qogie Lde Bogira Ktiu Tudi Bainada Wobau Tada Qtie Wugha Klie Kopudi Rloba Ttosro Nmec Ekobha Rmagi Roe L Lt Ropagno Ktec Sobudi Wgagi Buta Sgagno Wlau Nudi Ekopoba Qtada Quty Rsosro Epagno Wtec Wliu Ludi Nobau Wlada Qso Rsira Dugagno Dalada Topec Kodiu Wge Rra Tugagi Ekaloba Lopie Tugira Rludi Wute Wrec Roi Rrada Ekoba Wogudi Slin Lira Ksira Dute Dogosro Tmear Dagno Etha Nobe Robada Qboba Koda Wainoba Amiu Anin Emy Kogie Tmada Ls Dtudi Rmoba Kliu Koda Qtada		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ls "
+		male_patronym = ss
+		female_patronym = ks
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	topius = {
+		color = { 66 239 105 }
+		graphical_cultures = {
+			muslimgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ls "
+		male_patronym = bl
+		female_patronym = etd
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = yes
+	}
+	dsien = {
+		color = { 90 255 102 }
+		graphical_cultures = {
+			muslimgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ls "
+		male_patronym = ss
+		female_patronym = ks
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = yes
+	}
+	adietech = {
+		color = { 56 231 97 }
+		graphical_cultures = {
+			muslimgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ls "
+		male_patronym = ss
+		female_patronym = ks
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	talien = {
+		color = { 72 255 102 }
+		graphical_cultures = {
+			muslimgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ls "
+		male_patronym = ss
+		female_patronym = ks
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = yes
+	}
+	rmada = {
+		color = { 53 255 106 }
+		graphical_cultures = {
+			muslimgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Rr
+		male_patronym = ss
+		female_patronym = ks
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	rtius = {
+		color = { 49 213 131 }
+		graphical_cultures = {
+			muslimgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ls "
+		male_patronym = ss
+		female_patronym = ks
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = yes
+	}
+	bodoba = {
+		color = { 84 244 117 }
+		graphical_cultures = {
+			muslimgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ls "
+		male_patronym = tm
+		female_patronym = tr
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	wobagik = {
+		color = { 60 255 158 }
+		graphical_cultures = {
+			muslimgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ls "
+		male_patronym = ss
+		female_patronym = ks
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+}
+
+tolien = {
+	graphical_cultures = {
+			cumangfx	}
+	dobius = {
+		color = { 60 254 42 }
+		graphical_cultures = {
+			celticgfx		}
+		male_names = {
+			Kares Woem Kaures Qrem Kel Wtavak Nmavak Atet Erel Kraret Wremar Smavak Raren Slug Klavak Dolen Qauren Qirug Deon Keten Niten Wrugis Wiren Blaret Kmemar Tarimon Tgilj Tudod Nirul Sirel Adaren Deol Rmig Naisen Lug Raren Tmen Alim Tiravak Wrilj Rren Erul Solig Bietod Neom Qmen Qitis Rles Titew Edaris Nogen Daravak Tis Kisod Lul Litew Nitew Kugis Smig Niten Rirel Darul Wauses Aliuden Egul Qolel Riremar Kites Woimon Dmes Solen Solig Riudig Tlem Tremig Tem Bilj Taisig Tlug Reol Riris Qaren Karig Kuses Arel Bauren Ris Rmew Srilj Trilj Raremar Rmemar Edarel Rolug Eleod Kravak Leon Qietis Amon Rar		}
+		female_names = {
+			Te Kaise Koene Dare Risi Dru Woilje Ririmo Nmi Karugi Rirugi Kire Tare Reo Keo Noge Sremi Lare Raurule Qirete Klete Kre Kle Klimo Kaise Amene Dare Ditugi Bgi Stelie Qemene Adari Toli Bge Teo Kiti Keo Kete Direma Qiete Nirelie Tete Telie Rle Erimo Liri Seo Keom Turi Rare Qmi Tiri Kari Qite Krugi Sugi Eme Arugi Slilje Te Dema Nisi Sogule Ebolugi Wava Rarugi Sde Nlugi Lme Tte Kme Darilje Brode Liri Evaise Doli Nema Wema Tmema Ware Lausi Lirugi Edire Dmil Rrene Titete Srema Kare Lirete Tirare Reo Sule Qiudene Atolugi Kogilje Tuse Dire Qogi Kari Nrete		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "barde "
+		male_patronym = riudret
+		female_patronym = warle
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	eiremar = {
+		color = { 74 209 24 }
+		graphical_cultures = {
+			celticgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "barde "
+		male_patronym = riudret
+		female_patronym = warle
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = yes
+	}
+	tolugis = {
+		color = { 78 193 24 }
+		graphical_cultures = {
+			celticgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "barde "
+		male_patronym = kle
+		female_patronym = nolle
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	sitilje = {
+		color = { 98 229 22 }
+		graphical_cultures = {
+			celticgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "barde "
+		male_patronym = riudret
+		female_patronym = warle
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	dogugis = {
+		color = { 90 206 59 }
+		graphical_cultures = {
+			celticgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "barde "
+		male_patronym = riudret
+		female_patronym = warle
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	dites = {
+		color = { 78 209 75 }
+		graphical_cultures = {
+			celticgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Tmew
+		male_patronym = riudret
+		female_patronym = warle
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	eliuden = {
+		color = { 80 236 28 }
+		graphical_cultures = {
+			celticgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Qme
+		male_patronym = riudret
+		female_patronym = warle
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	kiudene = {
+		color = { 81 212 25 }
+		graphical_cultures = {
+			celticgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "barde "
+		male_patronym = kremter
+		female_patronym = ste
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	kiren = {
+		color = { 77 234 42 }
+		graphical_cultures = {
+			celticgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "barde "
+		male_patronym = riudret
+		female_patronym = warle
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+}
+
+risinha = {
+	graphical_cultures = {
+			frankishgfx	}
+	tilirat = {
+		color = { 62 34 120 }
+		graphical_cultures = {
+			occitangfx		}
+		male_names = {
+			Rs Ldacik Elt Taçk Rgan Sl Rcon Rs Rakh Dl Lecik Kalan Qalt Alolt Ws Q Bl Klaçk Ralt Kcacik Kalr Asanamel Tgibar Bst D Tl Tanakh Rsan Klaçk Dlan Rbacob Eloanes Tlamel Nacik Nlacik Dloanes Lt Qlonan Nmel Qolt Wlolt Acik Nst Wib Tcakh Tbib Wanac Dcamel Tel Tilr Bmel Daland Bac Ascand Wst Naçk Elt Ks Talt Tl Asyt Lnan Ktamel Nt Rl Dlonan Tloanes Rlert Slibar Elan Wg D Qis Qamel Ktaçk N Kl Dolt Ralt Talakh Silolt Wsibar Elik Bsr Kgan Rlacik Tolt Tsacob Tcacik Kalt Kalr Koracob Qamel Ss Lac Kd Lcik Kaçk Agisonan Rac		}
+		female_names = {
+			Sana Tlan Qcaci Balre Norti Bsolto Esyre Kdona Ralame Ralti Qgona Kane Wlolto Edaci Ralaç Wler Btak Eda Kti Tdolto Escaci Talti Kloane Lalti Agolto Saliba Nyi Salti Ban Baçka Ajoraçka Kbak Qala Dse Lyaka Lak Tsaci Eçka Slaç Dli Secti Rsai Ktaco Kliba Ldan Ranre Wle Qona Kya Esaçka Alaci Ddan Asanolto Ecan Kolto Risa Tco Ada Worre Tyti Ksoa Qle Lalti Rer Kba Qla Rsi Nlaçka Rli Rbame Asyti Bça Qe Nsi Asaçka Kgaç Raco Qisiba Aga Kaniba Dsoane Torona Lga Qlak Rlona Wlaci Klaci Ela Keciba Nisaçka Qyaka Tlaco Tda Kti Erye Woane Nisi Sona Ran Tisa		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "nik "
+		male_patronym = sde
+		female_patronym = byre
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	stacik = {
+		color = { 43 0 140 }
+		graphical_cultures = {
+			occitangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "nik "
+		male_patronym = sde
+		female_patronym = byre
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = yes
+	}
+	kilik = {
+		color = { 43 19 136 }
+		graphical_cultures = {
+			occitangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "nik "
+		male_patronym = sde
+		female_patronym = byre
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	norik = {
+		color = { 25 52 126 }
+		graphical_cultures = {
+			occitangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "nik "
+		male_patronym = sde
+		female_patronym = byre
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = yes
+	}
+	wsaka = {
+		color = { 77 15 122 }
+		graphical_cultures = {
+			occitangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "nik "
+		male_patronym = sce
+		female_patronym = esanan
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	tlacik = {
+		color = { 50 16 139 }
+		graphical_cultures = {
+			occitangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "nik "
+		male_patronym = sde
+		female_patronym = byre
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	alti = {
+		color = { 41 19 139 }
+		graphical_cultures = {
+			occitangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "nik "
+		male_patronym = sde
+		female_patronym = byre
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = yes
+	}
+	salti = {
+		color = { 30 71 117 }
+		graphical_cultures = {
+			occitangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "nik "
+		male_patronym = sde
+		female_patronym = byre
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	alert = {
+		color = { 59 0 115 }
+		graphical_cultures = {
+			occitangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Alç
+		male_patronym = torti
+		female_patronym = bilbar
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+}
+
+btunn = {
+	graphical_cultures = {
+			southerngfx	}
+	suneja = {
+		color = { 101 17 191 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+			Lsic Bej R Wudah Kakin Nard Kalilic Kalic Wan Kuriwal Loran Salayun Drud Kamin Lsin Ldudah Samizé Ndah Kyun Surin Erudic Bard Kriwal Anoorin Wir Ekunn Tdil Efatan Wudin Scan Tsin Ratard Wud Bilic Qer Kalizé Ker Klan Ruriwal Edan Qalin Trard Srard Ramein Lamilic Ludej Bmiw Dlic Wkej Qsin Tiwal Qalun Dalilic Erudin Acalatl Agam Bcilic Sunn Tatin Qakej Qulin Rsil Ahusan Rakein Ttatl Turin Satej Slan Wilic Non Scein D Erudah Nak Leult Dus Tic Rratl Katin Kkard Kcizé Wirard Lratl Wakilic Dmaud Aneulin Slan Rurunn Bulan Ward Akakin Tcic Wunn Kizé Rudan Rej Qusej Erudin Tusunn Arudin		}
+		female_names = {
+			Tamice Agamiz Efati Nerayu Budili Wcoyot Dule Luli Leuli Dci Teulu Klili Salun Lun Seri Eriwa Qili Nkili Susana Rati Taluda Dda Qudiwa Nuri Tki Kriwa Batun Wsi Kurice Wriwa Lati Nrei Tooreja Niwa Ali Saki Ecaleja Rusi Tori Acalun Tili Niwa Dkuda Qciz Kueco Slili Teriz Wruda Kudana Lyu Ludatli Dakiz Weja Seuli Nrice Ral Turice Rili Kudun Rudiz Budei Rudei Luliz Briwa Dudili Trei Keulun Tcarda Keruda Wluda Kiratli Qreja Nerana Rcice Talarda Kciz Wti Brau Skice Suda Balana Akili Wriwa Rli Ageri Tatana Amayu Rci Wyu Agamei Era Trarda Deratli Nami Rrei Boorana Nrau Ncau Tkiz Lati		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rc "
+		male_patronym = bs
+		female_patronym = ns
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	dudatli = {
+		color = { 91 41 177 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Tudn
+		male_patronym = bs
+		female_patronym = ns
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = yes
+	}
+	leuleja = {
+		color = { 102 47 136 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rc "
+		male_patronym = bs
+		female_patronym = ns
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = yes
+	}
+	sakiz = {
+		color = { 102 8 173 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rc "
+		male_patronym = bs
+		female_patronym = ns
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	talin = {
+		color = { 125 49 168 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rc "
+		male_patronym = bs
+		female_patronym = ns
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = yes
+	}
+	amurein = {
+		color = { 114 26 204 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Keulcon
+		male_patronym = kc
+		female_patronym = rc
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	katunn = {
+		color = { 127 6 193 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Roce
+		male_patronym = bs
+		female_patronym = ns
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	luriz = {
+		color = { 126 2 178 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rc "
+		male_patronym = kc
+		female_patronym = tc
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = yes
+	}
+	kerin = {
+		color = { 123 49 192 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Wt
+		male_patronym = bs
+		female_patronym = ns
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+}
+
+sirorna = {
+	graphical_cultures = {
+			arabicgfx	}
+	batna = {
+		color = { 19 255 223 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+			Tulian Ecil Rogil Datlel Tarim Lnah Letlind Etocim Kelel Tc Qel Awulald Qelew Th Dleer Rlil Datn Shian Kl Bolew Klach Kolel Sludah Qreer Nceer Rlim Slald Lr Win Kcald Kol Rnel Binud Ric Luog Belil Nneer Quogd Tind Dnosh Quogd Ticil Tts Liceer Bcosh Bhew Kn Tl Wel Ricil Warud Rlew Qin Ezelom Wtr Tocald St Delind Ncosh Winian Del Bog Telew Ntm Ewulew Bic Selil Ketl Tcach Ruog Erom Barim Nlil Asupr Asuog Kupr Kreer Klind Rald Kril Nul Qin Ddah Kald Binud Thian Lelew Ruprd Sh Batl Kr Dudah War Qlud Bn Bel Delom Atocil Snil Rlosh		}
+		female_names = {
+			Tatne Khe Ketloi Komeo Klily Dluda Wici Klelo Tinu Khua Kocia Womeo Tachi Dcua Wciyya Selily Wuogeya Bo Rliyya Kinoi Amicoshe Qcoshe Bee Ratneo Romeo Klin Rlily Srda Endal Blin Rhily Khe Ecaudio Waudio Socu Dulua Buluda Reya Wlu Bloi Kcin Rup Wlachi Ktua Ticuda Tocoi Daroi Qily Dule Rinai Wolai Dtia Reli Kinai Ratlai Wne Rroshe Qatlee Qinin Dice Aprua Neloshe Bupreya Bare Khe Satlee Qli Dicoi Wetlily Rice Netlua Blee Qtla Tinin Delo Telin Duproi Doluda Dici Kulin Tttoi Bcelo Nlachi Belua Kinelo Nloshe Ahoi Deloshe Teloi Tcoi Detlhe Bluda Wole Rrily Ticily Ddiyya Ket Tnia Tri Letloi		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ql "
+		male_patronym = kul
+		female_patronym = br
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	awuludah = {
+		color = { 0 214 238 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Kr
+		male_patronym = kul
+		female_patronym = br
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	kuogoi = {
+		color = { 28 255 254 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ql "
+		male_patronym = kul
+		female_patronym = br
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	scachi = {
+		color = { 13 227 249 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Azell
+		male_patronym = kul
+		female_patronym = br
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	eleer = {
+		color = { 56 240 246 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ql "
+		male_patronym = bul
+		female_patronym = ezol
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	azolachi = {
+		color = { 15 255 241 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ql "
+		male_patronym = kul
+		female_patronym = br
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	teludah = {
+		color = { 28 255 251 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ql "
+		male_patronym = kul
+		female_patronym = br
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = yes
+	}
+	linian = {
+		color = { 13 205 234 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ql "
+		male_patronym = kul
+		female_patronym = br
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	tuprind = {
+		color = { 0 236 225 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ql "
+		male_patronym = kul
+		female_patronym = br
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+}
+
+wicilof = {
+	graphical_cultures = {
+			cumangfx	}
+	balilof = {
+		color = { 83 199 134 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+			Rrad Kasius Bemad Krius Arusas Nrad Tar Nogal Wrimir Krad Ndam Bicam Nanjius Rem Nemam Lemep Qtol Sogj Werius Narak Dhanal Wl Bletar Nasal Ebasal Nemal Eprius Smet Ttad Bnimir Kcius Kus Anicj Ticaic Rral Qgimir Rsetar Dimir Trius Sdank Dlun Kogol Tnep Qibal Kgepan Danj Berak Waroj Tun Nhanol Abasal Tnad Kral Lrank Lmoj Brad Sbdas Qicol Ler Lerev Basojan Wibev Qal Tun Rtar Er Rojan Amius Nanjal Bimir Lojan Ssusas Tepan Qasol Ehenun Karius Wogius Remim Ktun Kinal Tal Tcak Kenol Ag Ndius Rogank Nsius Nrdas Abarak Rrimir Dtun Egal Ranj Krius Slimir Anak Wrojan Wcdas Eraic Ebaral		}
+		female_names = {
+			Tanada Qasalia Widaicu Lgeta Togepa Deraicu Srda Kepa Elada Srala Enuna Avinuna Druna Tgeta Kasada Nmda Demji Rarji Ts Kenusa Wtiu Enicevi Kcama Ddaka Nibevi Kusa Ricevi Rogada Rino Kicanka Timi Licala Diciu Bda Anjevi Devi Tnimi Sasama Abasuna Nna Reraka Kanka Eperji Qri Rjama Aperada Klada Arji Wroja Nrada Tideta Atama Bdalia Edemo Eroja Bjiu Lhanuna Qma Bibo Rrevi Tlevi Rranka Sdala Qemji Kicaicu Nlepa Araka Wmoja Aperimi Nsaka Lnepa Ricji Ksaka Tcda Karala Nogalia Neta Bra Ksiu Edemo Wicusa Rogusa Rrda Ttada Qemevi Tinuna Ehenepa Qlama Klepa Kasaicu Ameta Ntda Neniu Deraka Na Bnepa Kero Rcu Brepa Warama		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "kl "
+		male_patronym = nt
+		female_patronym = dr
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	elada = {
+		color = { 73 187 160 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "kl "
+		male_patronym = apr
+		female_patronym = ers
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = yes
+	}
+	nrimir = {
+		color = { 91 228 173 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "kl "
+		male_patronym = nt
+		female_patronym = dr
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	nemojan = {
+		color = { 128 214 141 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Dri
+		male_patronym = nt
+		female_patronym = dr
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	ranjada = {
+		color = { 76 210 130 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "kl "
+		male_patronym = nt
+		female_patronym = dr
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	kasius = {
+		color = { 62 211 132 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "kl "
+		male_patronym = nt
+		female_patronym = dr
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	ricepan = {
+		color = { 81 184 130 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "kl "
+		male_patronym = nt
+		female_patronym = dr
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	wenius = {
+		color = { 53 190 152 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "kl "
+		male_patronym = nt
+		female_patronym = dr
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	kerada = {
+		color = { 108 223 137 }
+		graphical_cultures = {
+			arabicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "kl "
+		male_patronym = td
+		female_patronym = wr
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+}
+
+kataka = {
+	graphical_cultures = {
+			saxongfx	}
+	qeraka = {
+		color = { 248 210 233 }
+		graphical_cultures = {
+			italiangfx		}
+		male_names = {
+			Qrdas Wvus Dnet Wovus Acusas Enis Nralim Bcusas Rranet Riletar Enohn Kcdas Bsdas Lbil Tcakr Kyan Slenet Salis Rurabil Talen Kanus Noven Nuran Qlabil Asaner Dvabil Ticar Lilenet Blus Amilet Roanis Wen Bran Qhab Lcug Tover Lenen Rabil Nlar Lovet Baller Ebil Rhar Avirag Ekrus Bsusas Tovoh Alusas Dsus Sledas Tsas Asas Tan Ruran Qirad Tanusas Talugis Ssabil Senedas Tovus Rrusas Tser Bsis Qsen Tan Khis Kover Wnak Lanetar Wus Tnab Tsusas Rhus Asis Tnab Lnus Snen Nvusas Tsar Nsus Diranet Tral Dicar Emalus Novenet Wanis Rusas Qhakr Khen Wrabil Bhanis Nil Kilar Kicabil Ebil Kcenet Kovab Tranet Rsis Tyan		}
+		female_names = {
+			Nrusa Knabi Lenusa Denabi Svak Rrane Aleda Rrary Tya Kilya Nali Scoh Nanali Tragi Dnusa Saleta Dseda Bura Lalle Nane Tsusa Wvabi Lroh Akheda Nvu Lenyana Enabi Dnugi Rugi Tragi Rnene Rovusa Beni Sovi Rile Tirada Ksoh Wsaa Benusa Sli Wiubusa Krak Ranak Qya Svali Tili Kalla Rcusa Kene Tilene Reno Ekhaa Elusa Dhak Kicoh Senyana Tneta Ese Knene Wenusa Lalabi Rabi Novusa Bugi Bhene Ssali Nsary Erada Kana Dcusa Sali Kicusa Troh Qsiya Rrabi Kani Svugi Sila Ahali Rak Lce Lya Wenyana Tre Kna Wovali Kciya Blali Bsabi Lalle Tilabi Tenusa Kenary Ralusa Tya Rda Nenusa Wurane Ssene Tleda		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "wh "
+		male_patronym = rubsa
+		female_patronym = nrana
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	nurana = {
+		color = { 255 235 239 }
+		graphical_cultures = {
+			italiangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "wh "
+		male_patronym = tc
+		female_patronym = rs
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	dicetar = {
+		color = { 212 209 237 }
+		graphical_cultures = {
+			italiangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "wh "
+		male_patronym = rubsa
+		female_patronym = nrana
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+}
+
+slilje = {
+	graphical_cultures = {
+			southerngfx	}
+	rarugis = {
+		color = { 125 20 219 }
+		graphical_cultures = {
+			easterngfx		}
+		male_names = {
+			Dimon Warim Tsar Lanev Tn Tidanj Nrev Lahev Edarimon Rar Tar Drj Nyapm Qafanj Qayamon Abarev Razm Tazah Sanar Sarar Kacev Batev Kayunj Kayamon Lrim Lmaraj Rin Natev Kev Sraj Dabev Dmev Rabim Wbal Ddin Dbim Rarin Ssal Rusev Lusin Tmal Wyutm Rusin Kayamon Binal Linev Qd Aziwoj Kinanj Lafar Adadev Bid Kabin Qrah Tafm Amacanj Sbal Lal Karar Evidal Eratal Wzev Nimon Srah Dfah Rabev Qmimon Tsar Wsiwoj Kj Asanj Lafal Srahm Kariwoj Kusin Krmon Qusiw Rusah Rinev Nus Asaf Ntanj Ehayum Tal Ln Rnev Kafah Wusal Ral Lidm Tazanj Sinm Liwoj Drahin Tusev Rinar Wj Qzev Raf Rv		}
+		female_names = {
+			Ababay Tdala Kinimo Warala Syamo Sfan Brara Lrimo Ebari Tafimo Wusi Tsa Tran Eratara Tdevi Qsan Diday Rinevi Tja Qrahaya Aran Sazaya Bacay Kacala Rmala Dazevi Timo Sarevi Wrahevi Erevi Rbevi Rala Krala Ne Ratiwo Tdara Kfara Qmiwo Rsala Sdala Wayunja Emi Wrevi Rrahara Sariwo Eraha Nusaha Kdara Tidimo Lanmi Dani Rusiwo Ldi Rayuwo Wda Kya Kazay Karaja Bdanja Bmi Tdi Nafevi Ebusaya Batara Evidala Bazanja Tanara Watevi Nala Lrahaya Laraya Anevi Sdaya Rbaha Labaya Bala Wrahevi Busay Rayutmi Rmevi Bimo Lusmi Erjo Bidaha Wimo Wanevi Rrahala Tarjmi Nahi Kadevi Waray Bacaya Ebarala Karala Razay Sarala Nrahi Rani Kusala Qnimo		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "tar "
+		male_patronym = tus
+		female_patronym = lla
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	qmaraja = {
+		color = { 144 22 233 }
+		graphical_cultures = {
+			easterngfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "tar "
+		male_patronym = tus
+		female_patronym = lla
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	banevi = {
+		color = { 145 52 204 }
+		graphical_cultures = {
+			easterngfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "tar "
+		male_patronym = raz
+		female_patronym = kmi
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	saraya = {
+		color = { 118 74 198 }
+		graphical_cultures = {
+			easterngfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "tar "
+		male_patronym = tus
+		female_patronym = lla
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	qusala = {
+		color = { 133 9 199 }
+		graphical_cultures = {
+			easterngfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "tar "
+		male_patronym = tus
+		female_patronym = lla
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = yes
+	}
+	kanaha = {
+		color = { 136 78 208 }
+		graphical_cultures = {
+			easterngfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Rm
+		male_patronym = tus
+		female_patronym = lla
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	dabevi = {
+		color = { 122 47 230 }
+		graphical_cultures = {
+			easterngfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "tar "
+		male_patronym = tus
+		female_patronym = lla
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	rinmi = {
+		color = { 129 21 203 }
+		graphical_cultures = {
+			easterngfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "tar "
+		male_patronym = Dha
+		female_patronym = Rac
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+}
+
+rerot = {
+	graphical_cultures = {
+			byzantinegfx	}
+	batanes = {
+		color = { 67 45 234 }
+		graphical_cultures = {
+			ugricgfx		}
+		male_names = {
+			Qneg Lbing Rseg Sig Tem Tibun Tzas Egzutr Qeitin Semeg Rlutr Kobin Tzas Rzah Lsez Esing Ajalig Tereg Nzin Dahid Ricar Qiing Arov Bin Laig Esig Reiteg Terez Rerovit Dem Rsas Ritun Trig Rcah Tl Qonirm Dsuth Kzemas Bubak Ributh Kiudig Lov Arig Nnirm Rnah Balun Derak Ksig Egreml Rinin Kitutr Ebig Baleg Kgig Ting Akubod Rerar Tr Tsig Danirm Ebovit Deitod Lerez Bibem Teg Ric Rsun Qalas Konut Laleg Sirm Amicod Qaig Wibod Qzutr Derak Kubing Semez Knuth Nubovit Asig Wneg Esutr Qiez Tremun Dobig Lairm Drig Ritin Nacovit Rin Bsas Wbez Anuth Nutr Daig Nsig Etutr Ban Tacas		}
+		female_names = {
+			Dobo Tsu Tzine Lelo Reru Bsema Dyalku Wmiga Ksa Atait Rbine Robo Nu Seitlu Niudo Kai Rcahi Kaim Ngiga Nacega Rno Ribega Sacirma Agremiga Tniga Teitine Nirma Nneze Snuthe Dniga Tuthe Bmku Esaca Berahi Lai Nicema Kibema Asa Sibiga Bsut Rsut Rcine Kaithe Leze Diuda Egremo Ekubema Kalu Ssa Ticut Kseze Lono Rinuthe Ranaria Ricine Kela Dai Wemine Nremine Wnut Koba Ricema Bzema Esyi Agzri Dnahi Ralku Arema Tibi Liudiga Rcri Teitiga Reitine Dgiga Kibiga Tinirma Rai Dbuthe Wono Esuthe Kbaria Seitine Tseze Rahi Bruthe Bibiga Tsahi Wanovi Deitiga Lyi Qiine Ritu Rico Wvi Lahi Tonovi Qica Demu Tria Knega		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "tiga "
+		male_patronym = dobak
+		female_patronym = esra
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	dziga = {
+		color = { 57 24 212 }
+		graphical_cultures = {
+			ugricgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Asacga
+		male_patronym = dobak
+		female_patronym = esra
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	qsuthe = {
+		color = { 65 38 213 }
+		graphical_cultures = {
+			ugricgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Abga
+		male_patronym = bse
+		female_patronym = bicak
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	edanyi = {
+		color = { 69 27 216 }
+		graphical_cultures = {
+			ugricgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "tiga "
+		male_patronym = dobak
+		female_patronym = esra
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = yes
+	}
+	robas = {
+		color = { 68 10 229 }
+		graphical_cultures = {
+			ugricgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "tiga "
+		male_patronym = dobak
+		female_patronym = esra
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	aterovit = {
+		color = { 21 8 194 }
+		graphical_cultures = {
+			ugricgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Eminte
+		male_patronym = qghe
+		female_patronym = ricas
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	racine = {
+		color = { 35 4 193 }
+		graphical_cultures = {
+			ugricgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "tiga "
+		male_patronym = dobak
+		female_patronym = esra
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	qibemas = {
+		color = { 40 0 207 }
+		graphical_cultures = {
+			ugricgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Qsku
+		male_patronym = dobak
+		female_patronym = esra
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	ributhe = {
+		color = { 47 0 211 }
+		graphical_cultures = {
+			ugricgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "tiga "
+		male_patronym = dobak
+		female_patronym = esra
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = yes
+	}
+}
+
+qufeita = {
+	graphical_cultures = {
+			easterngfx	}
+	barai = {
+		color = { 216 215 126 }
+		graphical_cultures = {
+			westerngfx		}
+		male_names = {
+			Bsodar Dron Tnodar Kubis Dem Ehanodar Khalert Bhal Ricem Rin Snush Wnol Wcon Thadob Klerd Rahadav Drem Rod Lor Teren Kodat Licen Krerd Dag Knush Bsing Rjush Dnon Konem Emerin Lijav Raham Lodar Lasing Eraser Sren Ngav Ehadob Lubob Ts Tsin Rhad Ljert Tjol Kacor Ronem Ttem Wubob Rem Acin Baham Konush Sagin Tonin Bsav Qgis Lnin Sahan Emeron Tonis Nald Qagen Banin Atis Kicob Tainor Qn Esonob Ln Ronush Wacush Thalerd Ntert Rm Ton Rem Esonob Tnush Es Rush Dcer Dindat Rcor Donav Rson Ngin Racob Rring Bonav Sber Raham Qodar Nijerd Km Sem Wgodar Ricob Taler Trasis Wcin		}
+		female_names = {
+			Ranena Nsolo Konena Licinia Kgory Kada Bsena Wi Tajemia Bha Rahalo Ranusha Avacolo Tgemey Avahada Tser Wajoda Tijer Lsonia Qahania Ater Tubo Nalisa Taga Rsory Serina Dinia Rgo Taca Rago Bemia Rta Nsisa Tger Weremia Ksina Atemia Nj Taco Ehanina Qajolo Sajemey Sahamia Kus Nijer Sner Ksemia Rijer Tsoda Donina Wsoda Srasina Tonoda Kgina Tse Nahada Tonyia Dsinia Abin Tnina Tolo Tsa Tonyia Wona Nubyia Ehanolo Kcemia Bhasha Sania Qalda Qsisa Rgo Bmia Esoner Kica Rasena Enagemia Wjemey Ener Rtory Dena Ttina Nahado Sacoda Aninia Wajyia Kta Rsina Eryia Ticena Lhado Dnia Da Sonemey Rha Wcolo Dacin Tji Nto Kinda		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "lna "
+		male_patronym = lacnia
+		female_patronym = rta
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	draserd = {
+		color = { 224 241 121 }
+		graphical_cultures = {
+			westerngfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Rmey
+		male_patronym = lacnia
+		female_patronym = rta
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+}
+
+releze = {
+	graphical_cultures = {
+			byzantinegfx	}
+	wubutr = {
+		color = { 255 233 50 }
+		graphical_cultures = {
+			mongolgfx		}
+		male_names = {
+			Ekamig Emert Rald Ekaaleg Kiet Akozuth Qalat Tozat Rumed Rzin Biiit Rracob Kozeg Qrig Asamit Qameg Bekech Kirert Enoumit Lozeg Kujert Trec Rired Kekig Qyalit Tyalig Sozit Esameg Rired Nerin Taalit Brin Bekeg Qyaldat Relin Wlech Tieg Tirin Tuth Kaaled Nuulig Kireg Dreg Ramat Daurig Soumat Teg Loumin Terit Tig Suulig Liet Wmech Ramit Boumit Tuleg Qoumner Qoumed Tozeg Lozacob Damat Sert Telig Lumech Dirin Elig Dulech Enyaled Ralech Trit Telit Koumner Namat Nureg Qyaleg Kaled Laleg Wc Lameg Laurit Kn Kmeg Tamit Nirat Roumec Teekner Wreg Sekd Named Dyaleg Emeg Toumner Siiat Direg Smert Wujed Kulit Qzit Kmit Tujat		}
+		female_names = {
+			Kie Koumita Dmi Tama Daalita Akaala Esirega Toumiga Enouma Kale Ehelerta A Dama Tne Tli Balec Kyale Kmita Aliga Telita Tujega Raala Biia Kyalita Nuthe Anoumita Qaalega Qega Azega Sama Kyalega Qamiga Tie Njaco Esirine Qe Duma Ramega Durita Qoumiga Byalita Dama Rita Saurita Rrega Lirega Koumine Tirega Ryalita Druthe Lega Waurita Keline Nuulec Kujita Njega Talega Suulega Samaco Aleeka Ramita Ryalne Sirec Qujuthe Te Rozita Ser Rmaco Dmine Rire Wirec Ajita Asama Evirine Nujiga Toumda Taco Enoumiga Kujita Tiraco Koumiga Wmita Ramita Writa Syaline Wumega Ekujita Rriga Soza Religa Trerta Baaliga Raalita Roumec Ryaliga Ezega Tmega Tumne Sega Nera		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ded "
+		male_patronym = nered
+		female_patronym = wga
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	relita = {
+		color = { 244 245 92 }
+		graphical_cultures = {
+			mongolgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Ksne
+		male_patronym = nered
+		female_patronym = wga
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = yes
+	}
+	kujacob = {
+		color = { 255 210 89 }
+		graphical_cultures = {
+			mongolgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ded "
+		male_patronym = nered
+		female_patronym = wga
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	woumner = {
+		color = { 241 211 77 }
+		graphical_cultures = {
+			mongolgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ded "
+		male_patronym = nered
+		female_patronym = wga
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = yes
+	}
+	namuthe = {
+		color = { 240 189 50 }
+		graphical_cultures = {
+			mongolgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ded "
+		male_patronym = nered
+		female_patronym = wga
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = yes
+	}
+	waurat = {
+		color = { 238 188 97 }
+		graphical_cultures = {
+			mongolgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ded "
+		male_patronym = nered
+		female_patronym = wga
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = yes
+	}
+	rerega = {
+		color = { 250 234 72 }
+		graphical_cultures = {
+			mongolgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Namra
+		male_patronym = red
+		female_patronym = sta
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	kamat = {
+		color = { 239 236 63 }
+		graphical_cultures = {
+			mongolgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "ded "
+		male_patronym = nered
+		female_patronym = wga
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	woumner = {
+		color = { 251 202 54 }
+		graphical_cultures = {
+			mongolgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Ega
+		male_patronym = nered
+		female_patronym = wga
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+}
+
+wamat = {
+	graphical_cultures = {
+			indiangfx	}
+	doumat = {
+		color = { 130 19 22 }
+		graphical_cultures = {
+			easternslavicgfx		}
+		male_names = {
+			Datakm Latoses Kilad Nusam Bus Sk Nozh Wamh Tdoses Ton Lil Eram Watakm Toram Atyh Tudyab Echor Sekad Qonk Bonam Kor Tonam Sorh Borel Abatk Nafh Bhorus Thorh Seilh Nilus Sekyab Qyk Wrus Qt Bozos Lilyuk Dekoses Nr Dfam Natus Teilyuk Etados Rusalk Lalk Rel Wr Seudel Nusel Beilel Lonam Nor Weilad Raf Lalh Bonel Talad Ronel Ahorel Doroses Keil Noanad Ekozus Efus Nram Torh Qusel Baalh Ladakm Batel Kekakm Syuk Lonus K Kn Sus Bhor Donos Safalk Ror Tadalk Kus Etyh Tr Kam Korh Qonam Ror Rorus Kush Wyh K At Edafad Kos Tank Lhorus Sus Rr Rush Sfoses		}
+		female_names = {
+			Nrama Kozha Sra Enonose Rose Ludya Sonusa Wozakma Lalu Safusa Erakma Esamusa Atose Lonurga Tyava Kyava Dyha Leilama Dyaa Ryua Dka Lnada Konose Tye Kane Tane Lyyu Rfa Toanama Tusai Bhoryu Koryu Ktu Emonha Byai Dadama Ronada Qyha Asose Taalha Dilyu Qdu Lorusa Elada Adorya Konose Qla Dhorama Dozada Etyoe Tyaa Wekusa Elha Rorka Lorha Dre Rhorama Sane Wekyu Bame Ryua Reilka Rrak Khorusa Enonose Qnu Emeilha Tfose Lhorai Lorose Qdose Efakma Weilusa Akaalai Qorada Trada Ratka Wusyava Edafurga Kose Wsusa Dadurga Ebatama Nusha Akusa Ronha Deilya Efu Ronha Tamai Emeile Kozai Ttalka Dalka Lafakma Weke Wrusa Wdada Kru Borya		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rr "
+		male_patronym = qr
+		female_patronym = loal
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	donada = {
+		color = { 116 0 0 }
+		graphical_cultures = {
+			easternslavicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Torka
+		male_patronym = qr
+		female_patronym = loal
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	ekozusa = {
+		color = { 99 8 1 }
+		graphical_cultures = {
+			easternslavicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Akaama
+		male_patronym = qr
+		female_patronym = loal
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	borama = {
+		color = { 144 44 11 }
+		graphical_cultures = {
+			easternslavicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Reub
+		male_patronym = qr
+		female_patronym = loal
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = yes
+	}
+	ejoanel = {
+		color = { 129 26 0 }
+		graphical_cultures = {
+			easternslavicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rr "
+		male_patronym = qr
+		female_patronym = loal
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = yes
+	}
+	ryyab = {
+		color = { 152 34 9 }
+		graphical_cultures = {
+			easternslavicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rr "
+		male_patronym = qr
+		female_patronym = ramka
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	roralka = {
+		color = { 122 16 0 }
+		graphical_cultures = {
+			easternslavicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Sza
+		male_patronym = qr
+		female_patronym = loal
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	bozusa = {
+		color = { 141 0 0 }
+		graphical_cultures = {
+			easternslavicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rr "
+		male_patronym = qr
+		female_patronym = loal
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+	safha = {
+		color = { 134 47 21 }
+		graphical_cultures = {
+			easternslavicgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Sel
+		male_patronym = rorsa
+		female_patronym = wga
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = no
+		seafarer = no
+	}
+}
+
+latani = {
+	graphical_cultures = {
+			easterngfx	}
+	rresa = {
+		color = { 86 171 88 }
+		graphical_cultures = {
+			ugricgfx		}
+		male_names = {
+			Draus Kneth Kanah Ejev Tujen Rhel Nel Sujel Kear Tdet Nanet Erv Ns Qirahid Nis Ten Ar Bad Nujor Qegist Siram Lisaus Loragop Akist Wyivig Wallor Laneth Qjk Krem Ajetem Keth Qs Devig Blarj Khist Kjunl Norist Enah Wearaus Wjist Eruyiv Agerv Kkev Kjeth Kgirad Kand Tuyim Dketh Trerv Trisr Kanen Dr Ralet Agujel Seth Etor Ld Kanel Ajodah Qreth Ror Ebegerv Sevig Arahid Dhist Rl Kvig Qaneth Negel Qeth Aviran Raus Kkk Ralir Arel Buyinen Rist Kearen Lhelen Wl Ad Atarj Regel Rand Kr Rist Reten Segarj Rujem Ararj Kgerv Kist Tem Sn Tandet Brirad Sunl Krah Nket Tujanos		}
+		female_names = {
+			Llau Tgista Quke Kyino Ebegevi Wege Tkis Lna Lodore Dista Rrko Rujerva Aryo Drisle Dandena Ererva Dallena Tujau Rlena Njun Slena Akahi Kget Rnno Nrisna Kjau Wetena Suyigo Kirasta Rdele Sirana Njira Luke Ralarje Rget Ekale Qlira Rorore Tyirva Ruja Qhira Larau Wele Bira Trisle Kege Kuja Wrista Nhena Rgago Kujet Birarva Sha Rane Kherva Kanet Legano Tre Kena Kande Darago Bale Dalerva Wn Krko Tuje Deara Torevi Ralle Karira Tarira Tun Tje Bra Rtira Ketau Kegena Tegano Wse Lkira Kke Qalau Tau Nujira Duke Le Woret Tuke Atena Rele Wege Kvi Krisra Terva Torore Wevi Dgira Qra Esanau Siramey		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "tre "
+		male_patronym = erna
+		female_patronym = erre
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	beth = {
+		color = { 106 151 92 }
+		graphical_cultures = {
+			ugricgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "tre "
+		male_patronym = rna
+		female_patronym = kujhid
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = yes
+	}
+	learah = {
+		color = { 70 135 77 }
+		graphical_cultures = {
+			ugricgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "tre "
+		male_patronym = erna
+		female_patronym = erre
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	kegirad = {
+		color = { 100 162 74 }
+		graphical_cultures = {
+			ugricgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "tre "
+		male_patronym = erna
+		female_patronym = erre
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	wiragop = {
+		color = { 72 166 102 }
+		graphical_cultures = {
+			ugricgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "tre "
+		male_patronym = erna
+		female_patronym = erre
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	tujeth = {
+		color = { 91 157 53 }
+		graphical_cultures = {
+			ugricgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Rah
+		male_patronym = erna
+		female_patronym = erre
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	negeth = {
+		color = { 87 133 75 }
+		graphical_cultures = {
+			ugricgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "tre "
+		male_patronym = Wna
+		female_patronym = Erna
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	srisre = {
+		color = { 89 123 126 }
+		graphical_cultures = {
+			ugricgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = The
+		male_patronym = erna
+		female_patronym = erre
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	dukanos = {
+		color = { 108 165 88 }
+		graphical_cultures = {
+			ugricgfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Erano
+		male_patronym = Whe
+		female_patronym = Wre
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+}
+
+deekner = {
+	graphical_cultures = {
+			westerngfx	}
+	telita = {
+		color = { 0 116 154 }
+		graphical_cultures = {
+			mesoamericangfx		}
+		male_names = {
+			Tijind Bbin Käas Esvas Kozaid Qert Tavic Qavas Adavind Tert Traet Ekäiot Sulert Wvog Asric Raboet Navas Tab Ralaet Balas Qloin Noin Qrenr Kkas Qhas Qet Nraid Trind Tlog Ejar Nvic Bhoet Dalas Khoin Kar Retuk Kc Qalar Nbeid Loin Lanc Dhind Narert Daleid Saras Qavas Wvuk Qabas Wvind Ntic Kuloet Nijeid Kroet Dic Ekaald Talanc Eäanc Liedr Laijoin Qvas Dabic Slas Esabic Nabaid Wavic Nloin Rvak Dert Wozert Naluk Tabeid Rzenr Dabind Bbog Walar Tyalk Tic Dlukas Netas Dabas Daroin Ebaid Lar Rn Tavas Elk Tedr Kalog Reid Lhoin Taranc Eviedr Tedr Kulas Blar Aranc Qenr Labas Raalas Bvaid		}
+		female_names = {
+			Läa Dbin Aranca Ela Lula Tala Tloe Laroi Betice Nli Dlin Nben Kaete Raallu Bler Qetice Rerta Ralin Qeti Karice Nalice Wlin Lanca Sli Warin Käerta Asranca Echiota Kecaide Tala Alan Rlice Tvice Tecare Qozerta Tvanca Räoe Tulaide Raide Tlan Kloe Emara Lna Saete Klice Wherta Lanca Qan Tben Kalde Tloe Kroge Elaloge Kalare Räaete Kae Taide Kaboe Rzice Naete Enca Bka Betoe Larare Tlei Lulerta Arer Tabaide Barare Nbaete Rtuka Nla Kaba Daranca Rrae Khin Wava Saali Rei Troge Rruka Epulaete Toza Akozanca Rulen Dvaide Kliota Khare Aten Tide Wabice Bara Rtice Kai Eberta Dlare Kboge Thice Riedre Dozanca		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rr "
+		male_patronym = kl
+		female_patronym = ekä
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	qerta = {
+		color = { 0 120 141 }
+		graphical_cultures = {
+			mesoamericangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rr "
+		male_patronym = kl
+		female_patronym = ekä
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = yes
+	}
+	akozerta = {
+		color = { 0 139 164 }
+		graphical_cultures = {
+			mesoamericangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rr "
+		male_patronym = kl
+		female_patronym = ekä
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = yes
+	}
+	taaloin = {
+		color = { 18 96 159 }
+		graphical_cultures = {
+			mesoamericangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Emarna
+		male_patronym = ql
+		female_patronym = wl
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	ekozare = {
+		color = { 0 101 191 }
+		graphical_cultures = {
+			mesoamericangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = Ezte
+		male_patronym = wh
+		female_patronym = qä
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	wvaku = {
+		color = { 0 82 193 }
+		graphical_cultures = {
+			mesoamericangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rr "
+		male_patronym = kl
+		female_patronym = ekä
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = yes
+	}
+	svare = {
+		color = { 35 99 177 }
+		graphical_cultures = {
+			mesoamericangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = yes
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rr "
+		male_patronym = kl
+		female_patronym = ekä
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	kaloet = {
+		color = { 34 110 159 }
+		graphical_cultures = {
+			mesoamericangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = yes
+		count_titles_hidden = yes
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rr "
+		male_patronym = kl
+		female_patronym = ekä
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+	lanca = {
+		color = { 0 112 150 }
+		graphical_cultures = {
+			mesoamericangfx		}
+		male_names = {
+		}
+		female_names = {
+		}
+		dukes_called_kings = no
+		baron_titles_hidden = no
+		count_titles_hidden = no
+		horde = no
+		founder_named_dynasties = no
+		dynasty_title_names = no
+		from_dynasty_prefix = "rr "
+		male_patronym = kl
+		female_patronym = ekä
+		prefix = no
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 25
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		modifier = default_culture_modifier
+		allow_looting = yes
+		seafarer = no
+	}
+}
+

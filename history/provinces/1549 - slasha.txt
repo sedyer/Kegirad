@@ -1,0 +1,9 @@
+	title = c_slasha
+	max_settlements = 7
+	culture = bodoba
+	religion = rerech
+	b_qabasha = tribal
+602.3.1 = {
+	religion = tluku
+}
+

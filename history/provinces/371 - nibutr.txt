@@ -1,0 +1,41 @@
+	title = c_nibutr
+	max_settlements = 2
+	culture = edanyi
+	religion = rerech
+	b_dsine = tribal
+293.3.1 = {
+	religion = echukas
+}
+
+309.3.1 = {
+	religion = rerech
+}
+
+331.3.1 = {
+	religion = echukas
+}
+
+348.3.1 = {
+	religion = rerech
+}
+
+348.3.1 = {
+	religion = echukas
+}
+
+364.3.1 = {
+	religion = rerech
+}
+
+364.3.1 = {
+	religion = echukas
+}
+
+368.3.1 = {
+	religion = rerech
+}
+
+378.3.1 = {
+	religion = echukas
+}
+

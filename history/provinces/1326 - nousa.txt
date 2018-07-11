@@ -1,0 +1,9 @@
+	title = c_nousa
+	max_settlements = 7
+	culture = krance
+	religion = rgance
+	b_elierg = tribal
+611.4.1 = {
+	culture = rriste
+}
+

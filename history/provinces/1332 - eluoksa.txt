@@ -1,0 +1,21 @@
+	title = c_eluoksa
+	max_settlements = 2
+	culture = norse
+	religion = egrirat
+	b_nojiggu = tribal
+213.3.1 = {
+	religion = rgance
+}
+
+330.3.1 = {
+	religion = egrirat
+}
+
+356.4.1 = {
+	culture = brirat
+}
+
+458.3.1 = {
+	religion = rgance
+}
+

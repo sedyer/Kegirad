@@ -1,0 +1,45 @@
+	title = c_datmi
+	max_settlements = 3
+	culture = robas
+	religion = abonyi
+	b_kafaha = tribal
+249.3.1 = {
+	religion = rerech
+}
+
+257.3.1 = {
+	religion = abonyi
+}
+
+269.3.1 = {
+	religion = rerech
+}
+
+274.3.1 = {
+	religion = abonyi
+}
+
+317.3.1 = {
+	religion = rerech
+}
+
+336.3.1 = {
+	religion = abonyi
+}
+
+337.3.1 = {
+	religion = rerech
+}
+
+344.3.1 = {
+	religion = abonyi
+}
+
+346.4.1 = {
+	culture = batanes
+}
+
+348.3.1 = {
+	religion = rerech
+}
+

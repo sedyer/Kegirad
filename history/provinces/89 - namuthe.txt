@@ -1,0 +1,13 @@
+	title = c_namuthe
+	max_settlements = 2
+	culture = wubutr
+	religion = wozine
+	b_nirega = tribal
+201.3.1 = {
+	religion = echukas
+}
+
+270.4.1 = {
+	culture = namuthe
+}
+

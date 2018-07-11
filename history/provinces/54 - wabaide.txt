@@ -1,0 +1,25 @@
+	title = c_wabaide
+	max_settlements = 2
+	culture = telita
+	religion = echukas
+	b_tlanca = tribal
+253.3.1 = {
+	religion = lavukas
+}
+
+260.3.1 = {
+	religion = echukas
+}
+
+453.4.1 = {
+	culture = kaloet
+}
+
+602.3.1 = {
+	religion = lavukas
+}
+
+635.4.1 = {
+	culture = taaloin
+}
+

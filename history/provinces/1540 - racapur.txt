@@ -1,0 +1,17 @@
+	title = c_racapur
+	max_settlements = 6
+	culture = katunn
+	religion = takice
+	b_sawoshe = tribal
+244.4.1 = {
+	culture = kerin
+}
+
+555.3.1 = {
+	religion = wsosro
+}
+
+627.3.1 = {
+	religion = rni
+}
+

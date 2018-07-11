@@ -1,0 +1,9 @@
+	title = c_rununn
+	max_settlements = 2
+	culture = ranjada
+	religion = ticojan
+	b_wulunn = tribal
+234.4.1 = {
+	culture = kerada
+}
+

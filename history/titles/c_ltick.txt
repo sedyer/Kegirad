@@ -1,0 +1,158 @@
+200.2.1 = {
+	holder = 1000000
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000001
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_alasha
+}
+
+200.2.4 = {
+	holder = 1000089
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+228.2.1 = {
+	holder = 1003448
+}
+
+238.2.1 = {
+	holder = 1005930
+}
+
+303.2.1 = {
+	holder = 1009936
+}
+
+308.2.1 = {
+	liege = d_qeous
+}
+
+308.2.2 = {
+	holder = 1012706
+}
+
+308.2.3 = {
+	liege = d_alasha
+}
+
+309.2.1 = {
+	liege = d_qeous
+}
+
+309.2.2 = {
+	holder = 1011819
+}
+
+309.2.3 = {
+	liege = k_bolivai
+}
+
+309.2.4 = {
+	holder = 1013139
+}
+
+330.2.1 = {
+	holder = 1014889
+}
+
+383.2.1 = {
+	holder = 1018190
+}
+
+383.2.2 = {
+	holder = 1019017
+}
+
+403.2.1 = {
+	holder = 1019086
+}
+
+403.2.2 = {
+	holder = 1020688
+}
+
+408.2.1 = {
+	liege = d_alasha
+}
+
+439.2.1 = {
+	holder = 1021861
+}
+
+471.2.1 = {
+	holder = 1023975
+}
+
+489.2.1 = {
+	holder = 1025928
+}
+
+515.2.1 = {
+	liege = k_bolivai
+}
+
+515.2.2 = {
+	holder = 1028983
+}
+
+597.2.1 = {
+	liege = d_drael
+}
+
+597.2.2 = {
+	holder = 1034180
+}
+
+597.2.3 = {
+	liege = k_bolivai
+}
+
+599.2.1 = {
+	liege = d_alasha
+}
+
+599.2.2 = {
+	liege = d_drael
+}
+
+599.2.3 = {
+	holder = 1027658
+}
+
+599.2.4 = {
+	liege = k_bolivai
+}
+
+600.2.1 = {
+	liege = d_alasha
+}
+
+600.2.2 = {
+	liege = d_drael
+}
+
+600.2.3 = {
+	holder = 1031377
+}
+
+600.2.4 = {
+	liege = k_bolivai
+}
+
+600.2.5 = {
+	holder = 1034497
+}
+
+700.2.1 = {
+	holder = 1035394
+}
+

@@ -1,0 +1,17 @@
+	title = c_dalae
+	max_settlements = 7
+	culture = rresa
+	religion = bukena
+	b_tigohn = tribal
+210.3.1 = {
+	religion = emonurga
+}
+
+212.3.1 = {
+	religion = bukena
+}
+
+213.3.1 = {
+	religion = emonurga
+}
+

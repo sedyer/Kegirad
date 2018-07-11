@@ -1,0 +1,9 @@
+	title = c_etuulita
+	max_settlements = 2
+	culture = kaloet
+	religion = echukas
+	b_asirine = tribal
+259.4.1 = {
+	culture = svare
+}
+

@@ -1,0 +1,41 @@
+	title = c_staka
+	max_settlements = 2
+	culture = rinmi
+	religion = rerech
+	b_ndacob = tribal
+237.3.1 = {
+	religion = tedusa
+}
+
+241.3.1 = {
+	religion = rerech
+}
+
+248.3.1 = {
+	religion = tedusa
+}
+
+252.3.1 = {
+	religion = rerech
+}
+
+253.3.1 = {
+	religion = tedusa
+}
+
+254.3.1 = {
+	religion = rerech
+}
+
+256.3.1 = {
+	religion = tedusa
+}
+
+258.3.1 = {
+	religion = rerech
+}
+
+302.3.1 = {
+	religion = tedusa
+}
+

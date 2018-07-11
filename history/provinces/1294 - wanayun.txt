@@ -1,0 +1,17 @@
+	title = c_wanayun
+	max_settlements = 4
+	culture = ricepan
+	religion = ticojan
+	b_taviz = tribal
+218.3.1 = {
+	religion = rni
+}
+
+220.3.1 = {
+	religion = ticojan
+}
+
+220.3.1 = {
+	religion = rni
+}
+

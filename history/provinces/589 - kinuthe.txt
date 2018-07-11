@@ -1,0 +1,17 @@
+	title = c_kinuthe
+	max_settlements = 5
+	culture = rresa
+	religion = bukena
+	b_nilemka = tribal
+311.3.1 = {
+	religion = kanyo
+}
+
+314.4.1 = {
+	culture = tujeth
+}
+
+662.3.1 = {
+	religion = emonurga
+}
+

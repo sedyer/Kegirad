@@ -1,0 +1,41 @@
+	title = c_lresha
+	max_settlements = 3
+	culture = bodoba
+	religion = rerech
+	b_kabra = tribal
+225.3.1 = {
+	religion = tluku
+}
+
+226.3.1 = {
+	religion = rerech
+}
+
+244.3.1 = {
+	religion = tluku
+}
+
+276.3.1 = {
+	religion = rerech
+}
+
+293.3.1 = {
+	religion = tluku
+}
+
+296.3.1 = {
+	religion = rerech
+}
+
+299.3.1 = {
+	religion = tluku
+}
+
+303.3.1 = {
+	religion = rerech
+}
+
+558.4.1 = {
+	culture = wlick
+}
+

@@ -1,0 +1,9 @@
+	title = c_kimunai
+	max_settlements = 2
+	culture = wubutr
+	religion = echukas
+	b_radur = tribal
+223.4.1 = {
+	culture = kamat
+}
+

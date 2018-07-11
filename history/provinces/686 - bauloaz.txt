@@ -1,0 +1,5 @@
+	title = c_bauloaz
+	max_settlements = 4
+	culture = topius
+	religion = wsosro
+	b_srivai = tribal

@@ -1,0 +1,5 @@
+	title = c_wopoba
+	max_settlements = 4
+	culture = topius
+	religion = wsosro
+	b_akobagno = tribal

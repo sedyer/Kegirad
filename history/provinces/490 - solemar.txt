@@ -1,0 +1,21 @@
+	title = c_solemar
+	max_settlements = 2
+	culture = rarugis
+	religion = abonyi
+	b_tremule = tribal
+231.3.1 = {
+	religion = rerech
+}
+
+412.3.1 = {
+	religion = abonyi
+}
+
+552.3.1 = {
+	religion = ninala
+}
+
+620.4.1 = {
+	culture = sitilje
+}
+

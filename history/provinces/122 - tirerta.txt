@@ -1,0 +1,29 @@
+	title = c_tirerta
+	max_settlements = 2
+	culture = namuthe
+	religion = echukas
+	b_bererta = tribal
+257.3.1 = {
+	religion = emonurga
+}
+
+304.3.1 = {
+	religion = echukas
+}
+
+305.3.1 = {
+	religion = emonurga
+}
+
+322.3.1 = {
+	religion = echukas
+}
+
+330.3.1 = {
+	religion = emonurga
+}
+
+336.3.1 = {
+	religion = echukas
+}
+

@@ -1,0 +1,13 @@
+	title = c_warode
+	max_settlements = 2
+	culture = dobius
+	religion = ninala
+	b_lietis = tribal
+200.3.1 = {
+	religion = kmemar
+}
+
+450.4.1 = {
+	culture = eiremar
+}
+

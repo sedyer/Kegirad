@@ -1,0 +1,5 @@
+	title = c_walonan
+	max_settlements = 2
+	culture = norik
+	religion = tedusa
+	b_escolto = tribal

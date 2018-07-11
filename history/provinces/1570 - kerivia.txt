@@ -1,0 +1,9 @@
+	title = c_kerivia
+	max_settlements = 5
+	culture = beth
+	religion = emonurga
+	b_tivia = tribal
+410.4.1 = {
+	culture = rresa
+}
+

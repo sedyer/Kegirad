@@ -1,0 +1,17 @@
+	title = c_ninud
+	max_settlements = 2
+	culture = batna
+	religion = ricily
+	b_ratnhi = tribal
+286.3.1 = {
+	religion = rni
+}
+
+437.3.1 = {
+	religion = emonurga
+}
+
+635.3.1 = {
+	religion = ricily
+}
+

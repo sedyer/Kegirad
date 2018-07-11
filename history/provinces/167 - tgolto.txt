@@ -1,0 +1,5 @@
+	title = c_tgolto
+	max_settlements = 2
+	culture = kilik
+	religion = tedusa
+	b_recakh = tribal

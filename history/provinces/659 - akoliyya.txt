@@ -1,0 +1,9 @@
+	title = c_akoliyya
+	max_settlements = 4
+	culture = rmada
+	religion = wsosro
+	b_awrunai = tribal
+494.3.1 = {
+	religion = tluku
+}
+

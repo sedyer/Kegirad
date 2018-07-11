@@ -1,0 +1,13 @@
+	title = c_tatih
+	max_settlements = 2
+	culture = racine
+	religion = rerech
+	b_danern = tribal
+369.4.1 = {
+	culture = srisre
+}
+
+686.4.1 = {
+	culture = racine
+}
+

@@ -1,0 +1,9 @@
+	title = c_luremka
+	max_settlements = 2
+	culture = racine
+	religion = rerech
+	b_dopesh = tribal
+528.4.1 = {
+	culture = srisre
+}
+

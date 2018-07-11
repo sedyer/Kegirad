@@ -1,0 +1,9 @@
+	title = c_sudohn
+	max_settlements = 2
+	culture = negeth
+	religion = emonurga
+	b_rigaja = tribal
+385.3.1 = {
+	religion = takice
+}
+

@@ -1,0 +1,9 @@
+	title = c_bhoaz
+	max_settlements = 2
+	culture = suneja
+	religion = ticojan
+	b_binen = tribal
+207.4.1 = {
+	culture = balilof
+}
+

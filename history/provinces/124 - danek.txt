@@ -1,0 +1,45 @@
+	title = c_danek
+	max_settlements = 2
+	culture = namuthe
+	religion = echukas
+	b_nurarid = tribal
+267.3.1 = {
+	religion = emonurga
+}
+
+288.3.1 = {
+	religion = echukas
+}
+
+294.3.1 = {
+	religion = emonurga
+}
+
+295.3.1 = {
+	religion = echukas
+}
+
+312.3.1 = {
+	religion = emonurga
+}
+
+318.3.1 = {
+	religion = echukas
+}
+
+320.3.1 = {
+	religion = emonurga
+}
+
+327.3.1 = {
+	religion = echukas
+}
+
+328.3.1 = {
+	religion = emonurga
+}
+
+343.3.1 = {
+	religion = echukas
+}
+

@@ -1,0 +1,29 @@
+	title = c_brasrid
+	max_settlements = 2
+	culture = wubutr
+	religion = echukas
+	b_widen = tribal
+241.4.1 = {
+	culture = namuthe
+}
+
+245.3.1 = {
+	religion = wozine
+}
+
+281.3.1 = {
+	religion = echukas
+}
+
+304.3.1 = {
+	religion = wozine
+}
+
+614.3.1 = {
+	religion = wering
+}
+
+652.4.1 = {
+	culture = waurat
+}
+

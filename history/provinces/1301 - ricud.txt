@@ -1,0 +1,9 @@
+	title = c_ricud
+	max_settlements = 2
+	culture = eleer
+	religion = ricily
+	b_rulomeo = tribal
+311.4.1 = {
+	culture = elada
+}
+

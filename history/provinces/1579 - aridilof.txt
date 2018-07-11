@@ -1,0 +1,25 @@
+	title = c_aridilof
+	max_settlements = 2
+	culture = batna
+	religion = rni
+	b_katagis = tribal
+617.3.1 = {
+	religion = emonurga
+}
+
+627.3.1 = {
+	religion = rni
+}
+
+647.3.1 = {
+	religion = emonurga
+}
+
+648.3.1 = {
+	religion = rni
+}
+
+662.3.1 = {
+	religion = emonurga
+}
+

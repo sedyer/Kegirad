@@ -1,0 +1,13 @@
+	title = c_turopti
+	max_settlements = 7
+	culture = bavirat
+	religion = qriibma
+	b_sirurd = tribal
+204.3.1 = {
+	religion = rgance
+}
+
+337.3.1 = {
+	religion = qriibma
+}
+

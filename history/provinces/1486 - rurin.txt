@@ -1,0 +1,25 @@
+	title = c_rurin
+	max_settlements = 3
+	culture = batna
+	religion = rni
+	b_kirilic = tribal
+200.3.1 = {
+	religion = emonurga
+}
+
+388.3.1 = {
+	religion = rni
+}
+
+398.3.1 = {
+	religion = emonurga
+}
+
+429.3.1 = {
+	religion = rni
+}
+
+532.3.1 = {
+	religion = emonurga
+}
+

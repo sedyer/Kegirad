@@ -1,0 +1,9 @@
+	title = c_sorius
+	max_settlements = 6
+	culture = batanes
+	religion = rerech
+	b_rinosro = tribal
+290.3.1 = {
+	religion = emonurga
+}
+

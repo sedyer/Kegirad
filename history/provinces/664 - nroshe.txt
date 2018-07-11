@@ -1,0 +1,5 @@
+	title = c_nroshe
+	max_settlements = 2
+	culture = talien
+	religion = wsosro
+	b_awacat = tribal

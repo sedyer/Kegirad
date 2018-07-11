@@ -1,0 +1,9 @@
+	title = c_relai
+	max_settlements = 2
+	culture = kuogoi
+	religion = ricily
+	b_qinachi = tribal
+526.4.1 = {
+	culture = batna
+}
+

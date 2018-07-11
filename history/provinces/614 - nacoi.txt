@@ -1,0 +1,45 @@
+	title = c_nacoi
+	max_settlements = 6
+	culture = tujeth
+	religion = kanyo
+	b_brai = tribal
+201.3.1 = {
+	religion = bukena
+}
+
+260.3.1 = {
+	religion = kanyo
+}
+
+346.3.1 = {
+	religion = bukena
+}
+
+353.3.1 = {
+	religion = kanyo
+}
+
+374.3.1 = {
+	religion = bukena
+}
+
+378.3.1 = {
+	religion = kanyo
+}
+
+391.3.1 = {
+	religion = bukena
+}
+
+399.3.1 = {
+	religion = kanyo
+}
+
+425.3.1 = {
+	religion = bukena
+}
+
+436.3.1 = {
+	religion = kanyo
+}
+

@@ -1,0 +1,73 @@
+	title = c_reon
+	max_settlements = 3
+	culture = batanes
+	religion = rerech
+	b_seoin = tribal
+203.3.1 = {
+	religion = kanyo
+}
+
+205.3.1 = {
+	religion = rerech
+}
+
+251.3.1 = {
+	religion = kanyo
+}
+
+255.3.1 = {
+	religion = rerech
+}
+
+258.3.1 = {
+	religion = kanyo
+}
+
+259.3.1 = {
+	religion = rerech
+}
+
+263.3.1 = {
+	religion = kanyo
+}
+
+272.3.1 = {
+	religion = rerech
+}
+
+279.3.1 = {
+	religion = kanyo
+}
+
+283.3.1 = {
+	religion = rerech
+}
+
+285.3.1 = {
+	religion = kanyo
+}
+
+292.3.1 = {
+	religion = rerech
+}
+
+346.3.1 = {
+	religion = kanyo
+}
+
+368.3.1 = {
+	religion = rerech
+}
+
+379.3.1 = {
+	religion = kanyo
+}
+
+448.3.1 = {
+	religion = emonurga
+}
+
+699.3.1 = {
+	religion = wsosro
+}
+

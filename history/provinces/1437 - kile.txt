@@ -1,0 +1,9 @@
+	title = c_kile
+	max_settlements = 2
+	culture = brirat
+	religion = egrirat
+	b_eloss = tribal
+414.3.1 = {
+	religion = rgance
+}
+

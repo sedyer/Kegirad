@@ -1,0 +1,86 @@
+200.2.1 = {
+	holder = 1000016
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1000017
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_ticam
+}
+
+200.2.4 = {
+	holder = 1001074
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+256.2.1 = {
+	holder = 1003014
+}
+
+257.2.1 = {
+	holder = 1002568
+}
+
+257.2.2 = {
+	holder = 1004268
+}
+
+400.2.1 = {
+	holder = 1008586
+}
+
+400.2.2 = {
+	holder = 1016417
+}
+
+411.2.1 = {
+	holder = 1018353
+}
+
+422.2.1 = {
+	holder = 1022084
+}
+
+438.2.1 = {
+	holder = 1022429
+}
+
+439.2.1 = {
+	holder = 1022536
+}
+
+439.2.2 = {
+	holder = 1023350
+}
+
+600.2.1 = {
+	holder = 1023351
+}
+
+600.2.2 = {
+	holder = 1027806
+}
+
+600.2.3 = {
+	holder = 1030447
+}
+
+613.2.1 = {
+	holder = 1034342
+}
+
+657.2.1 = {
+	holder = 1038211
+}
+
+700.2.1 = {
+	holder = 1039868
+}
+

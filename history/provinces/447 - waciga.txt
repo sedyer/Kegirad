@@ -1,0 +1,5 @@
+	title = c_waciga
+	max_settlements = 2
+	culture = ributhe
+	religion = abonyi
+	b_kelega = tribal

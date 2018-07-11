@@ -1,0 +1,33 @@
+	title = c_setoaz
+	max_settlements = 7
+	culture = wiragop
+	religion = emonurga
+	b_bacine = tribal
+260.3.1 = {
+	religion = takice
+}
+
+267.3.1 = {
+	religion = emonurga
+}
+
+271.3.1 = {
+	religion = takice
+}
+
+282.3.1 = {
+	religion = emonurga
+}
+
+286.3.1 = {
+	religion = takice
+}
+
+356.3.1 = {
+	religion = emonurga
+}
+
+683.3.1 = {
+	religion = kanyo
+}
+

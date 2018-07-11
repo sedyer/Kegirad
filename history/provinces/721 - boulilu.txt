@@ -1,0 +1,21 @@
+	title = c_boulilu
+	max_settlements = 4
+	culture = dlebe
+	religion = ninala
+	b_raviste = tribal
+207.3.1 = {
+	religion = tluku
+}
+
+263.3.1 = {
+	religion = ninala
+}
+
+324.3.1 = {
+	religion = tluku
+}
+
+638.4.1 = {
+	culture = drebe
+}
+

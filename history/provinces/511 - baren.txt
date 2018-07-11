@@ -1,0 +1,21 @@
+	title = c_baren
+	max_settlements = 2
+	culture = robas
+	religion = abonyi
+	b_nlugis = tribal
+229.4.1 = {
+	culture = batanes
+}
+
+260.3.1 = {
+	religion = rerech
+}
+
+270.3.1 = {
+	religion = abonyi
+}
+
+294.3.1 = {
+	religion = rerech
+}
+

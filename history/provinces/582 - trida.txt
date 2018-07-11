@@ -1,0 +1,49 @@
+	title = c_trida
+	max_settlements = 2
+	culture = rresa
+	religion = kanyo
+	b_nares = tribal
+289.4.1 = {
+	culture = tujeth
+}
+
+301.3.1 = {
+	religion = rerech
+}
+
+322.3.1 = {
+	religion = kanyo
+}
+
+324.3.1 = {
+	religion = rerech
+}
+
+333.3.1 = {
+	religion = kanyo
+}
+
+349.3.1 = {
+	religion = rerech
+}
+
+354.3.1 = {
+	religion = kanyo
+}
+
+425.3.1 = {
+	religion = rerech
+}
+
+425.3.1 = {
+	religion = kanyo
+}
+
+499.4.1 = {
+	culture = rresa
+}
+
+652.3.1 = {
+	religion = wsosro
+}
+

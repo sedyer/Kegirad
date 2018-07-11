@@ -1,0 +1,33 @@
+	title = c_loges
+	max_settlements = 2
+	culture = sitilje
+	religion = ninala
+	b_baremar = tribal
+208.3.1 = {
+	religion = kmemar
+}
+
+228.3.1 = {
+	religion = ninala
+}
+
+235.3.1 = {
+	religion = kmemar
+}
+
+239.3.1 = {
+	religion = ninala
+}
+
+255.3.1 = {
+	religion = kmemar
+}
+
+283.4.1 = {
+	culture = dobius
+}
+
+300.4.1 = {
+	culture = eiremar
+}
+

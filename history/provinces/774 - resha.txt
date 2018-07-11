@@ -1,0 +1,5 @@
+	title = c_resha
+	max_settlements = 2
+	culture = lriz
+	religion = ninala
+	b_dtesha = tribal

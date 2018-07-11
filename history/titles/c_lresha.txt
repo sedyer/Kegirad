@@ -1,0 +1,132 @@
+200.2.1 = {
+	holder = 1000000
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000002
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	holder = 1000267
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+200.2.4 = {
+	liege = d_akolat
+}
+
+200.2.5 = {
+	holder = 1000266
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+222.2.1 = {
+	holder = 1004630
+}
+
+230.2.1 = {
+	holder = 1003143
+}
+
+239.2.1 = {
+	holder = 1006896
+}
+
+274.2.1 = {
+	holder = 1008356
+}
+
+299.2.1 = {
+	liege = d_eliste
+}
+
+299.2.2 = {
+	holder = 1010315
+}
+
+299.2.3 = {
+	liege = d_akolat
+}
+
+315.2.1 = {
+	holder = 1013660
+}
+
+319.2.1 = {
+	holder = 1013959
+}
+
+321.2.1 = {
+	holder = 1011187
+}
+
+343.2.1 = {
+	holder = 1015858
+}
+
+357.2.1 = {
+	holder = 1016998
+}
+
+363.2.1 = {
+	holder = 1015859
+}
+
+363.2.2 = {
+	holder = 1013197
+}
+
+380.2.1 = {
+	holder = 1018547
+}
+
+414.2.1 = {
+	holder = 1021493
+}
+
+500.2.1 = {
+	holder = 1027528
+}
+
+508.2.1 = {
+	holder = 1024560
+}
+
+508.2.2 = {
+	holder = 1028507
+}
+
+600.2.1 = {
+	holder = 1030674
+}
+
+603.2.1 = {
+	holder = 1034901
+}
+
+613.2.1 = {
+	holder = 1035582
+}
+
+617.2.1 = {
+	holder = 1035810
+}
+
+618.2.1 = {
+	holder = 1035868
+}
+
+663.2.1 = {
+	holder = 1035928
+}
+
+670.2.1 = {
+	holder = 1038643
+}
+

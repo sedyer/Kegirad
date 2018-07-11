@@ -1,0 +1,5 @@
+	title = c_tireter
+	max_settlements = 2
+	culture = eiremar
+	religion = kmemar
+	b_nietew = tribal

@@ -1,0 +1,25 @@
+	title = c_lmeter
+	max_settlements = 2
+	culture = robas
+	religion = ninala
+	b_bausew = tribal
+204.3.1 = {
+	religion = abonyi
+}
+
+204.3.1 = {
+	religion = ninala
+}
+
+207.3.1 = {
+	religion = abonyi
+}
+
+211.3.1 = {
+	religion = ninala
+}
+
+227.4.1 = {
+	culture = sitilje
+}
+

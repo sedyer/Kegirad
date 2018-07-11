@@ -1,0 +1,9 @@
+	title = c_lisakh
+	max_settlements = 2
+	culture = salti
+	religion = tedusa
+	b_silaka = tribal
+208.4.1 = {
+	culture = tlacik
+}
+

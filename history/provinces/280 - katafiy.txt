@@ -1,0 +1,5 @@
+	title = c_katafiy
+	max_settlements = 7
+	culture = ryyab
+	religion = agrakma
+	b_ttnia = tribal

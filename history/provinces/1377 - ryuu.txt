@@ -1,0 +1,9 @@
+	title = c_ryuu
+	max_settlements = 4
+	culture = katunn
+	religion = takice
+	b_racha = tribal
+650.4.1 = {
+	culture = negeth
+}
+

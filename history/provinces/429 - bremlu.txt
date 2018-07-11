@@ -1,0 +1,9 @@
+	title = c_bremlu
+	max_settlements = 2
+	culture = edanyi
+	religion = rerech
+	b_kaims = tribal
+418.3.1 = {
+	religion = echukas
+}
+

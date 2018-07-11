@@ -1,0 +1,13 @@
+	title = c_rtaka
+	max_settlements = 7
+	culture = bavirat
+	religion = qriibma
+	b_lalakh = tribal
+262.4.1 = {
+	culture = norse
+}
+
+376.4.1 = {
+	culture = bavirat
+}
+

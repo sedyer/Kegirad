@@ -1,0 +1,13 @@
+	title = c_khich
+	max_settlements = 2
+	culture = relita
+	religion = wering
+	b_nupima = tribal
+246.4.1 = {
+	culture = rerega
+}
+
+317.3.1 = {
+	religion = rerech
+}
+

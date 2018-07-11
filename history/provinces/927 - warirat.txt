@@ -1,0 +1,13 @@
+	title = c_warirat
+	max_settlements = 7
+	culture = norse
+	religion = rgance
+	b_tolinha = tribal
+406.3.1 = {
+	religion = qriibma
+}
+
+583.4.1 = {
+	culture = bavirat
+}
+

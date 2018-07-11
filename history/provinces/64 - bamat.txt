@@ -1,0 +1,5 @@
+	title = c_bamat
+	max_settlements = 2
+	culture = qerta
+	religion = echukas
+	b_kuulech = tribal

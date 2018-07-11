@@ -1,0 +1,53 @@
+	title = c_robada
+	max_settlements = 4
+	culture = tujeth
+	religion = emonurga
+	b_topy = tribal
+223.3.1 = {
+	religion = wsosro
+}
+
+242.3.1 = {
+	religion = emonurga
+}
+
+261.3.1 = {
+	religion = wsosro
+}
+
+271.3.1 = {
+	religion = emonurga
+}
+
+295.4.1 = {
+	culture = adietech
+}
+
+297.3.1 = {
+	religion = wsosro
+}
+
+305.3.1 = {
+	religion = emonurga
+}
+
+308.3.1 = {
+	religion = wsosro
+}
+
+321.3.1 = {
+	religion = emonurga
+}
+
+356.3.1 = {
+	religion = wsosro
+}
+
+405.3.1 = {
+	religion = emonurga
+}
+
+425.3.1 = {
+	religion = wsosro
+}
+

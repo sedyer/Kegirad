@@ -1,0 +1,9 @@
+	title = c_siyawid
+	max_settlements = 2
+	culture = elada
+	religion = ticojan
+	b_tucawid = tribal
+687.4.1 = {
+	culture = ricepan
+}
+

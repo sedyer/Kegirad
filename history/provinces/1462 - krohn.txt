@@ -1,0 +1,13 @@
+	title = c_krohn
+	max_settlements = 7
+	culture = kegirad
+	religion = bukena
+	b_draja = tribal
+367.3.1 = {
+	religion = emonurga
+}
+
+417.4.1 = {
+	culture = rresa
+}
+

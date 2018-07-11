@@ -1,0 +1,17 @@
+	title = c_ekanawid
+	max_settlements = 2
+	culture = elada
+	religion = ticojan
+	b_qyau = tribal
+201.3.1 = {
+	religion = ricily
+}
+
+218.3.1 = {
+	religion = ticojan
+}
+
+413.3.1 = {
+	religion = ricily
+}
+

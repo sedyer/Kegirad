@@ -1,0 +1,5 @@
+	title = c_tabayun
+	max_settlements = 2
+	culture = balilof
+	religion = ticojan
+	b_nyein = tribal

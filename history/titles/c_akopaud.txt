@@ -1,0 +1,100 @@
+200.2.1 = {
+	holder = 1000019
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	liege = d_tolada
+}
+
+200.2.3 = {
+	holder = 1001160
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+246.2.1 = {
+	holder = 1003190
+}
+
+272.2.1 = {
+	holder = 1007803
+}
+
+305.2.1 = {
+	holder = 1009964
+}
+
+332.2.1 = {
+	liege = d_linat
+}
+
+332.2.2 = {
+	holder = 1013051
+}
+
+332.2.3 = {
+	liege = d_tolada
+}
+
+348.2.1 = {
+	holder = 1012878
+}
+
+349.2.1 = {
+	liege = d_linat
+}
+
+356.2.1 = {
+	holder = 1015297
+}
+
+371.2.1 = {
+	liege = d_rati
+}
+
+371.2.2 = {
+	holder = 1017136
+}
+
+434.2.1 = {
+	holder = 1018482
+}
+
+439.2.1 = {
+	holder = 1023183
+}
+
+452.2.1 = {
+	holder = 1022585
+}
+
+452.2.2 = {
+	liege = k_lugat
+}
+
+452.2.3 = {
+	holder = 1024308
+}
+
+600.2.1 = {
+	holder = 1028112
+}
+
+600.2.2 = {
+	liege = d_tolada
+}
+
+600.2.3 = {
+	holder = 1034239
+}
+
+600.2.4 = {
+	holder = 1034546
+}
+
+700.2.1 = {
+	holder = 1034545
+}
+

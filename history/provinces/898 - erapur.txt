@@ -1,0 +1,17 @@
+	title = c_erapur
+	max_settlements = 7
+	culture = rresa
+	religion = emonurga
+	b_ketine = tribal
+296.3.1 = {
+	religion = takice
+}
+
+337.3.1 = {
+	religion = emonurga
+}
+
+400.4.1 = {
+	culture = wiragop
+}
+

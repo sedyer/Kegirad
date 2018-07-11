@@ -1,0 +1,41 @@
+	title = c_seuleja
+	max_settlements = 7
+	culture = rresa
+	religion = emonurga
+	b_eshalcon = tribal
+216.3.1 = {
+	religion = bukena
+}
+
+248.3.1 = {
+	religion = emonurga
+}
+
+274.3.1 = {
+	religion = kanyo
+}
+
+300.3.1 = {
+	religion = bukena
+}
+
+341.3.1 = {
+	religion = kanyo
+}
+
+384.3.1 = {
+	religion = bukena
+}
+
+459.3.1 = {
+	religion = kanyo
+}
+
+515.3.1 = {
+	religion = takice
+}
+
+561.3.1 = {
+	religion = emonurga
+}
+

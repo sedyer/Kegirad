@@ -1,0 +1,5 @@
+	title = c_kyaka
+	max_settlements = 2
+	culture = ekozusa
+	religion = emonurga
+	b_asamada = tribal

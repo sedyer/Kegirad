@@ -1,0 +1,9 @@
+	title = c_rulua
+	max_settlements = 2
+	culture = kuogoi
+	religion = ricily
+	b_telalda = tribal
+461.4.1 = {
+	culture = elada
+}
+

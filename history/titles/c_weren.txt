@@ -1,0 +1,138 @@
+200.2.1 = {
+	holder = 1000017
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1001067
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_asusa
+}
+
+200.2.4 = {
+	holder = 1001066
+	law = succ_tanistry
+	law = cognatic_succession
+}
+
+200.2.5 = {
+	holder = 1002141
+}
+
+200.2.6 = {
+	holder = 1002298
+}
+
+260.2.1 = {
+	liege = d_danohn
+}
+
+260.2.2 = {
+	holder = 1004776
+}
+
+289.2.1 = {
+	liege = d_asusa
+}
+
+289.2.2 = {
+	holder = 1009608
+}
+
+303.2.1 = {
+	liege = d_danohn
+}
+
+303.2.2 = {
+	holder = 1012115
+}
+
+304.2.1 = {
+	holder = 1012347
+}
+
+345.2.1 = {
+	holder = 1013069
+}
+
+353.2.1 = {
+	holder = 1016514
+}
+
+375.2.1 = {
+	holder = 1017889
+}
+
+405.2.1 = {
+	holder = 1020375
+}
+
+455.2.1 = {
+	holder = 1021672
+}
+
+470.2.1 = {
+	liege = d_renirun
+}
+
+470.2.2 = {
+	holder = 1020374
+}
+
+486.2.1 = {
+	liege = d_danohn
+}
+
+486.2.2 = {
+	holder = 1026437
+}
+
+502.2.1 = {
+	liege = d_renirun
+}
+
+502.2.2 = {
+	holder = 1028051
+}
+
+507.2.1 = {
+	holder = 1028124
+}
+
+526.2.1 = {
+	liege = d_danohn
+}
+
+526.2.2 = {
+	holder = 1029727
+}
+
+573.2.1 = {
+	holder = 1029989
+}
+
+587.2.1 = {
+	liege = d_renirun
+}
+
+587.2.2 = {
+	holder = 1033365
+}
+
+600.2.1 = {
+	holder = 1034643
+}
+
+700.2.1 = {
+	holder = 1034644
+}
+
+700.2.2 = {
+	holder = 1038282
+}
+

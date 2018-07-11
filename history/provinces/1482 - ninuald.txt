@@ -1,0 +1,21 @@
+	title = c_ninuald
+	max_settlements = 2
+	culture = batna
+	religion = rni
+	b_woludis = tribal
+450.3.1 = {
+	religion = ricily
+}
+
+458.3.1 = {
+	religion = rni
+}
+
+466.4.1 = {
+	culture = rresa
+}
+
+530.3.1 = {
+	religion = ricily
+}
+

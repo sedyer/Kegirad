@@ -1,0 +1,82 @@
+200.2.1 = {
+	holder = 1000016
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1001004
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+200.2.3 = {
+	liege = d_keralia
+}
+
+200.2.4 = {
+	holder = 1001003
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+250.2.1 = {
+	holder = 1004164
+}
+
+274.2.1 = {
+	holder = 1009280
+}
+
+284.2.1 = {
+	holder = 1010935
+}
+
+338.2.1 = {
+	holder = 1015464
+}
+
+364.2.1 = {
+	holder = 1015541
+}
+
+391.2.1 = {
+	holder = 1019531
+}
+
+415.2.1 = {
+	holder = 1021025
+}
+
+415.2.2 = {
+	holder = 1021603
+}
+
+500.2.1 = {
+	holder = 1027562
+}
+
+509.2.1 = {
+	liege = k_nicol
+}
+
+509.2.2 = {
+	holder = 1028586
+}
+
+566.2.1 = {
+	liege = d_keralia
+}
+
+569.2.1 = {
+	holder = 1028589
+}
+
+569.2.2 = {
+	holder = 1032529
+}
+
+700.2.1 = {
+	holder = 1038318
+}
+

@@ -1,0 +1,21 @@
+	title = c_balarje
+	max_settlements = 7
+	culture = kegirad
+	religion = bukena
+	b_asanerva = tribal
+271.3.1 = {
+	religion = emonurga
+}
+
+332.3.1 = {
+	religion = bukena
+}
+
+436.3.1 = {
+	religion = emonurga
+}
+
+436.4.1 = {
+	culture = rresa
+}
+

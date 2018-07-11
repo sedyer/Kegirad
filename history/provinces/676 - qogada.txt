@@ -1,0 +1,9 @@
+	title = c_qogada
+	max_settlements = 2
+	culture = dogugis
+	religion = wsosro
+	b_nugudis = tribal
+529.4.1 = {
+	culture = adietech
+}
+

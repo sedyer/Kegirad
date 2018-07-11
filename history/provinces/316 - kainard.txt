@@ -1,0 +1,9 @@
+	title = c_kainard
+	max_settlements = 2
+	culture = waurat
+	religion = wering
+	b_emuyarid = tribal
+395.4.1 = {
+	culture = dziga
+}
+

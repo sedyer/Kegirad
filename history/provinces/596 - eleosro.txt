@@ -1,0 +1,17 @@
+	title = c_eleosro
+	max_settlements = 2
+	culture = rtius
+	religion = rerech
+	b_ralat = tribal
+219.3.1 = {
+	religion = emonurga
+}
+
+305.4.1 = {
+	culture = batanes
+}
+
+485.4.1 = {
+	culture = dukanos
+}
+

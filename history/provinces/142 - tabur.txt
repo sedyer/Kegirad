@@ -1,0 +1,13 @@
+	title = c_tabur
+	max_settlements = 2
+	culture = wubutr
+	religion = echukas
+	b_rhana = tribal
+369.4.1 = {
+	culture = kujacob
+}
+
+543.4.1 = {
+	culture = kamat
+}
+

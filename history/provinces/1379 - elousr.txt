@@ -1,0 +1,9 @@
+	title = c_elousr
+	max_settlements = 4
+	culture = brirat
+	religion = egrirat
+	b_batirat = tribal
+428.3.1 = {
+	religion = rgance
+}
+

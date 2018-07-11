@@ -1,0 +1,17 @@
+	title = c_kujagno
+	max_settlements = 2
+	culture = wobagik
+	religion = rerech
+	b_bujind = tribal
+235.3.1 = {
+	religion = wsosro
+}
+
+269.3.1 = {
+	religion = ninala
+}
+
+564.4.1 = {
+	culture = eliuden
+}
+

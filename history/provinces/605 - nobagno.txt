@@ -1,0 +1,45 @@
+	title = c_nobagno
+	max_settlements = 7
+	culture = tujeth
+	religion = emonurga
+	b_adietat = tribal
+200.3.1 = {
+	religion = wsosro
+}
+
+215.4.1 = {
+	culture = adietech
+}
+
+229.3.1 = {
+	religion = kanyo
+}
+
+249.3.1 = {
+	religion = wsosro
+}
+
+261.3.1 = {
+	religion = kanyo
+}
+
+263.3.1 = {
+	religion = wsosro
+}
+
+416.3.1 = {
+	religion = emonurga
+}
+
+419.3.1 = {
+	religion = wsosro
+}
+
+450.3.1 = {
+	religion = emonurga
+}
+
+459.3.1 = {
+	religion = wsosro
+}
+

@@ -1,0 +1,194 @@
+200.2.1 = {
+	holder = 1000005
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1000460
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+200.2.3 = {
+	liege = d_rougar
+}
+
+200.2.4 = {
+	holder = 1000459
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+210.2.1 = {
+	holder = 1002433
+}
+
+245.2.1 = {
+	holder = 1005224
+}
+
+259.2.1 = {
+	holder = 1007892
+}
+
+279.2.1 = {
+	holder = 1010225
+}
+
+288.2.1 = {
+	liege = d_tarene
+}
+
+288.2.2 = {
+	liege = 0
+}
+
+295.2.1 = {
+	liege = d_tarene
+}
+
+295.2.2 = {
+	liege = 0
+}
+
+309.2.1 = {
+	liege = d_tarene
+}
+
+309.2.2 = {
+	liege = 0
+}
+
+312.2.1 = {
+	liege = d_tarene
+}
+
+312.2.2 = {
+	liege = 0
+}
+
+312.2.3 = {
+	holder = 1011703
+}
+
+323.2.1 = {
+	liege = d_tarene
+}
+
+323.2.2 = {
+	liege = 0
+}
+
+328.2.1 = {
+	holder = 1013631
+}
+
+332.2.1 = {
+	liege = d_rougar
+}
+
+332.2.2 = {
+	liege = 0
+}
+
+353.2.1 = {
+	holder = 1015170
+}
+
+365.2.1 = {
+	liege = d_tarene
+}
+
+365.2.2 = {
+	liege = 0
+}
+
+366.2.1 = {
+	liege = d_tarene
+}
+
+366.2.2 = {
+	liege = 0
+}
+
+368.2.1 = {
+	holder = 1016723
+}
+
+381.2.1 = {
+	liege = d_tarene
+}
+
+381.2.2 = {
+	liege = 0
+}
+
+387.2.1 = {
+	holder = 1018254
+}
+
+398.2.1 = {
+	liege = d_rougar
+}
+
+398.2.2 = {
+	liege = 0
+}
+
+400.2.1 = {
+	holder = 1019652
+}
+
+403.2.1 = {
+	liege = d_tarene
+}
+
+403.2.2 = {
+	liege = 0
+}
+
+411.2.1 = {
+	liege = d_tarene
+}
+
+411.2.2 = {
+	liege = 0
+}
+
+419.2.1 = {
+	liege = d_tarene
+}
+
+419.2.2 = {
+	liege = 0
+}
+
+421.2.1 = {
+	liege = d_rougar
+}
+
+421.2.2 = {
+	liege = 0
+}
+
+434.2.1 = {
+	holder = 1021781
+}
+
+600.2.1 = {
+	holder = 1032277
+}
+
+600.2.2 = {
+	holder = 1034552
+}
+
+600.2.3 = {
+	liege = k_qoles
+}
+
+700.2.1 = {
+	holder = 1038046
+}
+

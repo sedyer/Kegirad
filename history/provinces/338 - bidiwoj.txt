@@ -1,0 +1,9 @@
+	title = c_bidiwoj
+	max_settlements = 2
+	culture = qusala
+	religion = rerech
+	b_tidevi = tribal
+273.3.1 = {
+	religion = abonyi
+}
+

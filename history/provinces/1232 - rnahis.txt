@@ -1,0 +1,5 @@
+	title = c_rnahis
+	max_settlements = 2
+	culture = tuprind
+	religion = ricily
+	b_ricosh = tribal

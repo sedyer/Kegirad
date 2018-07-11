@@ -1,0 +1,5 @@
+	title = c_wragis
+	max_settlements = 3
+	culture = tuprind
+	religion = ricily
+	b_avicus = tribal

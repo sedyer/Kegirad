@@ -1,0 +1,9 @@
+	title = c_kogahis
+	max_settlements = 2
+	culture = balilof
+	religion = ricily
+	b_rtuje = tribal
+252.4.1 = {
+	culture = tuprind
+}
+

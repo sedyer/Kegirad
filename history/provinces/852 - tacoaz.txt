@@ -1,0 +1,9 @@
+	title = c_tacoaz
+	max_settlements = 6
+	culture = leuleja
+	religion = rni
+	b_wolapur = tribal
+204.3.1 = {
+	religion = wsosro
+}
+

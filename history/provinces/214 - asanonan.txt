@@ -1,0 +1,33 @@
+	title = c_asanonan
+	max_settlements = 2
+	culture = rinmi
+	religion = rerech
+	b_ralamel = tribal
+212.3.1 = {
+	religion = wering
+}
+
+221.3.1 = {
+	religion = rerech
+}
+
+249.3.1 = {
+	religion = wering
+}
+
+264.3.1 = {
+	religion = rerech
+}
+
+270.3.1 = {
+	religion = wering
+}
+
+360.3.1 = {
+	religion = rerech
+}
+
+541.4.1 = {
+	culture = rerega
+}
+

@@ -1,0 +1,5 @@
+	title = c_daharid
+	max_settlements = 2
+	culture = waurat
+	religion = wering
+	b_bahazal = tribal

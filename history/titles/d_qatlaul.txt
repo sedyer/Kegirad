@@ -1,0 +1,62 @@
+200.2.1 = {
+	holder = 1001746
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	liege = k_qususa
+}
+
+211.2.1 = {
+	holder = 1003384
+}
+
+218.2.1 = {
+	holder = 1003211
+}
+
+223.2.1 = {
+	holder = 1005261
+}
+
+224.2.1 = {
+	liege = 0
+}
+
+610.2.1 = {
+	holder = 1032325
+}
+
+610.2.2 = {
+	liege = k_qususa
+}
+
+610.2.3 = {
+	liege = 0
+}
+
+623.2.1 = {
+	holder = 1034175
+}
+
+623.2.2 = {
+	liege = k_qususa
+}
+
+623.2.3 = {
+	liege = 0
+}
+
+645.2.1 = {
+	holder = 1036163
+}
+
+645.2.2 = {
+	liege = k_qususa
+}
+
+645.2.3 = {
+	liege = 0
+}
+

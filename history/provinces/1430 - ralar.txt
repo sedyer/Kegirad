@@ -1,0 +1,17 @@
+	title = c_ralar
+	max_settlements = 7
+	culture = rresa
+	religion = emonurga
+	b_drulam = tribal
+307.4.1 = {
+	culture = wiragop
+}
+
+309.3.1 = {
+	religion = takice
+}
+
+326.3.1 = {
+	religion = emonurga
+}
+

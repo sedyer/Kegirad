@@ -1,0 +1,166 @@
+200.2.1 = {
+	holder = 1000053
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	liege = d_aliotas
+}
+
+200.2.3 = {
+	liege = k_buyinen
+}
+
+200.2.4 = {
+	liege = 0
+}
+
+206.2.1 = {
+	liege = d_aliotas
+}
+
+206.2.2 = {
+	liege = 0
+}
+
+218.2.1 = {
+	holder = 1002328
+}
+
+225.2.1 = {
+	holder = 1005583
+}
+
+236.2.1 = {
+	holder = 1005740
+}
+
+265.2.1 = {
+	holder = 1009165
+}
+
+272.2.1 = {
+	holder = 1009841
+}
+
+315.2.1 = {
+	holder = 1013634
+}
+
+357.2.1 = {
+	liege = d_aliotas
+}
+
+357.2.2 = {
+	liege = 0
+}
+
+357.2.3 = {
+	holder = 1015615
+}
+
+392.2.1 = {
+	holder = 1017203
+}
+
+424.2.1 = {
+	holder = 1019900
+}
+
+452.2.1 = {
+	liege = d_aliotas
+}
+
+452.2.2 = {
+	liege = 0
+}
+
+468.2.1 = {
+	holder = 1022419
+}
+
+485.2.1 = {
+	liege = d_aliotas
+}
+
+485.2.2 = {
+	liege = 0
+}
+
+491.2.1 = {
+	holder = 1026768
+}
+
+499.2.1 = {
+	holder = 1022871
+}
+
+502.2.1 = {
+	holder = 1028025
+}
+
+509.2.1 = {
+	liege = d_aliotas
+}
+
+509.2.2 = {
+	liege = 0
+}
+
+544.2.1 = {
+	holder = 1029022
+}
+
+580.2.1 = {
+	liege = d_aliotas
+}
+
+580.2.2 = {
+	liege = 0
+}
+
+581.2.1 = {
+	holder = 1031375
+}
+
+583.2.1 = {
+	liege = d_aliotas
+}
+
+583.2.2 = {
+	liege = 0
+}
+
+614.2.1 = {
+	holder = 1035623
+}
+
+617.2.1 = {
+	liege = d_aliotas
+}
+
+617.2.2 = {
+	liege = 0
+}
+
+623.2.1 = {
+	holder = 1036098
+}
+
+625.2.1 = {
+	liege = d_aliotas
+}
+
+625.2.2 = {
+	liege = 0
+}
+
+663.2.1 = {
+	holder = 1037203
+}
+
+666.2.1 = {
+	holder = 1038695
+}
+

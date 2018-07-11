@@ -1,0 +1,29 @@
+	title = c_warilje
+	max_settlements = 2
+	culture = tolugis
+	religion = ninala
+	b_togene = tribal
+211.3.1 = {
+	religion = rerech
+}
+
+231.3.1 = {
+	religion = ninala
+}
+
+244.3.1 = {
+	religion = rerech
+}
+
+407.3.1 = {
+	religion = abonyi
+}
+
+436.4.1 = {
+	culture = kiren
+}
+
+613.3.1 = {
+	religion = ninala
+}
+

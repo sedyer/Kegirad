@@ -1,0 +1,73 @@
+	title = c_ssada
+	max_settlements = 3
+	culture = rtius
+	religion = rerech
+	b_akopagno = tribal
+202.3.1 = {
+	religion = emonurga
+}
+
+236.3.1 = {
+	religion = wsosro
+}
+
+244.3.1 = {
+	religion = emonurga
+}
+
+277.3.1 = {
+	religion = wsosro
+}
+
+278.3.1 = {
+	religion = emonurga
+}
+
+279.3.1 = {
+	religion = wsosro
+}
+
+285.3.1 = {
+	religion = emonurga
+}
+
+287.3.1 = {
+	religion = wsosro
+}
+
+307.3.1 = {
+	religion = emonurga
+}
+
+317.3.1 = {
+	religion = wsosro
+}
+
+321.3.1 = {
+	religion = emonurga
+}
+
+330.3.1 = {
+	religion = wsosro
+}
+
+331.3.1 = {
+	religion = emonurga
+}
+
+332.3.1 = {
+	religion = wsosro
+}
+
+338.3.1 = {
+	religion = emonurga
+}
+
+339.3.1 = {
+	religion = wsosro
+}
+
+394.4.1 = {
+	culture = adietech
+}
+

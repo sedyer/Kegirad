@@ -1,0 +1,57 @@
+	title = c_dirita
+	max_settlements = 2
+	culture = ejoanel
+	religion = emonurga
+	b_keekega = tribal
+210.3.1 = {
+	religion = echukas
+}
+
+218.3.1 = {
+	religion = emonurga
+}
+
+222.3.1 = {
+	religion = echukas
+}
+
+231.3.1 = {
+	religion = emonurga
+}
+
+234.4.1 = {
+	culture = woumner
+}
+
+241.3.1 = {
+	religion = echukas
+}
+
+251.3.1 = {
+	religion = emonurga
+}
+
+251.3.1 = {
+	religion = echukas
+}
+
+253.3.1 = {
+	religion = emonurga
+}
+
+269.3.1 = {
+	religion = echukas
+}
+
+279.3.1 = {
+	religion = emonurga
+}
+
+305.3.1 = {
+	religion = echukas
+}
+
+393.4.1 = {
+	culture = safha
+}
+

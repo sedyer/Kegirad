@@ -1,0 +1,5 @@
+	title = c_lliste
+	max_settlements = 7
+	culture = rriste
+	religion = rgance
+	b_wavra = tribal

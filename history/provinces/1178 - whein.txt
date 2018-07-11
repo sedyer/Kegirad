@@ -1,0 +1,13 @@
+	title = c_whein
+	max_settlements = 2
+	culture = awuludah
+	religion = rni
+	b_leriam = tribal
+200.3.1 = {
+	religion = ticojan
+}
+
+330.4.1 = {
+	culture = ricepan
+}
+

@@ -1,0 +1,33 @@
+	title = c_bmaar
+	max_settlements = 4
+	culture = linian
+	religion = emonurga
+	b_eratnayi = tribal
+211.3.1 = {
+	religion = rni
+}
+
+457.3.1 = {
+	religion = emonurga
+}
+
+461.3.1 = {
+	religion = rni
+}
+
+470.3.1 = {
+	religion = emonurga
+}
+
+475.3.1 = {
+	religion = rni
+}
+
+491.3.1 = {
+	religion = emonurga
+}
+
+682.3.1 = {
+	religion = rni
+}
+

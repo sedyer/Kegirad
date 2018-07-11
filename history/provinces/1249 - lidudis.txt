@@ -1,0 +1,9 @@
+	title = c_lidudis
+	max_settlements = 2
+	culture = nemojan
+	religion = ricily
+	b_ratega = tribal
+527.4.1 = {
+	culture = balilof
+}
+

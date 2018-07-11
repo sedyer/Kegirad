@@ -1,0 +1,17 @@
+	title = c_togahid
+	max_settlements = 3
+	culture = qsuthe
+	religion = rerech
+	b_agro = tribal
+348.3.1 = {
+	religion = kanyo
+}
+
+609.3.1 = {
+	religion = rerech
+}
+
+653.3.1 = {
+	religion = emonurga
+}
+

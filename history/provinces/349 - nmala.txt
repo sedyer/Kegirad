@@ -1,0 +1,5 @@
+	title = c_nmala
+	max_settlements = 2
+	culture = banevi
+	religion = kereze
+	b_tarin = tribal

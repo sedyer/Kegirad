@@ -1,0 +1,9 @@
+	title = c_ttans
+	max_settlements = 7
+	culture = borama
+	religion = agrakma
+	b_butiona = tribal
+210.4.1 = {
+	culture = ryyab
+}
+

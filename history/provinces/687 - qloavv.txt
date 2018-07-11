@@ -1,0 +1,33 @@
+	title = c_qloavv
+	max_settlements = 2
+	culture = bodoba
+	religion = wsosro
+	b_aluoksa = tribal
+234.3.1 = {
+	religion = tluku
+}
+
+256.3.1 = {
+	religion = rerech
+}
+
+281.3.1 = {
+	religion = tluku
+}
+
+281.3.1 = {
+	religion = rerech
+}
+
+300.3.1 = {
+	religion = tluku
+}
+
+300.3.1 = {
+	religion = rerech
+}
+
+489.4.1 = {
+	culture = wlick
+}
+

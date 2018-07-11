@@ -1,0 +1,37 @@
+	title = c_rnoslav
+	max_settlements = 2
+	culture = srisre
+	religion = kanyo
+	b_bidada = tribal
+305.3.1 = {
+	religion = rerech
+}
+
+331.3.1 = {
+	religion = kanyo
+}
+
+351.3.1 = {
+	religion = rerech
+}
+
+351.3.1 = {
+	religion = kanyo
+}
+
+353.3.1 = {
+	religion = rerech
+}
+
+353.3.1 = {
+	religion = kanyo
+}
+
+520.4.1 = {
+	culture = rresa
+}
+
+694.3.1 = {
+	religion = wsosro
+}
+

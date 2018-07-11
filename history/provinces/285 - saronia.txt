@@ -1,0 +1,21 @@
+	title = c_saronia
+	max_settlements = 2
+	culture = bozusa
+	religion = agrakma
+	b_wtolod = tribal
+396.4.1 = {
+	culture = doumat
+}
+
+478.4.1 = {
+	culture = bozusa
+}
+
+500.4.1 = {
+	culture = doumat
+}
+
+589.4.1 = {
+	culture = ekozusa
+}
+

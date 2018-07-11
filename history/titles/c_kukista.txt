@@ -1,0 +1,168 @@
+200.2.1 = {
+	holder = 1000037
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1000038
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	holder = 1001909
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.4 = {
+	liege = d_eresah
+}
+
+200.2.5 = {
+	holder = 1001908
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+216.2.1 = {
+	holder = 1003390
+}
+
+218.2.1 = {
+	holder = 1002171
+}
+
+218.2.2 = {
+	liege = k_breth
+}
+
+218.2.3 = {
+	liege = d_wudayun
+}
+
+218.2.4 = {
+	holder = 1004009
+}
+
+235.2.1 = {
+	liege = d_eresah
+}
+
+235.2.2 = {
+	holder = 1005556
+}
+
+235.2.3 = {
+	liege = k_breth
+}
+
+309.2.1 = {
+	liege = d_wudayun
+}
+
+309.2.2 = {
+	holder = 1007195
+}
+
+316.2.1 = {
+	holder = 1013443
+}
+
+346.2.1 = {
+	holder = 1015659
+}
+
+352.2.1 = {
+	holder = 1010343
+}
+
+355.2.1 = {
+	holder = 1014439
+}
+
+367.2.1 = {
+	liege = d_eresah
+}
+
+367.2.2 = {
+	holder = 1014884
+}
+
+370.2.1 = {
+	holder = 1016690
+}
+
+401.2.1 = {
+	holder = 1018226
+}
+
+416.2.1 = {
+	holder = 1020861
+}
+
+433.2.1 = {
+	liege = d_rodah
+}
+
+433.2.2 = {
+	holder = 1022193
+}
+
+433.2.3 = {
+	liege = k_breth
+}
+
+444.2.1 = {
+	liege = d_eresah
+}
+
+444.2.2 = {
+	holder = 1023364
+}
+
+478.2.1 = {
+	liege = d_wudayun
+}
+
+478.2.2 = {
+	holder = 1024994
+}
+
+478.2.3 = {
+	liege = k_breth
+}
+
+526.2.1 = {
+	liege = d_eresah
+}
+
+526.2.2 = {
+	holder = 1026944
+}
+
+541.2.1 = {
+	holder = 1029933
+}
+
+553.2.1 = {
+	holder = 1031137
+}
+
+584.2.1 = {
+	holder = 1032214
+}
+
+585.2.1 = {
+	holder = 1033550
+}
+
+600.2.1 = {
+	holder = 1034728
+}
+
+700.2.1 = {
+	holder = 1038975
+}
+

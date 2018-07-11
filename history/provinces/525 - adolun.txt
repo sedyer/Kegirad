@@ -1,0 +1,17 @@
+	title = c_adolun
+	max_settlements = 2
+	culture = aterovit
+	religion = abonyi
+	b_qogebet = tribal
+576.4.1 = {
+	culture = batanes
+}
+
+622.3.1 = {
+	religion = rerech
+}
+
+646.3.1 = {
+	religion = emonurga
+}
+

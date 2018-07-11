@@ -1,0 +1,9 @@
+	title = c_satna
+	max_settlements = 3
+	culture = linian
+	religion = ricily
+	b_katnga = tribal
+398.3.1 = {
+	religion = rni
+}
+

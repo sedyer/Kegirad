@@ -1,0 +1,41 @@
+	title = c_ttojan
+	max_settlements = 2
+	culture = ranjada
+	religion = ticojan
+	b_kenala = tribal
+220.3.1 = {
+	religion = takice
+}
+
+238.3.1 = {
+	religion = ticojan
+}
+
+244.3.1 = {
+	religion = takice
+}
+
+246.3.1 = {
+	religion = ticojan
+}
+
+266.3.1 = {
+	religion = takice
+}
+
+286.3.1 = {
+	religion = ticojan
+}
+
+287.3.1 = {
+	religion = takice
+}
+
+288.3.1 = {
+	religion = ticojan
+}
+
+312.4.1 = {
+	culture = balilof
+}
+

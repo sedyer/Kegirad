@@ -1,0 +1,9 @@
+	title = c_kamerta
+	max_settlements = 2
+	culture = qerta
+	religion = lavukas
+	b_sujacob = tribal
+265.4.1 = {
+	culture = taaloin
+}
+

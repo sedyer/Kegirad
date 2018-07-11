@@ -1,0 +1,42 @@
+200.2.1 = {
+	holder = 1000214
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	liege = k_akakin
+}
+
+225.2.1 = {
+	holder = 1003689
+}
+
+227.2.1 = {
+	holder = 1001211
+}
+
+238.2.1 = {
+	holder = 1003024
+}
+
+257.2.1 = {
+	holder = 1007607
+}
+
+258.2.1 = {
+	liege = 0
+}
+
+259.2.1 = {
+	holder = 1007607
+}
+
+259.2.2 = {
+	liege = k_akakin
+}
+
+259.2.3 = {
+	liege = 0
+}
+

@@ -1,0 +1,29 @@
+	title = c_batin
+	max_settlements = 7
+	culture = rresa
+	religion = emonurga
+	b_latunn = tribal
+210.3.1 = {
+	religion = bukena
+}
+
+264.3.1 = {
+	religion = emonurga
+}
+
+272.3.1 = {
+	religion = kanyo
+}
+
+303.3.1 = {
+	religion = bukena
+}
+
+325.3.1 = {
+	religion = kanyo
+}
+
+345.3.1 = {
+	religion = emonurga
+}
+

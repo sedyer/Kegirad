@@ -1,0 +1,182 @@
+200.2.1 = {
+	holder = 1000050
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1002008
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_loumat
+}
+
+200.2.4 = {
+	holder = 1002007
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+212.2.1 = {
+	holder = 1003217
+}
+
+217.2.1 = {
+	holder = 1002172
+}
+
+217.2.2 = {
+	liege = k_raaloet
+}
+
+247.2.1 = {
+	liege = d_nirech
+}
+
+247.2.2 = {
+	holder = 1004505
+}
+
+287.2.1 = {
+	holder = 1007934
+}
+
+304.2.1 = {
+	holder = 1008569
+}
+
+312.2.1 = {
+	holder = 1009990
+}
+
+335.2.1 = {
+	liege = d_diriga
+}
+
+335.2.2 = {
+	holder = 1011585
+}
+
+336.2.1 = {
+	holder = 1011891
+}
+
+337.2.1 = {
+	liege = k_raaloet
+}
+
+348.2.1 = {
+	liege = d_nirech
+}
+
+348.2.2 = {
+	holder = 1015981
+}
+
+366.2.1 = {
+	holder = 1004893
+}
+
+367.2.1 = {
+	holder = 1015423
+}
+
+379.2.1 = {
+	holder = 1018151
+}
+
+401.2.1 = {
+	liege = k_raaloet
+}
+
+421.2.1 = {
+	holder = 1019412
+}
+
+448.2.1 = {
+	holder = 1023076
+}
+
+450.2.1 = {
+	liege = d_diriga
+}
+
+450.2.2 = {
+	holder = 1021878
+}
+
+450.2.3 = {
+	liege = k_raaloet
+}
+
+450.2.4 = {
+	holder = 1019682
+}
+
+466.2.1 = {
+	liege = d_anyaline
+}
+
+471.2.1 = {
+	holder = 1025459
+}
+
+478.2.1 = {
+	holder = 1024151
+}
+
+479.2.1 = {
+	holder = 1024154
+}
+
+480.2.1 = {
+	holder = 1024146
+}
+
+487.2.1 = {
+	holder = 1024631
+}
+
+501.2.1 = {
+	holder = 1026840
+}
+
+509.2.1 = {
+	holder = 1024162
+}
+
+510.2.1 = {
+	liege = d_qaurech
+}
+
+510.2.2 = {
+	liege = 0
+}
+
+513.2.1 = {
+	holder = 1024150
+}
+
+514.2.1 = {
+	holder = 1028916
+}
+
+514.2.2 = {
+	liege = d_anyaline
+}
+
+600.2.1 = {
+	holder = 1031973
+}
+
+604.2.1 = {
+	holder = 1035076
+}
+
+700.2.1 = {
+	holder = 1039093
+}
+

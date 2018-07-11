@@ -1,0 +1,21 @@
+	title = c_katiyya
+	max_settlements = 7
+	culture = tujeth
+	religion = emonurga
+	b_aryuu = tribal
+300.3.1 = {
+	religion = wsosro
+}
+
+303.3.1 = {
+	religion = emonurga
+}
+
+342.3.1 = {
+	religion = wsosro
+}
+
+461.4.1 = {
+	culture = adietech
+}
+

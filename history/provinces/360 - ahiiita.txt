@@ -1,0 +1,13 @@
+	title = c_ahiiita
+	max_settlements = 2
+	culture = waurat
+	religion = echukas
+	b_tirega = tribal
+218.3.1 = {
+	religion = wering
+}
+
+632.4.1 = {
+	culture = dziga
+}
+

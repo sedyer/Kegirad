@@ -1,0 +1,29 @@
+	title = c_kabiyya
+	max_settlements = 2
+	culture = wubutr
+	religion = echukas
+	b_lasoaz = tribal
+237.3.1 = {
+	religion = rerech
+}
+
+257.3.1 = {
+	religion = echukas
+}
+
+261.3.1 = {
+	religion = rerech
+}
+
+266.3.1 = {
+	religion = echukas
+}
+
+272.3.1 = {
+	religion = rerech
+}
+
+560.4.1 = {
+	culture = rinmi
+}
+

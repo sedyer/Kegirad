@@ -1,0 +1,9 @@
+	title = c_daviggu
+	max_settlements = 2
+	culture = dlebe
+	religion = ninala
+	b_agance = tribal
+314.4.1 = {
+	culture = tiiriz
+}
+

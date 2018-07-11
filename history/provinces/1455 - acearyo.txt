@@ -1,0 +1,17 @@
+	title = c_acearyo
+	max_settlements = 7
+	culture = kegirad
+	religion = bukena
+	b_todista = tribal
+456.3.1 = {
+	religion = emonurga
+}
+
+528.3.1 = {
+	religion = kanyo
+}
+
+555.3.1 = {
+	religion = emonurga
+}
+

@@ -1,0 +1,5 @@
+	title = c_dtahid
+	max_settlements = 2
+	culture = kamat
+	religion = echukas
+	b_ktaleel = tribal

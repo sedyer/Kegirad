@@ -1,0 +1,25 @@
+	title = c_liniga
+	max_settlements = 2
+	culture = waurat
+	religion = echukas
+	b_qonine = tribal
+218.4.1 = {
+	culture = ributhe
+}
+
+230.3.1 = {
+	religion = abonyi
+}
+
+592.4.1 = {
+	culture = batanes
+}
+
+618.4.1 = {
+	culture = ributhe
+}
+
+624.3.1 = {
+	religion = rerech
+}
+

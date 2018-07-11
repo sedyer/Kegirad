@@ -1,0 +1,13 @@
+	title = c_ksana
+	max_settlements = 7
+	culture = rresa
+	religion = emonurga
+	b_taludah = tribal
+259.3.1 = {
+	religion = kanyo
+}
+
+406.3.1 = {
+	religion = emonurga
+}
+

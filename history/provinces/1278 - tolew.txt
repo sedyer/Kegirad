@@ -1,0 +1,9 @@
+	title = c_tolew
+	max_settlements = 2
+	culture = nemojan
+	religion = ricily
+	b_qetlhe = tribal
+368.4.1 = {
+	culture = elada
+}
+

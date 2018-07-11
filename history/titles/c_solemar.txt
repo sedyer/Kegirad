@@ -1,0 +1,134 @@
+200.2.1 = {
+	holder = 1000004
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000021
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	holder = 1001270
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.4 = {
+	liege = d_susala
+}
+
+200.2.5 = {
+	holder = 1001271
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.6 = {
+	liege = d_tusay
+}
+
+200.2.7 = {
+	holder = 1001242
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+219.2.1 = {
+	holder = 1003402
+}
+
+239.2.1 = {
+	liege = d_doleter
+}
+
+240.2.1 = {
+	liege = d_susala
+}
+
+240.2.2 = {
+	holder = 1003608
+}
+
+264.2.1 = {
+	holder = 1007234
+}
+
+277.2.1 = {
+	holder = 1009770
+}
+
+301.2.1 = {
+	liege = d_tusay
+}
+
+323.2.1 = {
+	liege = d_susala
+}
+
+326.2.1 = {
+	holder = 1010871
+}
+
+326.2.2 = {
+	liege = k_rabanja
+}
+
+326.2.3 = {
+	holder = 1014570
+}
+
+339.2.1 = {
+	liege = d_susala
+}
+
+363.2.1 = {
+	liege = d_tusay
+}
+
+363.2.2 = {
+	holder = 1013412
+}
+
+363.2.3 = {
+	liege = k_ababin
+}
+
+364.2.1 = {
+	holder = 1017576
+}
+
+500.2.1 = {
+	holder = 1025811
+}
+
+500.2.2 = {
+	holder = 1027701
+}
+
+501.2.1 = {
+	liege = d_susala
+}
+
+526.2.1 = {
+	holder = 1029697
+}
+
+526.2.2 = {
+	liege = k_qoles
+}
+
+526.2.3 = {
+	holder = 1028116
+}
+
+526.2.4 = {
+	holder = 1029720
+}
+
+700.2.1 = {
+	holder = 1037287
+}
+

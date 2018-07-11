@@ -1,0 +1,9 @@
+	title = c_rukas
+	max_settlements = 2
+	culture = wvaku
+	religion = echukas
+	b_dliotas = tribal
+281.4.1 = {
+	culture = kaloet
+}
+

@@ -1,0 +1,45 @@
+	title = c_nriibma
+	max_settlements = 3
+	culture = bodoba
+	religion = wsosro
+	b_elile = tribal
+204.3.1 = {
+	religion = rerech
+}
+
+212.3.1 = {
+	religion = tluku
+}
+
+222.3.1 = {
+	religion = rerech
+}
+
+222.3.1 = {
+	religion = tluku
+}
+
+227.3.1 = {
+	religion = rerech
+}
+
+230.3.1 = {
+	religion = tluku
+}
+
+260.3.1 = {
+	religion = rerech
+}
+
+311.4.1 = {
+	culture = wlick
+}
+
+507.3.1 = {
+	religion = ninala
+}
+
+517.3.1 = {
+	religion = tluku
+}
+

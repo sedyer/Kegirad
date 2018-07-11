@@ -1,0 +1,9 @@
+	title = c_qetus
+	max_settlements = 3
+	culture = nemojan
+	religion = ricily
+	b_dnanta = tribal
+364.4.1 = {
+	culture = balilof
+}
+

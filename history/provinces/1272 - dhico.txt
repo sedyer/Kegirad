@@ -1,0 +1,9 @@
+	title = c_dhico
+	max_settlements = 2
+	culture = nemojan
+	religion = ricily
+	b_enunla = tribal
+489.4.1 = {
+	culture = balilof
+}
+

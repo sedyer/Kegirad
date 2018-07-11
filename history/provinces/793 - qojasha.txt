@@ -1,0 +1,5 @@
+	title = c_qojasha
+	max_settlements = 7
+	culture = krance
+	religion = rgance
+	b_toulr = tribal

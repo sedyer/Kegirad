@@ -1,0 +1,13 @@
+	title = c_evick
+	max_settlements = 5
+	culture = qlunai
+	religion = ninala
+	b_rojilu = tribal
+237.4.1 = {
+	culture = drebe
+}
+
+306.3.1 = {
+	religion = tluku
+}
+

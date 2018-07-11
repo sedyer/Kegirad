@@ -1,0 +1,37 @@
+	title = c_salius
+	max_settlements = 5
+	culture = tujeth
+	religion = kanyo
+	b_asurat = tribal
+309.3.1 = {
+	religion = wsosro
+}
+
+331.3.1 = {
+	religion = emonurga
+}
+
+368.3.1 = {
+	religion = wsosro
+}
+
+376.3.1 = {
+	religion = emonurga
+}
+
+445.3.1 = {
+	religion = wsosro
+}
+
+446.3.1 = {
+	religion = emonurga
+}
+
+453.3.1 = {
+	religion = wsosro
+}
+
+681.4.1 = {
+	culture = adietech
+}
+

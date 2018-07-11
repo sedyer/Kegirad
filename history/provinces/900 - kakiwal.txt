@@ -1,0 +1,17 @@
+	title = c_kakiwal
+	max_settlements = 7
+	culture = rresa
+	religion = emonurga
+	b_sudiz = tribal
+204.3.1 = {
+	religion = takice
+}
+
+454.3.1 = {
+	religion = emonurga
+}
+
+460.4.1 = {
+	culture = wiragop
+}
+

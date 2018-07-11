@@ -1,0 +1,25 @@
+	title = c_acatat
+	max_settlements = 3
+	culture = bodoba
+	religion = wsosro
+	b_wamudis = tribal
+215.3.1 = {
+	religion = rerech
+}
+
+238.4.1 = {
+	culture = lorius
+}
+
+248.3.1 = {
+	religion = wsosro
+}
+
+266.3.1 = {
+	religion = rerech
+}
+
+295.3.1 = {
+	religion = wsosro
+}
+

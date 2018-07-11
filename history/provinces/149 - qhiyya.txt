@@ -1,0 +1,13 @@
+	title = c_qhiyya
+	max_settlements = 2
+	culture = wubutr
+	religion = echukas
+	b_nasad = tribal
+245.3.1 = {
+	religion = rerech
+}
+
+468.4.1 = {
+	culture = rinmi
+}
+

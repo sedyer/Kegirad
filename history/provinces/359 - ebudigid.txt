@@ -1,0 +1,17 @@
+	title = c_ebudigid
+	max_settlements = 2
+	culture = waurat
+	religion = echukas
+	b_rusai = tribal
+200.3.1 = {
+	religion = abonyi
+}
+
+224.4.1 = {
+	culture = qibemas
+}
+
+639.3.1 = {
+	religion = rerech
+}
+

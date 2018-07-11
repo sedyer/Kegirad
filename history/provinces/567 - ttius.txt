@@ -1,0 +1,37 @@
+	title = c_ttius
+	max_settlements = 5
+	culture = batanes
+	religion = rerech
+	b_rtita = tribal
+257.3.1 = {
+	religion = emonurga
+}
+
+271.3.1 = {
+	religion = rerech
+}
+
+274.3.1 = {
+	religion = emonurga
+}
+
+280.3.1 = {
+	religion = rerech
+}
+
+313.3.1 = {
+	religion = emonurga
+}
+
+447.3.1 = {
+	religion = rerech
+}
+
+473.3.1 = {
+	religion = emonurga
+}
+
+596.4.1 = {
+	culture = dukanos
+}
+

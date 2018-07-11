@@ -1,0 +1,5 @@
+	title = c_qozine
+	max_settlements = 2
+	culture = svare
+	religion = echukas
+	b_ekujuthe = tribal

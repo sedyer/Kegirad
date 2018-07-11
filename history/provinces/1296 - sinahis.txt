@@ -1,0 +1,13 @@
+	title = c_sinahis
+	max_settlements = 2
+	culture = scachi
+	religion = rni
+	b_ninahis = tribal
+262.3.1 = {
+	religion = ricily
+}
+
+562.4.1 = {
+	culture = tuprind
+}
+

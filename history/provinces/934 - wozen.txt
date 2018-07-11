@@ -1,0 +1,33 @@
+	title = c_wozen
+	max_settlements = 2
+	culture = qsuthe
+	religion = rerech
+	b_rsico = tribal
+202.3.1 = {
+	religion = emonurga
+}
+
+281.3.1 = {
+	religion = rerech
+}
+
+284.3.1 = {
+	religion = emonurga
+}
+
+284.3.1 = {
+	religion = rerech
+}
+
+293.3.1 = {
+	religion = emonurga
+}
+
+309.3.1 = {
+	religion = rerech
+}
+
+663.3.1 = {
+	religion = emonurga
+}
+

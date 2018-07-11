@@ -1,0 +1,21 @@
+	title = c_tanemka
+	max_settlements = 3
+	culture = rresa
+	religion = kanyo
+	b_darih = tribal
+206.3.1 = {
+	religion = emonurga
+}
+
+389.3.1 = {
+	religion = kanyo
+}
+
+440.4.1 = {
+	culture = tujeth
+}
+
+689.3.1 = {
+	religion = wsosro
+}
+

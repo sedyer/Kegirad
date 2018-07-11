@@ -1,0 +1,29 @@
+	title = c_qiloaz
+	max_settlements = 3
+	culture = katunn
+	religion = takice
+	b_syuta = tribal
+230.3.1 = {
+	religion = emonurga
+}
+
+244.3.1 = {
+	religion = takice
+}
+
+253.3.1 = {
+	religion = emonurga
+}
+
+256.3.1 = {
+	religion = takice
+}
+
+289.3.1 = {
+	religion = wsosro
+}
+
+655.4.1 = {
+	culture = amurein
+}
+

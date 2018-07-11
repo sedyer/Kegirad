@@ -1,0 +1,212 @@
+200.2.1 = {
+	holder = 1000001
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000009
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	holder = 1000671
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+200.2.4 = {
+	liege = d_tudunn
+}
+
+200.2.5 = {
+	holder = 1000669
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+238.2.1 = {
+	liege = d_qaleja
+}
+
+238.2.2 = {
+	holder = 1003166
+}
+
+238.2.3 = {
+	liege = k_dakarda
+}
+
+256.2.1 = {
+	liege = d_keulice
+}
+
+256.2.2 = {
+	holder = 1007180
+}
+
+256.2.3 = {
+	liege = k_dakarda
+}
+
+303.2.1 = {
+	liege = d_qaleja
+}
+
+303.2.2 = {
+	liege = 0
+}
+
+303.2.3 = {
+	holder = 1008854
+}
+
+317.2.1 = {
+	holder = 1013233
+}
+
+319.2.1 = {
+	holder = 1010144
+}
+
+331.2.1 = {
+	holder = 1013484
+}
+
+346.2.1 = {
+	holder = 1015882
+}
+
+347.2.1 = {
+	holder = 1009888
+}
+
+359.2.1 = {
+	holder = 1016282
+}
+
+370.2.1 = {
+	holder = 1018041
+}
+
+370.2.2 = {
+	liege = k_dakarda
+}
+
+451.2.1 = {
+	holder = 1021154
+}
+
+451.2.2 = {
+	holder = 1024224
+}
+
+451.2.3 = {
+	liege = k_acande
+}
+
+451.2.4 = {
+	holder = 1019763
+}
+
+451.2.5 = {
+	holder = 1024235
+}
+
+451.2.6 = {
+	liege = k_dakarda
+}
+
+451.2.7 = {
+	holder = 1021154
+}
+
+452.2.1 = {
+	holder = 1024322
+}
+
+545.2.1 = {
+	holder = 1030440
+}
+
+545.2.2 = {
+	holder = 1028026
+}
+
+545.2.3 = {
+	liege = k_acande
+}
+
+545.2.4 = {
+	holder = 1029480
+}
+
+545.2.5 = {
+	holder = 1030913
+}
+
+545.2.6 = {
+	liege = k_dakarda
+}
+
+545.2.7 = {
+	holder = 1030440
+}
+
+546.2.1 = {
+	holder = 1030999
+}
+
+546.2.2 = {
+	liege = k_acande
+}
+
+546.2.3 = {
+	holder = 1029480
+}
+
+546.2.4 = {
+	holder = 1031006
+}
+
+546.2.5 = {
+	liege = k_bainind
+}
+
+546.2.6 = {
+	holder = 1030150
+}
+
+562.2.1 = {
+	holder = 1031171
+}
+
+563.2.1 = {
+	holder = 1029724
+}
+
+564.2.1 = {
+	holder = 1029971
+}
+
+574.2.1 = {
+	holder = 1031584
+}
+
+593.2.1 = {
+	holder = 1033172
+}
+
+614.2.1 = {
+	liege = k_kudatli
+}
+
+615.2.1 = {
+	holder = 1035696
+}
+
+700.2.1 = {
+	holder = 1038957
+}
+

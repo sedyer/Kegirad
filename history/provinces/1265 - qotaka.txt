@@ -1,0 +1,25 @@
+	title = c_qotaka
+	max_settlements = 2
+	culture = ranjada
+	religion = ticojan
+	b_koanen = tribal
+232.3.1 = {
+	religion = takice
+}
+
+233.3.1 = {
+	religion = rni
+}
+
+256.3.1 = {
+	religion = takice
+}
+
+264.3.1 = {
+	religion = ticojan
+}
+
+275.4.1 = {
+	culture = balilof
+}
+

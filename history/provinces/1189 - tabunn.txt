@@ -1,0 +1,25 @@
+	title = c_tabunn
+	max_settlements = 2
+	culture = dudatli
+	religion = takice
+	b_ranalg = tribal
+235.3.1 = {
+	religion = rni
+}
+
+283.3.1 = {
+	religion = takice
+}
+
+285.3.1 = {
+	religion = emonurga
+}
+
+374.3.1 = {
+	religion = takice
+}
+
+589.4.1 = {
+	culture = amurein
+}
+

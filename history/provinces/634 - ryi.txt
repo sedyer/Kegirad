@@ -1,0 +1,25 @@
+	title = c_ryi
+	max_settlements = 7
+	culture = amurein
+	religion = takice
+	b_tiladi = tribal
+278.3.1 = {
+	religion = wsosro
+}
+
+485.3.1 = {
+	religion = rni
+}
+
+520.3.1 = {
+	religion = wsosro
+}
+
+530.4.1 = {
+	culture = adietech
+}
+
+555.4.1 = {
+	culture = amurein
+}
+

@@ -1,0 +1,5 @@
+	title = c_egirinha
+	max_settlements = 4
+	culture = tance
+	religion = rgance
+	b_qlana = tribal

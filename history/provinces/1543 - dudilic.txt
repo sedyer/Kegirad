@@ -1,0 +1,9 @@
+	title = c_dudilic
+	max_settlements = 3
+	culture = luriz
+	religion = takice
+	b_qudice = tribal
+543.4.1 = {
+	culture = katunn
+}
+

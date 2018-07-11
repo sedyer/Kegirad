@@ -1,0 +1,33 @@
+	title = c_roula
+	max_settlements = 2
+	culture = drebe
+	religion = ninala
+	b_qlebe = tribal
+200.3.1 = {
+	religion = tluku
+}
+
+243.3.1 = {
+	religion = ninala
+}
+
+246.3.1 = {
+	religion = tluku
+}
+
+257.3.1 = {
+	religion = ninala
+}
+
+297.3.1 = {
+	religion = tluku
+}
+
+329.3.1 = {
+	religion = ninala
+}
+
+353.3.1 = {
+	religion = tluku
+}
+

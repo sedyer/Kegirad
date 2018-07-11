@@ -1,0 +1,33 @@
+	title = c_tanih
+	max_settlements = 7
+	culture = dukanos
+	religion = emonurga
+	b_nanela = tribal
+259.4.1 = {
+	culture = roralka
+}
+
+480.3.1 = {
+	religion = rerech
+}
+
+486.3.1 = {
+	religion = emonurga
+}
+
+493.3.1 = {
+	religion = rerech
+}
+
+494.3.1 = {
+	religion = emonurga
+}
+
+507.3.1 = {
+	religion = rerech
+}
+
+530.4.1 = {
+	culture = srisre
+}
+

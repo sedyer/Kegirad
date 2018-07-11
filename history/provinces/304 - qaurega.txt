@@ -1,0 +1,9 @@
+	title = c_qaurega
+	max_settlements = 2
+	culture = wubutr
+	religion = echukas
+	b_keracob = tribal
+684.4.1 = {
+	culture = safha
+}
+

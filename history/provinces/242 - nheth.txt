@@ -1,0 +1,21 @@
+	title = c_nheth
+	max_settlements = 2
+	culture = waurat
+	religion = wering
+	b_lahavni = tribal
+214.3.1 = {
+	religion = echukas
+}
+
+235.3.1 = {
+	religion = wering
+}
+
+240.3.1 = {
+	religion = echukas
+}
+
+255.3.1 = {
+	religion = wering
+}
+

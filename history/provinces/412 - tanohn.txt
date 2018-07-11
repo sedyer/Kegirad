@@ -1,0 +1,21 @@
+	title = c_tanohn
+	max_settlements = 3
+	culture = srisre
+	religion = kanyo
+	b_dnri = tribal
+201.3.1 = {
+	religion = emonurga
+}
+
+305.3.1 = {
+	religion = rerech
+}
+
+314.3.1 = {
+	religion = kanyo
+}
+
+541.4.1 = {
+	culture = rresa
+}
+

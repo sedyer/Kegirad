@@ -1,0 +1,13 @@
+	title = c_drico
+	max_settlements = 3
+	culture = tuprind
+	religion = ricily
+	b_shuald = tribal
+394.4.1 = {
+	culture = scachi
+}
+
+473.4.1 = {
+	culture = tuprind
+}
+

@@ -1,0 +1,296 @@
+200.2.1 = {
+	holder = 1000036
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1001841
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_rares
+}
+
+200.2.4 = {
+	holder = 1001842
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.5 = {
+	holder = 1001839
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+200.2.6 = {
+	liege = 0
+}
+
+216.2.1 = {
+	holder = 1002953
+}
+
+237.2.1 = {
+	liege = k_awaci
+}
+
+237.2.2 = {
+	liege = 0
+}
+
+242.2.1 = {
+	holder = 1006274
+}
+
+260.2.1 = {
+	liege = k_awaci
+}
+
+260.2.2 = {
+	liege = 0
+}
+
+269.2.1 = {
+	liege = k_awaci
+}
+
+269.2.2 = {
+	liege = 0
+}
+
+284.2.1 = {
+	liege = k_awaci
+}
+
+284.2.2 = {
+	liege = 0
+}
+
+287.2.1 = {
+	holder = 1011183
+}
+
+292.2.1 = {
+	liege = k_awaci
+}
+
+292.2.2 = {
+	liege = 0
+}
+
+307.2.1 = {
+	holder = 1012701
+}
+
+309.2.1 = {
+	liege = k_awaci
+}
+
+309.2.2 = {
+	liege = 0
+}
+
+314.2.1 = {
+	liege = k_awaci
+}
+
+314.2.2 = {
+	liege = 0
+}
+
+321.2.1 = {
+	liege = k_awaci
+}
+
+321.2.2 = {
+	liege = 0
+}
+
+342.2.1 = {
+	liege = k_awaci
+}
+
+342.2.2 = {
+	liege = 0
+}
+
+345.2.1 = {
+	holder = 1014847
+}
+
+350.2.1 = {
+	liege = k_awaci
+}
+
+350.2.2 = {
+	liege = 0
+}
+
+365.2.1 = {
+	liege = k_awaci
+}
+
+365.2.2 = {
+	liege = 0
+}
+
+375.2.1 = {
+	holder = 1017854
+}
+
+391.2.1 = {
+	holder = 1019580
+}
+
+393.2.1 = {
+	liege = k_awaci
+}
+
+393.2.2 = {
+	liege = 0
+}
+
+428.2.1 = {
+	liege = k_awaci
+}
+
+428.2.2 = {
+	liege = 0
+}
+
+435.2.1 = {
+	liege = k_awaci
+}
+
+435.2.2 = {
+	liege = 0
+}
+
+437.2.1 = {
+	holder = 1019654
+}
+
+454.2.1 = {
+	holder = 1024447
+}
+
+472.2.1 = {
+	liege = k_awaci
+}
+
+472.2.2 = {
+	liege = 0
+}
+
+497.2.1 = {
+	liege = k_awaci
+}
+
+497.2.2 = {
+	liege = 0
+}
+
+499.2.1 = {
+	holder = 1027103
+}
+
+504.2.1 = {
+	liege = k_awaci
+}
+
+504.2.2 = {
+	liege = 0
+}
+
+510.2.1 = {
+	holder = 1028626
+}
+
+523.2.1 = {
+	holder = 1028766
+}
+
+535.2.1 = {
+	liege = k_awaci
+}
+
+535.2.2 = {
+	liege = 0
+}
+
+537.2.1 = {
+	liege = k_awaci
+}
+
+537.2.2 = {
+	liege = 0
+}
+
+558.2.1 = {
+	liege = k_awaci
+}
+
+558.2.2 = {
+	liege = 0
+}
+
+564.2.1 = {
+	holder = 1029900
+}
+
+600.2.1 = {
+	holder = 1032907
+}
+
+606.2.1 = {
+	liege = k_awaci
+}
+
+606.2.2 = {
+	liege = 0
+}
+
+628.2.1 = {
+	holder = 1034967
+}
+
+629.2.1 = {
+	holder = 1036522
+}
+
+639.2.1 = {
+	liege = k_awaci
+}
+
+639.2.2 = {
+	liege = 0
+}
+
+657.2.1 = {
+	holder = 1037034
+}
+
+670.2.1 = {
+	liege = k_awaci
+}
+
+670.2.2 = {
+	liege = 0
+}
+
+691.2.1 = {
+	holder = 1038359
+}
+
+692.2.1 = {
+	liege = k_awaci
+}
+
+692.2.2 = {
+	liege = 0
+}
+

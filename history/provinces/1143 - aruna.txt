@@ -1,0 +1,9 @@
+	title = c_aruna
+	max_settlements = 2
+	culture = ranjada
+	religion = ticojan
+	b_ebibol = tribal
+474.4.1 = {
+	culture = balilof
+}
+

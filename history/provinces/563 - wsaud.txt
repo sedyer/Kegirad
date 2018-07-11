@@ -1,0 +1,13 @@
+	title = c_wsaud
+	max_settlements = 2
+	culture = batanes
+	religion = rerech
+	b_athah = tribal
+218.3.1 = {
+	religion = emonurga
+}
+
+468.4.1 = {
+	culture = dukanos
+}
+

@@ -1,0 +1,25 @@
+	title = c_retega
+	max_settlements = 2
+	culture = batna
+	religion = rni
+	b_khagis = tribal
+208.3.1 = {
+	religion = ricily
+}
+
+216.3.1 = {
+	religion = rni
+}
+
+230.3.1 = {
+	religion = ricily
+}
+
+232.3.1 = {
+	religion = rni
+}
+
+244.3.1 = {
+	religion = ricily
+}
+

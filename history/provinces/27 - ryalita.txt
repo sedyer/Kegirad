@@ -1,0 +1,5 @@
+	title = c_ryalita
+	max_settlements = 2
+	culture = svare
+	religion = echukas
+	b_tujacob = tribal

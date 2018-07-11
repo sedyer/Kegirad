@@ -1,0 +1,5 @@
+	title = c_derert
+	max_settlements = 2
+	culture = dziga
+	religion = kereze
+	b_kanodar = tribal

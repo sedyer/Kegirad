@@ -1,0 +1,9 @@
+	title = c_binosh
+	max_settlements = 2
+	culture = kuogoi
+	religion = ricily
+	b_wetus = tribal
+558.4.1 = {
+	culture = batna
+}
+

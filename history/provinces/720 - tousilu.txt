@@ -1,0 +1,9 @@
+	title = c_tousilu
+	max_settlements = 7
+	culture = dlebe
+	religion = ninala
+	b_lojile = tribal
+317.3.1 = {
+	religion = rerech
+}
+

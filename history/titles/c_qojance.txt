@@ -1,0 +1,222 @@
+200.2.1 = {
+	holder = 1000000
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000152
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_wrael
+}
+
+200.2.4 = {
+	holder = 1000151
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+216.2.1 = {
+	holder = 1004041
+}
+
+246.2.1 = {
+	holder = 1005931
+}
+
+247.2.1 = {
+	holder = 1003226
+}
+
+258.2.1 = {
+	holder = 1003285
+}
+
+259.2.1 = {
+	holder = 1008749
+}
+
+378.2.1 = {
+	holder = 1016246
+}
+
+378.2.2 = {
+	liege = k_trasha
+}
+
+378.2.3 = {
+	holder = 1018650
+}
+
+406.2.1 = {
+	holder = 1019168
+}
+
+407.2.1 = {
+	holder = 1021014
+}
+
+454.2.1 = {
+	holder = 1023623
+}
+
+454.2.2 = {
+	holder = 1024484
+}
+
+480.2.1 = {
+	holder = 1023069
+}
+
+497.2.1 = {
+	holder = 1025652
+}
+
+543.2.1 = {
+	holder = 1027478
+}
+
+551.2.1 = {
+	holder = 1031186
+}
+
+591.2.1 = {
+	holder = 1032272
+}
+
+612.2.1 = {
+	holder = 1034295
+}
+
+644.2.1 = {
+	holder = 1037458
+}
+
+655.2.1 = {
+	liege = d_tvenr
+}
+
+655.2.2 = {
+	liege = d_tvenr
+}
+
+655.2.3 = {
+	liege = k_qauliz
+}
+
+656.2.1 = {
+	liege = d_tvenr
+}
+
+656.2.2 = {
+	liege = k_qauliz
+}
+
+657.2.1 = {
+	liege = d_tvenr
+}
+
+657.2.2 = {
+	liege = k_qauliz
+}
+
+658.2.1 = {
+	liege = d_tvenr
+}
+
+658.2.2 = {
+	liege = k_qauliz
+}
+
+659.2.1 = {
+	liege = d_tvenr
+}
+
+659.2.2 = {
+	liege = k_qauliz
+}
+
+660.2.1 = {
+	liege = d_tvenr
+}
+
+660.2.2 = {
+	liege = k_qauliz
+}
+
+660.2.3 = {
+	holder = 1037566
+}
+
+661.2.1 = {
+	liege = d_tvenr
+}
+
+661.2.2 = {
+	liege = k_qauliz
+}
+
+662.2.1 = {
+	liege = d_tvenr
+}
+
+662.2.2 = {
+	liege = k_qauliz
+}
+
+663.2.1 = {
+	liege = k_trasha
+}
+
+663.2.2 = {
+	liege = 0
+}
+
+663.2.3 = {
+	holder = 1035971
+}
+
+663.2.4 = {
+	holder = 1038529
+}
+
+663.2.5 = {
+	liege = k_qauliz
+}
+
+663.2.6 = {
+	liege = d_qvance
+}
+
+663.2.7 = {
+	holder = 1036527
+}
+
+671.2.1 = {
+	liege = d_afrirat
+}
+
+679.2.1 = {
+	holder = 1037733
+}
+
+687.2.1 = {
+	holder = 1039510
+}
+
+691.2.1 = {
+	liege = d_tvesha
+}
+
+691.2.2 = {
+	liege = 0
+}
+
+699.2.1 = {
+	liege = d_wrael
+}
+

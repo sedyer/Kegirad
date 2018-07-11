@@ -1,0 +1,9 @@
+	title = c_rtirat
+	max_settlements = 3
+	culture = rakael
+	religion = rgance
+	b_kilasr = tribal
+240.4.1 = {
+	culture = tance
+}
+

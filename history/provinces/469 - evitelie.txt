@@ -1,0 +1,17 @@
+	title = c_evitelie
+	max_settlements = 2
+	culture = batanes
+	religion = abonyi
+	b_bmelie = tribal
+265.3.1 = {
+	religion = rerech
+}
+
+369.3.1 = {
+	religion = abonyi
+}
+
+556.3.1 = {
+	religion = ninala
+}
+

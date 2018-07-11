@@ -1,0 +1,9 @@
+	title = c_kusin
+	max_settlements = 2
+	culture = qibemas
+	religion = abonyi
+	b_rusevi = tribal
+518.4.1 = {
+	culture = batanes
+}
+

@@ -1,0 +1,13 @@
+	title = c_edavebe
+	max_settlements = 7
+	culture = qlunai
+	religion = ninala
+	b_savick = tribal
+309.3.1 = {
+	religion = tluku
+}
+
+607.4.1 = {
+	culture = drebe
+}
+

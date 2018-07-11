@@ -1,0 +1,5 @@
+	title = c_ethagis
+	max_settlements = 2
+	culture = tuprind
+	religion = ricily
+	b_tinemis = tribal

@@ -1,0 +1,13 @@
+	title = c_wrasqob
+	max_settlements = 2
+	culture = banevi
+	religion = kereze
+	b_konav = tribal
+425.4.1 = {
+	culture = rarugis
+}
+
+574.4.1 = {
+	culture = banevi
+}
+

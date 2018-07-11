@@ -1,0 +1,9 @@
+	title = c_togutus
+	max_settlements = 3
+	culture = qsuthe
+	religion = rerech
+	b_natein = tribal
+658.3.1 = {
+	religion = echukas
+}
+

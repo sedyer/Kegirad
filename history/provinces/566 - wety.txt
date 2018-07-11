@@ -1,0 +1,29 @@
+	title = c_wety
+	max_settlements = 6
+	culture = tujeth
+	religion = emonurga
+	b_waloba = tribal
+214.3.1 = {
+	religion = kanyo
+}
+
+302.3.1 = {
+	religion = wsosro
+}
+
+379.3.1 = {
+	religion = emonurga
+}
+
+414.3.1 = {
+	religion = wsosro
+}
+
+425.3.1 = {
+	religion = emonurga
+}
+
+457.3.1 = {
+	religion = wsosro
+}
+

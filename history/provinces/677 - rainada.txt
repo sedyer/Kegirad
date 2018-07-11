@@ -1,0 +1,17 @@
+	title = c_rainada
+	max_settlements = 2
+	culture = dogugis
+	religion = ninala
+	b_kteard = tribal
+202.3.1 = {
+	religion = wsosro
+}
+
+488.3.1 = {
+	religion = rni
+}
+
+573.3.1 = {
+	religion = wsosro
+}
+

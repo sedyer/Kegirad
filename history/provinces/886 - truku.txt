@@ -1,0 +1,61 @@
+	title = c_truku
+	max_settlements = 7
+	culture = wiragop
+	religion = bukena
+	b_lacapur = tribal
+220.3.1 = {
+	religion = kanyo
+}
+
+226.3.1 = {
+	religion = bukena
+}
+
+255.4.1 = {
+	culture = tujeth
+}
+
+260.3.1 = {
+	religion = kanyo
+}
+
+265.3.1 = {
+	religion = bukena
+}
+
+282.3.1 = {
+	religion = kanyo
+}
+
+296.3.1 = {
+	religion = emonurga
+}
+
+308.3.1 = {
+	religion = kanyo
+}
+
+309.3.1 = {
+	religion = emonurga
+}
+
+310.3.1 = {
+	religion = kanyo
+}
+
+312.3.1 = {
+	religion = emonurga
+}
+
+355.3.1 = {
+	religion = kanyo
+}
+
+630.3.1 = {
+	religion = emonurga
+}
+
+634.4.1 = {
+	culture = kegirad
+}
+

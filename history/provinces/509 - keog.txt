@@ -1,0 +1,13 @@
+	title = c_keog
+	max_settlements = 2
+	culture = robas
+	religion = abonyi
+	b_leon = tribal
+206.3.1 = {
+	religion = ninala
+}
+
+304.4.1 = {
+	culture = sitilje
+}
+

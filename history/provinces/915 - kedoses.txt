@@ -1,0 +1,13 @@
+	title = c_kedoses
+	max_settlements = 7
+	culture = norse
+	religion = rgance
+	b_rleodat = tribal
+384.3.1 = {
+	religion = qriibma
+}
+
+556.4.1 = {
+	culture = bavirat
+}
+

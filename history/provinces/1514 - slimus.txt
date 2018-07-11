@@ -1,0 +1,9 @@
+	title = c_slimus
+	max_settlements = 7
+	culture = beth
+	religion = emonurga
+	b_klimus = tribal
+476.4.1 = {
+	culture = rresa
+}
+

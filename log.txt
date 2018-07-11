@@ -1,0 +1,24 @@
+Exporting at 700
+Characters #: 35586
+Provinces #: 1580
+Creating Mercs
+Calcing Religious Equivelents
+Saving Religions
+Saving Characters
+Saving Titles
+Saving Landed Titles
+Saving Map
+Saving Governments
+Saving Cultures
+Saving Events
+Saving Definitions
+Saving Regions
+Saving Dynasties
+Saving Sprite Definitions
+Saving Bookmark
+Saving Technology
+Saving Flags
+Saving Provinces
+Saving Decisions
+Saving Language
+Deleting Cache

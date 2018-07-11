@@ -1,0 +1,9 @@
+	title = c_kaijice
+	max_settlements = 2
+	culture = wvaku
+	religion = echukas
+	b_blenr = tribal
+465.4.1 = {
+	culture = kaloet
+}
+

@@ -1,0 +1,9 @@
+	title = c_lavael
+	max_settlements = 3
+	culture = drebe
+	religion = ninala
+	b_rrebe = tribal
+308.3.1 = {
+	religion = tluku
+}
+

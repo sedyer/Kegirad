@@ -1,0 +1,25 @@
+	title = c_warja
+	max_settlements = 6
+	culture = rresa
+	religion = emonurga
+	b_blitar = tribal
+214.3.1 = {
+	religion = rni
+}
+
+232.3.1 = {
+	religion = emonurga
+}
+
+245.3.1 = {
+	religion = rni
+}
+
+265.4.1 = {
+	culture = linian
+}
+
+497.3.1 = {
+	religion = emonurga
+}
+

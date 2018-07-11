@@ -1,0 +1,29 @@
+	title = c_tomebet
+	max_settlements = 2
+	culture = srisre
+	religion = kanyo
+	b_ralico = tribal
+202.3.1 = {
+	religion = rerech
+}
+
+222.3.1 = {
+	religion = kanyo
+}
+
+230.3.1 = {
+	religion = rerech
+}
+
+237.3.1 = {
+	religion = kanyo
+}
+
+454.3.1 = {
+	religion = rerech
+}
+
+680.3.1 = {
+	religion = emonurga
+}
+

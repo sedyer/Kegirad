@@ -1,0 +1,29 @@
+	title = c_rabari
+	max_settlements = 2
+	culture = wubutr
+	religion = echukas
+	b_tadasr = tribal
+243.3.1 = {
+	religion = rerech
+}
+
+266.3.1 = {
+	religion = echukas
+}
+
+266.3.1 = {
+	religion = rerech
+}
+
+273.3.1 = {
+	religion = echukas
+}
+
+281.3.1 = {
+	religion = rerech
+}
+
+565.4.1 = {
+	culture = rinmi
+}
+

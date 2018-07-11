@@ -1,0 +1,29 @@
+	title = c_krudis
+	max_settlements = 4
+	culture = scachi
+	religion = rni
+	b_natuald = tribal
+226.3.1 = {
+	religion = ricily
+}
+
+228.3.1 = {
+	religion = rni
+}
+
+228.3.1 = {
+	religion = ricily
+}
+
+244.3.1 = {
+	religion = rni
+}
+
+361.3.1 = {
+	religion = ricily
+}
+
+499.4.1 = {
+	culture = tuprind
+}
+

@@ -1,0 +1,13 @@
+	title = c_qauladi
+	max_settlements = 6
+	culture = katunn
+	religion = takice
+	b_racat = tribal
+297.3.1 = {
+	religion = wsosro
+}
+
+587.3.1 = {
+	religion = rni
+}
+

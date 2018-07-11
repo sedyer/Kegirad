@@ -1,0 +1,17 @@
+	title = c_tavein
+	max_settlements = 4
+	culture = luriz
+	religion = takice
+	b_kavein = tribal
+492.4.1 = {
+	culture = katunn
+}
+
+565.4.1 = {
+	culture = dudatli
+}
+
+649.4.1 = {
+	culture = amurein
+}
+

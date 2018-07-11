@@ -1,0 +1,13 @@
+	title = c_ronind
+	max_settlements = 2
+	culture = dlebe
+	religion = ninala
+	b_ehonaud = tribal
+294.3.1 = {
+	religion = rerech
+}
+
+627.3.1 = {
+	religion = ninala
+}
+

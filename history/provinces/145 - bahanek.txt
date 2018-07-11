@@ -1,0 +1,9 @@
+	title = c_bahanek
+	max_settlements = 2
+	culture = relita
+	religion = echukas
+	b_ahilorad = tribal
+305.4.1 = {
+	culture = kujacob
+}
+

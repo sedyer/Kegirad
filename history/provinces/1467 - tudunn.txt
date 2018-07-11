@@ -1,0 +1,9 @@
+	title = c_tudunn
+	max_settlements = 3
+	culture = negeth
+	religion = emonurga
+	b_tamin = tribal
+469.3.1 = {
+	religion = takice
+}
+

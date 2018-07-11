@@ -1,0 +1,17 @@
+	title = c_ahusin
+	max_settlements = 7
+	culture = rresa
+	religion = emonurga
+	b_katice = tribal
+211.3.1 = {
+	religion = takice
+}
+
+316.3.1 = {
+	religion = kanyo
+}
+
+647.3.1 = {
+	religion = takice
+}
+

@@ -1,0 +1,29 @@
+	title = c_kainy
+	max_settlements = 2
+	culture = dogugis
+	religion = ninala
+	b_lugada = tribal
+209.3.1 = {
+	religion = wsosro
+}
+
+255.3.1 = {
+	religion = ninala
+}
+
+298.3.1 = {
+	religion = wsosro
+}
+
+301.3.1 = {
+	religion = ninala
+}
+
+559.3.1 = {
+	religion = wsosro
+}
+
+607.4.1 = {
+	culture = lorius
+}
+

@@ -1,0 +1,13 @@
+	title = c_kereja
+	max_settlements = 4
+	culture = awuludah
+	religion = rni
+	b_kcein = tribal
+292.3.1 = {
+	religion = emonurga
+}
+
+443.3.1 = {
+	religion = rni
+}
+

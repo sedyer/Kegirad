@@ -1,0 +1,41 @@
+	title = c_nukunla
+	max_settlements = 7
+	culture = kegirad
+	religion = bukena
+	b_ekalagop = tribal
+224.4.1 = {
+	culture = rresa
+}
+
+249.3.1 = {
+	religion = emonurga
+}
+
+255.3.1 = {
+	religion = bukena
+}
+
+265.3.1 = {
+	religion = emonurga
+}
+
+320.3.1 = {
+	religion = bukena
+}
+
+354.4.1 = {
+	culture = kegirad
+}
+
+453.3.1 = {
+	religion = emonurga
+}
+
+511.4.1 = {
+	culture = rresa
+}
+
+550.4.1 = {
+	culture = kegirad
+}
+

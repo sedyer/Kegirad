@@ -1,0 +1,37 @@
+	title = c_wamita
+	max_settlements = 2
+	culture = woumner
+	religion = echukas
+	b_siracob = tribal
+232.3.1 = {
+	religion = rerech
+}
+
+252.3.1 = {
+	religion = echukas
+}
+
+279.3.1 = {
+	religion = rerech
+}
+
+336.3.1 = {
+	religion = echukas
+}
+
+340.3.1 = {
+	religion = rerech
+}
+
+371.3.1 = {
+	religion = abonyi
+}
+
+412.4.1 = {
+	culture = edanyi
+}
+
+468.3.1 = {
+	religion = echukas
+}
+

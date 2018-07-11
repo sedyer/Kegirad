@@ -1,0 +1,5 @@
+	title = c_amalyana
+	max_settlements = 2
+	culture = nurana
+	religion = rni
+	b_ricakr = tribal

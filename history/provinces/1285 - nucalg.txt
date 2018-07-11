@@ -1,0 +1,5 @@
+	title = c_nucalg
+	max_settlements = 3
+	culture = kerada
+	religion = ticojan
+	b_runolf = tribal

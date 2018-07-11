@@ -1,0 +1,13 @@
+	title = c_qorira
+	max_settlements = 2
+	culture = dlebe
+	religion = ninala
+	b_walien = tribal
+318.3.1 = {
+	religion = rerech
+}
+
+688.3.1 = {
+	religion = ninala
+}
+

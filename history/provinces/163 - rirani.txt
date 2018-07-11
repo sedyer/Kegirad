@@ -1,0 +1,17 @@
+	title = c_rirani
+	max_settlements = 2
+	culture = kilik
+	religion = agamel
+	b_llaha = tribal
+235.3.1 = {
+	religion = tedusa
+}
+
+534.4.1 = {
+	culture = rinmi
+}
+
+594.4.1 = {
+	culture = wsaka
+}
+

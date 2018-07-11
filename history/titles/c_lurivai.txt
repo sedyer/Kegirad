@@ -1,0 +1,198 @@
+200.2.1 = {
+	holder = 1000001
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000222
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_niirat
+}
+
+200.2.4 = {
+	liege = d_rawadi
+}
+
+200.2.5 = {
+	holder = 1000163
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+207.2.1 = {
+	holder = 1003846
+}
+
+252.2.1 = {
+	holder = 1005232
+}
+
+280.2.1 = {
+	holder = 1008260
+}
+
+281.2.1 = {
+	liege = d_dudae
+}
+
+281.2.2 = {
+	liege = 0
+}
+
+281.2.3 = {
+	holder = 1009992
+}
+
+281.2.4 = {
+	holder = 1005056
+}
+
+281.2.5 = {
+	holder = 1007180
+}
+
+285.2.1 = {
+	holder = 1011071
+}
+
+285.2.2 = {
+	liege = k_dakarda
+}
+
+400.2.1 = {
+	holder = 1018028
+}
+
+406.2.1 = {
+	liege = d_nya
+}
+
+407.2.1 = {
+	holder = 1018215
+}
+
+431.2.1 = {
+	holder = 1020243
+}
+
+431.2.2 = {
+	liege = d_qaleja
+}
+
+431.2.3 = {
+	liege = 0
+}
+
+431.2.4 = {
+	holder = 1021787
+}
+
+442.2.1 = {
+	liege = d_rawadi
+}
+
+442.2.2 = {
+	liege = 0
+}
+
+443.2.1 = {
+	holder = 1023625
+}
+
+443.2.2 = {
+	liege = d_nya
+}
+
+463.2.1 = {
+	liege = d_rawadi
+}
+
+463.2.2 = {
+	liege = 0
+}
+
+480.2.1 = {
+	holder = 1026265
+}
+
+495.2.1 = {
+	liege = d_rawadi
+}
+
+495.2.2 = {
+	liege = 0
+}
+
+534.2.1 = {
+	holder = 1026479
+}
+
+538.2.1 = {
+	holder = 1030440
+}
+
+545.2.1 = {
+	holder = 1030896
+}
+
+545.2.2 = {
+	liege = k_dakarda
+}
+
+545.2.3 = {
+	liege = k_buyinen
+}
+
+545.2.4 = {
+	holder = 1028330
+}
+
+546.2.1 = {
+	holder = 1025657
+}
+
+546.2.2 = {
+	liege = k_akakin
+}
+
+546.2.3 = {
+	holder = 1028717
+}
+
+554.2.1 = {
+	liege = 0
+}
+
+554.2.2 = {
+	holder = 1029539
+}
+
+584.2.1 = {
+	holder = 1032665
+}
+
+588.2.1 = {
+	holder = 1033712
+}
+
+643.2.1 = {
+	holder = 1035869
+}
+
+662.2.1 = {
+	holder = 1037858
+}
+
+666.2.1 = {
+	holder = 1034537
+}
+
+672.2.1 = {
+	holder = 1038882
+}
+

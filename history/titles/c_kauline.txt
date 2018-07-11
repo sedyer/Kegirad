@@ -1,0 +1,252 @@
+200.2.1 = {
+	holder = 1000009
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	liege = d_rureja
+}
+
+200.2.3 = {
+	holder = 1000681
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+234.2.1 = {
+	holder = 1003167
+}
+
+239.2.1 = {
+	holder = 1006662
+}
+
+256.2.1 = {
+	liege = d_qanih
+}
+
+272.2.1 = {
+	liege = d_rureja
+}
+
+272.2.2 = {
+	liege = 0
+}
+
+273.2.1 = {
+	liege = d_niirat
+}
+
+274.2.1 = {
+	holder = 1010060
+}
+
+288.2.1 = {
+	holder = 1006662
+}
+
+289.2.1 = {
+	liege = 0
+}
+
+289.2.2 = {
+	holder = 1009356
+}
+
+299.2.1 = {
+	holder = 1012007
+}
+
+346.2.1 = {
+	liege = d_rureja
+}
+
+346.2.2 = {
+	liege = 0
+}
+
+346.2.3 = {
+	holder = 1014237
+}
+
+360.2.1 = {
+	liege = d_niirat
+}
+
+360.2.2 = {
+	liege = 0
+}
+
+360.2.3 = {
+	liege = d_niirat
+}
+
+360.2.4 = {
+	liege = 0
+}
+
+386.2.1 = {
+	liege = d_niirat
+}
+
+386.2.2 = {
+	liege = 0
+}
+
+387.2.1 = {
+	holder = 1016880
+}
+
+410.2.1 = {
+	holder = 1020645
+}
+
+411.2.1 = {
+	liege = d_niirat
+}
+
+411.2.2 = {
+	liege = 0
+}
+
+451.2.1 = {
+	holder = 1022459
+}
+
+451.2.2 = {
+	holder = 1021154
+}
+
+452.2.1 = {
+	holder = 1024316
+}
+
+452.2.2 = {
+	liege = k_dakarda
+}
+
+463.2.1 = {
+	liege = 0
+}
+
+468.2.1 = {
+	holder = 1025443
+}
+
+470.2.1 = {
+	holder = 1025574
+}
+
+476.2.1 = {
+	liege = k_acande
+}
+
+476.2.2 = {
+	liege = k_dakarda
+}
+
+476.2.3 = {
+	holder = 1024493
+}
+
+488.2.1 = {
+	holder = 1025679
+}
+
+510.2.1 = {
+	holder = 1028663
+}
+
+545.2.1 = {
+	holder = 1030440
+}
+
+545.2.2 = {
+	holder = 1030899
+}
+
+545.2.3 = {
+	liege = k_acande
+}
+
+545.2.4 = {
+	holder = 1029480
+}
+
+545.2.5 = {
+	holder = 1030912
+}
+
+545.2.6 = {
+	liege = k_dakarda
+}
+
+545.2.7 = {
+	holder = 1030440
+}
+
+546.2.1 = {
+	holder = 1031001
+}
+
+546.2.2 = {
+	liege = k_nandena
+}
+
+546.2.3 = {
+	holder = 1030836
+}
+
+568.2.1 = {
+	holder = 1031983
+}
+
+577.2.1 = {
+	holder = 1025469
+}
+
+581.2.1 = {
+	holder = 1022812
+}
+
+583.2.1 = {
+	holder = 1033121
+}
+
+585.2.1 = {
+	holder = 1033484
+}
+
+590.2.1 = {
+	holder = 1033604
+}
+
+600.2.1 = {
+	holder = 1034626
+}
+
+608.2.1 = {
+	holder = 1035060
+}
+
+616.2.1 = {
+	holder = 1034625
+}
+
+655.2.1 = {
+	holder = 1036057
+}
+
+662.2.1 = {
+	holder = 1038201
+}
+
+669.2.1 = {
+	holder = 1037279
+}
+
+669.2.2 = {
+	holder = 1038893
+}
+

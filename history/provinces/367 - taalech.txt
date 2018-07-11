@@ -1,0 +1,9 @@
+	title = c_taalech
+	max_settlements = 2
+	culture = edanyi
+	religion = rerech
+	b_kyaline = tribal
+335.3.1 = {
+	religion = echukas
+}
+

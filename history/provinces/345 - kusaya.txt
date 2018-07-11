@@ -1,0 +1,9 @@
+	title = c_kusaya
+	max_settlements = 2
+	culture = qusala
+	religion = abonyi
+	b_datara = tribal
+618.3.1 = {
+	religion = ninala
+}
+

@@ -1,0 +1,25 @@
+	title = c_tutonia
+	max_settlements = 3
+	culture = bozusa
+	religion = agrakma
+	b_ktolod = tribal
+284.3.1 = {
+	religion = emonurga
+}
+
+288.3.1 = {
+	religion = agrakma
+}
+
+293.3.1 = {
+	religion = emonurga
+}
+
+303.3.1 = {
+	religion = agrakma
+}
+
+534.4.1 = {
+	culture = doumat
+}
+

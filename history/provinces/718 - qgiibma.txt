@@ -1,0 +1,41 @@
+	title = c_qgiibma
+	max_settlements = 6
+	culture = qlunai
+	religion = ninala
+	b_dabick = tribal
+207.3.1 = {
+	religion = tluku
+}
+
+220.4.1 = {
+	culture = drebe
+}
+
+237.4.1 = {
+	culture = qlunai
+}
+
+277.4.1 = {
+	culture = drebe
+}
+
+390.4.1 = {
+	culture = rmada
+}
+
+394.3.1 = {
+	religion = wsosro
+}
+
+408.3.1 = {
+	religion = tluku
+}
+
+429.4.1 = {
+	culture = drebe
+}
+
+688.4.1 = {
+	culture = kliz
+}
+

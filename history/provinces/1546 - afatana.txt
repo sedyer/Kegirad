@@ -1,0 +1,17 @@
+	title = c_afatana
+	max_settlements = 6
+	culture = learah
+	religion = emonurga
+	b_kuriwal = tribal
+378.3.1 = {
+	religion = takice
+}
+
+608.4.1 = {
+	culture = rresa
+}
+
+624.3.1 = {
+	religion = emonurga
+}
+

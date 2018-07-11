@@ -1,0 +1,41 @@
+	title = c_syalega
+	max_settlements = 2
+	culture = wubutr
+	religion = wozine
+	b_luulega = tribal
+203.3.1 = {
+	religion = echukas
+}
+
+216.3.1 = {
+	religion = wozine
+}
+
+232.3.1 = {
+	religion = echukas
+}
+
+239.3.1 = {
+	religion = wozine
+}
+
+258.3.1 = {
+	religion = echukas
+}
+
+264.4.1 = {
+	culture = namuthe
+}
+
+265.3.1 = {
+	religion = wozine
+}
+
+268.3.1 = {
+	religion = echukas
+}
+
+492.3.1 = {
+	religion = wozine
+}
+

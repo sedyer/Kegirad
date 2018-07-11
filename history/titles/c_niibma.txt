@@ -1,0 +1,190 @@
+200.2.1 = {
+	holder = 1000000
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000083
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_rtuoksa
+}
+
+200.2.4 = {
+	liege = d_ngierg
+}
+
+200.2.5 = {
+	holder = 1000155
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+229.2.1 = {
+	holder = 1004811
+}
+
+243.2.1 = {
+	holder = 1000080
+}
+
+253.2.1 = {
+	holder = 1003285
+}
+
+259.2.1 = {
+	liege = k_trasha
+}
+
+259.2.2 = {
+	holder = 1008748
+}
+
+378.2.1 = {
+	holder = 1016246
+}
+
+379.2.1 = {
+	holder = 1018735
+}
+
+406.2.1 = {
+	holder = 1019168
+}
+
+406.2.2 = {
+	holder = 1020932
+}
+
+454.2.1 = {
+	holder = 1023623
+}
+
+459.2.1 = {
+	holder = 1024114
+}
+
+480.2.1 = {
+	liege = d_afrirat
+}
+
+481.2.1 = {
+	liege = d_afrirat
+}
+
+481.2.2 = {
+	liege = k_qauliz
+}
+
+482.2.1 = {
+	liege = d_afrirat
+}
+
+482.2.2 = {
+	liege = k_qauliz
+}
+
+483.2.1 = {
+	liege = d_afrirat
+}
+
+483.2.2 = {
+	liege = k_qauliz
+}
+
+483.2.3 = {
+	holder = 1025807
+}
+
+484.2.1 = {
+	liege = d_afrirat
+}
+
+484.2.2 = {
+	liege = k_qauliz
+}
+
+485.2.1 = {
+	liege = d_afrirat
+}
+
+485.2.2 = {
+	liege = k_qauliz
+}
+
+486.2.1 = {
+	liege = d_afrirat
+}
+
+486.2.2 = {
+	liege = k_qauliz
+}
+
+487.2.1 = {
+	liege = d_afrirat
+}
+
+487.2.2 = {
+	liege = k_qauliz
+}
+
+488.2.1 = {
+	liege = d_afrirat
+}
+
+488.2.2 = {
+	liege = k_qauliz
+}
+
+488.2.3 = {
+	holder = 1025153
+}
+
+494.2.1 = {
+	liege = d_alebe
+}
+
+494.2.2 = {
+	liege = 0
+}
+
+495.2.1 = {
+	holder = 1026263
+}
+
+500.2.1 = {
+	holder = 1027611
+}
+
+500.2.2 = {
+	liege = d_qvance
+}
+
+600.2.1 = {
+	holder = 1033269
+}
+
+671.2.1 = {
+	holder = 1037566
+}
+
+672.2.1 = {
+	holder = 1039065
+}
+
+680.2.1 = {
+	holder = 1037566
+}
+
+685.2.1 = {
+	holder = 1038461
+}
+
+693.2.1 = {
+	holder = 1040265
+}
+

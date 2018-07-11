@@ -1,0 +1,9 @@
+	title = c_wgick
+	max_settlements = 3
+	culture = wlick
+	religion = ninala
+	b_tlael = tribal
+213.3.1 = {
+	religion = tluku
+}
+

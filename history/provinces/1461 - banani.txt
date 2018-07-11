@@ -1,0 +1,17 @@
+	title = c_banani
+	max_settlements = 7
+	culture = kegirad
+	religion = bukena
+	b_rimus = tribal
+476.3.1 = {
+	religion = emonurga
+}
+
+496.3.1 = {
+	religion = kanyo
+}
+
+513.3.1 = {
+	religion = emonurga
+}
+

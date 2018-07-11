@@ -1,0 +1,13 @@
+	title = c_rarimon
+	max_settlements = 2
+	culture = sitilje
+	religion = ninala
+	b_amene = tribal
+289.3.1 = {
+	religion = kmemar
+}
+
+465.3.1 = {
+	religion = ninala
+}
+

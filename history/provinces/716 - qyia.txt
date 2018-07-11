@@ -1,0 +1,13 @@
+	title = c_qyia
+	max_settlements = 3
+	culture = qlunai
+	religion = ninala
+	b_siibma = tribal
+290.4.1 = {
+	culture = drebe
+}
+
+343.3.1 = {
+	religion = tluku
+}
+

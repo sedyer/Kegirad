@@ -1,0 +1,13 @@
+	title = c_qawyan
+	max_settlements = 7
+	culture = bavirat
+	religion = qriibma
+	b_efinirat = tribal
+341.4.1 = {
+	culture = norse
+}
+
+357.4.1 = {
+	culture = bavirat
+}
+

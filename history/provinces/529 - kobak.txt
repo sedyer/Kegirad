@@ -1,0 +1,21 @@
+	title = c_kobak
+	max_settlements = 3
+	culture = edanyi
+	religion = rerech
+	b_ranak = tribal
+208.3.1 = {
+	religion = abonyi
+}
+
+399.3.1 = {
+	religion = echukas
+}
+
+597.3.1 = {
+	religion = rerech
+}
+
+626.3.1 = {
+	religion = echukas
+}
+

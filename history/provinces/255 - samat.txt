@@ -1,0 +1,9 @@
+	title = c_samat
+	max_settlements = 2
+	culture = woumner
+	religion = echukas
+	b_wiruthe = tribal
+367.4.1 = {
+	culture = namuthe
+}
+

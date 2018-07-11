@@ -1,0 +1,13 @@
+	title = c_agoseca
+	max_settlements = 5
+	culture = roralka
+	religion = emonurga
+	b_quteca = tribal
+386.4.1 = {
+	culture = dukanos
+}
+
+530.4.1 = {
+	culture = borama
+}
+

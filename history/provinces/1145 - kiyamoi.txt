@@ -1,0 +1,5 @@
+	title = c_kiyamoi
+	max_settlements = 2
+	culture = kerada
+	religion = ticojan
+	b_suludah = tribal

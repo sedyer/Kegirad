@@ -1,0 +1,13 @@
+	title = c_dalurd
+	max_settlements = 2
+	culture = rriste
+	religion = rgance
+	b_larra = tribal
+324.4.1 = {
+	culture = norse
+}
+
+371.4.1 = {
+	culture = rriste
+}
+

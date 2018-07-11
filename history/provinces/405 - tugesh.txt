@@ -1,0 +1,25 @@
+	title = c_tugesh
+	max_settlements = 6
+	culture = dukanos
+	religion = emonurga
+	b_ropinko = tribal
+203.3.1 = {
+	religion = bukena
+}
+
+229.3.1 = {
+	religion = kanyo
+}
+
+649.3.1 = {
+	religion = emonurga
+}
+
+680.3.1 = {
+	religion = kanyo
+}
+
+689.3.1 = {
+	religion = emonurga
+}
+

@@ -1,0 +1,122 @@
+200.2.1 = {
+	holder = 1000033
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1001762
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+200.2.3 = {
+	liege = d_rulelen
+}
+
+200.2.4 = {
+	holder = 1001760
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+236.2.1 = {
+	holder = 1006620
+}
+
+249.2.1 = {
+	holder = 1006886
+}
+
+257.2.1 = {
+	liege = d_nizahla
+}
+
+257.2.2 = {
+	holder = 1008562
+}
+
+257.2.3 = {
+	liege = d_rulelen
+}
+
+272.2.1 = {
+	holder = 1009901
+}
+
+315.2.1 = {
+	holder = 1013348
+}
+
+319.2.1 = {
+	holder = 1010187
+}
+
+319.2.2 = {
+	holder = 1014009
+}
+
+365.2.1 = {
+	holder = 1012384
+}
+
+366.2.1 = {
+	holder = 1014415
+}
+
+366.2.2 = {
+	holder = 1014956
+}
+
+500.2.1 = {
+	holder = 1027571
+}
+
+519.2.1 = {
+	holder = 1029301
+}
+
+545.2.1 = {
+	holder = 1028038
+}
+
+558.2.1 = {
+	holder = 1031315
+}
+
+575.2.1 = {
+	holder = 1032684
+}
+
+575.2.2 = {
+	holder = 1032952
+}
+
+584.2.1 = {
+	holder = 1033488
+}
+
+593.2.1 = {
+	holder = 1032684
+}
+
+593.2.2 = {
+	holder = 1034013
+}
+
+662.2.1 = {
+	holder = 1038479
+}
+
+666.2.1 = {
+	holder = 1037007
+}
+
+666.2.2 = {
+	holder = 1038724
+}
+
+670.2.1 = {
+	holder = 1038971
+}
+

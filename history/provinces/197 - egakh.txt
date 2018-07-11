@@ -1,0 +1,25 @@
+	title = c_egakh
+	max_settlements = 2
+	culture = wsaka
+	religion = agamel
+	b_ttacik = tribal
+213.3.1 = {
+	religion = tedusa
+}
+
+219.3.1 = {
+	religion = agamel
+}
+
+219.3.1 = {
+	religion = tedusa
+}
+
+250.3.1 = {
+	religion = agamel
+}
+
+281.3.1 = {
+	religion = tedusa
+}
+

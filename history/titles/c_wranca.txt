@@ -1,0 +1,74 @@
+200.2.1 = {
+	holder = 1000051
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1002034
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+200.2.3 = {
+	liege = d_rlanca
+}
+
+200.2.4 = {
+	holder = 1002031
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+238.2.1 = {
+	holder = 1004099
+}
+
+241.2.1 = {
+	holder = 1007091
+}
+
+283.2.1 = {
+	holder = 1009620
+}
+
+310.2.1 = {
+	liege = d_ekerta
+}
+
+310.2.2 = {
+	holder = 1009564
+}
+
+310.2.3 = {
+	liege = k_riotas
+}
+
+310.2.4 = {
+	holder = 1013293
+}
+
+400.2.1 = {
+	holder = 1020204
+}
+
+500.2.1 = {
+	holder = 1025186
+}
+
+500.2.2 = {
+	holder = 1027898
+}
+
+600.2.1 = {
+	holder = 1030842
+}
+
+600.2.2 = {
+	holder = 1034740
+}
+
+666.2.1 = {
+	holder = 1038728
+}
+

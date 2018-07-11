@@ -1,0 +1,9 @@
+	title = c_tunim
+	max_settlements = 2
+	culture = ricepan
+	religion = ticojan
+	b_aburiz = tribal
+280.4.1 = {
+	culture = balilof
+}
+

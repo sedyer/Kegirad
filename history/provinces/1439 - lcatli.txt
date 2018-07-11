@@ -1,0 +1,13 @@
+	title = c_lcatli
+	max_settlements = 7
+	culture = learah
+	religion = emonurga
+	b_nudaud = tribal
+395.3.1 = {
+	religion = takice
+}
+
+553.3.1 = {
+	religion = emonurga
+}
+

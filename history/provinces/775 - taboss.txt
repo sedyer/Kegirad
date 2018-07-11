@@ -1,0 +1,9 @@
+	title = c_taboss
+	max_settlements = 2
+	culture = lriz
+	religion = ninala
+	b_nrierg = tribal
+305.4.1 = {
+	culture = tiiriz
+}
+

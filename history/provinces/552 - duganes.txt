@@ -1,0 +1,33 @@
+	title = c_duganes
+	max_settlements = 3
+	culture = qsuthe
+	religion = rerech
+	b_nerilof = tribal
+260.3.1 = {
+	religion = kanyo
+}
+
+301.3.1 = {
+	religion = rerech
+}
+
+306.3.1 = {
+	religion = kanyo
+}
+
+325.3.1 = {
+	religion = emonurga
+}
+
+335.3.1 = {
+	religion = rerech
+}
+
+340.3.1 = {
+	religion = emonurga
+}
+
+348.4.1 = {
+	culture = batanes
+}
+

@@ -1,0 +1,22 @@
+200.2.1 = {
+	holder = 1001525
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	liege = k_samed
+}
+
+202.2.1 = {
+	holder = 1001656
+}
+
+232.2.1 = {
+	holder = 1004985
+}
+
+232.2.2 = {
+	liege = 0
+}
+

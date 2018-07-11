@@ -1,0 +1,13 @@
+	title = c_bilonan
+	max_settlements = 2
+	culture = norik
+	religion = tedusa
+	b_btakh = tribal
+221.3.1 = {
+	religion = agamel
+}
+
+229.3.1 = {
+	religion = tedusa
+}
+

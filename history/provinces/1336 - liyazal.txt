@@ -1,0 +1,9 @@
+	title = c_liyazal
+	max_settlements = 2
+	culture = suneja
+	religion = rni
+	b_lunoi = tribal
+553.4.1 = {
+	culture = talin
+}
+

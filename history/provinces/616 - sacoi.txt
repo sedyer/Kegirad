@@ -1,0 +1,17 @@
+	title = c_sacoi
+	max_settlements = 7
+	culture = tujeth
+	religion = emonurga
+	b_solapur = tribal
+272.3.1 = {
+	religion = takice
+}
+
+361.3.1 = {
+	religion = emonurga
+}
+
+456.4.1 = {
+	culture = wiragop
+}
+

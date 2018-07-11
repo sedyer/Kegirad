@@ -1,0 +1,9 @@
+	title = c_sabare
+	max_settlements = 2
+	culture = wvaku
+	religion = echukas
+	b_taaltas = tribal
+211.4.1 = {
+	culture = kaloet
+}
+

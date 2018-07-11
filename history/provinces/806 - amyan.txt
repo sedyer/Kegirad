@@ -1,0 +1,5 @@
+	title = c_amyan
+	max_settlements = 2
+	culture = tabesha
+	religion = rgance
+	b_risyan = tribal

@@ -1,0 +1,25 @@
+	title = c_nicya
+	max_settlements = 2
+	culture = kerada
+	religion = ticojan
+	b_alojan = tribal
+219.3.1 = {
+	religion = rni
+}
+
+226.3.1 = {
+	religion = ticojan
+}
+
+236.3.1 = {
+	religion = rni
+}
+
+256.3.1 = {
+	religion = ticojan
+}
+
+306.4.1 = {
+	culture = nrimir
+}
+

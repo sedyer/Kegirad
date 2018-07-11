@@ -1,0 +1,13 @@
+	title = c_waciyya
+	max_settlements = 6
+	culture = dudatli
+	religion = takice
+	b_ruruku = tribal
+287.3.1 = {
+	religion = emonurga
+}
+
+375.3.1 = {
+	religion = takice
+}
+

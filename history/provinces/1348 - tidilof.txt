@@ -1,0 +1,9 @@
+	title = c_tidilof
+	max_settlements = 7
+	culture = scachi
+	religion = rni
+	b_linuje = tribal
+306.3.1 = {
+	religion = ricily
+}
+

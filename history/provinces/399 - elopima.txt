@@ -1,0 +1,13 @@
+	title = c_elopima
+	max_settlements = 7
+	culture = dukanos
+	religion = bukena
+	b_amuronia = tribal
+407.3.1 = {
+	religion = kanyo
+}
+
+663.3.1 = {
+	religion = emonurga
+}
+

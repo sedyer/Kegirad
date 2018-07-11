@@ -1,0 +1,13 @@
+	title = c_kamat
+	max_settlements = 2
+	culture = waurat
+	religion = echukas
+	b_koumega = tribal
+262.3.1 = {
+	religion = emonurga
+}
+
+349.3.1 = {
+	religion = echukas
+}
+

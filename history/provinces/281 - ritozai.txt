@@ -1,0 +1,5 @@
+	title = c_ritozai
+	max_settlements = 2
+	culture = ryyab
+	religion = agrakma
+	b_qupyia = tribal

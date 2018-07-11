@@ -1,0 +1,134 @@
+200.2.1 = {
+	holder = 1000032
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1001733
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.3 = {
+	liege = d_qonika
+}
+
+200.2.4 = {
+	holder = 1001732
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.5 = {
+	holder = 1002156
+}
+
+231.2.1 = {
+	holder = 1004500
+}
+
+251.2.1 = {
+	holder = 1007011
+}
+
+258.2.1 = {
+	holder = 1007636
+}
+
+259.2.1 = {
+	liege = k_qususa
+}
+
+303.2.1 = {
+	liege = d_lorel
+}
+
+303.2.2 = {
+	holder = 1009226
+}
+
+310.2.1 = {
+	holder = 1013285
+}
+
+400.2.1 = {
+	holder = 1018888
+}
+
+409.2.1 = {
+	liege = d_thuken
+}
+
+409.2.2 = {
+	holder = 1018997
+}
+
+409.2.3 = {
+	liege = d_lorel
+}
+
+434.2.1 = {
+	holder = 1021217
+}
+
+438.2.1 = {
+	holder = 1023062
+}
+
+445.2.1 = {
+	liege = d_thuken
+}
+
+445.2.2 = {
+	holder = 1019598
+}
+
+446.2.1 = {
+	liege = d_lorel
+}
+
+447.2.1 = {
+	holder = 1018889
+}
+
+447.2.2 = {
+	liege = k_qususa
+}
+
+457.2.1 = {
+	liege = d_qotava
+}
+
+457.2.2 = {
+	holder = 1021308
+}
+
+461.2.1 = {
+	holder = 1023939
+}
+
+473.2.1 = {
+	liege = k_qususa
+}
+
+473.2.2 = {
+	holder = 1025826
+}
+
+600.2.1 = {
+	holder = 1032510
+}
+
+600.2.2 = {
+	liege = d_dutans
+}
+
+602.2.1 = {
+	holder = 1034925
+}
+
+700.2.1 = {
+	holder = 1038215
+}
+

@@ -1,0 +1,17 @@
+	title = c_ekotafiy
+	max_settlements = 6
+	culture = roralka
+	religion = emonurga
+	b_kiniona = tribal
+297.4.1 = {
+	culture = dukanos
+}
+
+335.4.1 = {
+	culture = roralka
+}
+
+357.4.1 = {
+	culture = borama
+}
+

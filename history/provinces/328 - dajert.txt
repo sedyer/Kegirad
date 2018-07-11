@@ -1,0 +1,13 @@
+	title = c_dajert
+	max_settlements = 2
+	culture = dziga
+	religion = kereze
+	b_dsemey = tribal
+457.4.1 = {
+	culture = rarugis
+}
+
+590.4.1 = {
+	culture = banevi
+}
+

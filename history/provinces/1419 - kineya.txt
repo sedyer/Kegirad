@@ -1,0 +1,29 @@
+	title = c_kineya
+	max_settlements = 4
+	culture = kuogoi
+	religion = ricily
+	b_setlda = tribal
+308.3.1 = {
+	religion = rni
+}
+
+427.3.1 = {
+	religion = emonurga
+}
+
+431.3.1 = {
+	religion = rni
+}
+
+433.3.1 = {
+	religion = emonurga
+}
+
+633.3.1 = {
+	religion = ricily
+}
+
+648.4.1 = {
+	culture = batna
+}
+

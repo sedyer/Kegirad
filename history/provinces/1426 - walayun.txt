@@ -1,0 +1,25 @@
+	title = c_walayun
+	max_settlements = 7
+	culture = rresa
+	religion = emonurga
+	b_rusana = tribal
+209.3.1 = {
+	religion = bukena
+}
+
+245.3.1 = {
+	religion = emonurga
+}
+
+271.3.1 = {
+	religion = kanyo
+}
+
+309.3.1 = {
+	religion = bukena
+}
+
+342.3.1 = {
+	religion = emonurga
+}
+

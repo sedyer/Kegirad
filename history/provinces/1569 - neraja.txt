@@ -1,0 +1,9 @@
+	title = c_neraja
+	max_settlements = 6
+	culture = beth
+	religion = emonurga
+	b_eraderva = tribal
+376.4.1 = {
+	culture = rresa
+}
+

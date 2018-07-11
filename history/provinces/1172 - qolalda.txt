@@ -1,0 +1,13 @@
+	title = c_qolalda
+	max_settlements = 2
+	culture = elada
+	religion = ricily
+	b_breya = tribal
+219.3.1 = {
+	religion = ticojan
+}
+
+445.3.1 = {
+	religion = ricily
+}
+

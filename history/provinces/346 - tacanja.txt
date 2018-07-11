@@ -1,0 +1,21 @@
+	title = c_tacanja
+	max_settlements = 2
+	culture = qusala
+	religion = rerech
+	b_ndadevi = tribal
+205.3.1 = {
+	religion = abonyi
+}
+
+206.3.1 = {
+	religion = rerech
+}
+
+214.3.1 = {
+	religion = abonyi
+}
+
+621.3.1 = {
+	religion = ninala
+}
+

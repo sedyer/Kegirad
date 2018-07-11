@@ -1,0 +1,9 @@
+	title = c_kalush
+	max_settlements = 2
+	culture = rakael
+	religion = rgance
+	b_byud = tribal
+319.4.1 = {
+	culture = tance
+}
+

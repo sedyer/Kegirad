@@ -1,0 +1,370 @@
+200.2.1 = {
+	holder = 1000042
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1001919
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_batanja
+}
+
+200.2.4 = {
+	holder = 1001915
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.5 = {
+	liege = 0
+}
+
+300.2.1 = {
+	holder = 1008826
+}
+
+323.2.1 = {
+	holder = 1014362
+}
+
+360.2.1 = {
+	holder = 1013412
+}
+
+361.2.1 = {
+	holder = 1017319
+}
+
+361.2.2 = {
+	liege = k_ababin
+}
+
+474.2.1 = {
+	liege = d_susala
+}
+
+487.2.1 = {
+	holder = 1026349
+}
+
+501.2.1 = {
+	liege = d_trahaya
+}
+
+526.2.1 = {
+	holder = 1027701
+}
+
+526.2.2 = {
+	liege = d_trahaya
+}
+
+526.2.3 = {
+	liege = k_rabanja
+}
+
+527.2.1 = {
+	liege = d_trahaya
+}
+
+527.2.2 = {
+	liege = k_rabanja
+}
+
+528.2.1 = {
+	liege = d_trahaya
+}
+
+528.2.2 = {
+	liege = k_rabanja
+}
+
+529.2.1 = {
+	liege = d_trahaya
+}
+
+529.2.2 = {
+	liege = k_qoles
+}
+
+530.2.1 = {
+	liege = d_trahaya
+}
+
+530.2.2 = {
+	liege = k_qoles
+}
+
+531.2.1 = {
+	liege = d_trahaya
+}
+
+531.2.2 = {
+	liege = k_qoles
+}
+
+532.2.1 = {
+	liege = d_trahaya
+}
+
+532.2.2 = {
+	liege = k_qoles
+}
+
+533.2.1 = {
+	liege = d_trahaya
+}
+
+533.2.2 = {
+	liege = k_qoles
+}
+
+534.2.1 = {
+	liege = d_trahaya
+}
+
+534.2.2 = {
+	liege = k_qoles
+}
+
+535.2.1 = {
+	liege = d_trahaya
+}
+
+535.2.2 = {
+	liege = k_qoles
+}
+
+536.2.1 = {
+	liege = d_trahaya
+}
+
+536.2.2 = {
+	liege = k_qoles
+}
+
+537.2.1 = {
+	liege = d_trahaya
+}
+
+537.2.2 = {
+	liege = k_qoles
+}
+
+538.2.1 = {
+	liege = d_trahaya
+}
+
+538.2.2 = {
+	liege = k_qoles
+}
+
+539.2.1 = {
+	liege = d_trahaya
+}
+
+539.2.2 = {
+	liege = k_qoles
+}
+
+540.2.1 = {
+	liege = d_trahaya
+}
+
+540.2.2 = {
+	liege = k_qoles
+}
+
+540.2.3 = {
+	holder = 1029201
+}
+
+541.2.1 = {
+	liege = d_trahaya
+}
+
+541.2.2 = {
+	liege = k_qoles
+}
+
+542.2.1 = {
+	liege = d_trahaya
+}
+
+542.2.2 = {
+	liege = k_qoles
+}
+
+542.2.3 = {
+	holder = 1026784
+}
+
+543.2.1 = {
+	liege = d_trahaya
+}
+
+543.2.2 = {
+	liege = k_qoles
+}
+
+544.2.1 = {
+	liege = d_trahaya
+}
+
+544.2.2 = {
+	liege = k_qoles
+}
+
+545.2.1 = {
+	liege = d_trahaya
+}
+
+545.2.2 = {
+	liege = k_qoles
+}
+
+546.2.1 = {
+	liege = d_kmugis
+}
+
+546.2.2 = {
+	liege = d_trahaya
+}
+
+546.2.3 = {
+	liege = k_qoles
+}
+
+547.2.1 = {
+	liege = d_trahaya
+}
+
+547.2.2 = {
+	liege = k_rabanja
+}
+
+548.2.1 = {
+	liege = d_trahaya
+}
+
+548.2.2 = {
+	liege = k_rabanja
+}
+
+549.2.1 = {
+	liege = d_trahaya
+}
+
+549.2.2 = {
+	liege = k_rabanja
+}
+
+550.2.1 = {
+	liege = d_trahaya
+}
+
+550.2.2 = {
+	liege = k_rabanja
+}
+
+551.2.1 = {
+	liege = d_trahaya
+}
+
+551.2.2 = {
+	liege = k_rabanja
+}
+
+552.2.1 = {
+	liege = d_trahaya
+}
+
+552.2.2 = {
+	liege = k_rabanja
+}
+
+553.2.1 = {
+	liege = d_trahaya
+}
+
+553.2.2 = {
+	liege = k_rabanja
+}
+
+554.2.1 = {
+	liege = d_trahaya
+}
+
+554.2.2 = {
+	liege = k_rabanja
+}
+
+555.2.1 = {
+	liege = d_trahaya
+}
+
+555.2.2 = {
+	liege = k_rabanja
+}
+
+556.2.1 = {
+	liege = d_trahaya
+}
+
+556.2.2 = {
+	liege = k_rabanja
+}
+
+557.2.1 = {
+	liege = d_trahaya
+}
+
+557.2.2 = {
+	liege = k_rabanja
+}
+
+558.2.1 = {
+	liege = d_trahaya
+}
+
+558.2.2 = {
+	liege = k_rabanja
+}
+
+559.2.1 = {
+	holder = 1031847
+}
+
+559.2.2 = {
+	liege = k_ababin
+}
+
+559.2.3 = {
+	holder = 1030766
+}
+
+559.2.4 = {
+	holder = 1031861
+}
+
+559.2.5 = {
+	liege = k_rabanja
+}
+
+559.2.6 = {
+	holder = 1031651
+}
+
+560.2.1 = {
+	holder = 1031925
+}
+
+692.2.1 = {
+	holder = 1039996
+}
+

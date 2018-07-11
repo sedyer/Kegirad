@@ -1,0 +1,17 @@
+	title = c_asrerta
+	max_settlements = 7
+	culture = telita
+	religion = echukas
+	b_rarind = tribal
+210.3.1 = {
+	religion = bukena
+}
+
+265.3.1 = {
+	religion = echukas
+}
+
+293.3.1 = {
+	religion = bukena
+}
+

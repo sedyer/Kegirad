@@ -1,0 +1,9 @@
+	title = c_asanyana
+	max_settlements = 2
+	culture = kasius
+	religion = rni
+	b_talary = tribal
+239.4.1 = {
+	culture = wenius
+}
+

@@ -1,0 +1,13 @@
+	title = c_slahis
+	max_settlements = 4
+	culture = rresa
+	religion = emonurga
+	b_didagis = tribal
+221.3.1 = {
+	religion = rni
+}
+
+510.3.1 = {
+	religion = emonurga
+}
+

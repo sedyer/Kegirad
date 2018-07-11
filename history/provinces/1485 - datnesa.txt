@@ -1,0 +1,9 @@
+	title = c_datnesa
+	max_settlements = 7
+	culture = linian
+	religion = rni
+	b_darju = tribal
+542.3.1 = {
+	religion = emonurga
+}
+

@@ -1,0 +1,49 @@
+	title = c_akujita
+	max_settlements = 2
+	culture = wubutr
+	religion = echukas
+	b_anoumech = tribal
+208.3.1 = {
+	religion = rerech
+}
+
+214.3.1 = {
+	religion = echukas
+}
+
+232.3.1 = {
+	religion = rerech
+}
+
+233.3.1 = {
+	religion = echukas
+}
+
+235.3.1 = {
+	religion = rerech
+}
+
+238.3.1 = {
+	religion = echukas
+}
+
+240.3.1 = {
+	religion = rerech
+}
+
+249.3.1 = {
+	religion = echukas
+}
+
+282.3.1 = {
+	religion = rerech
+}
+
+286.4.1 = {
+	culture = edanyi
+}
+
+413.3.1 = {
+	religion = echukas
+}
+

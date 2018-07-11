@@ -1,0 +1,9 @@
+	title = c_balanes
+	max_settlements = 4
+	culture = srisre
+	religion = kanyo
+	b_wsebet = tribal
+288.3.1 = {
+	religion = emonurga
+}
+

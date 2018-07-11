@@ -1,0 +1,13 @@
+	title = c_teekine
+	max_settlements = 2
+	culture = ejoanel
+	religion = echukas
+	b_rirega = tribal
+225.4.1 = {
+	culture = woumner
+}
+
+628.4.1 = {
+	culture = safha
+}
+

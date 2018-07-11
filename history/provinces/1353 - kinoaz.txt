@@ -1,0 +1,9 @@
+	title = c_kinoaz
+	max_settlements = 4
+	culture = teludah
+	religion = ticojan
+	b_thein = tribal
+402.4.1 = {
+	culture = ricepan
+}
+

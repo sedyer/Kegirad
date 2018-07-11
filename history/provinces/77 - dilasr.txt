@@ -1,0 +1,5 @@
+	title = c_dilasr
+	max_settlements = 2
+	culture = wubutr
+	religion = wozine
+	b_baweya = tribal

@@ -1,0 +1,66 @@
+200.2.1 = {
+	holder = 1000774
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	liege = k_arelen
+}
+
+200.2.3 = {
+	liege = k_sanyo
+}
+
+200.2.4 = {
+	liege = k_talista
+}
+
+207.2.1 = {
+	holder = 1003001
+}
+
+212.2.1 = {
+	holder = 1002180
+}
+
+212.2.2 = {
+	holder = 1004405
+}
+
+219.2.1 = {
+	holder = 1004643
+}
+
+225.2.1 = {
+	holder = 1003103
+}
+
+225.2.2 = {
+	holder = 1005639
+}
+
+261.2.1 = {
+	holder = 1006045
+}
+
+291.2.1 = {
+	holder = 1009528
+}
+
+302.2.1 = {
+	holder = 1007899
+}
+
+318.2.1 = {
+	holder = 1011549
+}
+
+329.2.1 = {
+	holder = 1013969
+}
+
+330.2.1 = {
+	liege = 0
+}
+

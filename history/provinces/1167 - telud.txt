@@ -1,0 +1,17 @@
+	title = c_telud
+	max_settlements = 2
+	culture = eleer
+	religion = ricily
+	b_natleya = tribal
+421.3.1 = {
+	religion = rni
+}
+
+448.4.1 = {
+	culture = talin
+}
+
+541.4.1 = {
+	culture = sakiz
+}
+

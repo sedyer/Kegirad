@@ -1,0 +1,5 @@
+	title = c_birakr
+	max_settlements = 2
+	culture = tabesha
+	religion = rgance
+	b_kalush = tribal

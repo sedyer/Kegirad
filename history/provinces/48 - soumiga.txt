@@ -1,0 +1,17 @@
+	title = c_soumiga
+	max_settlements = 2
+	culture = ekozare
+	religion = echukas
+	b_welech = tribal
+219.4.1 = {
+	culture = kaloet
+}
+
+359.4.1 = {
+	culture = ekozare
+}
+
+376.4.1 = {
+	culture = kaloet
+}
+

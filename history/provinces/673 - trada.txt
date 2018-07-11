@@ -1,0 +1,5 @@
+	title = c_trada
+	max_settlements = 4
+	culture = adietech
+	religion = wsosro
+	b_ttius = tribal

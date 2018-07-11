@@ -1,0 +1,13 @@
+	title = c_tusin
+	max_settlements = 2
+	culture = awuludah
+	religion = rni
+	b_lurarda = tribal
+241.3.1 = {
+	religion = emonurga
+}
+
+436.3.1 = {
+	religion = rni
+}
+

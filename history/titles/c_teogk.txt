@@ -1,0 +1,230 @@
+200.2.1 = {
+	holder = 1000002
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000257
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_seragno
+}
+
+200.2.4 = {
+	holder = 1000256
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+216.2.1 = {
+	holder = 1003293
+}
+
+232.2.1 = {
+	holder = 1005592
+}
+
+245.2.1 = {
+	liege = k_eloshe
+}
+
+245.2.2 = {
+	holder = 1007458
+}
+
+400.2.1 = {
+	holder = 1019311
+}
+
+400.2.2 = {
+	liege = d_tethah
+}
+
+407.2.1 = {
+	liege = d_lopat
+}
+
+407.2.2 = {
+	holder = 1020901
+}
+
+413.2.1 = {
+	holder = 1018547
+}
+
+439.2.1 = {
+	holder = 1020506
+}
+
+452.2.1 = {
+	holder = 1021279
+}
+
+453.2.1 = {
+	liege = d_seragno
+}
+
+453.2.2 = {
+	liege = 0
+}
+
+464.2.1 = {
+	holder = 1022771
+}
+
+467.2.1 = {
+	liege = d_seragno
+}
+
+467.2.2 = {
+	liege = 0
+}
+
+468.2.1 = {
+	liege = d_seragno
+}
+
+468.2.2 = {
+	liege = 0
+}
+
+473.2.1 = {
+	liege = d_adilhah
+}
+
+473.2.2 = {
+	liege = 0
+}
+
+481.2.1 = {
+	holder = 1025388
+}
+
+494.2.1 = {
+	liege = d_adilhah
+}
+
+494.2.2 = {
+	liege = 0
+}
+
+499.2.1 = {
+	liege = d_adilhah
+}
+
+499.2.2 = {
+	liege = 0
+}
+
+508.2.1 = {
+	liege = d_adilhah
+}
+
+508.2.2 = {
+	liege = 0
+}
+
+515.2.1 = {
+	holder = 1027040
+}
+
+527.2.1 = {
+	holder = 1029026
+}
+
+530.2.1 = {
+	liege = d_seragno
+}
+
+530.2.2 = {
+	liege = 0
+}
+
+545.2.1 = {
+	holder = 1030441
+}
+
+551.2.1 = {
+	liege = d_adilhah
+}
+
+551.2.2 = {
+	liege = 0
+}
+
+559.2.1 = {
+	liege = d_seragno
+}
+
+559.2.2 = {
+	liege = 0
+}
+
+560.2.1 = {
+	liege = d_adilhah
+}
+
+560.2.2 = {
+	liege = 0
+}
+
+565.2.1 = {
+	liege = d_seragno
+}
+
+565.2.2 = {
+	liege = 0
+}
+
+586.2.1 = {
+	liege = d_seragno
+}
+
+586.2.2 = {
+	liege = 0
+}
+
+589.2.1 = {
+	holder = 1032646
+}
+
+599.2.1 = {
+	liege = d_adilhah
+}
+
+599.2.2 = {
+	liege = 0
+}
+
+600.2.1 = {
+	liege = d_eliste
+}
+
+600.2.2 = {
+	holder = 1034437
+}
+
+601.2.1 = {
+	liege = k_bolivai
+}
+
+601.2.2 = {
+	holder = 1031377
+}
+
+601.2.3 = {
+	holder = 1034821
+}
+
+700.2.1 = {
+	holder = 1039122
+}
+
+700.2.2 = {
+	liege = d_alasha
+}
+

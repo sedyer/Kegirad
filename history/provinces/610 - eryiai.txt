@@ -1,0 +1,45 @@
+	title = c_eryiai
+	max_settlements = 6
+	culture = wiragop
+	religion = bukena
+	b_nurivai = tribal
+219.3.1 = {
+	religion = kanyo
+}
+
+221.3.1 = {
+	religion = bukena
+}
+
+231.3.1 = {
+	religion = kanyo
+}
+
+231.4.1 = {
+	culture = tujeth
+}
+
+242.3.1 = {
+	religion = bukena
+}
+
+243.3.1 = {
+	religion = kanyo
+}
+
+255.3.1 = {
+	religion = bukena
+}
+
+255.3.1 = {
+	religion = kanyo
+}
+
+347.3.1 = {
+	religion = bukena
+}
+
+349.3.1 = {
+	religion = kanyo
+}
+

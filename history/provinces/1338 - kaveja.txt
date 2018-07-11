@@ -1,0 +1,17 @@
+	title = c_kaveja
+	max_settlements = 2
+	culture = awuludah
+	religion = rni
+	b_quralg = tribal
+255.3.1 = {
+	religion = ricily
+}
+
+353.3.1 = {
+	religion = rni
+}
+
+367.4.1 = {
+	culture = sakiz
+}
+

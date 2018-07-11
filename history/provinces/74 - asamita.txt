@@ -1,0 +1,5 @@
+	title = c_asamita
+	max_settlements = 2
+	culture = wubutr
+	religion = wozine
+	b_sozech = tribal

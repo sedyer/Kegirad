@@ -1,0 +1,9 @@
+	title = c_tatnna
+	max_settlements = 5
+	culture = linian
+	religion = ricily
+	b_kjaar = tribal
+444.3.1 = {
+	religion = rni
+}
+

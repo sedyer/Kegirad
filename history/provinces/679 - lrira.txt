@@ -1,0 +1,5 @@
+	title = c_lrira
+	max_settlements = 2
+	culture = dogugis
+	religion = wsosro
+	b_rogat = tribal

@@ -1,0 +1,13 @@
+	title = c_shanary
+	max_settlements = 2
+	culture = balilof
+	religion = rni
+	b_bsohn = tribal
+221.3.1 = {
+	religion = takice
+}
+
+242.3.1 = {
+	religion = ticojan
+}
+

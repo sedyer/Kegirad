@@ -1,0 +1,5 @@
+	title = c_rzasr
+	max_settlements = 2
+	culture = rriste
+	religion = rgance
+	b_kzaleel = tribal

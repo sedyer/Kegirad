@@ -1,0 +1,13 @@
+	title = c_nudeja
+	max_settlements = 4
+	culture = batna
+	religion = rni
+	b_ratana = tribal
+224.3.1 = {
+	religion = emonurga
+}
+
+453.3.1 = {
+	religion = rni
+}
+

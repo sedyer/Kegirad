@@ -1,0 +1,9 @@
+	title = c_ryaline
+	max_settlements = 2
+	culture = wubutr
+	religion = echukas
+	b_kaurner = tribal
+265.4.1 = {
+	culture = kamat
+}
+

@@ -1,0 +1,9 @@
+	title = c_egrierg
+	max_settlements = 5
+	culture = norse
+	religion = rgance
+	b_elousoss = tribal
+214.4.1 = {
+	culture = krance
+}
+

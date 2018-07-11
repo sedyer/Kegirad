@@ -1,0 +1,5 @@
+	title = c_dusurga
+	max_settlements = 2
+	culture = ekozusa
+	religion = emonurga
+	b_bususa = tribal

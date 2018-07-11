@@ -1,0 +1,21 @@
+	title = c_kmukas
+	max_settlements = 3
+	culture = linian
+	religion = rni
+	b_kyamoda = tribal
+205.3.1 = {
+	religion = emonurga
+}
+
+375.3.1 = {
+	religion = rni
+}
+
+483.3.1 = {
+	religion = emonurga
+}
+
+676.3.1 = {
+	religion = rni
+}
+

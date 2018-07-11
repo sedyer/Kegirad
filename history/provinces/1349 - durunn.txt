@@ -1,0 +1,5 @@
+	title = c_durunn
+	max_settlements = 4
+	culture = ricepan
+	religion = ticojan
+	b_wanupta = tribal

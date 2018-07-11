@@ -1,0 +1,5 @@
+	title = c_alacob
+	max_settlements = 2
+	culture = tilirat
+	religion = tedusa
+	b_woribar = tribal

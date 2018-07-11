@@ -1,0 +1,21 @@
+	title = c_wacuje
+	max_settlements = 3
+	culture = scachi
+	religion = rni
+	b_wogilof = tribal
+205.3.1 = {
+	religion = ricily
+}
+
+277.3.1 = {
+	religion = rni
+}
+
+364.3.1 = {
+	religion = ricily
+}
+
+514.4.1 = {
+	culture = tuprind
+}
+

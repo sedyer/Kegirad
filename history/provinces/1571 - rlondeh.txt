@@ -1,0 +1,9 @@
+	title = c_rlondeh
+	max_settlements = 7
+	culture = beth
+	religion = emonurga
+	b_rupre = tribal
+204.4.1 = {
+	culture = rresa
+}
+

@@ -1,0 +1,9 @@
+	title = c_kecacob
+	max_settlements = 2
+	culture = rakael
+	religion = rgance
+	b_talre = tribal
+220.4.1 = {
+	culture = tance
+}
+

@@ -1,0 +1,5 @@
+	title = c_ravolf
+	max_settlements = 2
+	culture = kerada
+	religion = ticojan
+	b_ansunn = tribal

@@ -1,0 +1,5 @@
+	title = c_qaira
+	max_settlements = 2
+	culture = racine
+	religion = rerech
+	b_reras = tribal

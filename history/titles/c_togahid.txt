@@ -1,0 +1,274 @@
+200.2.1 = {
+	holder = 1000022
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1001295
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_rolein
+}
+
+200.2.4 = {
+	holder = 1001294
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+227.2.1 = {
+	holder = 1004476
+}
+
+277.2.1 = {
+	holder = 1009105
+}
+
+400.2.1 = {
+	holder = 1016494
+}
+
+400.2.2 = {
+	holder = 1013837
+}
+
+404.2.1 = {
+	holder = 1020393
+}
+
+423.2.1 = {
+	holder = 1021891
+}
+
+451.2.1 = {
+	holder = 1022979
+}
+
+463.2.1 = {
+	holder = 1025059
+}
+
+506.2.1 = {
+	holder = 1026155
+}
+
+530.2.1 = {
+	holder = 1028513
+}
+
+562.2.1 = {
+	holder = 1030219
+}
+
+570.2.1 = {
+	liege = d_dukemka
+}
+
+570.2.2 = {
+	liege = k_rrisvig
+}
+
+571.2.1 = {
+	liege = d_dukemka
+}
+
+571.2.2 = {
+	liege = k_rrisvig
+}
+
+572.2.1 = {
+	liege = d_rolein
+}
+
+572.2.2 = {
+	holder = 1032406
+}
+
+572.2.3 = {
+	liege = d_dukemka
+}
+
+572.2.4 = {
+	liege = k_rrisvig
+}
+
+573.2.1 = {
+	liege = d_dukemka
+}
+
+573.2.2 = {
+	liege = k_rrisvig
+}
+
+574.2.1 = {
+	liege = d_dukemka
+}
+
+574.2.2 = {
+	liege = k_rrisvig
+}
+
+575.2.1 = {
+	liege = d_dukemka
+}
+
+575.2.2 = {
+	liege = k_rrisvig
+}
+
+576.2.1 = {
+	liege = d_dukemka
+}
+
+576.2.2 = {
+	liege = k_rrisvig
+}
+
+577.2.1 = {
+	liege = d_dukemka
+}
+
+577.2.2 = {
+	liege = k_rrisvig
+}
+
+578.2.1 = {
+	liege = d_dukemka
+}
+
+578.2.2 = {
+	liege = k_rrisvig
+}
+
+579.2.1 = {
+	liege = d_dukemka
+}
+
+579.2.2 = {
+	liege = k_rrisvig
+}
+
+580.2.1 = {
+	liege = d_dukemka
+}
+
+580.2.2 = {
+	liege = k_kziga
+}
+
+581.2.1 = {
+	liege = d_dukemka
+}
+
+581.2.2 = {
+	liege = k_kziga
+}
+
+582.2.1 = {
+	liege = d_dukemka
+}
+
+582.2.2 = {
+	liege = k_kziga
+}
+
+583.2.1 = {
+	liege = d_dukemka
+}
+
+583.2.2 = {
+	liege = k_kziga
+}
+
+584.2.1 = {
+	liege = d_dukemka
+}
+
+584.2.2 = {
+	liege = k_kziga
+}
+
+585.2.1 = {
+	liege = d_dukemka
+}
+
+585.2.2 = {
+	liege = k_kziga
+}
+
+586.2.1 = {
+	liege = d_dukemka
+}
+
+586.2.2 = {
+	liege = k_kziga
+}
+
+587.2.1 = {
+	liege = d_dukemka
+}
+
+587.2.2 = {
+	liege = k_kziga
+}
+
+588.2.1 = {
+	liege = d_dukemka
+}
+
+588.2.2 = {
+	liege = k_kziga
+}
+
+589.2.1 = {
+	liege = d_tnuko
+}
+
+589.2.2 = {
+	liege = 0
+}
+
+589.2.3 = {
+	holder = 1033588
+}
+
+589.2.4 = {
+	holder = 1032132
+}
+
+589.2.5 = {
+	holder = 1033777
+}
+
+589.2.6 = {
+	liege = k_kziga
+}
+
+606.2.1 = {
+	liege = d_kotofan
+}
+
+619.2.1 = {
+	holder = 1032915
+}
+
+619.2.2 = {
+	holder = 1035935
+}
+
+651.2.1 = {
+	liege = k_sinahid
+}
+
+651.2.2 = {
+	holder = 1036004
+}
+
+651.2.3 = {
+	holder = 1037867
+}
+

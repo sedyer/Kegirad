@@ -1,0 +1,144 @@
+200.2.1 = {
+	holder = 1000015
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000901
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_arilof
+}
+
+200.2.4 = {
+	holder = 1000902
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.5 = {
+	holder = 1000897
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+220.2.1 = {
+	holder = 1005171
+}
+
+265.2.1 = {
+	holder = 1005953
+}
+
+277.2.1 = {
+	holder = 1009777
+}
+
+285.2.1 = {
+	holder = 1007702
+}
+
+292.2.1 = {
+	holder = 1010746
+}
+
+300.2.1 = {
+	holder = 1012257
+}
+
+341.2.1 = {
+	holder = 1015696
+}
+
+512.2.1 = {
+	holder = 1026988
+}
+
+552.2.1 = {
+	holder = 1028391
+}
+
+563.2.1 = {
+	holder = 1032101
+}
+
+576.2.1 = {
+	holder = 1029098
+}
+
+578.2.1 = {
+	liege = d_bhaniya
+}
+
+578.2.2 = {
+	liege = d_atico
+}
+
+578.2.3 = {
+	liege = d_arilof
+}
+
+578.2.4 = {
+	holder = 1031967
+}
+
+607.2.1 = {
+	holder = 1034280
+}
+
+627.2.1 = {
+	liege = d_atico
+}
+
+627.2.2 = {
+	liege = k_birarje
+}
+
+628.2.1 = {
+	liege = d_atico
+}
+
+628.2.2 = {
+	liege = k_acande
+}
+
+629.2.1 = {
+	liege = d_atico
+}
+
+629.2.2 = {
+	liege = k_acande
+}
+
+630.2.1 = {
+	liege = d_arilof
+}
+
+630.2.2 = {
+	holder = 1036059
+}
+
+630.2.3 = {
+	holder = 1036632
+}
+
+630.2.4 = {
+	liege = k_birarje
+}
+
+630.2.5 = {
+	holder = 1036245
+}
+
+631.2.1 = {
+	holder = 1034059
+}
+
+700.2.1 = {
+	holder = 1037518
+}
+

@@ -1,0 +1,13 @@
+	title = c_qinein
+	max_settlements = 2
+	culture = talin
+	religion = ticojan
+	b_ktunn = tribal
+216.3.1 = {
+	religion = rni
+}
+
+310.4.1 = {
+	culture = suneja
+}
+

@@ -1,0 +1,25 @@
+	title = c_blala
+	max_settlements = 2
+	culture = balilof
+	religion = rni
+	b_warusas = tribal
+258.3.1 = {
+	religion = ticojan
+}
+
+266.3.1 = {
+	religion = rni
+}
+
+294.3.1 = {
+	religion = ticojan
+}
+
+295.3.1 = {
+	religion = rni
+}
+
+313.3.1 = {
+	religion = ticojan
+}
+

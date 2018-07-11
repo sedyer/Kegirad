@@ -1,0 +1,5 @@
+	title = c_rsasr
+	max_settlements = 6
+	culture = tance
+	religion = rgance
+	b_qtopti = tribal

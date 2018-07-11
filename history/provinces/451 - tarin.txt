@@ -1,0 +1,9 @@
+	title = c_tarin
+	max_settlements = 2
+	culture = qibemas
+	religion = abonyi
+	b_sdaraja = tribal
+479.4.1 = {
+	culture = batanes
+}
+

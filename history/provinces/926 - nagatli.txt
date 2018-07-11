@@ -1,0 +1,13 @@
+	title = c_nagatli
+	max_settlements = 7
+	culture = bavirat
+	religion = qriibma
+	b_qosaloc = tribal
+263.4.1 = {
+	culture = norse
+}
+
+684.4.1 = {
+	culture = bavirat
+}
+

@@ -1,0 +1,9 @@
+	title = c_avinur
+	max_settlements = 3
+	culture = azolachi
+	religion = rni
+	b_tlico = tribal
+242.3.1 = {
+	religion = ricily
+}
+

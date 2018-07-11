@@ -1,0 +1,17 @@
+	title = c_rolaret
+	max_settlements = 2
+	culture = kiren
+	religion = ninala
+	b_rarelie = tribal
+257.3.1 = {
+	religion = rerech
+}
+
+371.3.1 = {
+	religion = abonyi
+}
+
+596.3.1 = {
+	religion = ninala
+}
+

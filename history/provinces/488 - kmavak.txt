@@ -1,0 +1,13 @@
+	title = c_kmavak
+	max_settlements = 2
+	culture = kanaha
+	religion = rerech
+	b_dmeter = tribal
+377.3.1 = {
+	religion = abonyi
+}
+
+559.3.1 = {
+	religion = ninala
+}
+

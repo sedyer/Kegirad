@@ -1,0 +1,9 @@
+	title = c_ramed
+	max_settlements = 2
+	culture = woumner
+	religion = echukas
+	b_sirerta = tribal
+277.4.1 = {
+	culture = namuthe
+}
+

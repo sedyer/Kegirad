@@ -1,0 +1,9 @@
+	title = c_qigulam
+	max_settlements = 7
+	culture = rresa
+	religion = bukena
+	b_lalohn = tribal
+220.3.1 = {
+	religion = emonurga
+}
+

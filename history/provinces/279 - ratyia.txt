@@ -1,0 +1,5 @@
+	title = c_ratyia
+	max_settlements = 7
+	culture = ryyab
+	religion = agrakma
+	b_wausdat = tribal

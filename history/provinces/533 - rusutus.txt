@@ -1,0 +1,9 @@
+	title = c_rusutus
+	max_settlements = 2
+	culture = aterovit
+	religion = abonyi
+	b_kugahid = tribal
+670.3.1 = {
+	religion = emonurga
+}
+

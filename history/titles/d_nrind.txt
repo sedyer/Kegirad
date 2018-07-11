@@ -1,0 +1,46 @@
+200.2.1 = {
+	holder = 1000303
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	liege = k_bainind
+}
+
+209.2.1 = {
+	holder = 1000239
+}
+
+246.2.1 = {
+	holder = 1002383
+}
+
+247.2.1 = {
+	liege = 0
+}
+
+252.2.1 = {
+	holder = 1002383
+}
+
+252.2.2 = {
+	liege = k_bainind
+}
+
+252.2.3 = {
+	liege = 0
+}
+
+265.2.1 = {
+	holder = 1008629
+}
+
+265.2.2 = {
+	liege = k_bainind
+}
+
+265.2.3 = {
+	liege = 0
+}
+

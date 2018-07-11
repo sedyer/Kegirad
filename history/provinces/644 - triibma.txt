@@ -1,0 +1,17 @@
+	title = c_triibma
+	max_settlements = 4
+	culture = arivai
+	religion = nerapur
+	b_rgesha = tribal
+201.3.1 = {
+	religion = wsosro
+}
+
+292.4.1 = {
+	culture = rmada
+}
+
+482.3.1 = {
+	religion = tluku
+}
+

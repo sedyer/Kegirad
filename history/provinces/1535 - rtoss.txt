@@ -1,0 +1,9 @@
+	title = c_rtoss
+	max_settlements = 4
+	culture = drebe
+	religion = ninala
+	b_briibma = tribal
+313.3.1 = {
+	religion = tluku
+}
+

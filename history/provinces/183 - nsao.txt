@@ -1,0 +1,9 @@
+	title = c_nsao
+	max_settlements = 2
+	culture = kilik
+	religion = agamel
+	b_lsa = tribal
+203.3.1 = {
+	religion = tedusa
+}
+

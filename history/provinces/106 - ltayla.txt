@@ -1,0 +1,5 @@
+	title = c_ltayla
+	max_settlements = 2
+	culture = kamat
+	religion = echukas
+	b_ezsudah = tribal

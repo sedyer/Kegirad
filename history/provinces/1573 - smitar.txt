@@ -1,0 +1,53 @@
+	title = c_smitar
+	max_settlements = 6
+	culture = rresa
+	religion = emonurga
+	b_satarak = tribal
+217.3.1 = {
+	religion = rni
+}
+
+422.3.1 = {
+	religion = emonurga
+}
+
+440.3.1 = {
+	religion = rni
+}
+
+447.3.1 = {
+	religion = emonurga
+}
+
+455.3.1 = {
+	religion = rni
+}
+
+476.3.1 = {
+	religion = emonurga
+}
+
+486.3.1 = {
+	religion = rni
+}
+
+488.3.1 = {
+	religion = emonurga
+}
+
+489.3.1 = {
+	religion = rni
+}
+
+510.3.1 = {
+	religion = ricily
+}
+
+518.3.1 = {
+	religion = rni
+}
+
+545.3.1 = {
+	religion = emonurga
+}
+

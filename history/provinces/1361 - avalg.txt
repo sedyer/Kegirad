@@ -1,0 +1,13 @@
+	title = c_avalg
+	max_settlements = 3
+	culture = awuludah
+	religion = rni
+	b_syaa = tribal
+260.3.1 = {
+	religion = ricily
+}
+
+366.3.1 = {
+	religion = rni
+}
+

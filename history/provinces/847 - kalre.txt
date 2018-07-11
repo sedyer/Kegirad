@@ -1,0 +1,5 @@
+	title = c_kalre
+	max_settlements = 7
+	culture = bavirat
+	religion = qriibma
+	b_evecamel = tribal

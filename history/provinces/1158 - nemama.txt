@@ -1,0 +1,9 @@
+	title = c_nemama
+	max_settlements = 2
+	culture = ranjada
+	religion = ticojan
+	b_qrala = tribal
+281.4.1 = {
+	culture = balilof
+}
+

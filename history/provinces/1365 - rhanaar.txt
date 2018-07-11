@@ -1,0 +1,13 @@
+	title = c_rhanaar
+	max_settlements = 2
+	culture = awuludah
+	religion = rni
+	b_kremin = tribal
+213.3.1 = {
+	religion = ticojan
+}
+
+451.4.1 = {
+	culture = ricepan
+}
+

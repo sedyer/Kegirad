@@ -1,0 +1,33 @@
+	title = c_latudis
+	max_settlements = 2
+	culture = nrimir
+	religion = ticojan
+	b_tinus = tribal
+202.3.1 = {
+	religion = rni
+}
+
+210.3.1 = {
+	religion = ricily
+}
+
+221.3.1 = {
+	religion = rni
+}
+
+236.3.1 = {
+	religion = ricily
+}
+
+252.3.1 = {
+	religion = rni
+}
+
+273.3.1 = {
+	religion = ricily
+}
+
+456.4.1 = {
+	culture = balilof
+}
+

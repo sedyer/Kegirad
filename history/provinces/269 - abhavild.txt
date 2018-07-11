@@ -1,0 +1,9 @@
+	title = c_abhavild
+	max_settlements = 2
+	culture = donada
+	religion = emonurga
+	b_epaul = tribal
+261.3.1 = {
+	religion = agrakma
+}
+

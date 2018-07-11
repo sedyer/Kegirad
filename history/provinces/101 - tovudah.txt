@@ -1,0 +1,5 @@
+	title = c_tovudah
+	max_settlements = 2
+	culture = kamat
+	religion = echukas
+	b_radad = tribal

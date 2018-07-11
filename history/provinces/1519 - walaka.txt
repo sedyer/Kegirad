@@ -1,0 +1,9 @@
+	title = c_walaka
+	max_settlements = 7
+	culture = beth
+	religion = emonurga
+	b_egeraz = tribal
+299.4.1 = {
+	culture = rresa
+}
+

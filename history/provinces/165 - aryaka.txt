@@ -1,0 +1,9 @@
+	title = c_aryaka
+	max_settlements = 2
+	culture = kilik
+	religion = tedusa
+	b_eloanes = tribal
+640.4.1 = {
+	culture = wsaka
+}
+

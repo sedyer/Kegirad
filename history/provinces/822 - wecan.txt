@@ -1,0 +1,5 @@
+	title = c_wecan
+	max_settlements = 2
+	culture = tance
+	religion = rgance
+	b_tyti = tribal

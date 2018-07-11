@@ -1,0 +1,65 @@
+	title = c_dnuta
+	max_settlements = 3
+	culture = batna
+	religion = rni
+	b_wlahis = tribal
+503.3.1 = {
+	religion = emonurga
+}
+
+507.3.1 = {
+	religion = rni
+}
+
+536.3.1 = {
+	religion = emonurga
+}
+
+548.3.1 = {
+	religion = rni
+}
+
+568.3.1 = {
+	religion = emonurga
+}
+
+570.3.1 = {
+	religion = rni
+}
+
+611.3.1 = {
+	religion = emonurga
+}
+
+613.3.1 = {
+	religion = rni
+}
+
+631.3.1 = {
+	religion = emonurga
+}
+
+637.3.1 = {
+	religion = rni
+}
+
+641.3.1 = {
+	religion = emonurga
+}
+
+642.3.1 = {
+	religion = rni
+}
+
+643.3.1 = {
+	religion = emonurga
+}
+
+647.3.1 = {
+	religion = rni
+}
+
+649.3.1 = {
+	religion = emonurga
+}
+

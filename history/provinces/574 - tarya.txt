@@ -1,0 +1,25 @@
+	title = c_tarya
+	max_settlements = 2
+	culture = srisre
+	religion = kanyo
+	b_kuki = tribal
+344.4.1 = {
+	culture = rresa
+}
+
+368.3.1 = {
+	religion = rerech
+}
+
+398.3.1 = {
+	religion = kanyo
+}
+
+418.4.1 = {
+	culture = tujeth
+}
+
+472.4.1 = {
+	culture = rresa
+}
+

@@ -1,0 +1,45 @@
+	title = c_esafala
+	max_settlements = 2
+	culture = saraya
+	religion = rerech
+	b_kanala = tribal
+205.3.1 = {
+	religion = kereze
+}
+
+235.3.1 = {
+	religion = abonyi
+}
+
+237.3.1 = {
+	religion = kereze
+}
+
+246.4.1 = {
+	culture = qusala
+}
+
+248.3.1 = {
+	religion = abonyi
+}
+
+253.3.1 = {
+	religion = kereze
+}
+
+259.3.1 = {
+	religion = abonyi
+}
+
+262.3.1 = {
+	religion = kereze
+}
+
+265.3.1 = {
+	religion = abonyi
+}
+
+668.4.1 = {
+	culture = kanaha
+}
+

@@ -1,0 +1,9 @@
+	title = c_raulmin
+	max_settlements = 3
+	culture = amurein
+	religion = takice
+	b_nyi = tribal
+201.3.1 = {
+	religion = wsosro
+}
+

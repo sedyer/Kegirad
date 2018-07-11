@@ -1,0 +1,192 @@
+200.2.1 = {
+	holder = 1000003
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1000349
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+200.2.3 = {
+	liege = d_baloba
+}
+
+200.2.4 = {
+	holder = 1000350
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.5 = {
+	holder = 1000347
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+260.2.1 = {
+	holder = 1004938
+}
+
+281.2.1 = {
+	holder = 1009173
+}
+
+288.2.1 = {
+	holder = 1010738
+}
+
+291.2.1 = {
+	holder = 1010079
+}
+
+309.2.1 = {
+	holder = 1010737
+}
+
+320.2.1 = {
+	holder = 1010175
+}
+
+320.2.2 = {
+	holder = 1014081
+}
+
+445.2.1 = {
+	holder = 1023775
+}
+
+484.2.1 = {
+	holder = 1025312
+}
+
+484.2.2 = {
+	holder = 1026560
+}
+
+517.2.1 = {
+	liege = d_sabeja
+}
+
+517.2.2 = {
+	liege = d_sabeja
+}
+
+517.2.3 = {
+	liege = k_bolivai
+}
+
+518.2.1 = {
+	liege = d_sabeja
+}
+
+518.2.2 = {
+	liege = k_bolivai
+}
+
+519.2.1 = {
+	liege = d_sabeja
+}
+
+519.2.2 = {
+	liege = k_bolivai
+}
+
+520.2.1 = {
+	liege = d_sabeja
+}
+
+520.2.2 = {
+	liege = k_bolivai
+}
+
+521.2.1 = {
+	liege = d_sabeja
+}
+
+521.2.2 = {
+	liege = k_bolivai
+}
+
+522.2.1 = {
+	liege = d_sabeja
+}
+
+522.2.2 = {
+	liege = k_bolivai
+}
+
+523.2.1 = {
+	liege = d_sabeja
+}
+
+523.2.2 = {
+	liege = k_bolivai
+}
+
+524.2.1 = {
+	liege = d_sabeja
+}
+
+524.2.2 = {
+	liege = k_bolivai
+}
+
+524.2.3 = {
+	holder = 1026647
+}
+
+525.2.1 = {
+	liege = d_sabeja
+}
+
+525.2.2 = {
+	liege = k_bolivai
+}
+
+525.2.3 = {
+	holder = 1026565
+}
+
+526.2.1 = {
+	holder = 1029691
+}
+
+526.2.2 = {
+	liege = k_wogeard
+}
+
+526.2.3 = {
+	holder = 1026000
+}
+
+530.2.1 = {
+	holder = 1028834
+}
+
+539.2.1 = {
+	holder = 1030511
+}
+
+573.2.1 = {
+	liege = d_qopagno
+}
+
+574.2.1 = {
+	holder = 1032856
+}
+
+629.2.1 = {
+	holder = 1034278
+}
+
+650.2.1 = {
+	holder = 1036918
+}
+
+666.2.1 = {
+	holder = 1037849
+}
+

@@ -1,0 +1,17 @@
+	title = c_bvoda
+	max_settlements = 2
+	culture = ryyab
+	religion = agrakma
+	b_bosyana = tribal
+280.4.1 = {
+	culture = bozusa
+}
+
+392.4.1 = {
+	culture = doumat
+}
+
+692.4.1 = {
+	culture = ekozusa
+}
+

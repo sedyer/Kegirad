@@ -1,0 +1,5 @@
+	title = c_sduna
+	max_settlements = 2
+	culture = kerada
+	religion = ticojan
+	b_echanius = tribal

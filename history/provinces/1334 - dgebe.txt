@@ -1,0 +1,5 @@
+	title = c_dgebe
+	max_settlements = 7
+	culture = krance
+	religion = rgance
+	b_stiibma = tribal

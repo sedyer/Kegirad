@@ -1,0 +1,5 @@
+	title = c_rurari
+	max_settlements = 2
+	culture = kujacob
+	religion = echukas
+	b_diliyya = tribal

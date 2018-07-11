@@ -1,0 +1,110 @@
+200.2.1 = {
+	holder = 1000034
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1001807
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+200.2.3 = {
+	liege = d_wolta
+}
+
+200.2.4 = {
+	holder = 1001803
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+259.2.1 = {
+	holder = 1007171
+}
+
+259.2.2 = {
+	holder = 1008758
+}
+
+271.2.1 = {
+	liege = d_alacik
+}
+
+271.2.2 = {
+	holder = 1009030
+}
+
+271.2.3 = {
+	liege = d_wolta
+}
+
+280.2.1 = {
+	holder = 1010405
+}
+
+282.2.1 = {
+	holder = 1007413
+}
+
+288.2.1 = {
+	holder = 1010226
+}
+
+317.2.1 = {
+	holder = 1011815
+}
+
+320.2.1 = {
+	holder = 1012568
+}
+
+335.2.1 = {
+	liege = d_tecik
+}
+
+348.2.1 = {
+	liege = d_wolta
+}
+
+370.2.1 = {
+	holder = 1017992
+}
+
+392.2.1 = {
+	holder = 1019678
+}
+
+500.2.1 = {
+	holder = 1025463
+}
+
+507.2.1 = {
+	holder = 1027420
+}
+
+507.2.2 = {
+	liege = k_lecacik
+}
+
+507.2.3 = {
+	holder = 1028424
+}
+
+600.2.1 = {
+	holder = 1028434
+}
+
+600.2.2 = {
+	liege = d_akumerma
+}
+
+600.2.3 = {
+	holder = 1034348
+}
+
+601.2.1 = {
+	holder = 1034816
+}
+

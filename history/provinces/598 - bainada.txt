@@ -1,0 +1,25 @@
+	title = c_bainada
+	max_settlements = 2
+	culture = rtius
+	religion = rerech
+	b_toragno = tribal
+228.3.1 = {
+	religion = kanyo
+}
+
+284.3.1 = {
+	religion = wsosro
+}
+
+324.3.1 = {
+	religion = emonurga
+}
+
+371.3.1 = {
+	religion = wsosro
+}
+
+552.4.1 = {
+	culture = adietech
+}
+

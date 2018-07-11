@@ -1,0 +1,13 @@
+	title = c_esamira
+	max_settlements = 2
+	culture = eliuden
+	religion = ninala
+	b_wujudis = tribal
+204.3.1 = {
+	religion = rerech
+}
+
+241.3.1 = {
+	religion = ninala
+}
+

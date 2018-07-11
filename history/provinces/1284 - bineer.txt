@@ -1,0 +1,9 @@
+	title = c_bineer
+	max_settlements = 2
+	culture = eleer
+	religion = ricily
+	b_klachi = tribal
+428.3.1 = {
+	religion = rni
+}
+

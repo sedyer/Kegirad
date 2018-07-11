@@ -1,0 +1,29 @@
+	title = c_tidazal
+	max_settlements = 2
+	culture = wubutr
+	religion = echukas
+	b_duranek = tribal
+215.3.1 = {
+	religion = rerech
+}
+
+225.3.1 = {
+	religion = echukas
+}
+
+242.3.1 = {
+	religion = rerech
+}
+
+269.3.1 = {
+	religion = echukas
+}
+
+269.3.1 = {
+	religion = rerech
+}
+
+364.4.1 = {
+	culture = rinmi
+}
+

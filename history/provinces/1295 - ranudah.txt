@@ -1,0 +1,5 @@
+	title = c_ranudah
+	max_settlements = 2
+	culture = suneja
+	religion = rni
+	b_qiniz = tribal

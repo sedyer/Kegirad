@@ -1,0 +1,5 @@
+	title = c_elasha
+	max_settlements = 2
+	culture = tiiriz
+	religion = ninala
+	b_ltoavv = tribal

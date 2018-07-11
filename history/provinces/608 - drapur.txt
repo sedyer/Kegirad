@@ -1,0 +1,29 @@
+	title = c_drapur
+	max_settlements = 6
+	culture = tujeth
+	religion = emonurga
+	b_tacine = tribal
+337.3.1 = {
+	religion = wsosro
+}
+
+402.3.1 = {
+	religion = emonurga
+}
+
+403.3.1 = {
+	religion = wsosro
+}
+
+443.4.1 = {
+	culture = adietech
+}
+
+446.3.1 = {
+	religion = emonurga
+}
+
+449.3.1 = {
+	religion = wsosro
+}
+

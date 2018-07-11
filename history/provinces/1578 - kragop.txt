@@ -1,0 +1,9 @@
+	title = c_kragop
+	max_settlements = 6
+	culture = beth
+	religion = emonurga
+	b_sanena = tribal
+216.4.1 = {
+	culture = rresa
+}
+

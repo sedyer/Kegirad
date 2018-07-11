@@ -1,0 +1,240 @@
+200.2.1 = {
+	holder = 1000000
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000064
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_egierg
+}
+
+200.2.4 = {
+	holder = 1000065
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.5 = {
+	liege = d_qvance
+}
+
+200.2.6 = {
+	holder = 1000144
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+211.2.1 = {
+	liege = d_tanoses
+}
+
+211.2.2 = {
+	holder = 1003685
+}
+
+211.2.3 = {
+	liege = d_qvance
+}
+
+213.2.1 = {
+	liege = d_tanoses
+}
+
+213.2.2 = {
+	holder = 1000120
+}
+
+213.2.3 = {
+	liege = d_alebe
+}
+
+216.2.1 = {
+	liege = d_tanoses
+}
+
+216.2.2 = {
+	holder = 1002799
+}
+
+216.2.3 = {
+	liege = d_nla
+}
+
+217.2.1 = {
+	liege = d_tanoses
+}
+
+222.2.1 = {
+	holder = 1000736
+}
+
+223.2.1 = {
+	holder = 1005419
+}
+
+327.2.1 = {
+	holder = 1004830
+}
+
+328.2.1 = {
+	holder = 1014695
+}
+
+330.2.1 = {
+	holder = 1004830
+}
+
+333.2.1 = {
+	liege = d_qvance
+}
+
+333.2.2 = {
+	holder = 1013327
+}
+
+352.2.1 = {
+	holder = 1015183
+}
+
+364.2.1 = {
+	holder = 1016964
+}
+
+392.2.1 = {
+	liege = d_alebe
+}
+
+392.2.2 = {
+	liege = 0
+}
+
+394.2.1 = {
+	liege = d_alebe
+}
+
+394.2.2 = {
+	liege = 0
+}
+
+396.2.1 = {
+	holder = 1018627
+}
+
+400.2.1 = {
+	liege = d_alebe
+}
+
+400.2.2 = {
+	liege = 0
+}
+
+440.2.1 = {
+	liege = d_alebe
+}
+
+440.2.2 = {
+	liege = 0
+}
+
+440.2.3 = {
+	holder = 1020582
+}
+
+464.2.1 = {
+	holder = 1025153
+}
+
+471.2.1 = {
+	liege = d_alebe
+}
+
+471.2.2 = {
+	liege = 0
+}
+
+472.2.1 = {
+	holder = 1025723
+}
+
+472.2.2 = {
+	liege = d_qvance
+}
+
+589.2.1 = {
+	liege = d_afrirat
+}
+
+597.2.1 = {
+	holder = 1030019
+}
+
+604.2.1 = {
+	liege = 0
+}
+
+604.2.2 = {
+	holder = 1034226
+}
+
+626.2.1 = {
+	holder = 1035276
+}
+
+647.2.1 = {
+	holder = 1036527
+}
+
+663.2.1 = {
+	liege = d_alebe
+}
+
+663.2.2 = {
+	liege = 0
+}
+
+664.2.1 = {
+	holder = 1038572
+}
+
+664.2.2 = {
+	liege = d_qvance
+}
+
+671.2.1 = {
+	holder = 1037566
+}
+
+672.2.1 = {
+	holder = 1039061
+}
+
+680.2.1 = {
+	holder = 1037566
+}
+
+680.2.2 = {
+	liege = k_trasha
+}
+
+680.2.3 = {
+	liege = 0
+}
+
+680.2.4 = {
+	holder = 1039512
+}
+
+680.2.5 = {
+	liege = d_qvance
+}
+
+700.2.1 = {
+	holder = 1040265
+}
+

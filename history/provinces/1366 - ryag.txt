@@ -1,0 +1,13 @@
+	title = c_ryag
+	max_settlements = 3
+	culture = awuludah
+	religion = rni
+	b_qavein = tribal
+211.3.1 = {
+	religion = ticojan
+}
+
+572.4.1 = {
+	culture = ricepan
+}
+

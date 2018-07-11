@@ -1,0 +1,25 @@
+	title = c_wunim
+	max_settlements = 7
+	culture = dudatli
+	religion = rni
+	b_byof = tribal
+214.3.1 = {
+	religion = emonurga
+}
+
+224.3.1 = {
+	religion = rni
+}
+
+229.3.1 = {
+	religion = emonurga
+}
+
+244.4.1 = {
+	culture = negeth
+}
+
+397.3.1 = {
+	religion = rni
+}
+

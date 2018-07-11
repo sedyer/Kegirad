@@ -1,0 +1,17 @@
+	title = c_rlulam
+	max_settlements = 2
+	culture = negeth
+	religion = emonurga
+	b_qakohn = tribal
+389.3.1 = {
+	religion = takice
+}
+
+452.3.1 = {
+	religion = emonurga
+}
+
+510.4.1 = {
+	culture = rresa
+}
+

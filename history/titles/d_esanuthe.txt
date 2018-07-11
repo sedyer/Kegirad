@@ -1,0 +1,46 @@
+200.2.1 = {
+	holder = 1001186
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	liege = k_kziga
+}
+
+210.2.1 = {
+	holder = 1003349
+}
+
+267.2.1 = {
+	holder = 1008274
+}
+
+286.2.1 = {
+	holder = 1010236
+}
+
+327.2.1 = {
+	holder = 1011728
+}
+
+350.2.1 = {
+	holder = 1014706
+}
+
+355.2.1 = {
+	holder = 1016573
+}
+
+357.2.1 = {
+	holder = 1014578
+}
+
+383.2.1 = {
+	holder = 1017163
+}
+
+384.2.1 = {
+	liege = 0
+}
+

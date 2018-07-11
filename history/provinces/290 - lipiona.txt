@@ -1,0 +1,37 @@
+	title = c_lipiona
+	max_settlements = 2
+	culture = bozusa
+	religion = agrakma
+	b_lruner = tribal
+243.3.1 = {
+	religion = emonurga
+}
+
+247.3.1 = {
+	religion = agrakma
+}
+
+255.3.1 = {
+	religion = emonurga
+}
+
+256.3.1 = {
+	religion = agrakma
+}
+
+260.3.1 = {
+	religion = emonurga
+}
+
+263.3.1 = {
+	religion = agrakma
+}
+
+273.3.1 = {
+	religion = emonurga
+}
+
+276.3.1 = {
+	religion = agrakma
+}
+

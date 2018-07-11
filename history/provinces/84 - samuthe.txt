@@ -1,0 +1,9 @@
+	title = c_samuthe
+	max_settlements = 2
+	culture = wubutr
+	religion = wozine
+	b_weluthe = tribal
+664.4.1 = {
+	culture = namuthe
+}
+

@@ -1,0 +1,174 @@
+200.2.1 = {
+	holder = 1000020
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1001171
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.3 = {
+	liege = d_ahoraria
+}
+
+200.2.4 = {
+	liege = d_wiles
+}
+
+200.2.5 = {
+	holder = 1001191
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.6 = {
+	holder = 1002102
+}
+
+200.2.7 = {
+	liege = k_buyinen
+}
+
+202.2.1 = {
+	liege = d_rorerva
+}
+
+202.2.2 = {
+	holder = 1002819
+}
+
+202.2.3 = {
+	liege = k_buyinen
+}
+
+211.2.1 = {
+	liege = d_lreca
+}
+
+211.2.2 = {
+	liege = d_rorerva
+}
+
+211.2.3 = {
+	holder = 1004174
+}
+
+211.2.4 = {
+	liege = k_buyinen
+}
+
+235.2.1 = {
+	liege = d_lreca
+}
+
+235.2.2 = {
+	holder = 1004872
+}
+
+236.2.1 = {
+	holder = 1005242
+}
+
+237.2.1 = {
+	holder = 1006697
+}
+
+341.2.1 = {
+	liege = k_buyinen
+}
+
+341.2.2 = {
+	holder = 1013361
+}
+
+377.2.1 = {
+	liege = d_katofan
+}
+
+377.2.2 = {
+	holder = 1015712
+}
+
+402.2.1 = {
+	holder = 1019541
+}
+
+414.2.1 = {
+	holder = 1021380
+}
+
+448.2.1 = {
+	liege = d_akotonia
+}
+
+448.2.2 = {
+	holder = 1023070
+}
+
+448.2.3 = {
+	liege = k_buyinen
+}
+
+497.2.1 = {
+	liege = d_akotonia
+}
+
+497.2.2 = {
+	holder = 1024305
+}
+
+509.2.1 = {
+	liege = d_katofan
+}
+
+509.2.2 = {
+	holder = 1025227
+}
+
+524.2.1 = {
+	liege = d_akotonia
+}
+
+524.2.2 = {
+	holder = 1028330
+}
+
+557.2.1 = {
+	liege = d_kaleth
+}
+
+557.2.2 = {
+	holder = 1029859
+}
+
+557.2.3 = {
+	liege = k_buyinen
+}
+
+568.2.1 = {
+	liege = d_akotonia
+}
+
+568.2.2 = {
+	holder = 1031771
+}
+
+600.2.1 = {
+	holder = 1034468
+}
+
+628.2.1 = {
+	liege = k_rrisvig
+}
+
+628.2.2 = {
+	holder = 1035530
+}
+
+628.2.3 = {
+	holder = 1036490
+}
+

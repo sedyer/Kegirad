@@ -1,0 +1,9 @@
+	title = c_snuta
+	max_settlements = 2
+	culture = ranjada
+	religion = ticojan
+	b_qozazal = tribal
+212.4.1 = {
+	culture = kerada
+}
+

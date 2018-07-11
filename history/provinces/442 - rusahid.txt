@@ -1,0 +1,13 @@
+	title = c_rusahid
+	max_settlements = 2
+	culture = ributhe
+	religion = abonyi
+	b_qolim = tribal
+492.4.1 = {
+	culture = batanes
+}
+
+677.3.1 = {
+	religion = emonurga
+}
+

@@ -1,0 +1,9 @@
+	title = c_kaluald
+	max_settlements = 2
+	culture = nemojan
+	religion = ricily
+	b_ticagis = tribal
+559.4.1 = {
+	culture = balilof
+}
+

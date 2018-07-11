@@ -1,0 +1,17 @@
+	title = c_rluald
+	max_settlements = 2
+	culture = scachi
+	religion = ricily
+	b_evicudis = tribal
+273.3.1 = {
+	religion = rni
+}
+
+311.3.1 = {
+	religion = ricily
+}
+
+356.4.1 = {
+	culture = azolachi
+}
+

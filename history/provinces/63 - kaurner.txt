@@ -1,0 +1,9 @@
+	title = c_kaurner
+	max_settlements = 2
+	culture = kaloet
+	religion = echukas
+	b_siruthe = tribal
+299.4.1 = {
+	culture = svare
+}
+

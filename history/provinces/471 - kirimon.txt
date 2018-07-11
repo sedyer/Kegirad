@@ -1,0 +1,21 @@
+	title = c_kirimon
+	max_settlements = 2
+	culture = robas
+	religion = abonyi
+	b_rolemar = tribal
+239.3.1 = {
+	religion = rerech
+}
+
+411.3.1 = {
+	religion = abonyi
+}
+
+546.3.1 = {
+	religion = ninala
+}
+
+647.4.1 = {
+	culture = sitilje
+}
+

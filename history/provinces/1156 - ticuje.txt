@@ -1,0 +1,9 @@
+	title = c_ticuje
+	max_settlements = 2
+	culture = balilof
+	religion = ricily
+	b_anosh = tribal
+253.4.1 = {
+	culture = tuprind
+}
+

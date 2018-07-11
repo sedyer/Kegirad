@@ -1,0 +1,13 @@
+	title = c_wobunai
+	max_settlements = 2
+	culture = kamat
+	religion = echukas
+	b_afadahid = tribal
+207.4.1 = {
+	culture = wubutr
+}
+
+276.3.1 = {
+	religion = wozine
+}
+

@@ -1,0 +1,17 @@
+	title = c_nativai
+	max_settlements = 2
+	culture = amurein
+	religion = takice
+	b_ariyya = tribal
+202.3.1 = {
+	religion = wsosro
+}
+
+203.3.1 = {
+	religion = takice
+}
+
+257.3.1 = {
+	religion = wsosro
+}
+

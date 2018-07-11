@@ -1,0 +1,21 @@
+	title = c_kalira
+	max_settlements = 2
+	culture = dogugis
+	religion = ninala
+	b_qiludis = tribal
+204.3.1 = {
+	religion = wsosro
+}
+
+237.3.1 = {
+	religion = ninala
+}
+
+441.3.1 = {
+	religion = wsosro
+}
+
+489.4.1 = {
+	culture = lorius
+}
+

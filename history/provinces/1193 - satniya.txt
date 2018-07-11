@@ -1,0 +1,17 @@
+	title = c_satniya
+	max_settlements = 2
+	culture = awuludah
+	religion = rni
+	b_katni = tribal
+212.3.1 = {
+	religion = ricily
+}
+
+407.3.1 = {
+	religion = rni
+}
+
+588.4.1 = {
+	culture = batna
+}
+

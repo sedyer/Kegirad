@@ -1,0 +1,45 @@
+	title = c_slelo
+	max_settlements = 4
+	culture = batna
+	religion = rni
+	b_narim = tribal
+208.3.1 = {
+	religion = emonurga
+}
+
+222.3.1 = {
+	religion = rni
+}
+
+223.3.1 = {
+	religion = emonurga
+}
+
+223.3.1 = {
+	religion = rni
+}
+
+224.3.1 = {
+	religion = emonurga
+}
+
+234.3.1 = {
+	religion = rni
+}
+
+245.3.1 = {
+	religion = emonurga
+}
+
+245.3.1 = {
+	religion = rni
+}
+
+527.3.1 = {
+	religion = emonurga
+}
+
+668.3.1 = {
+	religion = ricily
+}
+

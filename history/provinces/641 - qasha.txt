@@ -1,0 +1,13 @@
+	title = c_qasha
+	max_settlements = 2
+	culture = arivai
+	religion = nerapur
+	b_brile = tribal
+202.3.1 = {
+	religion = tluku
+}
+
+537.3.1 = {
+	religion = wsosro
+}
+

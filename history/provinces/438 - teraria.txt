@@ -1,0 +1,21 @@
+	title = c_teraria
+	max_settlements = 2
+	culture = ributhe
+	religion = abonyi
+	b_dibaria = tribal
+201.3.1 = {
+	religion = rerech
+}
+
+204.3.1 = {
+	religion = abonyi
+}
+
+205.3.1 = {
+	religion = rerech
+}
+
+207.3.1 = {
+	religion = abonyi
+}
+

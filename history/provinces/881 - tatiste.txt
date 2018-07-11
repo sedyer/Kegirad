@@ -1,0 +1,17 @@
+	title = c_tatiste
+	max_settlements = 3
+	culture = krance
+	religion = rriyya
+	b_rguoksa = tribal
+208.3.1 = {
+	religion = rgance
+}
+
+473.3.1 = {
+	religion = egrirat
+}
+
+488.3.1 = {
+	religion = rgance
+}
+

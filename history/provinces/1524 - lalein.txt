@@ -1,0 +1,9 @@
+	title = c_lalein
+	max_settlements = 2
+	culture = negeth
+	religion = emonurga
+	b_qiraud = tribal
+387.3.1 = {
+	religion = takice
+}
+

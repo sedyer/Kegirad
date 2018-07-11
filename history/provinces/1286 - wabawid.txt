@@ -1,0 +1,9 @@
+	title = c_wabawid
+	max_settlements = 2
+	culture = nemojan
+	religion = ticojan
+	b_lavid = tribal
+233.4.1 = {
+	culture = kerada
+}
+

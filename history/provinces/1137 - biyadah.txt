@@ -1,0 +1,17 @@
+	title = c_biyadah
+	max_settlements = 2
+	culture = talin
+	religion = ticojan
+	b_kteedun = tribal
+213.3.1 = {
+	religion = rni
+}
+
+221.3.1 = {
+	religion = ticojan
+}
+
+225.3.1 = {
+	religion = rni
+}
+

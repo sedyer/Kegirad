@@ -1,0 +1,9 @@
+	title = c_rozayun
+	max_settlements = 2
+	culture = kerada
+	religion = ticojan
+	b_rucupta = tribal
+284.4.1 = {
+	culture = balilof
+}
+

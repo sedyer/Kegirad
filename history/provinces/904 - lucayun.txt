@@ -1,0 +1,5 @@
+	title = c_lucayun
+	max_settlements = 5
+	culture = katunn
+	religion = takice
+	b_snein = tribal

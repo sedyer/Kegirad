@@ -1,0 +1,45 @@
+	title = c_blulam
+	max_settlements = 7
+	culture = rresa
+	religion = bukena
+	b_ruderva = tribal
+289.3.1 = {
+	religion = kanyo
+}
+
+293.3.1 = {
+	religion = bukena
+}
+
+336.3.1 = {
+	religion = kanyo
+}
+
+387.3.1 = {
+	religion = bukena
+}
+
+439.3.1 = {
+	religion = kanyo
+}
+
+440.3.1 = {
+	religion = bukena
+}
+
+465.3.1 = {
+	religion = emonurga
+}
+
+526.4.1 = {
+	culture = kegirad
+}
+
+530.3.1 = {
+	religion = kanyo
+}
+
+555.3.1 = {
+	religion = emonurga
+}
+

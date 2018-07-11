@@ -1,0 +1,33 @@
+	title = c_rsiga
+	max_settlements = 2
+	culture = ributhe
+	religion = rerech
+	b_kibemas = tribal
+223.3.1 = {
+	religion = abonyi
+}
+
+226.3.1 = {
+	religion = rerech
+}
+
+236.3.1 = {
+	religion = abonyi
+}
+
+246.3.1 = {
+	religion = rerech
+}
+
+252.3.1 = {
+	religion = abonyi
+}
+
+300.3.1 = {
+	religion = rerech
+}
+
+300.3.1 = {
+	religion = abonyi
+}
+

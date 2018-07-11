@@ -1,0 +1,17 @@
+	title = c_banamel
+	max_settlements = 2
+	culture = alert
+	religion = slonan
+	b_qlamel = tribal
+287.3.1 = {
+	religion = rerech
+}
+
+337.3.1 = {
+	religion = tedusa
+}
+
+451.3.1 = {
+	religion = agamel
+}
+

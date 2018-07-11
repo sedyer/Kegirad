@@ -1,0 +1,37 @@
+	title = c_nodory
+	max_settlements = 2
+	culture = batanes
+	religion = rerech
+	b_didory = tribal
+221.3.1 = {
+	religion = emonurga
+}
+
+231.3.1 = {
+	religion = rerech
+}
+
+241.3.1 = {
+	religion = emonurga
+}
+
+244.3.1 = {
+	religion = rerech
+}
+
+255.3.1 = {
+	religion = emonurga
+}
+
+266.3.1 = {
+	religion = rerech
+}
+
+272.3.1 = {
+	religion = emonurga
+}
+
+583.4.1 = {
+	culture = dukanos
+}
+

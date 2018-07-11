@@ -1,0 +1,5 @@
+	title = c_kory
+	max_settlements = 3
+	culture = topius
+	religion = wsosro
+	b_dodeard = tribal

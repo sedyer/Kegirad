@@ -1,0 +1,49 @@
+	title = c_abonaria
+	max_settlements = 2
+	culture = ributhe
+	religion = rerech
+	b_nicak = tribal
+235.3.1 = {
+	religion = abonyi
+}
+
+241.3.1 = {
+	religion = rerech
+}
+
+253.3.1 = {
+	religion = abonyi
+}
+
+254.3.1 = {
+	religion = rerech
+}
+
+256.3.1 = {
+	religion = abonyi
+}
+
+258.3.1 = {
+	religion = rerech
+}
+
+259.3.1 = {
+	religion = abonyi
+}
+
+279.3.1 = {
+	religion = rerech
+}
+
+295.3.1 = {
+	religion = abonyi
+}
+
+366.4.1 = {
+	culture = edanyi
+}
+
+442.4.1 = {
+	culture = ributhe
+}
+

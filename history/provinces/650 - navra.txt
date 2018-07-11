@@ -1,0 +1,13 @@
+	title = c_navra
+	max_settlements = 3
+	culture = kliz
+	religion = tluku
+	b_blirat = tribal
+314.3.1 = {
+	religion = wsosro
+}
+
+434.3.1 = {
+	religion = tluku
+}
+

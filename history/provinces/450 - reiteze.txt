@@ -1,0 +1,13 @@
+	title = c_reiteze
+	max_settlements = 2
+	culture = qibemas
+	religion = abonyi
+	b_telega = tribal
+456.4.1 = {
+	culture = batanes
+}
+
+632.4.1 = {
+	culture = ributhe
+}
+

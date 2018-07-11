@@ -1,0 +1,5 @@
+	title = c_qatupta
+	max_settlements = 2
+	culture = talin
+	religion = rni
+	b_rerivai = tribal

@@ -1,0 +1,13 @@
+	title = c_dronia
+	max_settlements = 3
+	culture = bozusa
+	religion = agrakma
+	b_kausdat = tribal
+293.3.1 = {
+	religion = emonurga
+}
+
+329.3.1 = {
+	religion = agrakma
+}
+

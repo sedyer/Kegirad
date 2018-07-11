@@ -1,0 +1,17 @@
+	title = c_etinus
+	max_settlements = 3
+	culture = dukanos
+	religion = emonurga
+	b_surinko = tribal
+231.3.1 = {
+	religion = bukena
+}
+
+336.3.1 = {
+	religion = kanyo
+}
+
+661.3.1 = {
+	religion = emonurga
+}
+

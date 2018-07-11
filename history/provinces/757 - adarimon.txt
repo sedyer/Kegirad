@@ -1,0 +1,5 @@
+	title = c_adarimon
+	max_settlements = 2
+	culture = kiudene
+	religion = ninala
+	b_edietis = tribal

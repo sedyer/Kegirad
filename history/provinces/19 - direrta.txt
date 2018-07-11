@@ -1,0 +1,5 @@
+	title = c_direrta
+	max_settlements = 2
+	culture = qerta
+	religion = echukas
+	b_keekner = tribal

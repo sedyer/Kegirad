@@ -1,0 +1,5 @@
+	title = c_ralacik
+	max_settlements = 2
+	culture = alti
+	religion = agisonan
+	b_kisaka = tribal

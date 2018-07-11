@@ -1,0 +1,17 @@
+	title = c_rovad
+	max_settlements = 2
+	culture = wubutr
+	religion = echukas
+	b_qtahid = tribal
+333.4.1 = {
+	culture = kujacob
+}
+
+541.3.1 = {
+	religion = rerech
+}
+
+618.4.1 = {
+	culture = rinmi
+}
+

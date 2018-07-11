@@ -1,0 +1,17 @@
+	title = c_wecanca
+	max_settlements = 7
+	culture = telita
+	religion = echukas
+	b_kherta = tribal
+213.3.1 = {
+	religion = bukena
+}
+
+250.3.1 = {
+	religion = echukas
+}
+
+276.3.1 = {
+	religion = bukena
+}
+

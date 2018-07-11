@@ -1,0 +1,566 @@
+200.2.1 = {
+	holder = 1000030
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1001687
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+200.2.3 = {
+	liege = d_dsudah
+}
+
+200.2.4 = {
+	holder = 1001685
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+201.2.1 = {
+	holder = 1001664
+}
+
+229.2.1 = {
+	holder = 1003526
+}
+
+229.2.2 = {
+	holder = 1005989
+}
+
+269.2.1 = {
+	holder = 1006328
+}
+
+276.2.1 = {
+	holder = 1010164
+}
+
+283.2.1 = {
+	holder = 1008483
+}
+
+283.2.2 = {
+	holder = 1007444
+}
+
+299.2.1 = {
+	holder = 1011959
+}
+
+354.2.1 = {
+	holder = 1013496
+}
+
+361.2.1 = {
+	holder = 1012024
+}
+
+377.2.1 = {
+	holder = 1016038
+}
+
+402.2.1 = {
+	holder = 1019107
+}
+
+441.2.1 = {
+	holder = 1022891
+}
+
+472.2.1 = {
+	holder = 1023518
+}
+
+472.2.2 = {
+	holder = 1025754
+}
+
+473.2.1 = {
+	holder = 1025595
+}
+
+474.2.1 = {
+	liege = d_sobunai
+}
+
+474.2.2 = {
+	liege = k_rmadevi
+}
+
+475.2.1 = {
+	liege = d_sobunai
+}
+
+475.2.2 = {
+	liege = k_welega
+}
+
+476.2.1 = {
+	liege = d_sobunai
+}
+
+476.2.2 = {
+	liege = k_welega
+}
+
+477.2.1 = {
+	liege = d_sobunai
+}
+
+477.2.2 = {
+	liege = k_welega
+}
+
+478.2.1 = {
+	liege = d_sobunai
+}
+
+478.2.2 = {
+	liege = k_welega
+}
+
+479.2.1 = {
+	liege = d_sobunai
+}
+
+479.2.2 = {
+	liege = k_welega
+}
+
+480.2.1 = {
+	liege = d_sobunai
+}
+
+480.2.2 = {
+	liege = k_welega
+}
+
+481.2.1 = {
+	liege = d_sobunai
+}
+
+481.2.2 = {
+	liege = k_welega
+}
+
+482.2.1 = {
+	liege = d_sobunai
+}
+
+482.2.2 = {
+	liege = k_welega
+}
+
+483.2.1 = {
+	liege = d_sobunai
+}
+
+483.2.2 = {
+	liege = k_welega
+}
+
+484.2.1 = {
+	liege = d_sobunai
+}
+
+484.2.2 = {
+	liege = k_welega
+}
+
+485.2.1 = {
+	liege = d_sobunai
+}
+
+485.2.2 = {
+	liege = k_welega
+}
+
+486.2.1 = {
+	liege = d_sobunai
+}
+
+486.2.2 = {
+	liege = k_welega
+}
+
+487.2.1 = {
+	liege = d_sobunai
+}
+
+487.2.2 = {
+	liege = k_welega
+}
+
+488.2.1 = {
+	liege = d_sobunai
+}
+
+488.2.2 = {
+	liege = k_welega
+}
+
+488.2.3 = {
+	holder = 1025882
+}
+
+489.2.1 = {
+	liege = d_sobunai
+}
+
+489.2.2 = {
+	liege = k_welega
+}
+
+490.2.1 = {
+	liege = d_sobunai
+}
+
+490.2.2 = {
+	liege = k_welega
+}
+
+491.2.1 = {
+	liege = d_sobunai
+}
+
+491.2.2 = {
+	liege = k_welega
+}
+
+492.2.1 = {
+	liege = d_sobunai
+}
+
+492.2.2 = {
+	liege = k_welega
+}
+
+493.2.1 = {
+	liege = d_sobunai
+}
+
+493.2.2 = {
+	liege = k_welega
+}
+
+494.2.1 = {
+	liege = d_sobunai
+}
+
+494.2.2 = {
+	liege = k_welega
+}
+
+495.2.1 = {
+	liege = d_sobunai
+}
+
+495.2.2 = {
+	liege = k_welega
+}
+
+496.2.1 = {
+	liege = d_sobunai
+}
+
+496.2.2 = {
+	liege = k_welega
+}
+
+497.2.1 = {
+	liege = d_sobunai
+}
+
+497.2.2 = {
+	liege = k_welega
+}
+
+498.2.1 = {
+	liege = d_sobunai
+}
+
+498.2.2 = {
+	liege = k_welega
+}
+
+499.2.1 = {
+	liege = d_sobunai
+}
+
+499.2.2 = {
+	liege = k_welega
+}
+
+500.2.1 = {
+	liege = d_sobunai
+}
+
+500.2.2 = {
+	liege = k_welega
+}
+
+501.2.1 = {
+	liege = d_sobunai
+}
+
+501.2.2 = {
+	liege = k_welega
+}
+
+502.2.1 = {
+	liege = d_sobunai
+}
+
+502.2.2 = {
+	liege = k_welega
+}
+
+503.2.1 = {
+	liege = d_sobunai
+}
+
+503.2.2 = {
+	liege = k_welega
+}
+
+504.2.1 = {
+	liege = d_sobunai
+}
+
+504.2.2 = {
+	liege = k_welega
+}
+
+505.2.1 = {
+	liege = d_sobunai
+}
+
+505.2.2 = {
+	liege = k_welega
+}
+
+506.2.1 = {
+	liege = d_sobunai
+}
+
+506.2.2 = {
+	liege = k_welega
+}
+
+507.2.1 = {
+	liege = d_sobunai
+}
+
+507.2.2 = {
+	liege = k_welega
+}
+
+508.2.1 = {
+	liege = d_sobunai
+}
+
+508.2.2 = {
+	liege = k_welega
+}
+
+509.2.1 = {
+	liege = d_sobunai
+}
+
+509.2.2 = {
+	liege = k_welega
+}
+
+510.2.1 = {
+	liege = d_sobunai
+}
+
+510.2.2 = {
+	liege = k_welega
+}
+
+511.2.1 = {
+	liege = d_sobunai
+}
+
+511.2.2 = {
+	liege = k_welega
+}
+
+512.2.1 = {
+	liege = d_sobunai
+}
+
+512.2.2 = {
+	liege = k_welega
+}
+
+513.2.1 = {
+	liege = d_sobunai
+}
+
+513.2.2 = {
+	liege = k_welega
+}
+
+514.2.1 = {
+	liege = d_sobunai
+}
+
+514.2.2 = {
+	liege = k_welega
+}
+
+515.2.1 = {
+	liege = d_sobunai
+}
+
+515.2.2 = {
+	liege = k_welega
+}
+
+516.2.1 = {
+	liege = d_sobunai
+}
+
+516.2.2 = {
+	liege = k_welega
+}
+
+517.2.1 = {
+	liege = d_sobunai
+}
+
+517.2.2 = {
+	liege = k_welega
+}
+
+518.2.1 = {
+	liege = d_sobunai
+}
+
+518.2.2 = {
+	liege = k_welega
+}
+
+519.2.1 = {
+	liege = d_sobunai
+}
+
+519.2.2 = {
+	liege = k_welega
+}
+
+520.2.1 = {
+	liege = d_sobunai
+}
+
+520.2.2 = {
+	liege = k_welega
+}
+
+521.2.1 = {
+	liege = d_sobunai
+}
+
+521.2.2 = {
+	liege = k_welega
+}
+
+522.2.1 = {
+	liege = d_sobunai
+}
+
+522.2.2 = {
+	liege = k_welega
+}
+
+523.2.1 = {
+	liege = d_sobunai
+}
+
+523.2.2 = {
+	liege = k_welega
+}
+
+524.2.1 = {
+	liege = d_sobunai
+}
+
+524.2.2 = {
+	liege = k_welega
+}
+
+525.2.1 = {
+	liege = d_sobunai
+}
+
+525.2.2 = {
+	liege = k_welega
+}
+
+526.2.1 = {
+	liege = d_sobunai
+}
+
+526.2.2 = {
+	liege = k_welega
+}
+
+527.2.1 = {
+	liege = d_sobunai
+}
+
+527.2.2 = {
+	liege = k_welega
+}
+
+528.2.1 = {
+	liege = d_sobunai
+}
+
+528.2.2 = {
+	liege = k_welega
+}
+
+529.2.1 = {
+	liege = d_sabazal
+}
+
+529.2.2 = {
+	liege = d_sobunai
+}
+
+529.2.3 = {
+	liege = k_welega
+}
+
+530.2.1 = {
+	liege = 0
+}
+
+530.2.2 = {
+	holder = 1027991
+}
+
+530.2.3 = {
+	holder = 1029992
+}
+
+530.2.4 = {
+	liege = k_welega
+}
+
+700.2.1 = {
+	holder = 1034747
+}
+
+700.2.2 = {
+	holder = 1037817
+}
+

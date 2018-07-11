@@ -1,0 +1,9 @@
+	title = c_klebe
+	max_settlements = 2
+	culture = norse
+	religion = rgance
+	b_nabiggu = tribal
+446.4.1 = {
+	culture = rriste
+}
+

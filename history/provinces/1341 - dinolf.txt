@@ -1,0 +1,5 @@
+	title = c_dinolf
+	max_settlements = 4
+	culture = sakiz
+	religion = rni
+	b_tunawid = tribal

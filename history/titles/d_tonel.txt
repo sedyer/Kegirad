@@ -1,0 +1,50 @@
+200.2.1 = {
+	holder = 1001714
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	liege = k_ekoses
+}
+
+234.2.1 = {
+	holder = 1006408
+}
+
+274.2.1 = {
+	holder = 1007356
+}
+
+327.2.1 = {
+	holder = 1010274
+}
+
+337.2.1 = {
+	holder = 1015420
+}
+
+351.2.1 = {
+	holder = 1015819
+}
+
+375.2.1 = {
+	holder = 1017090
+}
+
+407.2.1 = {
+	holder = 1018747
+}
+
+419.2.1 = {
+	holder = 1021894
+}
+
+420.2.1 = {
+	holder = 1016611
+}
+
+421.2.1 = {
+	liege = 0
+}
+

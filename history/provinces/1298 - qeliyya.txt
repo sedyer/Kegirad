@@ -1,0 +1,5 @@
+	title = c_qeliyya
+	max_settlements = 3
+	culture = elada
+	religion = ricily
+	b_lelily = tribal

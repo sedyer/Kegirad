@@ -1,0 +1,37 @@
+	title = c_dousra
+	max_settlements = 7
+	culture = drebe
+	religion = tluku
+	b_dlasha = tribal
+205.3.1 = {
+	religion = ninala
+}
+
+244.3.1 = {
+	religion = tluku
+}
+
+261.3.1 = {
+	religion = ninala
+}
+
+266.3.1 = {
+	religion = tluku
+}
+
+266.3.1 = {
+	religion = ninala
+}
+
+274.3.1 = {
+	religion = tluku
+}
+
+277.3.1 = {
+	religion = ninala
+}
+
+287.3.1 = {
+	religion = tluku
+}
+

@@ -1,0 +1,9 @@
+	title = c_wojael
+	max_settlements = 2
+	culture = dlebe
+	religion = ninala
+	b_navoss = tribal
+281.3.1 = {
+	religion = rerech
+}
+

@@ -1,0 +1,13 @@
+	title = c_bgibar
+	max_settlements = 6
+	culture = bavirat
+	religion = qriibma
+	b_lsi = tribal
+232.3.1 = {
+	religion = rgance
+}
+
+302.4.1 = {
+	culture = norse
+}
+

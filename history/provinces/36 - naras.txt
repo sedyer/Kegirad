@@ -1,0 +1,9 @@
+	title = c_naras
+	max_settlements = 2
+	culture = telita
+	religion = echukas
+	b_raroge = tribal
+214.4.1 = {
+	culture = wvaku
+}
+

@@ -1,0 +1,17 @@
+	title = c_sukaria
+	max_settlements = 2
+	culture = rresa
+	religion = emonurga
+	b_trra = tribal
+225.3.1 = {
+	religion = bukena
+}
+
+242.3.1 = {
+	religion = kanyo
+}
+
+687.3.1 = {
+	religion = wsosro
+}
+

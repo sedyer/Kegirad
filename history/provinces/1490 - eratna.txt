@@ -1,0 +1,21 @@
+	title = c_eratna
+	max_settlements = 2
+	culture = linian
+	religion = rni
+	b_khataar = tribal
+202.3.1 = {
+	religion = emonurga
+}
+
+372.3.1 = {
+	religion = rni
+}
+
+514.3.1 = {
+	religion = emonurga
+}
+
+669.3.1 = {
+	religion = rni
+}
+

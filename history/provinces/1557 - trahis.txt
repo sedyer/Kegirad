@@ -1,0 +1,33 @@
+	title = c_trahis
+	max_settlements = 4
+	culture = batna
+	religion = rni
+	b_wetudis = tribal
+533.3.1 = {
+	religion = emonurga
+}
+
+543.3.1 = {
+	religion = rni
+}
+
+610.3.1 = {
+	religion = emonurga
+}
+
+613.3.1 = {
+	religion = rni
+}
+
+646.3.1 = {
+	religion = emonurga
+}
+
+649.3.1 = {
+	religion = rni
+}
+
+667.3.1 = {
+	religion = emonurga
+}
+

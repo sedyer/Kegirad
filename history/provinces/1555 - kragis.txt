@@ -1,0 +1,13 @@
+	title = c_kragis
+	max_settlements = 3
+	culture = rresa
+	religion = emonurga
+	b_emicanta = tribal
+206.3.1 = {
+	religion = rni
+}
+
+664.3.1 = {
+	religion = emonurga
+}
+

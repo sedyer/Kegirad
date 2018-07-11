@@ -1,0 +1,9 @@
+	title = c_sroda
+	max_settlements = 5
+	culture = doumat
+	religion = agrakma
+	b_raryia = tribal
+276.4.1 = {
+	culture = ryyab
+}
+

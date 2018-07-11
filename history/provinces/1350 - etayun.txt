@@ -1,0 +1,17 @@
+	title = c_etayun
+	max_settlements = 5
+	culture = awuludah
+	religion = rni
+	b_qucupta = tribal
+207.3.1 = {
+	religion = ticojan
+}
+
+267.4.1 = {
+	culture = eleer
+}
+
+321.4.1 = {
+	culture = ricepan
+}
+

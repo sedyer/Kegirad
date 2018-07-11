@@ -1,0 +1,13 @@
+	title = c_tarimon
+	max_settlements = 2
+	culture = robas
+	religion = abonyi
+	b_togelie = tribal
+247.3.1 = {
+	religion = ninala
+}
+
+305.4.1 = {
+	culture = sitilje
+}
+

@@ -1,0 +1,29 @@
+	title = c_boloba
+	max_settlements = 6
+	culture = tujeth
+	religion = emonurga
+	b_nsudis = tribal
+214.3.1 = {
+	religion = wsosro
+}
+
+243.3.1 = {
+	religion = kanyo
+}
+
+259.3.1 = {
+	religion = wsosro
+}
+
+262.3.1 = {
+	religion = kanyo
+}
+
+262.3.1 = {
+	religion = wsosro
+}
+
+263.4.1 = {
+	culture = adietech
+}
+

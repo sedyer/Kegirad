@@ -1,0 +1,57 @@
+	title = c_nlorna
+	max_settlements = 7
+	culture = linian
+	religion = emonurga
+	b_akakava = tribal
+204.3.1 = {
+	religion = rni
+}
+
+442.3.1 = {
+	religion = emonurga
+}
+
+444.4.1 = {
+	culture = rresa
+}
+
+451.3.1 = {
+	religion = ricily
+}
+
+462.3.1 = {
+	religion = rni
+}
+
+499.3.1 = {
+	religion = ricily
+}
+
+505.3.1 = {
+	religion = rni
+}
+
+505.3.1 = {
+	religion = ricily
+}
+
+512.3.1 = {
+	religion = rni
+}
+
+515.3.1 = {
+	religion = ricily
+}
+
+523.3.1 = {
+	religion = rni
+}
+
+543.3.1 = {
+	religion = ricily
+}
+
+615.3.1 = {
+	religion = emonurga
+}
+

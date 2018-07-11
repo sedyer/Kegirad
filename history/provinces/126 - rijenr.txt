@@ -1,0 +1,13 @@
+	title = c_rijenr
+	max_settlements = 2
+	culture = waurat
+	religion = echukas
+	b_wovarid = tribal
+346.3.1 = {
+	religion = wozine
+}
+
+613.4.1 = {
+	culture = namuthe
+}
+

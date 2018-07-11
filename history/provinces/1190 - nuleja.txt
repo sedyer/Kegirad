@@ -1,0 +1,5 @@
+	title = c_nuleja
+	max_settlements = 2
+	culture = awuludah
+	religion = rni
+	b_dtein = tribal

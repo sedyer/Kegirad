@@ -1,0 +1,13 @@
+	title = c_tiravak
+	max_settlements = 2
+	culture = kanaha
+	religion = abonyi
+	b_kmene = tribal
+230.3.1 = {
+	religion = rerech
+}
+
+368.3.1 = {
+	religion = abonyi
+}
+

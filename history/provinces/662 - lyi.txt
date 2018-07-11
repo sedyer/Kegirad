@@ -1,0 +1,17 @@
+	title = c_lyi
+	max_settlements = 2
+	culture = talien
+	religion = wsosro
+	b_akolebe = tribal
+203.3.1 = {
+	religion = takice
+}
+
+259.3.1 = {
+	religion = wsosro
+}
+
+333.4.1 = {
+	culture = topius
+}
+

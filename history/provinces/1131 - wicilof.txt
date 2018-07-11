@@ -1,0 +1,17 @@
+	title = c_wicilof
+	max_settlements = 3
+	culture = scachi
+	religion = rni
+	b_nicemis = tribal
+332.3.1 = {
+	religion = ricily
+}
+
+432.4.1 = {
+	culture = kuogoi
+}
+
+463.4.1 = {
+	culture = tuprind
+}
+

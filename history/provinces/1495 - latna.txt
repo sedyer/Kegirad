@@ -1,0 +1,57 @@
+	title = c_latna
+	max_settlements = 7
+	culture = rresa
+	religion = emonurga
+	b_ratnaar = tribal
+215.3.1 = {
+	religion = rni
+}
+
+371.4.1 = {
+	culture = linian
+}
+
+436.4.1 = {
+	culture = rresa
+}
+
+441.3.1 = {
+	religion = emonurga
+}
+
+444.3.1 = {
+	religion = rni
+}
+
+453.3.1 = {
+	religion = ricily
+}
+
+456.3.1 = {
+	religion = rni
+}
+
+465.3.1 = {
+	religion = emonurga
+}
+
+467.3.1 = {
+	religion = rni
+}
+
+491.3.1 = {
+	religion = emonurga
+}
+
+498.3.1 = {
+	religion = rni
+}
+
+534.3.1 = {
+	religion = ricily
+}
+
+608.3.1 = {
+	religion = emonurga
+}
+

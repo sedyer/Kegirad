@@ -1,0 +1,9 @@
+	title = c_asirita
+	max_settlements = 2
+	culture = wubutr
+	religion = echukas
+	b_bamed = tribal
+295.4.1 = {
+	culture = svare
+}
+

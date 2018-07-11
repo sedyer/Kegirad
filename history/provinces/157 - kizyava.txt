@@ -1,0 +1,13 @@
+	title = c_kizyava
+	max_settlements = 2
+	culture = wsaka
+	religion = agamel
+	b_borew = tribal
+233.3.1 = {
+	religion = tedusa
+}
+
+240.3.1 = {
+	religion = agamel
+}
+

@@ -1,0 +1,73 @@
+	title = c_akopaud
+	max_settlements = 2
+	culture = rtius
+	religion = rerech
+	b_lopind = tribal
+209.3.1 = {
+	religion = emonurga
+}
+
+346.3.1 = {
+	religion = wsosro
+}
+
+385.3.1 = {
+	religion = emonurga
+}
+
+387.3.1 = {
+	religion = wsosro
+}
+
+388.3.1 = {
+	religion = emonurga
+}
+
+396.3.1 = {
+	religion = wsosro
+}
+
+398.3.1 = {
+	religion = emonurga
+}
+
+402.3.1 = {
+	religion = wsosro
+}
+
+403.3.1 = {
+	religion = emonurga
+}
+
+404.3.1 = {
+	religion = wsosro
+}
+
+411.3.1 = {
+	religion = emonurga
+}
+
+412.3.1 = {
+	religion = wsosro
+}
+
+429.3.1 = {
+	religion = emonurga
+}
+
+435.3.1 = {
+	religion = wsosro
+}
+
+436.3.1 = {
+	religion = emonurga
+}
+
+453.3.1 = {
+	religion = wsosro
+}
+
+543.4.1 = {
+	culture = adietech
+}
+

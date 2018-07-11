@@ -1,0 +1,21 @@
+	title = c_ropudis
+	max_settlements = 2
+	culture = rtius
+	religion = rerech
+	b_worada = tribal
+214.3.1 = {
+	religion = emonurga
+}
+
+220.3.1 = {
+	religion = kanyo
+}
+
+279.3.1 = {
+	religion = wsosro
+}
+
+499.4.1 = {
+	culture = adietech
+}
+

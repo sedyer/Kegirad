@@ -1,0 +1,53 @@
+	title = c_sines
+	max_settlements = 7
+	culture = kegirad
+	religion = bukena
+	b_tukohn = tribal
+323.3.1 = {
+	religion = kanyo
+}
+
+373.3.1 = {
+	religion = bukena
+}
+
+374.3.1 = {
+	religion = kanyo
+}
+
+377.3.1 = {
+	religion = bukena
+}
+
+429.3.1 = {
+	religion = kanyo
+}
+
+432.3.1 = {
+	religion = bukena
+}
+
+435.3.1 = {
+	religion = kanyo
+}
+
+471.3.1 = {
+	religion = emonurga
+}
+
+476.3.1 = {
+	religion = kanyo
+}
+
+484.3.1 = {
+	religion = emonurga
+}
+
+529.3.1 = {
+	religion = kanyo
+}
+
+581.3.1 = {
+	religion = emonurga
+}
+

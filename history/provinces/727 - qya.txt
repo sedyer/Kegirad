@@ -1,0 +1,37 @@
+	title = c_qya
+	max_settlements = 2
+	culture = wobagik
+	religion = rerech
+	b_anumada = tribal
+223.3.1 = {
+	religion = tluku
+}
+
+226.3.1 = {
+	religion = rerech
+}
+
+226.3.1 = {
+	religion = tluku
+}
+
+237.3.1 = {
+	religion = rerech
+}
+
+243.3.1 = {
+	religion = tluku
+}
+
+252.4.1 = {
+	culture = bodoba
+}
+
+264.3.1 = {
+	religion = rerech
+}
+
+511.4.1 = {
+	culture = wlick
+}
+

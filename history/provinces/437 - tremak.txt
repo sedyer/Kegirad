@@ -1,0 +1,17 @@
+	title = c_tremak
+	max_settlements = 2
+	culture = ributhe
+	religion = rerech
+	b_telutr = tribal
+231.3.1 = {
+	religion = abonyi
+}
+
+594.4.1 = {
+	culture = batanes
+}
+
+642.4.1 = {
+	culture = ributhe
+}
+

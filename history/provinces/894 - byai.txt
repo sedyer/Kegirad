@@ -1,0 +1,21 @@
+	title = c_byai
+	max_settlements = 7
+	culture = leuleja
+	religion = rni
+	b_kolha = tribal
+207.3.1 = {
+	religion = takice
+}
+
+223.4.1 = {
+	culture = amurein
+}
+
+239.3.1 = {
+	religion = rni
+}
+
+383.4.1 = {
+	culture = leuleja
+}
+

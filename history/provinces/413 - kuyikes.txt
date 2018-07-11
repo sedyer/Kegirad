@@ -1,0 +1,13 @@
+	title = c_kuyikes
+	max_settlements = 4
+	culture = srisre
+	religion = emonurga
+	b_emukivia = tribal
+202.3.1 = {
+	religion = rerech
+}
+
+675.3.1 = {
+	religion = echukas
+}
+

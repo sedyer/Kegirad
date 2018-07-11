@@ -1,0 +1,17 @@
+	title = c_rtupta
+	max_settlements = 2
+	culture = awuludah
+	religion = rni
+	b_azucawid = tribal
+205.3.1 = {
+	religion = ticojan
+}
+
+278.4.1 = {
+	culture = eleer
+}
+
+387.4.1 = {
+	culture = ricepan
+}
+

@@ -1,0 +1,9 @@
+	title = c_nrulam
+	max_settlements = 7
+	culture = beth
+	religion = emonurga
+	b_katae = tribal
+385.4.1 = {
+	culture = rresa
+}
+

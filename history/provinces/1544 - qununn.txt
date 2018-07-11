@@ -1,0 +1,9 @@
+	title = c_qununn
+	max_settlements = 4
+	culture = kerin
+	religion = takice
+	b_whazal = tribal
+626.4.1 = {
+	culture = negeth
+}
+

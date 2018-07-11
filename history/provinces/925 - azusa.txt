@@ -1,0 +1,9 @@
+	title = c_azusa
+	max_settlements = 7
+	culture = norse
+	religion = qriibma
+	b_ktitl = tribal
+610.4.1 = {
+	culture = bavirat
+}
+

@@ -1,0 +1,21 @@
+	title = c_nyaka
+	max_settlements = 2
+	culture = rerega
+	religion = echukas
+	b_ralakh = tribal
+221.3.1 = {
+	religion = wering
+}
+
+226.3.1 = {
+	religion = echukas
+}
+
+239.3.1 = {
+	religion = wering
+}
+
+300.3.1 = {
+	religion = rerech
+}
+

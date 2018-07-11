@@ -1,0 +1,17 @@
+	title = c_bolosro
+	max_settlements = 2
+	culture = dogugis
+	religion = wsosro
+	b_wobhah = tribal
+220.4.1 = {
+	culture = adietech
+}
+
+501.3.1 = {
+	religion = rni
+}
+
+549.3.1 = {
+	religion = wsosro
+}
+

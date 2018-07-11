@@ -1,0 +1,5 @@
+	title = c_nsari
+	max_settlements = 2
+	culture = kamat
+	religion = echukas
+	b_taseem = tribal

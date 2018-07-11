@@ -1,0 +1,9 @@
+	title = c_lyaa
+	max_settlements = 2
+	culture = wobagik
+	religion = rerech
+	b_talada = tribal
+207.3.1 = {
+	religion = ninala
+}
+

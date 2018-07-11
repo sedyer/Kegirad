@@ -1,0 +1,21 @@
+	title = c_toguko
+	max_settlements = 2
+	culture = srisre
+	religion = kanyo
+	b_ebukes = tribal
+375.3.1 = {
+	religion = rerech
+}
+
+395.3.1 = {
+	religion = kanyo
+}
+
+397.4.1 = {
+	culture = tujeth
+}
+
+402.4.1 = {
+	culture = rresa
+}
+

@@ -1,0 +1,13 @@
+	title = c_noziam
+	max_settlements = 2
+	culture = sakiz
+	religion = rni
+	b_lucazal = tribal
+241.3.1 = {
+	religion = ticojan
+}
+
+431.4.1 = {
+	culture = ricepan
+}
+

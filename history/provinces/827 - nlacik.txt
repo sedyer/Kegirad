@@ -1,0 +1,5 @@
+	title = c_nlacik
+	max_settlements = 2
+	culture = alti
+	religion = agisonan
+	b_kdert = tribal

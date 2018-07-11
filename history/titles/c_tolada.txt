@@ -1,0 +1,438 @@
+200.2.1 = {
+	holder = 1000003
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1000367
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+200.2.3 = {
+	liege = d_kopudis
+}
+
+200.2.4 = {
+	holder = 1000366
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+200.2.5 = {
+	holder = 1002109
+}
+
+214.2.1 = {
+	holder = 1002828
+}
+
+217.2.1 = {
+	holder = 1000317
+}
+
+218.2.1 = {
+	holder = 1004975
+}
+
+235.2.1 = {
+	holder = 1005116
+}
+
+243.2.1 = {
+	holder = 1007139
+}
+
+278.2.1 = {
+	holder = 1009768
+}
+
+280.2.1 = {
+	holder = 1008218
+}
+
+301.2.1 = {
+	liege = d_staud
+}
+
+301.2.2 = {
+	holder = 1008912
+}
+
+303.2.1 = {
+	holder = 1012533
+}
+
+308.2.1 = {
+	holder = 1006105
+}
+
+312.2.1 = {
+	holder = 1011791
+}
+
+313.2.1 = {
+	liege = d_kopudis
+}
+
+313.2.2 = {
+	liege = 0
+}
+
+317.2.1 = {
+	liege = d_kopudis
+}
+
+317.2.2 = {
+	liege = 0
+}
+
+328.2.1 = {
+	holder = 1010082
+}
+
+329.2.1 = {
+	liege = d_kopudis
+}
+
+329.2.2 = {
+	liege = 0
+}
+
+329.2.3 = {
+	holder = 1014773
+}
+
+329.2.4 = {
+	liege = d_staud
+}
+
+409.2.1 = {
+	holder = 1019842
+}
+
+419.2.1 = {
+	liege = d_batat
+}
+
+419.2.2 = {
+	liege = 0
+}
+
+420.2.1 = {
+	holder = 1021932
+}
+
+420.2.2 = {
+	liege = d_staud
+}
+
+431.2.1 = {
+	holder = 1020823
+}
+
+431.2.2 = {
+	liege = 0
+}
+
+431.2.3 = {
+	holder = 1016503
+}
+
+435.2.1 = {
+	liege = d_batat
+}
+
+435.2.2 = {
+	liege = 0
+}
+
+435.2.3 = {
+	holder = 1014079
+}
+
+437.2.1 = {
+	holder = 1016505
+}
+
+438.2.1 = {
+	holder = 1017954
+}
+
+438.2.2 = {
+	liege = d_staud
+}
+
+484.2.1 = {
+	holder = 1025312
+}
+
+484.2.2 = {
+	liege = k_wogeard
+}
+
+501.2.1 = {
+	holder = 1026484
+}
+
+513.2.1 = {
+	liege = d_sabeja
+}
+
+513.2.2 = {
+	holder = 1026560
+}
+
+517.2.1 = {
+	liege = d_sabeja
+}
+
+517.2.2 = {
+	liege = k_bolivai
+}
+
+518.2.1 = {
+	liege = d_sabeja
+}
+
+518.2.2 = {
+	liege = k_bolivai
+}
+
+519.2.1 = {
+	liege = d_sabeja
+}
+
+519.2.2 = {
+	liege = k_bolivai
+}
+
+520.2.1 = {
+	liege = d_sabeja
+}
+
+520.2.2 = {
+	liege = k_bolivai
+}
+
+521.2.1 = {
+	liege = d_sabeja
+}
+
+521.2.2 = {
+	liege = k_bolivai
+}
+
+522.2.1 = {
+	liege = d_sabeja
+}
+
+522.2.2 = {
+	liege = k_bolivai
+}
+
+523.2.1 = {
+	liege = d_sabeja
+}
+
+523.2.2 = {
+	liege = k_bolivai
+}
+
+524.2.1 = {
+	liege = d_sabeja
+}
+
+524.2.2 = {
+	liege = k_bolivai
+}
+
+524.2.3 = {
+	holder = 1026647
+}
+
+525.2.1 = {
+	liege = d_sabeja
+}
+
+525.2.2 = {
+	liege = k_bolivai
+}
+
+525.2.3 = {
+	holder = 1026565
+}
+
+526.2.1 = {
+	liege = d_sabeja
+}
+
+526.2.2 = {
+	liege = k_bolivai
+}
+
+527.2.1 = {
+	liege = d_sabeja
+}
+
+527.2.2 = {
+	liege = k_bolivai
+}
+
+528.2.1 = {
+	liege = d_sabeja
+}
+
+528.2.2 = {
+	liege = k_bolivai
+}
+
+529.2.1 = {
+	liege = d_sabeja
+}
+
+529.2.2 = {
+	liege = k_bolivai
+}
+
+530.2.1 = {
+	liege = d_sabeja
+}
+
+530.2.2 = {
+	liege = k_bolivai
+}
+
+530.2.3 = {
+	holder = 1029971
+}
+
+531.2.1 = {
+	liege = d_sabeja
+}
+
+531.2.2 = {
+	liege = k_bolivai
+}
+
+532.2.1 = {
+	liege = d_sabeja
+}
+
+532.2.2 = {
+	liege = k_bolivai
+}
+
+533.2.1 = {
+	liege = d_sabeja
+}
+
+533.2.2 = {
+	liege = k_bolivai
+}
+
+534.2.1 = {
+	liege = d_sabeja
+}
+
+534.2.2 = {
+	liege = k_bolivai
+}
+
+535.2.1 = {
+	liege = d_sabeja
+}
+
+535.2.2 = {
+	liege = k_bolivai
+}
+
+536.2.1 = {
+	liege = d_sabeja
+}
+
+536.2.2 = {
+	liege = k_bolivai
+}
+
+537.2.1 = {
+	liege = d_sabeja
+}
+
+537.2.2 = {
+	liege = k_bolivai
+}
+
+538.2.1 = {
+	liege = d_kopudis
+}
+
+538.2.2 = {
+	liege = 0
+}
+
+538.2.3 = {
+	holder = 1027652
+}
+
+538.2.4 = {
+	holder = 1030455
+}
+
+538.2.5 = {
+	liege = k_bolivai
+}
+
+538.2.6 = {
+	liege = k_wogeard
+}
+
+538.2.7 = {
+	holder = 1028834
+}
+
+542.2.1 = {
+	holder = 1030036
+}
+
+605.2.1 = {
+	liege = d_togagik
+}
+
+605.2.2 = {
+	holder = 1031124
+}
+
+610.2.1 = {
+	holder = 1035295
+}
+
+641.2.1 = {
+	holder = 1036415
+}
+
+646.2.1 = {
+	holder = 1037516
+}
+
+665.2.1 = {
+	holder = 1029141
+}
+
+668.2.1 = {
+	holder = 1032737
+}
+
+670.2.1 = {
+	holder = 1029145
+}
+
+677.2.1 = {
+	holder = 1039137
+}
+
+683.2.1 = {
+	holder = 1039018
+}
+

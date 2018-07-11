@@ -1,0 +1,41 @@
+	title = c_eplius
+	max_settlements = 2
+	culture = eliuden
+	religion = kmemar
+	b_tatat = tribal
+221.3.1 = {
+	religion = wsosro
+}
+
+230.3.1 = {
+	religion = kmemar
+}
+
+234.3.1 = {
+	religion = wsosro
+}
+
+237.3.1 = {
+	religion = kmemar
+}
+
+258.3.1 = {
+	religion = ninala
+}
+
+289.3.1 = {
+	religion = wsosro
+}
+
+292.3.1 = {
+	religion = ninala
+}
+
+296.3.1 = {
+	religion = wsosro
+}
+
+298.3.1 = {
+	religion = ninala
+}
+

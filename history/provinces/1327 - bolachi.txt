@@ -1,0 +1,9 @@
+	title = c_bolachi
+	max_settlements = 2
+	culture = kuogoi
+	religion = ricily
+	b_rleer = tribal
+589.4.1 = {
+	culture = batna
+}
+

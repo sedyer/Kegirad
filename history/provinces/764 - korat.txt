@@ -1,0 +1,5 @@
+	title = c_korat
+	max_settlements = 2
+	culture = eliuden
+	religion = ninala
+	b_bmech = tribal

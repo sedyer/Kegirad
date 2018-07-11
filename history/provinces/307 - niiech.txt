@@ -1,0 +1,5 @@
+	title = c_niiech
+	max_settlements = 2
+	culture = ejoanel
+	religion = echukas
+	b_esiruthe = tribal

@@ -1,0 +1,13 @@
+	title = c_wgirat
+	max_settlements = 2
+	culture = norse
+	religion = rriyya
+	b_qabirat = tribal
+205.3.1 = {
+	religion = agamel
+}
+
+226.3.1 = {
+	religion = kereze
+}
+

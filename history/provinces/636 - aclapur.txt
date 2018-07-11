@@ -1,0 +1,13 @@
+	title = c_aclapur
+	max_settlements = 7
+	culture = amurein
+	religion = takice
+	b_kloaz = tribal
+201.3.1 = {
+	religion = wsosro
+}
+
+496.3.1 = {
+	religion = tluku
+}
+

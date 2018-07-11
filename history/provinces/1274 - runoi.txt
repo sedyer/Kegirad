@@ -1,0 +1,9 @@
+	title = c_runoi
+	max_settlements = 2
+	culture = nemojan
+	religion = ricily
+	b_evim = tribal
+350.4.1 = {
+	culture = elada
+}
+

@@ -1,0 +1,5 @@
+	title = c_letoaz
+	max_settlements = 2
+	culture = talin
+	religion = rni
+	b_ratiyya = tribal

@@ -1,0 +1,33 @@
+	title = c_sury
+	max_settlements = 2
+	culture = batanes
+	religion = rerech
+	b_rabita = tribal
+224.3.1 = {
+	religion = emonurga
+}
+
+228.3.1 = {
+	religion = rerech
+}
+
+273.3.1 = {
+	religion = emonurga
+}
+
+443.3.1 = {
+	religion = rerech
+}
+
+444.3.1 = {
+	religion = emonurga
+}
+
+447.3.1 = {
+	religion = rerech
+}
+
+471.3.1 = {
+	religion = emonurga
+}
+

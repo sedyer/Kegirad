@@ -1,0 +1,5 @@
+	title = c_tegista
+	max_settlements = 6
+	culture = rresa
+	religion = emonurga
+	b_bukirad = tribal

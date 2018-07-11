@@ -1,0 +1,17 @@
+	title = c_neniyar
+	max_settlements = 2
+	culture = kasius
+	religion = rni
+	b_drary = tribal
+223.3.1 = {
+	religion = ticojan
+}
+
+287.3.1 = {
+	religion = rni
+}
+
+302.4.1 = {
+	culture = wenius
+}
+

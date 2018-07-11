@@ -1,0 +1,13 @@
+	title = c_rugih
+	max_settlements = 3
+	culture = srisre
+	religion = kanyo
+	b_saninko = tribal
+296.3.1 = {
+	religion = emonurga
+}
+
+521.4.1 = {
+	culture = batanes
+}
+

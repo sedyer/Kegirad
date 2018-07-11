@@ -1,0 +1,9 @@
+	title = c_krius
+	max_settlements = 2
+	culture = ranjada
+	religion = ticojan
+	b_enicala = tribal
+240.4.1 = {
+	culture = balilof
+}
+

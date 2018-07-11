@@ -1,0 +1,17 @@
+	title = c_kietoba
+	max_settlements = 3
+	culture = dogugis
+	religion = ninala
+	b_wutech = tribal
+203.3.1 = {
+	religion = wsosro
+}
+
+502.3.1 = {
+	religion = rni
+}
+
+557.3.1 = {
+	religion = wsosro
+}
+

@@ -1,0 +1,13 @@
+	title = c_sosyia
+	max_settlements = 2
+	culture = bozusa
+	religion = agrakma
+	b_dinans = tribal
+391.4.1 = {
+	culture = doumat
+}
+
+650.4.1 = {
+	culture = bozusa
+}
+

@@ -1,0 +1,13 @@
+	title = c_toucar
+	max_settlements = 4
+	culture = linian
+	religion = rni
+	b_sremeg = tribal
+492.3.1 = {
+	religion = emonurga
+}
+
+632.3.1 = {
+	religion = rni
+}
+

@@ -1,0 +1,5 @@
+	title = c_rhein
+	max_settlements = 2
+	culture = balilof
+	religion = ticojan
+	b_lyun = tribal

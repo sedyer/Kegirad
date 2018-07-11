@@ -1,0 +1,5 @@
+	title = c_sanodar
+	max_settlements = 2
+	culture = draserd
+	religion = rerech
+	b_ngnia = tribal

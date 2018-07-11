@@ -1,0 +1,9 @@
+	title = c_rcenet
+	max_settlements = 2
+	culture = balilof
+	religion = rni
+	b_wsusa = tribal
+214.4.1 = {
+	culture = wenius
+}
+

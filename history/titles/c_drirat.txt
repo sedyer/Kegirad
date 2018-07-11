@@ -1,0 +1,146 @@
+200.2.1 = {
+	holder = 1000001
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000240
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_krine
+}
+
+200.2.4 = {
+	holder = 1000239
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+210.2.1 = {
+	holder = 1004147
+}
+
+300.2.1 = {
+	holder = 1012014
+}
+
+351.2.1 = {
+	liege = k_bolivai
+}
+
+351.2.2 = {
+	holder = 1014890
+}
+
+352.2.1 = {
+	holder = 1016589
+}
+
+383.2.1 = {
+	holder = 1018190
+}
+
+383.2.2 = {
+	holder = 1015618
+}
+
+403.2.1 = {
+	holder = 1019086
+}
+
+403.2.2 = {
+	holder = 1020696
+}
+
+500.2.1 = {
+	holder = 1026842
+}
+
+500.2.2 = {
+	holder = 1027657
+}
+
+600.2.1 = {
+	holder = 1034292
+}
+
+600.2.2 = {
+	liege = d_dyee
+}
+
+615.2.1 = {
+	holder = 1034492
+}
+
+621.2.1 = {
+	liege = d_diiruku
+}
+
+621.2.2 = {
+	liege = 0
+}
+
+623.2.1 = {
+	liege = d_krine
+}
+
+623.2.2 = {
+	liege = 0
+}
+
+632.2.1 = {
+	liege = d_diiruku
+}
+
+632.2.2 = {
+	liege = 0
+}
+
+646.2.1 = {
+	liege = d_krine
+}
+
+646.2.2 = {
+	liege = 0
+}
+
+647.2.1 = {
+	holder = 1035110
+}
+
+657.2.1 = {
+	liege = d_krine
+}
+
+657.2.2 = {
+	liege = 0
+}
+
+666.2.1 = {
+	liege = d_krine
+}
+
+666.2.2 = {
+	liege = 0
+}
+
+667.2.1 = {
+	holder = 1038569
+}
+
+668.2.1 = {
+	holder = 1036351
+}
+
+668.2.2 = {
+	holder = 1038826
+}
+
+668.2.3 = {
+	liege = k_bolivai
+}
+

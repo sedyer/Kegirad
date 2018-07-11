@@ -1,0 +1,9 @@
+	title = c_sakar
+	max_settlements = 7
+	culture = kegirad
+	religion = bukena
+	b_rrani = tribal
+462.3.1 = {
+	religion = emonurga
+}
+

@@ -1,0 +1,9 @@
+	title = c_woli
+	max_settlements = 7
+	culture = leuleja
+	religion = rni
+	b_lawivai = tribal
+204.3.1 = {
+	religion = wsosro
+}
+

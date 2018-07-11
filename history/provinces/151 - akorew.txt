@@ -1,0 +1,69 @@
+	title = c_akorew
+	max_settlements = 2
+	culture = tilirat
+	religion = slonan
+	b_ebizelen = tribal
+210.3.1 = {
+	religion = rerech
+}
+
+212.3.1 = {
+	religion = slonan
+}
+
+216.3.1 = {
+	religion = rerech
+}
+
+248.3.1 = {
+	religion = slonan
+}
+
+280.3.1 = {
+	religion = rerech
+}
+
+282.3.1 = {
+	religion = slonan
+}
+
+283.3.1 = {
+	religion = rerech
+}
+
+322.3.1 = {
+	religion = tedusa
+}
+
+338.3.1 = {
+	religion = rerech
+}
+
+342.3.1 = {
+	religion = tedusa
+}
+
+343.3.1 = {
+	religion = rerech
+}
+
+349.3.1 = {
+	religion = tedusa
+}
+
+350.3.1 = {
+	religion = rerech
+}
+
+357.3.1 = {
+	religion = tedusa
+}
+
+443.3.1 = {
+	religion = rerech
+}
+
+457.4.1 = {
+	culture = rinmi
+}
+

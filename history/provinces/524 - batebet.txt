@@ -1,0 +1,13 @@
+	title = c_batebet
+	max_settlements = 2
+	culture = aterovit
+	religion = abonyi
+	b_lnebet = tribal
+431.3.1 = {
+	religion = rerech
+}
+
+683.3.1 = {
+	religion = emonurga
+}
+

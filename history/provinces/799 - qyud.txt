@@ -1,0 +1,49 @@
+	title = c_qyud
+	max_settlements = 2
+	culture = rriste
+	religion = rriyya
+	b_budil = tribal
+201.3.1 = {
+	religion = rgance
+}
+
+230.3.1 = {
+	religion = ninala
+}
+
+230.3.1 = {
+	religion = rgance
+}
+
+243.3.1 = {
+	religion = ninala
+}
+
+263.3.1 = {
+	religion = rgance
+}
+
+269.3.1 = {
+	religion = ninala
+}
+
+271.3.1 = {
+	religion = rgance
+}
+
+319.4.1 = {
+	culture = norse
+}
+
+391.4.1 = {
+	culture = rriste
+}
+
+566.4.1 = {
+	culture = norse
+}
+
+683.4.1 = {
+	culture = rriste
+}
+

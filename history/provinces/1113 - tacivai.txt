@@ -1,0 +1,29 @@
+	title = c_tacivai
+	max_settlements = 6
+	culture = leuleja
+	religion = rni
+	b_sloshe = tribal
+213.3.1 = {
+	religion = takice
+}
+
+223.3.1 = {
+	religion = rni
+}
+
+226.3.1 = {
+	religion = takice
+}
+
+234.4.1 = {
+	culture = amurein
+}
+
+238.3.1 = {
+	religion = rni
+}
+
+261.4.1 = {
+	culture = leuleja
+}
+

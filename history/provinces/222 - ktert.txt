@@ -1,0 +1,21 @@
+	title = c_ktert
+	max_settlements = 2
+	culture = rerega
+	religion = echukas
+	b_ldolto = tribal
+206.3.1 = {
+	religion = wering
+}
+
+229.3.1 = {
+	religion = echukas
+}
+
+232.3.1 = {
+	religion = wering
+}
+
+287.3.1 = {
+	religion = rerech
+}
+

@@ -1,0 +1,5 @@
+	title = c_satebe
+	max_settlements = 4
+	culture = rmada
+	religion = wsosro
+	b_alirat = tribal

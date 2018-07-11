@@ -1,0 +1,57 @@
+	title = c_nalonan
+	max_settlements = 2
+	culture = rinmi
+	religion = rerech
+	b_tlaka = tribal
+213.4.1 = {
+	culture = rerega
+}
+
+242.3.1 = {
+	religion = wering
+}
+
+255.3.1 = {
+	religion = rerech
+}
+
+267.3.1 = {
+	religion = wering
+}
+
+303.3.1 = {
+	religion = rerech
+}
+
+304.3.1 = {
+	religion = wering
+}
+
+305.3.1 = {
+	religion = rerech
+}
+
+326.3.1 = {
+	religion = wering
+}
+
+332.3.1 = {
+	religion = rerech
+}
+
+336.3.1 = {
+	religion = wering
+}
+
+349.3.1 = {
+	religion = rerech
+}
+
+355.3.1 = {
+	religion = wering
+}
+
+356.3.1 = {
+	religion = rerech
+}
+

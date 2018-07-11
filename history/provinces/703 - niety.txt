@@ -1,0 +1,13 @@
+	title = c_niety
+	max_settlements = 2
+	culture = dogugis
+	religion = ninala
+	b_rogosro = tribal
+546.3.1 = {
+	religion = kmemar
+}
+
+619.4.1 = {
+	culture = eiremar
+}
+

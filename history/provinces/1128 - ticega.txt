@@ -1,0 +1,9 @@
+	title = c_ticega
+	max_settlements = 2
+	culture = nrimir
+	religion = rni
+	b_rtico = tribal
+260.3.1 = {
+	religion = ticojan
+}
+

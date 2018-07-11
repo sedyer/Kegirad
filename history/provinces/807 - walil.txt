@@ -1,0 +1,13 @@
+	title = c_walil
+	max_settlements = 7
+	culture = tabesha
+	religion = rgance
+	b_sawopti = tribal
+574.3.1 = {
+	religion = qriibma
+}
+
+601.3.1 = {
+	religion = rgance
+}
+

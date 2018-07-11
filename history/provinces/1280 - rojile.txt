@@ -1,0 +1,25 @@
+	title = c_rojile
+	max_settlements = 2
+	culture = brirat
+	religion = egrirat
+	b_babiste = tribal
+204.3.1 = {
+	religion = rriyya
+}
+
+213.3.1 = {
+	religion = egrirat
+}
+
+421.3.1 = {
+	religion = rgance
+}
+
+457.3.1 = {
+	religion = egrirat
+}
+
+499.3.1 = {
+	religion = rgance
+}
+

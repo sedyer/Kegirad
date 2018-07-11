@@ -1,0 +1,9 @@
+	title = c_wadaz
+	max_settlements = 3
+	culture = beth
+	religion = emonurga
+	b_tesa = tribal
+364.4.1 = {
+	culture = rresa
+}
+

@@ -1,0 +1,5 @@
+	title = c_surana
+	max_settlements = 7
+	culture = tabesha
+	religion = rgance
+	b_nisirat = tribal

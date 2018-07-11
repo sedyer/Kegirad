@@ -1,0 +1,41 @@
+	title = c_rviste
+	max_settlements = 2
+	culture = brirat
+	religion = egrirat
+	b_qrebe = tribal
+208.3.1 = {
+	religion = rriyya
+}
+
+214.3.1 = {
+	religion = egrirat
+}
+
+225.3.1 = {
+	religion = rriyya
+}
+
+237.3.1 = {
+	religion = egrirat
+}
+
+243.3.1 = {
+	religion = rriyya
+}
+
+246.3.1 = {
+	religion = egrirat
+}
+
+431.3.1 = {
+	religion = rgance
+}
+
+457.3.1 = {
+	religion = egrirat
+}
+
+505.3.1 = {
+	religion = rgance
+}
+

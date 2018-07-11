@@ -1,0 +1,5 @@
+	title = c_rhupta
+	max_settlements = 4
+	culture = ricepan
+	religion = ticojan
+	b_sanunn = tribal

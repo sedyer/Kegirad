@@ -1,0 +1,9 @@
+	title = c_nubemey
+	max_settlements = 2
+	culture = waurat
+	religion = wering
+	b_danonia = tribal
+234.4.1 = {
+	culture = dziga
+}
+

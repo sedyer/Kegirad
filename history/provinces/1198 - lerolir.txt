@@ -1,0 +1,9 @@
+	title = c_lerolir
+	max_settlements = 2
+	culture = ranjada
+	religion = ticojan
+	b_reruha = tribal
+330.4.1 = {
+	culture = balilof
+}
+

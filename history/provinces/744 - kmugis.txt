@@ -1,0 +1,21 @@
+	title = c_kmugis
+	max_settlements = 2
+	culture = sitilje
+	religion = ninala
+	b_reon = tribal
+216.3.1 = {
+	religion = kmemar
+}
+
+221.3.1 = {
+	religion = ninala
+}
+
+261.3.1 = {
+	religion = kmemar
+}
+
+629.4.1 = {
+	culture = eiremar
+}
+

@@ -1,0 +1,9 @@
+	title = c_deled
+	max_settlements = 2
+	culture = woumner
+	religion = echukas
+	b_qirega = tribal
+481.4.1 = {
+	culture = namuthe
+}
+

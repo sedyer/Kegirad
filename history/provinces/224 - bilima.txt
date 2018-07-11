@@ -1,0 +1,17 @@
+	title = c_bilima
+	max_settlements = 2
+	culture = relita
+	religion = echukas
+	b_trasrad = tribal
+242.3.1 = {
+	religion = wering
+}
+
+333.3.1 = {
+	religion = rerech
+}
+
+541.4.1 = {
+	culture = rerega
+}
+

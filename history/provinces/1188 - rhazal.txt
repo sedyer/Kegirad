@@ -1,0 +1,13 @@
+	title = c_rhazal
+	max_settlements = 6
+	culture = dudatli
+	religion = takice
+	b_tholf = tribal
+200.4.1 = {
+	culture = katunn
+}
+
+567.4.1 = {
+	culture = negeth
+}
+

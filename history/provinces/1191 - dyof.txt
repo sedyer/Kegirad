@@ -1,0 +1,13 @@
+	title = c_dyof
+	max_settlements = 3
+	culture = sakiz
+	religion = rni
+	b_sabayun = tribal
+289.3.1 = {
+	religion = ricily
+}
+
+377.3.1 = {
+	religion = rni
+}
+

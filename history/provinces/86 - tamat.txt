@@ -1,0 +1,13 @@
+	title = c_tamat
+	max_settlements = 2
+	culture = doumat
+	religion = emonurga
+	b_bozed = tribal
+341.3.1 = {
+	religion = echukas
+}
+
+421.4.1 = {
+	culture = namuthe
+}
+

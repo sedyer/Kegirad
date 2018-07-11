@@ -1,0 +1,5 @@
+	title = c_tabory
+	max_settlements = 3
+	culture = batanes
+	religion = rerech
+	b_kabelge = tribal

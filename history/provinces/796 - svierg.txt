@@ -1,0 +1,5 @@
+	title = c_svierg
+	max_settlements = 2
+	culture = rriste
+	religion = rgance
+	b_katael = tribal

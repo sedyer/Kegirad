@@ -1,0 +1,17 @@
+	title = c_dirana
+	max_settlements = 4
+	culture = negeth
+	religion = emonurga
+	b_serin = tribal
+396.3.1 = {
+	religion = rni
+}
+
+617.3.1 = {
+	religion = emonurga
+}
+
+680.3.1 = {
+	religion = rni
+}
+

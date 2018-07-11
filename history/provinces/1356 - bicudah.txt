@@ -1,0 +1,9 @@
+	title = c_bicudah
+	max_settlements = 2
+	culture = eleer
+	religion = ricily
+	b_qnua = tribal
+416.3.1 = {
+	religion = rni
+}
+

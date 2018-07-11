@@ -1,0 +1,972 @@
+200.2.1 = {
+	holder = 1000020
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1000037
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	holder = 1001883
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+200.2.4 = {
+	liege = d_tuyilen
+}
+
+200.2.5 = {
+	holder = 1001880
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+300.2.1 = {
+	holder = 1010582
+}
+
+323.2.1 = {
+	holder = 1011061
+}
+
+341.2.1 = {
+	liege = d_kaleth
+}
+
+341.2.2 = {
+	holder = 1013065
+}
+
+341.2.3 = {
+	liege = d_tuyilen
+}
+
+341.2.4 = {
+	liege = k_acande
+}
+
+342.2.1 = {
+	liege = d_tuyilen
+}
+
+342.2.2 = {
+	liege = k_acande
+}
+
+343.2.1 = {
+	liege = d_kaleth
+}
+
+343.2.2 = {
+	holder = 1015787
+}
+
+343.2.3 = {
+	liege = d_tuyilen
+}
+
+343.2.4 = {
+	liege = k_acande
+}
+
+344.2.1 = {
+	liege = d_tuyilen
+}
+
+344.2.2 = {
+	liege = k_acande
+}
+
+345.2.1 = {
+	liege = d_tuyilen
+}
+
+345.2.2 = {
+	liege = k_acande
+}
+
+346.2.1 = {
+	liege = d_tuyilen
+}
+
+346.2.2 = {
+	liege = k_acande
+}
+
+347.2.1 = {
+	liege = d_tuyilen
+}
+
+347.2.2 = {
+	liege = k_acande
+}
+
+348.2.1 = {
+	liege = d_tuyilen
+}
+
+348.2.2 = {
+	liege = k_acande
+}
+
+349.2.1 = {
+	liege = d_tuyilen
+}
+
+349.2.2 = {
+	liege = k_acande
+}
+
+350.2.1 = {
+	liege = d_tuyilen
+}
+
+350.2.2 = {
+	liege = k_acande
+}
+
+351.2.1 = {
+	liege = d_tuyilen
+}
+
+351.2.2 = {
+	liege = k_acande
+}
+
+352.2.1 = {
+	liege = d_tuyilen
+}
+
+352.2.2 = {
+	liege = k_acande
+}
+
+353.2.1 = {
+	liege = d_tuyilen
+}
+
+353.2.2 = {
+	liege = k_acande
+}
+
+354.2.1 = {
+	liege = d_tuyilen
+}
+
+354.2.2 = {
+	liege = k_acande
+}
+
+355.2.1 = {
+	liege = d_kaleth
+}
+
+355.2.2 = {
+	holder = 1012718
+}
+
+355.2.3 = {
+	liege = d_tuyilen
+}
+
+355.2.4 = {
+	liege = k_rrisvig
+}
+
+356.2.1 = {
+	liege = d_tuyilen
+}
+
+356.2.2 = {
+	liege = k_acande
+}
+
+357.2.1 = {
+	liege = d_tuyilen
+}
+
+357.2.2 = {
+	liege = k_acande
+}
+
+358.2.1 = {
+	liege = d_tuyilen
+}
+
+358.2.2 = {
+	liege = k_acande
+}
+
+359.2.1 = {
+	liege = d_tuyilen
+}
+
+359.2.2 = {
+	liege = k_acande
+}
+
+360.2.1 = {
+	liege = d_tuyilen
+}
+
+360.2.2 = {
+	liege = k_sanyo
+}
+
+361.2.1 = {
+	liege = d_kaleth
+}
+
+361.2.2 = {
+	holder = 1014172
+}
+
+361.2.3 = {
+	liege = d_tuyilen
+}
+
+361.2.4 = {
+	liege = k_sanyo
+}
+
+362.2.1 = {
+	liege = d_tuyilen
+}
+
+362.2.2 = {
+	liege = k_sanyo
+}
+
+363.2.1 = {
+	liege = d_tuyilen
+}
+
+363.2.2 = {
+	liege = k_sanyo
+}
+
+364.2.1 = {
+	liege = d_tuyilen
+}
+
+364.2.2 = {
+	liege = k_sanyo
+}
+
+365.2.1 = {
+	liege = d_tuyilen
+}
+
+365.2.2 = {
+	liege = k_sanyo
+}
+
+366.2.1 = {
+	liege = d_tuyilen
+}
+
+366.2.2 = {
+	liege = k_sanyo
+}
+
+367.2.1 = {
+	liege = d_tuyilen
+}
+
+367.2.2 = {
+	liege = k_sanyo
+}
+
+368.2.1 = {
+	liege = d_tuyilen
+}
+
+368.2.2 = {
+	liege = k_sanyo
+}
+
+369.2.1 = {
+	liege = d_tuyilen
+}
+
+369.2.2 = {
+	liege = k_sanyo
+}
+
+370.2.1 = {
+	liege = d_tuyilen
+}
+
+370.2.2 = {
+	liege = k_sanyo
+}
+
+371.2.1 = {
+	liege = d_tuyilen
+}
+
+371.2.2 = {
+	liege = k_sanyo
+}
+
+372.2.1 = {
+	liege = d_tuyilen
+}
+
+372.2.2 = {
+	liege = k_sanyo
+}
+
+373.2.1 = {
+	liege = d_tuyilen
+}
+
+373.2.2 = {
+	liege = k_sanyo
+}
+
+374.2.1 = {
+	liege = d_tuyilen
+}
+
+374.2.2 = {
+	liege = k_sanyo
+}
+
+375.2.1 = {
+	liege = d_tuyilen
+}
+
+375.2.2 = {
+	liege = k_sanyo
+}
+
+376.2.1 = {
+	liege = d_kaleth
+}
+
+376.2.2 = {
+	holder = 1017387
+}
+
+376.2.3 = {
+	liege = d_tuyilen
+}
+
+376.2.4 = {
+	liege = k_sanyo
+}
+
+377.2.1 = {
+	liege = d_kaleth
+}
+
+377.2.2 = {
+	liege = d_kaleth
+}
+
+377.2.3 = {
+	liege = k_buyinen
+}
+
+377.2.4 = {
+	liege = d_kaleth
+}
+
+377.2.5 = {
+	liege = k_sanyo
+}
+
+378.2.1 = {
+	liege = d_kaleth
+}
+
+378.2.2 = {
+	liege = k_sanyo
+}
+
+379.2.1 = {
+	liege = d_kaleth
+}
+
+379.2.2 = {
+	liege = k_sanyo
+}
+
+380.2.1 = {
+	holder = 1018807
+}
+
+380.2.2 = {
+	liege = d_kaleth
+}
+
+380.2.3 = {
+	liege = k_dakarda
+}
+
+381.2.1 = {
+	liege = d_kaleth
+}
+
+381.2.2 = {
+	liege = k_acande
+}
+
+382.2.1 = {
+	liege = d_kaleth
+}
+
+382.2.2 = {
+	liege = k_acande
+}
+
+383.2.1 = {
+	liege = d_kaleth
+}
+
+383.2.2 = {
+	liege = k_acande
+}
+
+384.2.1 = {
+	liege = d_kaleth
+}
+
+384.2.2 = {
+	liege = k_acande
+}
+
+385.2.1 = {
+	liege = d_kaleth
+}
+
+385.2.2 = {
+	liege = k_acande
+}
+
+386.2.1 = {
+	liege = d_kaleth
+}
+
+386.2.2 = {
+	liege = k_acande
+}
+
+387.2.1 = {
+	liege = d_kaleth
+}
+
+387.2.2 = {
+	liege = k_acande
+}
+
+388.2.1 = {
+	liege = d_kaleth
+}
+
+388.2.2 = {
+	liege = k_acande
+}
+
+389.2.1 = {
+	liege = d_kaleth
+}
+
+389.2.2 = {
+	liege = k_acande
+}
+
+390.2.1 = {
+	liege = d_kaleth
+}
+
+390.2.2 = {
+	liege = k_acande
+}
+
+391.2.1 = {
+	liege = d_kaleth
+}
+
+391.2.2 = {
+	liege = k_acande
+}
+
+392.2.1 = {
+	liege = d_kaleth
+}
+
+392.2.2 = {
+	liege = k_acande
+}
+
+393.2.1 = {
+	liege = d_kaleth
+}
+
+393.2.2 = {
+	liege = k_acande
+}
+
+394.2.1 = {
+	liege = d_kaleth
+}
+
+394.2.2 = {
+	liege = k_acande
+}
+
+395.2.1 = {
+	liege = d_kaleth
+}
+
+395.2.2 = {
+	liege = k_acande
+}
+
+396.2.1 = {
+	liege = d_kaleth
+}
+
+396.2.2 = {
+	liege = k_acande
+}
+
+397.2.1 = {
+	liege = d_kaleth
+}
+
+397.2.2 = {
+	liege = k_acande
+}
+
+398.2.1 = {
+	liege = d_kaleth
+}
+
+398.2.2 = {
+	liege = k_acande
+}
+
+399.2.1 = {
+	liege = d_kaleth
+}
+
+399.2.2 = {
+	liege = k_acande
+}
+
+400.2.1 = {
+	liege = d_kaleth
+}
+
+400.2.2 = {
+	liege = k_sanyo
+}
+
+401.2.1 = {
+	liege = d_kaleth
+}
+
+401.2.2 = {
+	liege = k_sanyo
+}
+
+402.2.1 = {
+	liege = d_kaleth
+}
+
+402.2.2 = {
+	liege = k_sanyo
+}
+
+403.2.1 = {
+	liege = d_kaleth
+}
+
+403.2.2 = {
+	liege = k_sanyo
+}
+
+404.2.1 = {
+	liege = d_kaleth
+}
+
+404.2.2 = {
+	liege = k_sanyo
+}
+
+405.2.1 = {
+	liege = d_kaleth
+}
+
+405.2.2 = {
+	liege = k_sanyo
+}
+
+406.2.1 = {
+	liege = d_kaleth
+}
+
+406.2.2 = {
+	liege = k_sanyo
+}
+
+407.2.1 = {
+	liege = d_kaleth
+}
+
+407.2.2 = {
+	liege = k_sanyo
+}
+
+408.2.1 = {
+	liege = d_kaleth
+}
+
+408.2.2 = {
+	liege = k_sanyo
+}
+
+409.2.1 = {
+	liege = d_kaleth
+}
+
+409.2.2 = {
+	liege = k_sanyo
+}
+
+410.2.1 = {
+	liege = d_kaleth
+}
+
+410.2.2 = {
+	liege = k_sanyo
+}
+
+411.2.1 = {
+	liege = d_kaleth
+}
+
+411.2.2 = {
+	liege = k_sanyo
+}
+
+412.2.1 = {
+	liege = d_kaleth
+}
+
+412.2.2 = {
+	liege = k_sanyo
+}
+
+413.2.1 = {
+	liege = d_kaleth
+}
+
+413.2.2 = {
+	liege = k_sanyo
+}
+
+414.2.1 = {
+	liege = d_kaleth
+}
+
+414.2.2 = {
+	liege = k_sanyo
+}
+
+415.2.1 = {
+	liege = d_kaleth
+}
+
+415.2.2 = {
+	liege = k_sanyo
+}
+
+416.2.1 = {
+	liege = d_kaleth
+}
+
+416.2.2 = {
+	liege = k_sanyo
+}
+
+417.2.1 = {
+	liege = d_kaleth
+}
+
+417.2.2 = {
+	liege = k_sanyo
+}
+
+418.2.1 = {
+	liege = d_kaleth
+}
+
+418.2.2 = {
+	liege = k_sanyo
+}
+
+419.2.1 = {
+	liege = d_kaleth
+}
+
+419.2.2 = {
+	liege = k_sanyo
+}
+
+420.2.1 = {
+	liege = d_kaleth
+}
+
+420.2.2 = {
+	liege = k_acande
+}
+
+421.2.1 = {
+	liege = d_kaleth
+}
+
+421.2.2 = {
+	liege = k_acande
+}
+
+422.2.1 = {
+	liege = d_kaleth
+}
+
+422.2.2 = {
+	liege = k_acande
+}
+
+423.2.1 = {
+	liege = d_kaleth
+}
+
+423.2.2 = {
+	liege = k_acande
+}
+
+424.2.1 = {
+	liege = d_kaleth
+}
+
+424.2.2 = {
+	liege = k_acande
+}
+
+425.2.1 = {
+	liege = d_kaleth
+}
+
+425.2.2 = {
+	liege = k_acande
+}
+
+426.2.1 = {
+	liege = d_kaleth
+}
+
+426.2.2 = {
+	liege = k_acande
+}
+
+427.2.1 = {
+	liege = d_kaleth
+}
+
+427.2.2 = {
+	liege = k_acande
+}
+
+428.2.1 = {
+	liege = d_kaleth
+}
+
+428.2.2 = {
+	liege = k_acande
+}
+
+429.2.1 = {
+	liege = d_kaleth
+}
+
+429.2.2 = {
+	liege = k_acande
+}
+
+430.2.1 = {
+	liege = d_kaleth
+}
+
+430.2.2 = {
+	liege = k_acande
+}
+
+431.2.1 = {
+	liege = d_kaleth
+}
+
+431.2.2 = {
+	liege = k_acande
+}
+
+432.2.1 = {
+	liege = d_kaleth
+}
+
+432.2.2 = {
+	liege = k_acande
+}
+
+433.2.1 = {
+	liege = d_kaleth
+}
+
+433.2.2 = {
+	liege = k_acande
+}
+
+434.2.1 = {
+	liege = d_kaleth
+}
+
+434.2.2 = {
+	liege = k_acande
+}
+
+435.2.1 = {
+	liege = d_kaleth
+}
+
+435.2.2 = {
+	liege = k_acande
+}
+
+436.2.1 = {
+	liege = d_kaleth
+}
+
+436.2.2 = {
+	liege = k_acande
+}
+
+437.2.1 = {
+	liege = d_kaleth
+}
+
+437.2.2 = {
+	liege = k_acande
+}
+
+438.2.1 = {
+	liege = d_kaleth
+}
+
+438.2.2 = {
+	liege = k_acande
+}
+
+439.2.1 = {
+	liege = d_kaleth
+}
+
+439.2.2 = {
+	liege = k_acande
+}
+
+440.2.1 = {
+	liege = d_kaleth
+}
+
+440.2.2 = {
+	liege = k_sanyo
+}
+
+441.2.1 = {
+	liege = d_kaleth
+}
+
+441.2.2 = {
+	liege = k_sanyo
+}
+
+442.2.1 = {
+	liege = d_tarida
+}
+
+442.2.2 = {
+	liege = k_sanyo
+}
+
+443.2.1 = {
+	holder = 1023645
+}
+
+443.2.2 = {
+	liege = k_rrisvig
+}
+
+443.2.3 = {
+	holder = 1023289
+}
+
+492.2.1 = {
+	liege = d_ligaka
+}
+
+492.2.2 = {
+	liege = 0
+}
+
+492.2.3 = {
+	holder = 1026069
+}
+
+500.2.1 = {
+	holder = 1027877
+}
+
+500.2.2 = {
+	liege = k_rrisvig
+}
+
+535.2.1 = {
+	holder = 1029871
+}
+
+589.2.1 = {
+	liege = d_lreca
+}
+
+589.2.2 = {
+	liege = 0
+}
+
+589.2.3 = {
+	holder = 1023520
+}
+
+590.2.1 = {
+	holder = 1033846
+}
+
+591.2.1 = {
+	holder = 1033909
+}
+
+591.2.2 = {
+	liege = k_rrisvig
+}
+
+700.2.1 = {
+	holder = 1037700
+}
+

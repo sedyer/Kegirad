@@ -1,0 +1,33 @@
+	title = c_rilutus
+	max_settlements = 2
+	culture = qsuthe
+	religion = rerech
+	b_acatanes = tribal
+254.3.1 = {
+	religion = kanyo
+}
+
+262.3.1 = {
+	religion = rerech
+}
+
+271.3.1 = {
+	religion = kanyo
+}
+
+295.3.1 = {
+	religion = rerech
+}
+
+330.3.1 = {
+	religion = kanyo
+}
+
+439.3.1 = {
+	religion = emonurga
+}
+
+439.4.1 = {
+	culture = batanes
+}
+

@@ -1,0 +1,208 @@
+200.2.1 = {
+	holder = 1000008
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000635
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_kunupta
+}
+
+200.2.4 = {
+	holder = 1000636
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.5 = {
+	holder = 1000632
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+234.2.1 = {
+	holder = 1006418
+}
+
+257.2.1 = {
+	holder = 1006801
+}
+
+257.2.2 = {
+	holder = 1008581
+}
+
+284.2.1 = {
+	holder = 1009177
+}
+
+314.2.1 = {
+	liege = d_bulelo
+}
+
+315.2.1 = {
+	liege = d_bulelo
+}
+
+315.2.2 = {
+	liege = k_wcelo
+}
+
+316.2.1 = {
+	liege = d_bulelo
+}
+
+316.2.2 = {
+	liege = k_wcelo
+}
+
+316.2.3 = {
+	holder = 1013727
+}
+
+317.2.1 = {
+	liege = d_bulelo
+}
+
+317.2.2 = {
+	liege = k_wcelo
+}
+
+318.2.1 = {
+	liege = d_bulelo
+}
+
+318.2.2 = {
+	liege = k_wcelo
+}
+
+319.2.1 = {
+	liege = d_bulelo
+}
+
+319.2.2 = {
+	liege = k_wcelo
+}
+
+320.2.1 = {
+	liege = d_bulelo
+}
+
+320.2.2 = {
+	liege = k_budein
+}
+
+321.2.1 = {
+	liege = d_bulelo
+}
+
+321.2.2 = {
+	liege = k_budein
+}
+
+322.2.1 = {
+	liege = d_bulelo
+}
+
+322.2.2 = {
+	liege = k_budein
+}
+
+323.2.1 = {
+	liege = d_bulelo
+}
+
+323.2.2 = {
+	liege = k_budein
+}
+
+324.2.1 = {
+	liege = d_bulelo
+}
+
+324.2.2 = {
+	liege = k_budein
+}
+
+325.2.1 = {
+	liege = d_bulelo
+}
+
+325.2.2 = {
+	liege = k_budein
+}
+
+326.2.1 = {
+	liege = d_bulelo
+}
+
+326.2.2 = {
+	liege = k_budein
+}
+
+327.2.1 = {
+	liege = d_kunupta
+}
+
+327.2.2 = {
+	liege = 0
+}
+
+327.2.3 = {
+	holder = 1012655
+}
+
+327.2.4 = {
+	holder = 1014651
+}
+
+327.2.5 = {
+	liege = k_budein
+}
+
+500.2.1 = {
+	holder = 1021093
+}
+
+500.2.2 = {
+	holder = 1026080
+}
+
+501.2.1 = {
+	holder = 1027308
+}
+
+505.2.1 = {
+	holder = 1024980
+}
+
+506.2.1 = {
+	holder = 1028344
+}
+
+589.2.1 = {
+	holder = 1030551
+}
+
+589.2.2 = {
+	holder = 1033761
+}
+
+700.2.1 = {
+	holder = 1033767
+}
+
+700.2.2 = {
+	holder = 1033769
+}
+
+700.2.3 = {
+	holder = 1038834
+}
+

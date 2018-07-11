@@ -1,0 +1,9 @@
+	title = c_latnoda
+	max_settlements = 2
+	culture = batna
+	religion = ricily
+	b_rarju = tribal
+339.3.1 = {
+	religion = rni
+}
+

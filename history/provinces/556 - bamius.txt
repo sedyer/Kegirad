@@ -1,0 +1,13 @@
+	title = c_bamius
+	max_settlements = 3
+	culture = batanes
+	religion = rerech
+	b_talodon = tribal
+222.3.1 = {
+	religion = emonurga
+}
+
+565.4.1 = {
+	culture = dukanos
+}
+

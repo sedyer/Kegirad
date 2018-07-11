@@ -1,0 +1,41 @@
+	title = c_asoyotl
+	max_settlements = 7
+	culture = learah
+	religion = emonurga
+	b_wudin = tribal
+204.3.1 = {
+	religion = bukena
+}
+
+243.3.1 = {
+	religion = emonurga
+}
+
+269.3.1 = {
+	religion = kanyo
+}
+
+308.3.1 = {
+	religion = bukena
+}
+
+418.3.1 = {
+	religion = kanyo
+}
+
+419.3.1 = {
+	religion = bukena
+}
+
+437.3.1 = {
+	religion = kanyo
+}
+
+441.3.1 = {
+	religion = bukena
+}
+
+477.3.1 = {
+	religion = takice
+}
+

@@ -1,0 +1,9 @@
+	title = c_tgesha
+	max_settlements = 2
+	culture = brirat
+	religion = egrirat
+	b_agirat = tribal
+490.3.1 = {
+	religion = rgance
+}
+

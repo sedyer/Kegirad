@@ -1,0 +1,9 @@
+	title = c_bilavni
+	max_settlements = 2
+	culture = waurat
+	religion = echukas
+	b_wahard = tribal
+200.3.1 = {
+	religion = wering
+}
+

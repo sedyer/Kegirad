@@ -1,0 +1,21 @@
+	title = c_kerein
+	max_settlements = 2
+	culture = srisre
+	religion = emonurga
+	b_ajusanes = tribal
+285.3.1 = {
+	religion = rerech
+}
+
+296.3.1 = {
+	religion = emonurga
+}
+
+304.3.1 = {
+	religion = rerech
+}
+
+660.3.1 = {
+	religion = echukas
+}
+

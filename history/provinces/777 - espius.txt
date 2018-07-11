@@ -1,0 +1,13 @@
+	title = c_espius
+	max_settlements = 2
+	culture = dlebe
+	religion = ninala
+	b_qonudis = tribal
+305.3.1 = {
+	religion = rerech
+}
+
+603.3.1 = {
+	religion = ninala
+}
+

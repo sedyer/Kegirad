@@ -1,0 +1,5 @@
+	title = c_racinia
+	max_settlements = 2
+	culture = dziga
+	religion = wering
+	b_wsolod = tribal

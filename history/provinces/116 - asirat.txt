@@ -1,0 +1,13 @@
+	title = c_asirat
+	max_settlements = 2
+	culture = wubutr
+	religion = wozine
+	b_samerta = tribal
+500.3.1 = {
+	religion = echukas
+}
+
+508.3.1 = {
+	religion = wozine
+}
+

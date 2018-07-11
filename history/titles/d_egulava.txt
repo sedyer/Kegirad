@@ -1,0 +1,22 @@
+200.2.1 = {
+	holder = 1001785
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	liege = k_rmadevi
+}
+
+201.2.1 = {
+	holder = 1002169
+}
+
+233.2.1 = {
+	holder = 1003100
+}
+
+234.2.1 = {
+	liege = 0
+}
+

@@ -1,0 +1,268 @@
+200.2.1 = {
+	holder = 1000006
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000007
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	holder = 1000515
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+200.2.4 = {
+	liege = d_lyao
+}
+
+200.2.5 = {
+	holder = 1000513
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+202.2.1 = {
+	holder = 1002985
+}
+
+220.2.1 = {
+	holder = 1000060
+}
+
+235.2.1 = {
+	liege = d_nla
+}
+
+235.2.2 = {
+	holder = 1003283
+}
+
+235.2.3 = {
+	liege = d_lyao
+}
+
+240.2.1 = {
+	liege = d_nla
+}
+
+240.2.2 = {
+	holder = 1005334
+}
+
+240.2.3 = {
+	liege = d_egierg
+}
+
+248.2.1 = {
+	liege = d_lyao
+}
+
+248.2.2 = {
+	liege = d_egierg
+}
+
+260.2.1 = {
+	holder = 1005496
+}
+
+279.2.1 = {
+	holder = 1010491
+}
+
+301.2.1 = {
+	liege = k_nlesha
+}
+
+301.2.2 = {
+	holder = 1010866
+}
+
+310.2.1 = {
+	holder = 1013228
+}
+
+343.2.1 = {
+	holder = 1015877
+}
+
+384.2.1 = {
+	liege = d_bkaloc
+}
+
+385.2.1 = {
+	holder = 1017858
+}
+
+417.2.1 = {
+	holder = 1019979
+}
+
+455.2.1 = {
+	holder = 1022578
+}
+
+464.2.1 = {
+	holder = 1025102
+}
+
+469.2.1 = {
+	liege = d_nla
+}
+
+469.2.2 = {
+	liege = 0
+}
+
+475.2.1 = {
+	liege = d_nla
+}
+
+475.2.2 = {
+	liege = 0
+}
+
+479.2.1 = {
+	liege = d_nla
+}
+
+479.2.2 = {
+	liege = 0
+}
+
+484.2.1 = {
+	liege = d_nla
+}
+
+484.2.2 = {
+	liege = 0
+}
+
+490.2.1 = {
+	liege = d_nla
+}
+
+490.2.2 = {
+	liege = 0
+}
+
+496.2.1 = {
+	liege = d_nla
+}
+
+496.2.2 = {
+	liege = 0
+}
+
+498.2.1 = {
+	liege = d_nla
+}
+
+498.2.2 = {
+	liege = 0
+}
+
+503.2.1 = {
+	liege = d_nla
+}
+
+503.2.2 = {
+	liege = 0
+}
+
+504.2.1 = {
+	holder = 1026781
+}
+
+504.2.2 = {
+	holder = 1025597
+}
+
+504.2.3 = {
+	liege = k_nlesha
+}
+
+559.2.1 = {
+	liege = d_wsia
+}
+
+563.2.1 = {
+	liege = 0
+}
+
+563.2.2 = {
+	holder = 1031907
+}
+
+579.2.1 = {
+	liege = d_ririrat
+}
+
+579.2.2 = {
+	liege = 0
+}
+
+593.2.1 = {
+	liege = d_lyao
+}
+
+601.2.1 = {
+	liege = d_ririrat
+}
+
+601.2.2 = {
+	liege = 0
+}
+
+608.2.1 = {
+	liege = d_ririrat
+}
+
+608.2.2 = {
+	liege = 0
+}
+
+617.2.1 = {
+	holder = 1032987
+}
+
+636.2.1 = {
+	holder = 1036744
+}
+
+665.2.1 = {
+	holder = 1038082
+}
+
+672.2.1 = {
+	holder = 1033003
+}
+
+674.2.1 = {
+	holder = 1029222
+}
+
+678.2.1 = {
+	holder = 1037463
+}
+
+678.2.2 = {
+	holder = 1039410
+}
+
+678.2.3 = {
+	liege = k_koulilu
+}
+
+693.2.1 = {
+	holder = 1038461
+}
+
+693.2.2 = {
+	holder = 1040276
+}
+

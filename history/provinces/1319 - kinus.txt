@@ -1,0 +1,29 @@
+	title = c_kinus
+	max_settlements = 2
+	culture = tuprind
+	religion = ricily
+	b_btega = tribal
+292.4.1 = {
+	culture = scachi
+}
+
+299.3.1 = {
+	religion = rni
+}
+
+302.3.1 = {
+	religion = ricily
+}
+
+309.3.1 = {
+	religion = rni
+}
+
+356.3.1 = {
+	religion = ricily
+}
+
+473.4.1 = {
+	culture = tuprind
+}
+

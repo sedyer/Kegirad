@@ -1,0 +1,5 @@
+	title = c_wgoss
+	max_settlements = 2
+	culture = tiiriz
+	religion = ninala
+	b_satick = tribal

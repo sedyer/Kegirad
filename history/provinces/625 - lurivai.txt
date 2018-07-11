@@ -1,0 +1,17 @@
+	title = c_lurivai
+	max_settlements = 7
+	culture = suneja
+	religion = takice
+	b_wolha = tribal
+248.4.1 = {
+	culture = amurein
+}
+
+588.4.1 = {
+	culture = rresa
+}
+
+688.4.1 = {
+	culture = amurein
+}
+

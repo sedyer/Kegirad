@@ -1,0 +1,21 @@
+	title = c_nalat
+	max_settlements = 2
+	culture = topius
+	religion = wsosro
+	b_topien = tribal
+253.3.1 = {
+	religion = ninala
+}
+
+464.4.1 = {
+	culture = dogugis
+}
+
+544.4.1 = {
+	culture = lorius
+}
+
+559.3.1 = {
+	religion = wsosro
+}
+

@@ -1,0 +1,37 @@
+	title = c_wukern
+	max_settlements = 2
+	culture = racine
+	religion = rerech
+	b_bugya = tribal
+215.3.1 = {
+	religion = emonurga
+}
+
+217.3.1 = {
+	religion = rerech
+}
+
+218.3.1 = {
+	religion = emonurga
+}
+
+223.3.1 = {
+	religion = rerech
+}
+
+268.4.1 = {
+	culture = srisre
+}
+
+293.4.1 = {
+	culture = racine
+}
+
+442.4.1 = {
+	culture = srisre
+}
+
+603.4.1 = {
+	culture = racine
+}
+

@@ -1,0 +1,5 @@
+	title = c_qahamia
+	max_settlements = 2
+	culture = dziga
+	religion = kereze
+	b_rsisa = tribal

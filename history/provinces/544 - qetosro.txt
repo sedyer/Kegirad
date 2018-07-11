@@ -1,0 +1,21 @@
+	title = c_qetosro
+	max_settlements = 4
+	culture = batanes
+	religion = rerech
+	b_koraud = tribal
+259.3.1 = {
+	religion = emonurga
+}
+
+260.3.1 = {
+	religion = rerech
+}
+
+279.3.1 = {
+	religion = emonurga
+}
+
+574.3.1 = {
+	religion = rerech
+}
+

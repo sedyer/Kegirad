@@ -1,0 +1,13 @@
+	title = c_qurein
+	max_settlements = 2
+	culture = dudatli
+	religion = rni
+	b_aguniam = tribal
+239.3.1 = {
+	religion = emonurga
+}
+
+406.3.1 = {
+	religion = rni
+}
+

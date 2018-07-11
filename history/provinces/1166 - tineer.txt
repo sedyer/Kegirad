@@ -1,0 +1,9 @@
+	title = c_tineer
+	max_settlements = 2
+	culture = kuogoi
+	religion = ricily
+	b_tinomeo = tribal
+417.3.1 = {
+	religion = rni
+}
+

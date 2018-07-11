@@ -1,0 +1,21 @@
+	title = c_kobiga
+	max_settlements = 2
+	culture = ributhe
+	religion = rerech
+	b_lgahid = tribal
+302.3.1 = {
+	religion = abonyi
+}
+
+372.4.1 = {
+	culture = edanyi
+}
+
+445.3.1 = {
+	religion = echukas
+}
+
+652.3.1 = {
+	religion = abonyi
+}
+

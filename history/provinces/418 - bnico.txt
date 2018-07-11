@@ -1,0 +1,13 @@
+	title = c_bnico
+	max_settlements = 2
+	culture = qsuthe
+	religion = rerech
+	b_kalirad = tribal
+341.3.1 = {
+	religion = kanyo
+}
+
+520.3.1 = {
+	religion = emonurga
+}
+

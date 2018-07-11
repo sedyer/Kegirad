@@ -1,0 +1,29 @@
+	title = c_woanusa
+	max_settlements = 2
+	culture = balilof
+	religion = rni
+	b_toanaya = tribal
+214.3.1 = {
+	religion = takice
+}
+
+259.3.1 = {
+	religion = ticojan
+}
+
+260.3.1 = {
+	religion = takice
+}
+
+266.3.1 = {
+	religion = ticojan
+}
+
+288.3.1 = {
+	religion = takice
+}
+
+290.3.1 = {
+	religion = ticojan
+}
+

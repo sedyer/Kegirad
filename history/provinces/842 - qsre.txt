@@ -1,0 +1,9 @@
+	title = c_qsre
+	max_settlements = 2
+	culture = norse
+	religion = rriyya
+	b_kalan = tribal
+207.3.1 = {
+	religion = rgance
+}
+

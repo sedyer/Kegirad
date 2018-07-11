@@ -1,0 +1,5 @@
+	title = c_borha
+	max_settlements = 4
+	culture = doumat
+	religion = agrakma
+	b_ladka = tribal

@@ -1,0 +1,13 @@
+	title = c_keraud
+	max_settlements = 2
+	culture = niloaz
+	religion = ninala
+	b_waphah = tribal
+438.3.1 = {
+	religion = rerech
+}
+
+644.3.1 = {
+	religion = tluku
+}
+

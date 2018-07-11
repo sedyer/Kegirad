@@ -1,0 +1,49 @@
+	title = c_edoanes
+	max_settlements = 2
+	culture = rinmi
+	religion = rerech
+	b_enalert = tribal
+251.3.1 = {
+	religion = wering
+}
+
+261.3.1 = {
+	religion = rerech
+}
+
+262.3.1 = {
+	religion = wering
+}
+
+263.3.1 = {
+	religion = rerech
+}
+
+266.3.1 = {
+	religion = wering
+}
+
+324.3.1 = {
+	religion = rerech
+}
+
+326.3.1 = {
+	religion = wering
+}
+
+326.4.1 = {
+	culture = rerega
+}
+
+336.3.1 = {
+	religion = rerech
+}
+
+338.3.1 = {
+	religion = wering
+}
+
+351.3.1 = {
+	religion = rerech
+}
+

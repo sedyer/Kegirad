@@ -1,0 +1,5 @@
+	title = c_ridunla
+	max_settlements = 2
+	culture = tuprind
+	religion = ricily
+	b_roguje = tribal

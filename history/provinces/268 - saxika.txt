@@ -1,0 +1,17 @@
+	title = c_saxika
+	max_settlements = 2
+	culture = donada
+	religion = emonurga
+	b_qogalme = tribal
+272.3.1 = {
+	religion = agrakma
+}
+
+291.3.1 = {
+	religion = emonurga
+}
+
+380.3.1 = {
+	religion = agrakma
+}
+

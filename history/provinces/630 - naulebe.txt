@@ -1,0 +1,17 @@
+	title = c_naulebe
+	max_settlements = 7
+	culture = katunn
+	religion = takice
+	b_qyoaz = tribal
+346.4.1 = {
+	culture = kerin
+}
+
+561.3.1 = {
+	religion = wsosro
+}
+
+645.3.1 = {
+	religion = rni
+}
+

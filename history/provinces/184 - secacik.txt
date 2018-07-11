@@ -1,0 +1,21 @@
+	title = c_secacik
+	max_settlements = 2
+	culture = wsaka
+	religion = agamel
+	b_nsand = tribal
+235.3.1 = {
+	religion = tedusa
+}
+
+243.3.1 = {
+	religion = agamel
+}
+
+281.3.1 = {
+	religion = tedusa
+}
+
+413.4.1 = {
+	culture = kilik
+}
+

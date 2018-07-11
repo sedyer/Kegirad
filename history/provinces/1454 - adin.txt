@@ -1,0 +1,17 @@
+	title = c_adin
+	max_settlements = 7
+	culture = rresa
+	religion = bukena
+	b_telia = tribal
+203.4.1 = {
+	culture = kegirad
+}
+
+366.3.1 = {
+	religion = emonurga
+}
+
+476.4.1 = {
+	culture = rresa
+}
+

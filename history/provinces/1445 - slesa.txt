@@ -1,0 +1,5 @@
+	title = c_slesa
+	max_settlements = 7
+	culture = rresa
+	religion = emonurga
+	b_ekakani = tribal

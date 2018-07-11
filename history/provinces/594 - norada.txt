@@ -1,0 +1,21 @@
+	title = c_norada
+	max_settlements = 5
+	culture = tujeth
+	religion = emonurga
+	b_deosro = tribal
+201.3.1 = {
+	religion = rerech
+}
+
+226.3.1 = {
+	religion = emonurga
+}
+
+233.4.1 = {
+	culture = batanes
+}
+
+608.4.1 = {
+	culture = dukanos
+}
+

@@ -1,0 +1,84 @@
+200.2.1 = {
+	holder = 1000022
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	liege = d_enares
+}
+
+200.2.3 = {
+	holder = 1001206
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+236.2.1 = {
+	holder = 1004471
+}
+
+237.2.1 = {
+	holder = 1006676
+}
+
+246.2.1 = {
+	holder = 1007536
+}
+
+273.2.1 = {
+	holder = 1010002
+}
+
+279.2.1 = {
+	holder = 1007081
+}
+
+280.2.1 = {
+	holder = 1010578
+}
+
+400.2.1 = {
+	holder = 1015638
+}
+
+400.2.2 = {
+	holder = 1020257
+}
+
+465.2.1 = {
+	holder = 1025253
+}
+
+473.2.1 = {
+	holder = 1025452
+}
+
+512.2.1 = {
+	holder = 1025730
+}
+
+512.2.2 = {
+	liege = k_tsahid
+}
+
+530.2.1 = {
+	liege = d_balun
+}
+
+530.2.2 = {
+	holder = 1027815
+}
+
+538.2.1 = {
+	holder = 1030218
+}
+
+539.2.1 = {
+	holder = 1030516
+}
+
+700.2.1 = {
+	holder = 1040543
+}
+

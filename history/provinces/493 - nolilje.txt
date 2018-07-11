@@ -1,0 +1,37 @@
+	title = c_nolilje
+	max_settlements = 2
+	culture = robas
+	religion = abonyi
+	b_taris = tribal
+205.3.1 = {
+	religion = ninala
+}
+
+205.4.1 = {
+	culture = sitilje
+}
+
+219.3.1 = {
+	religion = abonyi
+}
+
+221.3.1 = {
+	religion = ninala
+}
+
+235.3.1 = {
+	religion = abonyi
+}
+
+239.3.1 = {
+	religion = ninala
+}
+
+250.3.1 = {
+	religion = abonyi
+}
+
+253.3.1 = {
+	religion = ninala
+}
+

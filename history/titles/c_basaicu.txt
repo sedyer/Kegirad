@@ -1,0 +1,70 @@
+200.2.1 = {
+	holder = 1000016
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1000995
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+200.2.3 = {
+	liege = d_dasuna
+}
+
+200.2.4 = {
+	holder = 1000994
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+236.2.1 = {
+	holder = 1002138
+}
+
+236.2.2 = {
+	holder = 1006613
+}
+
+336.2.1 = {
+	holder = 1010785
+}
+
+336.2.2 = {
+	holder = 1015340
+}
+
+343.2.1 = {
+	holder = 1011493
+}
+
+343.2.2 = {
+	holder = 1015886
+}
+
+438.2.1 = {
+	holder = 1023280
+}
+
+487.2.1 = {
+	holder = 1023984
+}
+
+518.2.1 = {
+	holder = 1026990
+}
+
+542.2.1 = {
+	holder = 1028050
+}
+
+542.2.2 = {
+	holder = 1030691
+}
+
+700.2.1 = {
+	holder = 1040300
+}
+

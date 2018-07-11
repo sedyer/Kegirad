@@ -1,0 +1,13 @@
+	title = c_qlimon
+	max_settlements = 2
+	culture = robas
+	religion = abonyi
+	b_aleolje = tribal
+212.3.1 = {
+	religion = ninala
+}
+
+276.4.1 = {
+	culture = sitilje
+}
+

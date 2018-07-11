@@ -1,0 +1,9 @@
+	title = c_kyti
+	max_settlements = 2
+	culture = salti
+	religion = tedusa
+	b_rtaka = tribal
+383.4.1 = {
+	culture = tlacik
+}
+

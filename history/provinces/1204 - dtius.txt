@@ -1,0 +1,9 @@
+	title = c_dtius
+	max_settlements = 2
+	culture = balilof
+	religion = rni
+	b_qrepan = tribal
+208.3.1 = {
+	religion = ticojan
+}
+

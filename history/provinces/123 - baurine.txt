@@ -1,0 +1,5 @@
+	title = c_baurine
+	max_settlements = 2
+	culture = namuthe
+	religion = echukas
+	b_kiied = tribal

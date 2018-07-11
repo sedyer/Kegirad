@@ -1,0 +1,9 @@
+	title = c_ketloi
+	max_settlements = 2
+	culture = eleer
+	religion = ricily
+	b_tniya = tribal
+434.4.1 = {
+	culture = elada
+}
+

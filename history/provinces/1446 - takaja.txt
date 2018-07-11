@@ -1,0 +1,5 @@
+	title = c_takaja
+	max_settlements = 7
+	culture = rresa
+	religion = emonurga
+	b_leresa = tribal

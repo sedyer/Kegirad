@@ -1,0 +1,5 @@
+	title = c_edavra
+	max_settlements = 6
+	culture = drebe
+	religion = tluku
+	b_sluoksa = tribal

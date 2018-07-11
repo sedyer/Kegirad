@@ -1,0 +1,5 @@
+	title = c_rogis
+	max_settlements = 2
+	culture = dites
+	religion = ninala
+	b_reort = tribal

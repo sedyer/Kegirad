@@ -1,0 +1,5 @@
+	title = c_sanevi
+	max_settlements = 2
+	culture = banevi
+	religion = kereze
+	b_tazimon = tribal

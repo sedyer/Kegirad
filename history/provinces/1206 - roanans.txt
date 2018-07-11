@@ -1,0 +1,17 @@
+	title = c_roanans
+	max_settlements = 3
+	culture = ranjada
+	religion = ticojan
+	b_keruha = tribal
+222.3.1 = {
+	religion = rni
+}
+
+270.3.1 = {
+	religion = ticojan
+}
+
+364.4.1 = {
+	culture = balilof
+}
+

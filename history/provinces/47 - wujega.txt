@@ -1,0 +1,9 @@
+	title = c_wujega
+	max_settlements = 2
+	culture = ekozare
+	religion = echukas
+	b_akamerta = tribal
+256.4.1 = {
+	culture = kaloet
+}
+

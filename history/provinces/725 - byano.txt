@@ -1,0 +1,13 @@
+	title = c_byano
+	max_settlements = 2
+	culture = wlick
+	religion = ninala
+	b_qlosro = tribal
+243.3.1 = {
+	religion = rerech
+}
+
+697.3.1 = {
+	religion = ninala
+}
+

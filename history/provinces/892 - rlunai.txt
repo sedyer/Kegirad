@@ -1,0 +1,41 @@
+	title = c_rlunai
+	max_settlements = 7
+	culture = rresa
+	religion = bukena
+	b_surha = tribal
+338.3.1 = {
+	religion = kanyo
+}
+
+349.3.1 = {
+	religion = bukena
+}
+
+377.3.1 = {
+	religion = kanyo
+}
+
+387.3.1 = {
+	religion = bukena
+}
+
+416.3.1 = {
+	religion = kanyo
+}
+
+424.3.1 = {
+	religion = bukena
+}
+
+433.3.1 = {
+	religion = kanyo
+}
+
+464.3.1 = {
+	religion = emonurga
+}
+
+476.4.1 = {
+	culture = wiragop
+}
+

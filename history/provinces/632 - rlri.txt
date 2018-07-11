@@ -1,0 +1,9 @@
+	title = c_rlri
+	max_settlements = 5
+	culture = amurein
+	religion = takice
+	b_acladi = tribal
+552.3.1 = {
+	religion = wsosro
+}
+

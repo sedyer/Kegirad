@@ -1,0 +1,5 @@
+	title = c_layanja
+	max_settlements = 2
+	culture = banevi
+	religion = kereze
+	b_ebusiwoj = tribal

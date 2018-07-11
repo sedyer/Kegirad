@@ -1,0 +1,9 @@
+	title = c_talacob
+	max_settlements = 2
+	culture = stacik
+	religion = tedusa
+	b_secan = tribal
+473.3.1 = {
+	religion = agamel
+}
+

@@ -1,0 +1,37 @@
+	title = c_nitugis
+	max_settlements = 2
+	culture = dobius
+	religion = ninala
+	b_abolis = tribal
+211.3.1 = {
+	religion = kmemar
+}
+
+217.3.1 = {
+	religion = ninala
+}
+
+225.3.1 = {
+	religion = kmemar
+}
+
+238.3.1 = {
+	religion = ninala
+}
+
+239.3.1 = {
+	religion = kmemar
+}
+
+240.3.1 = {
+	religion = ninala
+}
+
+264.3.1 = {
+	religion = kmemar
+}
+
+458.4.1 = {
+	culture = eiremar
+}
+

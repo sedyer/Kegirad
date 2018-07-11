@@ -1,0 +1,21 @@
+	title = c_kawha
+	max_settlements = 7
+	culture = leuleja
+	religion = rni
+	b_tatapur = tribal
+230.3.1 = {
+	religion = wsosro
+}
+
+239.3.1 = {
+	religion = rni
+}
+
+258.3.1 = {
+	religion = wsosro
+}
+
+644.4.1 = {
+	culture = amurein
+}
+

@@ -1,0 +1,17 @@
+	title = c_rativai
+	max_settlements = 7
+	culture = katunn
+	religion = takice
+	b_apawiz = tribal
+464.3.1 = {
+	religion = kanyo
+}
+
+606.4.1 = {
+	culture = wiragop
+}
+
+608.3.1 = {
+	religion = emonurga
+}
+

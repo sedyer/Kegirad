@@ -1,0 +1,9 @@
+	title = c_qunupta
+	max_settlements = 2
+	culture = balilof
+	religion = ticojan
+	b_bhein = tribal
+275.4.1 = {
+	culture = kerada
+}
+

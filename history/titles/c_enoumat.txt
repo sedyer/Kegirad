@@ -1,0 +1,274 @@
+200.2.1 = {
+	holder = 1000027
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1001504
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_lyalega
+}
+
+200.2.4 = {
+	holder = 1001503
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+229.2.1 = {
+	holder = 1002668
+}
+
+259.2.1 = {
+	holder = 1006133
+}
+
+292.2.1 = {
+	holder = 1009025
+}
+
+312.2.1 = {
+	holder = 1012091
+}
+
+364.2.1 = {
+	holder = 1015120
+}
+
+373.2.1 = {
+	liege = d_tuulita
+}
+
+374.2.1 = {
+	liege = d_tuulita
+}
+
+374.2.2 = {
+	liege = k_kamech
+}
+
+375.2.1 = {
+	liege = d_tuulita
+}
+
+375.2.2 = {
+	liege = k_kamech
+}
+
+376.2.1 = {
+	liege = d_tuulita
+}
+
+376.2.2 = {
+	liege = k_kamech
+}
+
+377.2.1 = {
+	liege = d_tuulita
+}
+
+377.2.2 = {
+	liege = k_kamech
+}
+
+377.2.3 = {
+	holder = 1018564
+}
+
+378.2.1 = {
+	liege = d_tuulita
+}
+
+378.2.2 = {
+	liege = k_kamech
+}
+
+379.2.1 = {
+	liege = d_tuulita
+}
+
+379.2.2 = {
+	liege = k_kamech
+}
+
+380.2.1 = {
+	liege = d_tuulita
+}
+
+380.2.2 = {
+	liege = k_kamech
+}
+
+381.2.1 = {
+	liege = d_tuulita
+}
+
+381.2.2 = {
+	liege = k_kamech
+}
+
+382.2.1 = {
+	liege = d_tuulita
+}
+
+382.2.2 = {
+	liege = k_kamech
+}
+
+383.2.1 = {
+	liege = d_tuulita
+}
+
+383.2.2 = {
+	liege = k_kamech
+}
+
+384.2.1 = {
+	liege = d_tuulita
+}
+
+384.2.2 = {
+	liege = k_kamech
+}
+
+385.2.1 = {
+	liege = d_tuulita
+}
+
+385.2.2 = {
+	liege = k_kamech
+}
+
+386.2.1 = {
+	liege = d_tuulita
+}
+
+386.2.2 = {
+	liege = k_kamech
+}
+
+387.2.1 = {
+	liege = d_tuulita
+}
+
+387.2.2 = {
+	liege = k_kamech
+}
+
+388.2.1 = {
+	liege = d_tuulita
+}
+
+388.2.2 = {
+	liege = k_kamech
+}
+
+389.2.1 = {
+	liege = d_tuulita
+}
+
+389.2.2 = {
+	liege = k_kamech
+}
+
+389.2.3 = {
+	holder = 1018800
+}
+
+390.2.1 = {
+	liege = d_tuulita
+}
+
+390.2.2 = {
+	liege = k_kamech
+}
+
+391.2.1 = {
+	liege = d_tuulita
+}
+
+391.2.2 = {
+	liege = k_kamech
+}
+
+392.2.1 = {
+	liege = d_tuulita
+}
+
+392.2.2 = {
+	liege = k_kamech
+}
+
+393.2.1 = {
+	liege = d_tuulita
+}
+
+393.2.2 = {
+	liege = k_kamech
+}
+
+394.2.1 = {
+	liege = d_tuulita
+}
+
+394.2.2 = {
+	liege = k_kamech
+}
+
+395.2.1 = {
+	liege = d_lyalega
+}
+
+395.2.2 = {
+	liege = 0
+}
+
+395.2.3 = {
+	holder = 1016189
+}
+
+395.2.4 = {
+	holder = 1019934
+}
+
+395.2.5 = {
+	liege = k_kamech
+}
+
+500.2.1 = {
+	holder = 1024464
+}
+
+500.2.2 = {
+	liege = d_keluthe
+}
+
+510.2.1 = {
+	holder = 1025945
+}
+
+520.2.1 = {
+	liege = d_lyalega
+}
+
+520.2.2 = {
+	liege = 0
+}
+
+521.2.1 = {
+	holder = 1029401
+}
+
+521.2.2 = {
+	liege = d_keluthe
+}
+
+700.2.1 = {
+	holder = 1038902
+}
+

@@ -1,0 +1,9 @@
+	title = c_wotofan
+	max_settlements = 4
+	culture = roralka
+	religion = emonurga
+	b_ltina = tribal
+674.4.1 = {
+	culture = borama
+}
+

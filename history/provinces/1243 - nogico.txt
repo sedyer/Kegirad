@@ -1,0 +1,25 @@
+	title = c_nogico
+	max_settlements = 2
+	culture = tuprind
+	religion = ricily
+	b_linagis = tribal
+276.3.1 = {
+	religion = rni
+}
+
+283.3.1 = {
+	religion = ricily
+}
+
+291.4.1 = {
+	culture = scachi
+}
+
+303.3.1 = {
+	religion = rni
+}
+
+310.3.1 = {
+	religion = ricily
+}
+

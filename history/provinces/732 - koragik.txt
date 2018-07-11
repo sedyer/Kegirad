@@ -1,0 +1,13 @@
+	title = c_koragik
+	max_settlements = 2
+	culture = wobagik
+	religion = rerech
+	b_setada = tribal
+210.3.1 = {
+	religion = ninala
+}
+
+557.4.1 = {
+	culture = eliuden
+}
+

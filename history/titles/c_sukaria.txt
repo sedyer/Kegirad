@@ -1,0 +1,126 @@
+200.2.1 = {
+	holder = 1000020
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1001228
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.3 = {
+	liege = d_ehugih
+}
+
+200.2.4 = {
+	holder = 1001227
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.5 = {
+	holder = 1002102
+}
+
+201.2.1 = {
+	holder = 1003076
+}
+
+233.2.1 = {
+	holder = 1004651
+}
+
+239.2.1 = {
+	holder = 1005242
+}
+
+239.2.2 = {
+	holder = 1006898
+}
+
+291.2.1 = {
+	holder = 1007430
+}
+
+302.2.1 = {
+	holder = 1007734
+}
+
+302.2.2 = {
+	holder = 1012564
+}
+
+341.2.1 = {
+	liege = k_waleth
+}
+
+341.2.2 = {
+	holder = 1012836
+}
+
+344.2.1 = {
+	holder = 1014735
+}
+
+347.2.1 = {
+	holder = 1016209
+}
+
+500.2.1 = {
+	holder = 1025059
+}
+
+500.2.2 = {
+	holder = 1027821
+}
+
+600.2.1 = {
+	holder = 1033595
+}
+
+651.2.1 = {
+	holder = 1035294
+}
+
+667.2.1 = {
+	liege = 0
+}
+
+667.2.2 = {
+	holder = 1038777
+}
+
+668.2.1 = {
+	holder = 1037069
+}
+
+668.2.2 = {
+	holder = 1038042
+}
+
+669.2.1 = {
+	holder = 1038884
+}
+
+669.2.2 = {
+	liege = k_lugat
+}
+
+682.2.1 = {
+	liege = d_tacory
+}
+
+698.2.1 = {
+	holder = 1037909
+}
+
+698.2.2 = {
+	liege = k_lugat
+}
+
+698.2.3 = {
+	holder = 1040597
+}
+

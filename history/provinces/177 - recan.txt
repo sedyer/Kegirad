@@ -1,0 +1,5 @@
+	title = c_recan
+	max_settlements = 2
+	culture = stacik
+	religion = tedusa
+	b_nsaka = tribal

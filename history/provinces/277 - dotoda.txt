@@ -1,0 +1,9 @@
+	title = c_dotoda
+	max_settlements = 4
+	culture = borama
+	religion = agrakma
+	b_qrunen = tribal
+264.4.1 = {
+	culture = ryyab
+}
+

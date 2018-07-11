@@ -1,0 +1,17 @@
+	title = c_bavick
+	max_settlements = 7
+	culture = dlebe
+	religion = ninala
+	b_qakesha = tribal
+219.3.1 = {
+	religion = tluku
+}
+
+291.3.1 = {
+	religion = rerech
+}
+
+680.4.1 = {
+	culture = wlick
+}
+

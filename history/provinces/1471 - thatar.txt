@@ -1,0 +1,13 @@
+	title = c_thatar
+	max_settlements = 3
+	culture = linian
+	religion = ricily
+	b_katna = tribal
+410.3.1 = {
+	religion = rni
+}
+
+480.4.1 = {
+	culture = talin
+}
+

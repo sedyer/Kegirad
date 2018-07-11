@@ -1,0 +1,206 @@
+200.2.1 = {
+	holder = 1000007
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1000034
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	holder = 1001819
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+200.2.4 = {
+	liege = d_rrani
+}
+
+200.2.5 = {
+	holder = 1001820
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.6 = {
+	holder = 1001817
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+205.2.1 = {
+	holder = 1003580
+}
+
+300.2.1 = {
+	holder = 1010761
+}
+
+322.2.1 = {
+	holder = 1014280
+}
+
+364.2.1 = {
+	holder = 1017564
+}
+
+403.2.1 = {
+	liege = d_qalan
+}
+
+403.2.2 = {
+	liege = 0
+}
+
+407.2.1 = {
+	liege = d_qalan
+}
+
+407.2.2 = {
+	liege = 0
+}
+
+411.2.1 = {
+	holder = 1018008
+}
+
+412.2.1 = {
+	holder = 1021371
+}
+
+412.2.2 = {
+	liege = d_rrani
+}
+
+423.2.1 = {
+	holder = 1018008
+}
+
+432.2.1 = {
+	liege = d_qalan
+}
+
+432.2.2 = {
+	liege = 0
+}
+
+436.2.1 = {
+	holder = 1018873
+}
+
+436.2.2 = {
+	liege = k_lecacik
+}
+
+465.2.1 = {
+	liege = d_wolta
+}
+
+465.2.2 = {
+	liege = d_asutvi
+}
+
+465.2.3 = {
+	holder = 1023123
+}
+
+473.2.1 = {
+	liege = d_wpaha
+}
+
+473.2.2 = {
+	holder = 1025603
+}
+
+473.2.3 = {
+	liege = k_lecacik
+}
+
+507.2.1 = {
+	liege = d_asutvi
+}
+
+507.2.2 = {
+	liege = d_wpaha
+}
+
+507.2.3 = {
+	holder = 1027420
+}
+
+507.2.4 = {
+	liege = k_lecacik
+}
+
+507.2.5 = {
+	holder = 1028430
+}
+
+600.2.1 = {
+	holder = 1028438
+}
+
+600.2.2 = {
+	holder = 1028435
+}
+
+601.2.1 = {
+	holder = 1034348
+}
+
+601.2.2 = {
+	liege = d_akumerma
+}
+
+601.2.3 = {
+	holder = 1034812
+}
+
+653.2.1 = {
+	holder = 1034348
+}
+
+660.2.1 = {
+	liege = d_qoretti
+}
+
+660.2.2 = {
+	liege = 0
+}
+
+661.2.1 = {
+	holder = 1038420
+}
+
+661.2.2 = {
+	liege = d_akumerma
+}
+
+665.2.1 = {
+	holder = 1036758
+}
+
+665.2.2 = {
+	holder = 1038650
+}
+
+669.2.1 = {
+	holder = 1033654
+}
+
+670.2.1 = {
+	holder = 1037978
+}
+
+670.2.2 = {
+	holder = 1038961
+}
+
+672.2.1 = {
+	holder = 1039015
+}
+

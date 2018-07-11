@@ -1,0 +1,5 @@
+	title = c_rousba
+	max_settlements = 6
+	culture = krance
+	religion = rgance
+	b_qliibma = tribal

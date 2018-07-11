@@ -1,0 +1,9 @@
+	title = c_kinunla
+	max_settlements = 2
+	culture = nemojan
+	religion = ricily
+	b_aribel = tribal
+543.4.1 = {
+	culture = elada
+}
+

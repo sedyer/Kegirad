@@ -1,0 +1,37 @@
+	title = c_atolaud
+	max_settlements = 7
+	culture = tujeth
+	religion = kanyo
+	b_ramada = tribal
+355.3.1 = {
+	religion = wsosro
+}
+
+377.3.1 = {
+	religion = emonurga
+}
+
+384.3.1 = {
+	religion = wsosro
+}
+
+398.3.1 = {
+	religion = emonurga
+}
+
+415.3.1 = {
+	religion = wsosro
+}
+
+419.3.1 = {
+	religion = emonurga
+}
+
+426.3.1 = {
+	religion = wsosro
+}
+
+522.3.1 = {
+	religion = kanyo
+}
+

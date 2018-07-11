@@ -1,0 +1,13 @@
+	title = c_karay
+	max_settlements = 2
+	culture = qmaraja
+	religion = rerech
+	b_rariwoj = tribal
+303.3.1 = {
+	religion = abonyi
+}
+
+469.4.1 = {
+	culture = qusala
+}
+

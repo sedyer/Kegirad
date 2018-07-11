@@ -1,0 +1,5 @@
+	title = c_balani
+	max_settlements = 7
+	culture = rresa
+	religion = emonurga
+	b_rosius = tribal

@@ -1,0 +1,13 @@
+	title = c_kamada
+	max_settlements = 2
+	culture = dsien
+	religion = rerech
+	b_rorory = tribal
+363.3.1 = {
+	religion = wsosro
+}
+
+591.4.1 = {
+	culture = adietech
+}
+

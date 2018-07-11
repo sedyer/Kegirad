@@ -1,0 +1,214 @@
+200.2.1 = {
+	holder = 1000000
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000090
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_alasha
+}
+
+200.2.4 = {
+	holder = 1000089
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+228.2.1 = {
+	holder = 1003448
+}
+
+238.2.1 = {
+	holder = 1005930
+}
+
+303.2.1 = {
+	holder = 1009936
+}
+
+308.2.1 = {
+	liege = d_qeous
+}
+
+308.2.2 = {
+	holder = 1012706
+}
+
+308.2.3 = {
+	liege = d_alasha
+}
+
+309.2.1 = {
+	liege = d_qeous
+}
+
+309.2.2 = {
+	holder = 1011819
+}
+
+309.2.3 = {
+	liege = k_bolivai
+}
+
+317.2.1 = {
+	liege = d_alasha
+}
+
+317.2.2 = {
+	liege = d_qeous
+}
+
+317.2.3 = {
+	holder = 1009520
+}
+
+317.2.4 = {
+	liege = k_bolivai
+}
+
+327.2.1 = {
+	liege = d_drael
+}
+
+327.2.2 = {
+	holder = 1011619
+}
+
+329.2.1 = {
+	holder = 1013139
+}
+
+330.2.1 = {
+	holder = 1014890
+}
+
+355.2.1 = {
+	holder = 1016826
+}
+
+359.2.1 = {
+	holder = 1016600
+}
+
+383.2.1 = {
+	holder = 1018190
+}
+
+403.2.1 = {
+	holder = 1019086
+}
+
+403.2.2 = {
+	holder = 1020700
+}
+
+500.2.1 = {
+	holder = 1026842
+}
+
+514.2.1 = {
+	holder = 1025928
+}
+
+527.2.1 = {
+	holder = 1027289
+}
+
+532.2.1 = {
+	holder = 1029858
+}
+
+537.2.1 = {
+	holder = 1027652
+}
+
+542.2.1 = {
+	holder = 1028980
+}
+
+547.2.1 = {
+	holder = 1030764
+}
+
+552.2.1 = {
+	holder = 1030762
+}
+
+593.2.1 = {
+	liege = d_alasha
+}
+
+593.2.2 = {
+	holder = 1032930
+}
+
+593.2.3 = {
+	liege = k_bolivai
+}
+
+595.2.1 = {
+	liege = d_drael
+}
+
+595.2.2 = {
+	liege = d_alasha
+}
+
+595.2.3 = {
+	holder = 1028983
+}
+
+595.2.4 = {
+	liege = k_bolivai
+}
+
+597.2.1 = {
+	liege = d_drael
+}
+
+597.2.2 = {
+	liege = d_dyee
+}
+
+597.2.3 = {
+	holder = 1034180
+}
+
+597.2.4 = {
+	liege = k_bolivai
+}
+
+599.2.1 = {
+	liege = d_alasha
+}
+
+599.2.2 = {
+	liege = d_drael
+}
+
+599.2.3 = {
+	holder = 1027658
+}
+
+600.2.1 = {
+	holder = 1031377
+}
+
+600.2.2 = {
+	holder = 1034504
+}
+
+700.2.1 = {
+	holder = 1034510
+}
+
+700.2.2 = {
+	holder = 1034508
+}
+

@@ -1,0 +1,5 @@
+	title = c_rdert
+	max_settlements = 2
+	culture = stacik
+	religion = tedusa
+	b_tsoanes = tribal

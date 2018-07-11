@@ -1,0 +1,5 @@
+	title = c_laviggu
+	max_settlements = 7
+	culture = kliz
+	religion = tluku
+	b_nirat = tribal

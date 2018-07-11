@@ -1,0 +1,9 @@
+	title = c_dyuta
+	max_settlements = 2
+	culture = ranjada
+	religion = ticojan
+	b_esiyan = tribal
+285.4.1 = {
+	culture = kerada
+}
+

@@ -1,0 +1,5 @@
+	title = c_qiiega
+	max_settlements = 2
+	culture = woumner
+	religion = wozine
+	b_taured = tribal

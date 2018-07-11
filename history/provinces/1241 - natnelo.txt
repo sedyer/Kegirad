@@ -1,0 +1,9 @@
+	title = c_natnelo
+	max_settlements = 3
+	culture = nemojan
+	religion = ricily
+	b_sleya = tribal
+355.4.1 = {
+	culture = batna
+}
+

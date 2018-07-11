@@ -1,0 +1,17 @@
+	title = c_dimad
+	max_settlements = 2
+	culture = kujacob
+	religion = echukas
+	b_lileem = tribal
+476.3.1 = {
+	religion = wozine
+}
+
+546.3.1 = {
+	religion = echukas
+}
+
+560.4.1 = {
+	culture = kamat
+}
+

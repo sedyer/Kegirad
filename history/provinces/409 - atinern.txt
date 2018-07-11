@@ -1,0 +1,25 @@
+	title = c_atinern
+	max_settlements = 5
+	culture = dukanos
+	religion = emonurga
+	b_rraria = tribal
+245.3.1 = {
+	religion = rerech
+}
+
+255.3.1 = {
+	religion = emonurga
+}
+
+262.3.1 = {
+	religion = rerech
+}
+
+290.3.1 = {
+	religion = emonurga
+}
+
+582.3.1 = {
+	religion = kanyo
+}
+

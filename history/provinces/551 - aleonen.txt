@@ -1,0 +1,53 @@
+	title = c_aleonen
+	max_settlements = 2
+	culture = qsuthe
+	religion = rerech
+	b_tolutus = tribal
+226.3.1 = {
+	religion = kanyo
+}
+
+232.3.1 = {
+	religion = rerech
+}
+
+238.3.1 = {
+	religion = kanyo
+}
+
+240.3.1 = {
+	religion = rerech
+}
+
+245.3.1 = {
+	religion = kanyo
+}
+
+268.3.1 = {
+	religion = rerech
+}
+
+273.3.1 = {
+	religion = kanyo
+}
+
+274.3.1 = {
+	religion = rerech
+}
+
+277.3.1 = {
+	religion = kanyo
+}
+
+293.3.1 = {
+	religion = rerech
+}
+
+334.3.1 = {
+	religion = kanyo
+}
+
+472.3.1 = {
+	religion = emonurga
+}
+

@@ -1,0 +1,17 @@
+	title = c_katna
+	max_settlements = 2
+	culture = eleer
+	religion = ricily
+	b_qhimayi = tribal
+362.3.1 = {
+	religion = rni
+}
+
+423.4.1 = {
+	culture = talin
+}
+
+535.4.1 = {
+	culture = sakiz
+}
+

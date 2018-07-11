@@ -1,0 +1,13 @@
+	title = c_dobhah
+	max_settlements = 4
+	culture = rtius
+	religion = rerech
+	b_rsaud = tribal
+216.3.1 = {
+	religion = wsosro
+}
+
+265.4.1 = {
+	culture = adietech
+}
+

@@ -1,0 +1,5 @@
+	title = c_ridur
+	max_settlements = 2
+	culture = balilof
+	religion = ricily
+	b_bogilof = tribal

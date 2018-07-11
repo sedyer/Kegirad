@@ -1,0 +1,29 @@
+	title = c_sodius
+	max_settlements = 3
+	culture = adietech
+	religion = wsosro
+	b_tmada = tribal
+489.3.1 = {
+	religion = rni
+}
+
+520.3.1 = {
+	religion = wsosro
+}
+
+545.3.1 = {
+	religion = rni
+}
+
+548.3.1 = {
+	religion = wsosro
+}
+
+558.3.1 = {
+	religion = rni
+}
+
+567.3.1 = {
+	religion = wsosro
+}
+

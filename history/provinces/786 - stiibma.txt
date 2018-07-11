@@ -1,0 +1,5 @@
+	title = c_stiibma
+	max_settlements = 2
+	culture = tiiriz
+	religion = ninala
+	b_wtilu = tribal

@@ -1,0 +1,5 @@
+	title = c_beod
+	max_settlements = 7
+	culture = adietech
+	religion = wsosro
+	b_asutoba = tribal

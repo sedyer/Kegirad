@@ -1,0 +1,390 @@
+200.2.1 = {
+	holder = 1000003
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1000323
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+200.2.3 = {
+	liege = d_bra
+}
+
+200.2.4 = {
+	holder = 1000321
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+300.2.1 = {
+	holder = 1007825
+}
+
+303.2.1 = {
+	holder = 1009553
+}
+
+319.2.1 = {
+	holder = 1008529
+}
+
+324.2.1 = {
+	holder = 1011543
+}
+
+344.2.1 = {
+	holder = 1014566
+}
+
+347.2.1 = {
+	holder = 1015055
+}
+
+372.2.1 = {
+	holder = 1015103
+}
+
+399.2.1 = {
+	holder = 1018294
+}
+
+415.2.1 = {
+	liege = k_dararet
+}
+
+415.2.2 = {
+	holder = 1020783
+}
+
+443.2.1 = {
+	liege = d_taris
+}
+
+443.2.2 = {
+	liege = d_rirode
+}
+
+443.2.3 = {
+	holder = 1022108
+}
+
+445.2.1 = {
+	holder = 1016439
+}
+
+457.2.1 = {
+	holder = 1024635
+}
+
+493.2.1 = {
+	holder = 1025538
+}
+
+497.2.1 = {
+	holder = 1026127
+}
+
+498.2.1 = {
+	holder = 1023252
+}
+
+502.2.1 = {
+	holder = 1028043
+}
+
+521.2.1 = {
+	holder = 1028260
+}
+
+559.2.1 = {
+	liege = d_nirelie
+}
+
+559.2.2 = {
+	holder = 1029475
+}
+
+561.2.1 = {
+	liege = d_rirode
+}
+
+561.2.2 = {
+	holder = 1031391
+}
+
+561.2.3 = {
+	liege = k_lirew
+}
+
+562.2.1 = {
+	holder = 1032048
+}
+
+593.2.1 = {
+	liege = d_dogech
+}
+
+609.2.1 = {
+	holder = 1034113
+}
+
+614.2.1 = {
+	holder = 1032647
+}
+
+615.2.1 = {
+	liege = d_blind
+}
+
+615.2.2 = {
+	liege = k_katoaz
+}
+
+616.2.1 = {
+	liege = d_blind
+}
+
+616.2.2 = {
+	liege = k_eloshe
+}
+
+617.2.1 = {
+	liege = d_blind
+}
+
+617.2.2 = {
+	liege = k_eloshe
+}
+
+618.2.1 = {
+	liege = d_blind
+}
+
+618.2.2 = {
+	liege = k_eloshe
+}
+
+619.2.1 = {
+	liege = d_blind
+}
+
+619.2.2 = {
+	liege = k_eloshe
+}
+
+620.2.1 = {
+	liege = d_blind
+}
+
+620.2.2 = {
+	liege = k_eloshe
+}
+
+621.2.1 = {
+	liege = d_blind
+}
+
+621.2.2 = {
+	liege = k_eloshe
+}
+
+622.2.1 = {
+	liege = d_blind
+}
+
+622.2.2 = {
+	liege = k_eloshe
+}
+
+623.2.1 = {
+	liege = d_blind
+}
+
+623.2.2 = {
+	liege = k_eloshe
+}
+
+624.2.1 = {
+	liege = d_blind
+}
+
+624.2.2 = {
+	liege = k_eloshe
+}
+
+625.2.1 = {
+	liege = d_blind
+}
+
+625.2.2 = {
+	liege = k_eloshe
+}
+
+626.2.1 = {
+	liege = d_blind
+}
+
+626.2.2 = {
+	liege = k_eloshe
+}
+
+627.2.1 = {
+	liege = d_blind
+}
+
+627.2.2 = {
+	liege = k_eloshe
+}
+
+628.2.1 = {
+	liege = d_blind
+}
+
+628.2.2 = {
+	liege = k_eloshe
+}
+
+629.2.1 = {
+	liege = d_blind
+}
+
+629.2.2 = {
+	liege = k_eloshe
+}
+
+630.2.1 = {
+	liege = d_blind
+}
+
+630.2.2 = {
+	liege = k_eloshe
+}
+
+631.2.1 = {
+	liege = d_blind
+}
+
+631.2.2 = {
+	liege = k_eloshe
+}
+
+632.2.1 = {
+	liege = d_blind
+}
+
+632.2.2 = {
+	liege = k_eloshe
+}
+
+633.2.1 = {
+	liege = d_blind
+}
+
+633.2.2 = {
+	liege = k_eloshe
+}
+
+634.2.1 = {
+	liege = d_blind
+}
+
+634.2.2 = {
+	liege = k_eloshe
+}
+
+635.2.1 = {
+	liege = d_blind
+}
+
+635.2.2 = {
+	liege = k_eloshe
+}
+
+636.2.1 = {
+	liege = d_blind
+}
+
+636.2.2 = {
+	liege = k_eloshe
+}
+
+637.2.1 = {
+	liege = d_blind
+}
+
+637.2.2 = {
+	liege = k_eloshe
+}
+
+638.2.1 = {
+	liege = d_blind
+}
+
+638.2.2 = {
+	liege = k_eloshe
+}
+
+639.2.1 = {
+	liege = d_blind
+}
+
+639.2.2 = {
+	liege = k_eloshe
+}
+
+640.2.1 = {
+	liege = d_etoba
+}
+
+640.2.2 = {
+	liege = d_blind
+}
+
+640.2.3 = {
+	liege = k_eloshe
+}
+
+641.2.1 = {
+	liege = 0
+}
+
+641.2.2 = {
+	holder = 1036351
+}
+
+641.2.3 = {
+	holder = 1037280
+}
+
+641.2.4 = {
+	liege = k_bolivai
+}
+
+641.2.5 = {
+	liege = k_bopius
+}
+
+641.2.6 = {
+	holder = 1033596
+}
+
+641.2.7 = {
+	holder = 1037282
+}
+
+662.2.1 = {
+	holder = 1038374
+}
+
+681.2.1 = {
+	liege = d_kpind
+}
+
+681.2.2 = {
+	holder = 1039308
+}
+

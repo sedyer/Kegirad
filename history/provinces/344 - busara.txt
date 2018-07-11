@@ -1,0 +1,13 @@
+	title = c_busara
+	max_settlements = 2
+	culture = qusala
+	religion = rerech
+	b_qazevi = tribal
+200.3.1 = {
+	religion = abonyi
+}
+
+667.4.1 = {
+	culture = kanaha
+}
+

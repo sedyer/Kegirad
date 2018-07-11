@@ -1,0 +1,9 @@
+	title = c_talimus
+	max_settlements = 4
+	culture = beth
+	religion = emonurga
+	b_rudesa = tribal
+379.4.1 = {
+	culture = rresa
+}
+

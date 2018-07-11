@@ -1,0 +1,37 @@
+	title = c_rigew
+	max_settlements = 2
+	culture = wsaka
+	religion = agamel
+	b_koretti = tribal
+203.3.1 = {
+	religion = tedusa
+}
+
+207.3.1 = {
+	religion = agamel
+}
+
+218.3.1 = {
+	religion = tedusa
+}
+
+219.3.1 = {
+	religion = agamel
+}
+
+222.3.1 = {
+	religion = tedusa
+}
+
+241.3.1 = {
+	religion = agamel
+}
+
+331.4.1 = {
+	culture = alert
+}
+
+560.4.1 = {
+	culture = wsaka
+}
+

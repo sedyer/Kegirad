@@ -1,0 +1,49 @@
+	title = c_wodius
+	max_settlements = 2
+	culture = dogugis
+	religion = ninala
+	b_rlaud = tribal
+222.3.1 = {
+	religion = wsosro
+}
+
+343.3.1 = {
+	religion = kmemar
+}
+
+401.4.1 = {
+	culture = eiremar
+}
+
+452.3.1 = {
+	religion = wsosro
+}
+
+455.3.1 = {
+	religion = kmemar
+}
+
+455.3.1 = {
+	religion = wsosro
+}
+
+465.3.1 = {
+	religion = kmemar
+}
+
+465.3.1 = {
+	religion = wsosro
+}
+
+494.3.1 = {
+	religion = rni
+}
+
+532.3.1 = {
+	religion = ninala
+}
+
+548.3.1 = {
+	religion = kmemar
+}
+

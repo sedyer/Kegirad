@@ -1,0 +1,9 @@
+	title = c_karevi
+	max_settlements = 2
+	culture = qibemas
+	religion = abonyi
+	b_tusilia = tribal
+444.4.1 = {
+	culture = batanes
+}
+

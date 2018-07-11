@@ -1,0 +1,25 @@
+	title = c_naboi
+	max_settlements = 2
+	culture = wubutr
+	religion = echukas
+	b_kimudah = tribal
+212.3.1 = {
+	religion = wozine
+}
+
+230.3.1 = {
+	religion = echukas
+}
+
+235.3.1 = {
+	religion = wozine
+}
+
+243.3.1 = {
+	religion = echukas
+}
+
+252.3.1 = {
+	religion = wozine
+}
+

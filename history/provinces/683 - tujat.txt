@@ -1,0 +1,21 @@
+	title = c_tujat
+	max_settlements = 2
+	culture = lorius
+	religion = wsosro
+	b_woraud = tribal
+207.3.1 = {
+	religion = rerech
+}
+
+246.3.1 = {
+	religion = wsosro
+}
+
+264.3.1 = {
+	religion = rerech
+}
+
+294.3.1 = {
+	religion = wsosro
+}
+

@@ -1,0 +1,13 @@
+	title = c_rataya
+	max_settlements = 2
+	culture = balilof
+	religion = ticojan
+	b_niubuha = tribal
+221.3.1 = {
+	religion = rni
+}
+
+269.3.1 = {
+	religion = ticojan
+}
+

@@ -1,0 +1,58 @@
+200.2.1 = {
+	holder = 1000681
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	liege = k_akakin
+}
+
+234.2.1 = {
+	holder = 1003167
+}
+
+239.2.1 = {
+	holder = 1006662
+}
+
+256.2.1 = {
+	holder = 1003772
+}
+
+256.2.2 = {
+	holder = 1008442
+}
+
+257.2.1 = {
+	liege = 0
+}
+
+272.2.1 = {
+	holder = 1006662
+}
+
+288.2.1 = {
+	holder = 1006662
+}
+
+288.2.2 = {
+	liege = k_dakarda
+}
+
+288.2.3 = {
+	liege = 0
+}
+
+346.2.1 = {
+	holder = 1012007
+}
+
+346.2.2 = {
+	liege = k_dakarda
+}
+
+346.2.3 = {
+	liege = 0
+}
+

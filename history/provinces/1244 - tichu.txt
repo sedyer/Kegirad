@@ -1,0 +1,17 @@
+	title = c_tichu
+	max_settlements = 2
+	culture = batna
+	religion = ricily
+	b_avinuald = tribal
+321.3.1 = {
+	religion = rni
+}
+
+531.3.1 = {
+	religion = emonurga
+}
+
+667.3.1 = {
+	religion = ricily
+}
+

@@ -1,0 +1,29 @@
+	title = c_rilen
+	max_settlements = 2
+	culture = relita
+	religion = echukas
+	b_ehilen = tribal
+259.3.1 = {
+	religion = wozine
+}
+
+283.3.1 = {
+	religion = echukas
+}
+
+298.3.1 = {
+	religion = wozine
+}
+
+325.4.1 = {
+	culture = namuthe
+}
+
+612.3.1 = {
+	religion = wering
+}
+
+628.4.1 = {
+	culture = waurat
+}
+

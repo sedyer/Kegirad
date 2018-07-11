@@ -1,0 +1,9 @@
+	title = c_telacob
+	max_settlements = 2
+	culture = ejoanel
+	religion = emonurga
+	b_qamat = tribal
+203.3.1 = {
+	religion = echukas
+}
+

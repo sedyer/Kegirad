@@ -1,0 +1,13 @@
+	title = c_nyua
+	max_settlements = 2
+	culture = ricepan
+	religion = ticojan
+	b_qinein = tribal
+205.3.1 = {
+	religion = rni
+}
+
+208.3.1 = {
+	religion = ticojan
+}
+

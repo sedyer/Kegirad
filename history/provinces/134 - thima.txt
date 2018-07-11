@@ -1,0 +1,13 @@
+	title = c_thima
+	max_settlements = 2
+	culture = waurat
+	religion = echukas
+	b_ronah = tribal
+353.3.1 = {
+	religion = wozine
+}
+
+602.4.1 = {
+	culture = namuthe
+}
+

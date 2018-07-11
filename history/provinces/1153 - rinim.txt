@@ -1,0 +1,9 @@
+	title = c_rinim
+	max_settlements = 3
+	culture = batna
+	religion = ricily
+	b_qatleer = tribal
+298.4.1 = {
+	culture = scachi
+}
+

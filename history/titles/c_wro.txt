@@ -1,0 +1,1688 @@
+200.2.1 = {
+	holder = 1000022
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000024
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	holder = 1001363
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.4 = {
+	liege = d_taithe
+}
+
+200.2.5 = {
+	liege = d_kgovit
+}
+
+200.2.6 = {
+	holder = 1001383
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+208.2.1 = {
+	holder = 1002150
+}
+
+253.2.1 = {
+	liege = d_efilun
+}
+
+253.2.2 = {
+	holder = 1003241
+}
+
+254.2.1 = {
+	holder = 1008312
+}
+
+261.2.1 = {
+	holder = 1002664
+}
+
+270.2.1 = {
+	holder = 1009224
+}
+
+271.2.1 = {
+	holder = 1008455
+}
+
+300.2.1 = {
+	holder = 1012363
+}
+
+400.2.1 = {
+	holder = 1017016
+}
+
+400.2.2 = {
+	holder = 1020403
+}
+
+427.2.1 = {
+	holder = 1021288
+}
+
+428.2.1 = {
+	liege = d_beitiga
+}
+
+428.2.2 = {
+	liege = k_tsahid
+}
+
+429.2.1 = {
+	liege = d_beitiga
+}
+
+429.2.2 = {
+	liege = k_tsahid
+}
+
+430.2.1 = {
+	liege = d_beitiga
+}
+
+430.2.2 = {
+	liege = k_tsahid
+}
+
+431.2.1 = {
+	liege = d_beitiga
+}
+
+431.2.2 = {
+	liege = k_tsahid
+}
+
+432.2.1 = {
+	liege = d_beitiga
+}
+
+432.2.2 = {
+	liege = k_tsahid
+}
+
+433.2.1 = {
+	liege = d_beitiga
+}
+
+433.2.2 = {
+	liege = k_tsahid
+}
+
+434.2.1 = {
+	liege = d_beitiga
+}
+
+434.2.2 = {
+	liege = k_tsahid
+}
+
+435.2.1 = {
+	liege = d_beitiga
+}
+
+435.2.2 = {
+	liege = k_tsahid
+}
+
+436.2.1 = {
+	liege = d_beitiga
+}
+
+436.2.2 = {
+	liege = k_tsahid
+}
+
+437.2.1 = {
+	liege = d_beitiga
+}
+
+437.2.2 = {
+	liege = k_tsahid
+}
+
+438.2.1 = {
+	liege = d_beitiga
+}
+
+438.2.2 = {
+	liege = k_tsahid
+}
+
+439.2.1 = {
+	liege = d_beitiga
+}
+
+439.2.2 = {
+	liege = k_tsahid
+}
+
+440.2.1 = {
+	liege = d_beitiga
+}
+
+440.2.2 = {
+	liege = k_relovit
+}
+
+441.2.1 = {
+	liege = d_beitiga
+}
+
+441.2.2 = {
+	liege = k_relovit
+}
+
+442.2.1 = {
+	liege = d_beitiga
+}
+
+442.2.2 = {
+	liege = k_relovit
+}
+
+443.2.1 = {
+	liege = d_beitiga
+}
+
+443.2.2 = {
+	liege = k_relovit
+}
+
+444.2.1 = {
+	liege = d_beitiga
+}
+
+444.2.2 = {
+	liege = k_relovit
+}
+
+445.2.1 = {
+	liege = d_beitiga
+}
+
+445.2.2 = {
+	liege = k_relovit
+}
+
+446.2.1 = {
+	liege = d_beitiga
+}
+
+446.2.2 = {
+	liege = k_relovit
+}
+
+447.2.1 = {
+	liege = d_beitiga
+}
+
+447.2.2 = {
+	liege = k_relovit
+}
+
+448.2.1 = {
+	liege = d_beitiga
+}
+
+448.2.2 = {
+	liege = k_relovit
+}
+
+448.2.3 = {
+	holder = 1023990
+}
+
+449.2.1 = {
+	liege = d_beitiga
+}
+
+449.2.2 = {
+	liege = k_relovit
+}
+
+450.2.1 = {
+	liege = d_beitiga
+}
+
+450.2.2 = {
+	liege = k_relovit
+}
+
+451.2.1 = {
+	liege = d_beitiga
+}
+
+451.2.2 = {
+	liege = k_relovit
+}
+
+452.2.1 = {
+	liege = d_beitiga
+}
+
+452.2.2 = {
+	liege = k_relovit
+}
+
+453.2.1 = {
+	liege = d_beitiga
+}
+
+453.2.2 = {
+	liege = k_relovit
+}
+
+454.2.1 = {
+	liege = d_beitiga
+}
+
+454.2.2 = {
+	liege = k_relovit
+}
+
+454.2.3 = {
+	holder = 1024460
+}
+
+455.2.1 = {
+	liege = d_beitiga
+}
+
+455.2.2 = {
+	liege = k_relovit
+}
+
+456.2.1 = {
+	liege = d_beitiga
+}
+
+456.2.2 = {
+	liege = k_relovit
+}
+
+457.2.1 = {
+	liege = d_beitiga
+}
+
+457.2.2 = {
+	liege = k_relovit
+}
+
+458.2.1 = {
+	liege = d_beitiga
+}
+
+458.2.2 = {
+	liege = k_relovit
+}
+
+459.2.1 = {
+	liege = d_beitiga
+}
+
+459.2.2 = {
+	liege = k_relovit
+}
+
+460.2.1 = {
+	liege = d_beitiga
+}
+
+460.2.2 = {
+	liege = k_tsahid
+}
+
+461.2.1 = {
+	liege = d_beitiga
+}
+
+461.2.2 = {
+	liege = k_tsahid
+}
+
+462.2.1 = {
+	liege = d_beitiga
+}
+
+462.2.2 = {
+	liege = k_tsahid
+}
+
+463.2.1 = {
+	liege = d_beitiga
+}
+
+463.2.2 = {
+	liege = k_tsahid
+}
+
+464.2.1 = {
+	liege = d_beitiga
+}
+
+464.2.2 = {
+	liege = k_tsahid
+}
+
+465.2.1 = {
+	liege = d_beitiga
+}
+
+465.2.2 = {
+	liege = k_tsahid
+}
+
+466.2.1 = {
+	liege = d_beitiga
+}
+
+466.2.2 = {
+	liege = k_tsahid
+}
+
+467.2.1 = {
+	liege = d_beitiga
+}
+
+467.2.2 = {
+	liege = k_tsahid
+}
+
+468.2.1 = {
+	liege = d_beitiga
+}
+
+468.2.2 = {
+	liege = k_tsahid
+}
+
+469.2.1 = {
+	liege = d_beitiga
+}
+
+469.2.2 = {
+	liege = k_tsahid
+}
+
+470.2.1 = {
+	liege = d_beitiga
+}
+
+470.2.2 = {
+	liege = k_tsahid
+}
+
+471.2.1 = {
+	liege = d_beitiga
+}
+
+471.2.2 = {
+	liege = k_tsahid
+}
+
+472.2.1 = {
+	liege = d_beitiga
+}
+
+472.2.2 = {
+	liege = k_tsahid
+}
+
+473.2.1 = {
+	liege = d_beitiga
+}
+
+473.2.2 = {
+	liege = k_tsahid
+}
+
+474.2.1 = {
+	liege = d_beitiga
+}
+
+474.2.2 = {
+	liege = k_tsahid
+}
+
+475.2.1 = {
+	liege = d_beitiga
+}
+
+475.2.2 = {
+	liege = k_tsahid
+}
+
+476.2.1 = {
+	liege = d_beitiga
+}
+
+476.2.2 = {
+	liege = k_tsahid
+}
+
+477.2.1 = {
+	liege = d_beitiga
+}
+
+477.2.2 = {
+	liege = k_tsahid
+}
+
+478.2.1 = {
+	liege = d_beitiga
+}
+
+478.2.2 = {
+	liege = k_tsahid
+}
+
+479.2.1 = {
+	liege = d_beitiga
+}
+
+479.2.2 = {
+	liege = k_tsahid
+}
+
+480.2.1 = {
+	liege = d_beitiga
+}
+
+480.2.2 = {
+	liege = k_relovit
+}
+
+481.2.1 = {
+	liege = d_beitiga
+}
+
+481.2.2 = {
+	liege = k_relovit
+}
+
+482.2.1 = {
+	liege = d_beitiga
+}
+
+482.2.2 = {
+	liege = k_relovit
+}
+
+483.2.1 = {
+	liege = d_beitiga
+}
+
+483.2.2 = {
+	liege = k_relovit
+}
+
+484.2.1 = {
+	liege = d_beitiga
+}
+
+484.2.2 = {
+	liege = k_relovit
+}
+
+485.2.1 = {
+	liege = d_beitiga
+}
+
+485.2.2 = {
+	liege = k_relovit
+}
+
+486.2.1 = {
+	liege = d_beitiga
+}
+
+486.2.2 = {
+	liege = k_relovit
+}
+
+487.2.1 = {
+	liege = d_beitiga
+}
+
+487.2.2 = {
+	liege = k_relovit
+}
+
+488.2.1 = {
+	liege = d_beitiga
+}
+
+488.2.2 = {
+	liege = k_relovit
+}
+
+489.2.1 = {
+	liege = d_beitiga
+}
+
+489.2.2 = {
+	liege = k_relovit
+}
+
+490.2.1 = {
+	liege = d_beitiga
+}
+
+490.2.2 = {
+	liege = k_relovit
+}
+
+491.2.1 = {
+	liege = d_beitiga
+}
+
+491.2.2 = {
+	liege = k_relovit
+}
+
+491.2.3 = {
+	holder = 1024624
+}
+
+492.2.1 = {
+	liege = d_beitiga
+}
+
+492.2.2 = {
+	liege = k_relovit
+}
+
+493.2.1 = {
+	liege = d_beitiga
+}
+
+493.2.2 = {
+	liege = k_relovit
+}
+
+494.2.1 = {
+	liege = d_beitiga
+}
+
+494.2.2 = {
+	liege = k_relovit
+}
+
+495.2.1 = {
+	liege = d_beitiga
+}
+
+495.2.2 = {
+	liege = k_relovit
+}
+
+496.2.1 = {
+	liege = d_beitiga
+}
+
+496.2.2 = {
+	liege = k_relovit
+}
+
+497.2.1 = {
+	liege = d_beitiga
+}
+
+497.2.2 = {
+	liege = k_relovit
+}
+
+498.2.1 = {
+	liege = d_beitiga
+}
+
+498.2.2 = {
+	liege = k_relovit
+}
+
+499.2.1 = {
+	liege = d_beitiga
+}
+
+499.2.2 = {
+	liege = k_relovit
+}
+
+500.2.1 = {
+	liege = d_beitiga
+}
+
+500.2.2 = {
+	liege = k_tsahid
+}
+
+501.2.1 = {
+	liege = d_beitiga
+}
+
+501.2.2 = {
+	liege = k_tsahid
+}
+
+502.2.1 = {
+	liege = d_beitiga
+}
+
+502.2.2 = {
+	liege = k_tsahid
+}
+
+503.2.1 = {
+	liege = d_beitiga
+}
+
+503.2.2 = {
+	liege = k_tsahid
+}
+
+504.2.1 = {
+	liege = d_beitiga
+}
+
+504.2.2 = {
+	liege = k_tsahid
+}
+
+505.2.1 = {
+	liege = d_beitiga
+}
+
+505.2.2 = {
+	liege = k_tsahid
+}
+
+506.2.1 = {
+	liege = d_beitiga
+}
+
+506.2.2 = {
+	liege = k_tsahid
+}
+
+507.2.1 = {
+	liege = d_beitiga
+}
+
+507.2.2 = {
+	liege = k_tsahid
+}
+
+508.2.1 = {
+	liege = d_beitiga
+}
+
+508.2.2 = {
+	liege = k_tsahid
+}
+
+509.2.1 = {
+	liege = d_beitiga
+}
+
+509.2.2 = {
+	liege = k_tsahid
+}
+
+510.2.1 = {
+	liege = d_beitiga
+}
+
+510.2.2 = {
+	liege = k_tsahid
+}
+
+510.2.3 = {
+	holder = 1028643
+}
+
+511.2.1 = {
+	liege = d_beitiga
+}
+
+511.2.2 = {
+	liege = k_tsahid
+}
+
+512.2.1 = {
+	liege = d_beitiga
+}
+
+512.2.2 = {
+	liege = k_tsahid
+}
+
+513.2.1 = {
+	liege = d_beitiga
+}
+
+513.2.2 = {
+	liege = k_tsahid
+}
+
+514.2.1 = {
+	liege = d_beitiga
+}
+
+514.2.2 = {
+	liege = k_tsahid
+}
+
+515.2.1 = {
+	liege = d_beitiga
+}
+
+515.2.2 = {
+	liege = k_tsahid
+}
+
+516.2.1 = {
+	liege = d_beitiga
+}
+
+516.2.2 = {
+	liege = k_tsahid
+}
+
+517.2.1 = {
+	liege = d_beitiga
+}
+
+517.2.2 = {
+	liege = k_tsahid
+}
+
+518.2.1 = {
+	liege = d_beitiga
+}
+
+518.2.2 = {
+	liege = k_tsahid
+}
+
+519.2.1 = {
+	liege = d_beitiga
+}
+
+519.2.2 = {
+	liege = k_tsahid
+}
+
+520.2.1 = {
+	liege = d_beitiga
+}
+
+520.2.2 = {
+	liege = k_relovit
+}
+
+521.2.1 = {
+	liege = d_beitiga
+}
+
+521.2.2 = {
+	liege = k_relovit
+}
+
+522.2.1 = {
+	liege = d_beitiga
+}
+
+522.2.2 = {
+	liege = k_relovit
+}
+
+523.2.1 = {
+	liege = d_beitiga
+}
+
+523.2.2 = {
+	liege = k_relovit
+}
+
+523.2.3 = {
+	holder = 1028712
+}
+
+524.2.1 = {
+	liege = d_beitiga
+}
+
+524.2.2 = {
+	liege = k_relovit
+}
+
+525.2.1 = {
+	liege = d_beitiga
+}
+
+525.2.2 = {
+	liege = k_relovit
+}
+
+526.2.1 = {
+	liege = d_beitiga
+}
+
+526.2.2 = {
+	liege = k_relovit
+}
+
+527.2.1 = {
+	liege = d_beitiga
+}
+
+527.2.2 = {
+	liege = k_relovit
+}
+
+528.2.1 = {
+	liege = d_beitiga
+}
+
+528.2.2 = {
+	liege = k_relovit
+}
+
+529.2.1 = {
+	liege = d_beitiga
+}
+
+529.2.2 = {
+	liege = k_relovit
+}
+
+530.2.1 = {
+	liege = d_beitiga
+}
+
+530.2.2 = {
+	liege = k_relovit
+}
+
+531.2.1 = {
+	liege = d_beitiga
+}
+
+531.2.2 = {
+	liege = k_relovit
+}
+
+532.2.1 = {
+	liege = d_beitiga
+}
+
+532.2.2 = {
+	liege = k_relovit
+}
+
+533.2.1 = {
+	liege = d_beitiga
+}
+
+533.2.2 = {
+	liege = k_relovit
+}
+
+534.2.1 = {
+	liege = d_beitiga
+}
+
+534.2.2 = {
+	liege = k_relovit
+}
+
+535.2.1 = {
+	liege = d_beitiga
+}
+
+535.2.2 = {
+	liege = k_relovit
+}
+
+536.2.1 = {
+	liege = d_beitiga
+}
+
+536.2.2 = {
+	liege = k_relovit
+}
+
+537.2.1 = {
+	liege = d_beitiga
+}
+
+537.2.2 = {
+	liege = k_relovit
+}
+
+538.2.1 = {
+	liege = d_beitiga
+}
+
+538.2.2 = {
+	liege = k_relovit
+}
+
+539.2.1 = {
+	liege = d_beitiga
+}
+
+539.2.2 = {
+	liege = k_relovit
+}
+
+540.2.1 = {
+	liege = d_beitiga
+}
+
+540.2.2 = {
+	liege = k_tsahid
+}
+
+541.2.1 = {
+	liege = d_beitiga
+}
+
+541.2.2 = {
+	liege = k_tsahid
+}
+
+542.2.1 = {
+	liege = d_beitiga
+}
+
+542.2.2 = {
+	liege = k_tsahid
+}
+
+543.2.1 = {
+	liege = d_beitiga
+}
+
+543.2.2 = {
+	liege = k_tsahid
+}
+
+544.2.1 = {
+	liege = d_beitiga
+}
+
+544.2.2 = {
+	liege = k_tsahid
+}
+
+545.2.1 = {
+	liege = d_beitiga
+}
+
+545.2.2 = {
+	liege = k_tsahid
+}
+
+546.2.1 = {
+	liege = d_beitiga
+}
+
+546.2.2 = {
+	liege = k_tsahid
+}
+
+547.2.1 = {
+	liege = d_beitiga
+}
+
+547.2.2 = {
+	liege = k_tsahid
+}
+
+548.2.1 = {
+	liege = d_beitiga
+}
+
+548.2.2 = {
+	liege = k_tsahid
+}
+
+549.2.1 = {
+	liege = d_beitiga
+}
+
+549.2.2 = {
+	liege = k_tsahid
+}
+
+550.2.1 = {
+	liege = d_beitiga
+}
+
+550.2.2 = {
+	liege = k_tsahid
+}
+
+551.2.1 = {
+	liege = d_beitiga
+}
+
+551.2.2 = {
+	liege = k_tsahid
+}
+
+552.2.1 = {
+	liege = d_beitiga
+}
+
+552.2.2 = {
+	liege = k_tsahid
+}
+
+553.2.1 = {
+	liege = d_beitiga
+}
+
+553.2.2 = {
+	liege = k_tsahid
+}
+
+554.2.1 = {
+	liege = d_beitiga
+}
+
+554.2.2 = {
+	liege = k_tsahid
+}
+
+555.2.1 = {
+	liege = d_beitiga
+}
+
+555.2.2 = {
+	liege = k_tsahid
+}
+
+556.2.1 = {
+	liege = d_beitiga
+}
+
+556.2.2 = {
+	liege = k_tsahid
+}
+
+557.2.1 = {
+	liege = d_beitiga
+}
+
+557.2.2 = {
+	liege = k_tsahid
+}
+
+558.2.1 = {
+	liege = d_beitiga
+}
+
+558.2.2 = {
+	liege = k_tsahid
+}
+
+559.2.1 = {
+	liege = d_beitiga
+}
+
+559.2.2 = {
+	liege = k_tsahid
+}
+
+560.2.1 = {
+	liege = d_beitiga
+}
+
+560.2.2 = {
+	liege = k_relovit
+}
+
+561.2.1 = {
+	liege = d_beitiga
+}
+
+561.2.2 = {
+	liege = k_relovit
+}
+
+562.2.1 = {
+	liege = d_beitiga
+}
+
+562.2.2 = {
+	liege = k_relovit
+}
+
+563.2.1 = {
+	liege = d_beitiga
+}
+
+563.2.2 = {
+	liege = k_relovit
+}
+
+564.2.1 = {
+	liege = d_beitiga
+}
+
+564.2.2 = {
+	liege = k_relovit
+}
+
+565.2.1 = {
+	liege = d_beitiga
+}
+
+565.2.2 = {
+	liege = k_relovit
+}
+
+566.2.1 = {
+	liege = d_beitiga
+}
+
+566.2.2 = {
+	liege = k_relovit
+}
+
+567.2.1 = {
+	liege = d_beitiga
+}
+
+567.2.2 = {
+	liege = k_relovit
+}
+
+568.2.1 = {
+	liege = d_beitiga
+}
+
+568.2.2 = {
+	liege = k_relovit
+}
+
+569.2.1 = {
+	liege = d_beitiga
+}
+
+569.2.2 = {
+	liege = k_relovit
+}
+
+570.2.1 = {
+	liege = d_beitiga
+}
+
+570.2.2 = {
+	liege = k_relovit
+}
+
+571.2.1 = {
+	liege = d_beitiga
+}
+
+571.2.2 = {
+	liege = k_relovit
+}
+
+572.2.1 = {
+	liege = d_beitiga
+}
+
+572.2.2 = {
+	liege = k_relovit
+}
+
+573.2.1 = {
+	liege = d_beitiga
+}
+
+573.2.2 = {
+	liege = k_relovit
+}
+
+574.2.1 = {
+	liege = d_beitiga
+}
+
+574.2.2 = {
+	liege = k_relovit
+}
+
+574.2.3 = {
+	holder = 1029852
+}
+
+575.2.1 = {
+	liege = d_beitiga
+}
+
+575.2.2 = {
+	liege = k_relovit
+}
+
+576.2.1 = {
+	liege = d_beitiga
+}
+
+576.2.2 = {
+	liege = k_relovit
+}
+
+577.2.1 = {
+	liege = d_beitiga
+}
+
+577.2.2 = {
+	liege = k_relovit
+}
+
+578.2.1 = {
+	liege = d_beitiga
+}
+
+578.2.2 = {
+	liege = k_relovit
+}
+
+579.2.1 = {
+	liege = d_beitiga
+}
+
+579.2.2 = {
+	liege = k_relovit
+}
+
+580.2.1 = {
+	liege = d_beitiga
+}
+
+580.2.2 = {
+	liege = k_sinahid
+}
+
+581.2.1 = {
+	liege = d_beitiga
+}
+
+581.2.2 = {
+	liege = k_sinahid
+}
+
+582.2.1 = {
+	liege = d_beitiga
+}
+
+582.2.2 = {
+	liege = k_sinahid
+}
+
+583.2.1 = {
+	liege = d_beitiga
+}
+
+583.2.2 = {
+	liege = k_sinahid
+}
+
+584.2.1 = {
+	liege = d_beitiga
+}
+
+584.2.2 = {
+	liege = k_sinahid
+}
+
+585.2.1 = {
+	liege = d_beitiga
+}
+
+585.2.2 = {
+	liege = k_sinahid
+}
+
+586.2.1 = {
+	liege = d_beitiga
+}
+
+586.2.2 = {
+	liege = k_sinahid
+}
+
+587.2.1 = {
+	liege = d_beitiga
+}
+
+587.2.2 = {
+	liege = k_sinahid
+}
+
+588.2.1 = {
+	liege = d_beitiga
+}
+
+588.2.2 = {
+	liege = k_sinahid
+}
+
+589.2.1 = {
+	liege = d_beitiga
+}
+
+589.2.2 = {
+	liege = k_sinahid
+}
+
+590.2.1 = {
+	liege = d_beitiga
+}
+
+590.2.2 = {
+	liege = k_sinahid
+}
+
+591.2.1 = {
+	holder = 1032919
+}
+
+591.2.2 = {
+	liege = d_beitiga
+}
+
+591.2.3 = {
+	liege = k_sinahid
+}
+
+592.2.1 = {
+	liege = d_beitiga
+}
+
+592.2.2 = {
+	liege = k_sinahid
+}
+
+593.2.1 = {
+	liege = d_beitiga
+}
+
+593.2.2 = {
+	liege = k_sinahid
+}
+
+594.2.1 = {
+	liege = d_beitiga
+}
+
+594.2.2 = {
+	liege = k_sinahid
+}
+
+595.2.1 = {
+	liege = d_beitiga
+}
+
+595.2.2 = {
+	liege = k_sinahid
+}
+
+596.2.1 = {
+	liege = d_beitiga
+}
+
+596.2.2 = {
+	liege = k_sinahid
+}
+
+597.2.1 = {
+	liege = d_beitiga
+}
+
+597.2.2 = {
+	liege = k_sinahid
+}
+
+598.2.1 = {
+	liege = d_beitiga
+}
+
+598.2.2 = {
+	liege = k_sinahid
+}
+
+599.2.1 = {
+	liege = d_beitiga
+}
+
+599.2.2 = {
+	liege = k_sinahid
+}
+
+600.2.1 = {
+	liege = d_beitiga
+}
+
+600.2.2 = {
+	liege = k_sinahid
+}
+
+601.2.1 = {
+	liege = d_beitiga
+}
+
+601.2.2 = {
+	liege = k_sinahid
+}
+
+602.2.1 = {
+	liege = d_beitiga
+}
+
+602.2.2 = {
+	liege = k_sinahid
+}
+
+603.2.1 = {
+	liege = d_beitiga
+}
+
+603.2.2 = {
+	liege = k_sinahid
+}
+
+604.2.1 = {
+	liege = d_beitiga
+}
+
+604.2.2 = {
+	liege = k_sinahid
+}
+
+605.2.1 = {
+	liege = d_beitiga
+}
+
+605.2.2 = {
+	liege = k_sinahid
+}
+
+606.2.1 = {
+	liege = d_beitiga
+}
+
+606.2.2 = {
+	liege = k_sinahid
+}
+
+607.2.1 = {
+	liege = d_beitiga
+}
+
+607.2.2 = {
+	liege = k_sinahid
+}
+
+608.2.1 = {
+	liege = d_beitiga
+}
+
+608.2.2 = {
+	liege = k_sinahid
+}
+
+609.2.1 = {
+	liege = d_beitiga
+}
+
+609.2.2 = {
+	liege = k_sinahid
+}
+
+610.2.1 = {
+	liege = d_beitiga
+}
+
+610.2.2 = {
+	liege = k_sinahid
+}
+
+611.2.1 = {
+	liege = d_beitiga
+}
+
+611.2.2 = {
+	liege = k_sinahid
+}
+
+612.2.1 = {
+	liege = d_beitiga
+}
+
+612.2.2 = {
+	liege = k_sinahid
+}
+
+613.2.1 = {
+	liege = d_beitiga
+}
+
+613.2.2 = {
+	liege = k_sinahid
+}
+
+614.2.1 = {
+	liege = d_beitiga
+}
+
+614.2.2 = {
+	liege = k_sinahid
+}
+
+615.2.1 = {
+	liege = d_beitiga
+}
+
+615.2.2 = {
+	liege = k_sinahid
+}
+
+616.2.1 = {
+	liege = d_beitiga
+}
+
+616.2.2 = {
+	liege = k_sinahid
+}
+
+617.2.1 = {
+	liege = d_beitiga
+}
+
+617.2.2 = {
+	liege = k_sinahid
+}
+
+618.2.1 = {
+	liege = d_beitiga
+}
+
+618.2.2 = {
+	liege = k_sinahid
+}
+
+619.2.1 = {
+	liege = d_beitiga
+}
+
+619.2.2 = {
+	liege = k_sinahid
+}
+
+620.2.1 = {
+	liege = d_beitiga
+}
+
+620.2.2 = {
+	liege = k_sinahid
+}
+
+621.2.1 = {
+	holder = 1036044
+}
+
+621.2.2 = {
+	liege = k_tineze
+}
+
+621.2.3 = {
+	holder = 1035708
+}
+
+628.2.1 = {
+	liege = k_kinyi
+}
+
+628.2.2 = {
+	holder = 1032729
+}
+
+638.2.1 = {
+	liege = 0
+}
+
+638.2.2 = {
+	holder = 1036944
+}
+
+639.2.1 = {
+	holder = 1033236
+}
+
+640.2.1 = {
+	holder = 1037228
+}
+
+640.2.2 = {
+	liege = k_sinahid
+}
+

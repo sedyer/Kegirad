@@ -1,0 +1,45 @@
+	title = c_roladi
+	max_settlements = 7
+	culture = wiragop
+	religion = bukena
+	b_bluku = tribal
+245.3.1 = {
+	religion = kanyo
+}
+
+246.3.1 = {
+	religion = bukena
+}
+
+260.3.1 = {
+	religion = kanyo
+}
+
+261.3.1 = {
+	religion = bukena
+}
+
+269.3.1 = {
+	religion = kanyo
+}
+
+277.4.1 = {
+	culture = tujeth
+}
+
+308.3.1 = {
+	religion = emonurga
+}
+
+310.3.1 = {
+	religion = kanyo
+}
+
+312.3.1 = {
+	religion = emonurga
+}
+
+313.3.1 = {
+	religion = kanyo
+}
+

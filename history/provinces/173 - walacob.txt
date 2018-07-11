@@ -1,0 +1,5 @@
+	title = c_walacob
+	max_settlements = 2
+	culture = stacik
+	religion = tedusa
+	b_atacik = tribal

@@ -1,0 +1,5 @@
+	title = c_rtosro
+	max_settlements = 5
+	culture = adietech
+	religion = wsosro
+	b_norat = tribal

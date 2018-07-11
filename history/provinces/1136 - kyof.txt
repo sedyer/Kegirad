@@ -1,0 +1,9 @@
+	title = c_kyof
+	max_settlements = 2
+	culture = suneja
+	religion = ticojan
+	b_aryi = tribal
+282.4.1 = {
+	culture = balilof
+}
+

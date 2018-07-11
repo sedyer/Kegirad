@@ -1,0 +1,25 @@
+	title = c_rolech
+	max_settlements = 2
+	culture = lorius
+	religion = rerech
+	b_tapoba = tribal
+207.3.1 = {
+	religion = tluku
+}
+
+242.4.1 = {
+	culture = bodoba
+}
+
+253.3.1 = {
+	religion = rerech
+}
+
+459.4.1 = {
+	culture = wlick
+}
+
+685.3.1 = {
+	religion = tluku
+}
+

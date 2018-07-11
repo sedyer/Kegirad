@@ -1,0 +1,17 @@
+	title = c_slaudio
+	max_settlements = 2
+	culture = eleer
+	religion = ricily
+	b_qinelo = tribal
+219.3.1 = {
+	religion = ticojan
+}
+
+318.3.1 = {
+	religion = ricily
+}
+
+391.4.1 = {
+	culture = elada
+}
+

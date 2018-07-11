@@ -1,0 +1,42 @@
+200.2.1 = {
+	holder = 1000998
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	liege = k_linaka
+}
+
+200.2.3 = {
+	liege = k_tenala
+}
+
+200.2.4 = {
+	holder = 1002134
+}
+
+201.2.1 = {
+	holder = 1003089
+}
+
+225.2.1 = {
+	holder = 1003728
+}
+
+265.2.1 = {
+	holder = 1005771
+}
+
+276.2.1 = {
+	holder = 1009779
+}
+
+283.2.1 = {
+	holder = 1010000
+}
+
+283.2.2 = {
+	liege = 0
+}
+

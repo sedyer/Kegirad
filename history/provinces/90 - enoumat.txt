@@ -1,0 +1,17 @@
+	title = c_enoumat
+	max_settlements = 2
+	culture = namuthe
+	religion = wozine
+	b_loumed = tribal
+226.3.1 = {
+	religion = echukas
+}
+
+238.3.1 = {
+	religion = wozine
+}
+
+257.3.1 = {
+	religion = echukas
+}
+

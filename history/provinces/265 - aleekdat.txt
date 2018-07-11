@@ -1,0 +1,9 @@
+	title = c_aleekdat
+	max_settlements = 2
+	culture = doumat
+	religion = emonurga
+	b_sirita = tribal
+207.4.1 = {
+	culture = ekozusa
+}
+

@@ -1,0 +1,5 @@
+	title = c_elik
+	max_settlements = 4
+	culture = norik
+	religion = tedusa
+	b_qisand = tribal

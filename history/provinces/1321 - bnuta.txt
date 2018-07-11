@@ -1,0 +1,53 @@
+	title = c_bnuta
+	max_settlements = 3
+	culture = azolachi
+	religion = rni
+	b_wlega = tribal
+204.3.1 = {
+	religion = ricily
+}
+
+210.3.1 = {
+	religion = rni
+}
+
+212.3.1 = {
+	religion = ricily
+}
+
+216.3.1 = {
+	religion = rni
+}
+
+217.3.1 = {
+	religion = ricily
+}
+
+232.3.1 = {
+	religion = rni
+}
+
+238.3.1 = {
+	religion = ricily
+}
+
+283.3.1 = {
+	religion = rni
+}
+
+291.4.1 = {
+	culture = scachi
+}
+
+294.3.1 = {
+	religion = ricily
+}
+
+297.3.1 = {
+	religion = rni
+}
+
+353.3.1 = {
+	religion = ricily
+}
+

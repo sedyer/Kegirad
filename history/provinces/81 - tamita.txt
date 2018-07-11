@@ -1,0 +1,9 @@
+	title = c_tamita
+	max_settlements = 2
+	culture = woumner
+	religion = wozine
+	b_raalner = tribal
+649.4.1 = {
+	culture = namuthe
+}
+

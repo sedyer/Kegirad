@@ -1,0 +1,130 @@
+200.2.1 = {
+	holder = 1000012
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000798
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_wudelia
+}
+
+200.2.4 = {
+	holder = 1000797
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+200.2.5 = {
+	holder = 1002180
+}
+
+213.2.1 = {
+	holder = 1003103
+}
+
+243.2.1 = {
+	holder = 1004896
+}
+
+248.2.1 = {
+	holder = 1005430
+}
+
+262.2.1 = {
+	holder = 1009057
+}
+
+309.2.1 = {
+	holder = 1009325
+}
+
+334.2.1 = {
+	holder = 1014295
+}
+
+339.2.1 = {
+	holder = 1015582
+}
+
+358.2.1 = {
+	holder = 1016490
+}
+
+404.2.1 = {
+	holder = 1018227
+}
+
+408.2.1 = {
+	holder = 1013771
+}
+
+412.2.1 = {
+	holder = 1021247
+}
+
+457.2.1 = {
+	liege = k_arelen
+}
+
+458.2.1 = {
+	holder = 1021419
+}
+
+475.2.1 = {
+	liege = d_wudelia
+}
+
+481.2.1 = {
+	holder = 1025964
+}
+
+508.2.1 = {
+	holder = 1026742
+}
+
+521.2.1 = {
+	holder = 1028802
+}
+
+566.2.1 = {
+	holder = 1030165
+}
+
+608.2.1 = {
+	holder = 1032612
+}
+
+627.2.1 = {
+	liege = k_arelen
+}
+
+627.2.2 = {
+	liege = 0
+}
+
+634.2.1 = {
+	holder = 1035712
+}
+
+665.2.1 = {
+	holder = 1037069
+}
+
+673.2.1 = {
+	liege = k_arelen
+}
+
+673.2.2 = {
+	liege = 0
+}
+
+679.2.1 = {
+	holder = 1038731
+}
+

@@ -1,0 +1,17 @@
+	title = c_dalech
+	max_settlements = 2
+	culture = lriz
+	religion = ninala
+	b_rujira = tribal
+442.3.1 = {
+	religion = rerech
+}
+
+608.3.1 = {
+	religion = wsosro
+}
+
+663.3.1 = {
+	religion = tluku
+}
+

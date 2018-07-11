@@ -1,0 +1,5 @@
+	title = c_blacob
+	max_settlements = 7
+	culture = bavirat
+	religion = qriibma
+	b_qoracik = tribal

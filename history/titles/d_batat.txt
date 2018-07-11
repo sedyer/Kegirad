@@ -1,0 +1,78 @@
+200.2.1 = {
+	holder = 1000202
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	liege = k_sseja
+}
+
+213.2.1 = {
+	holder = 1002372
+}
+
+216.2.1 = {
+	holder = 1000226
+}
+
+219.2.1 = {
+	holder = 1004628
+}
+
+251.2.1 = {
+	holder = 1006105
+}
+
+252.2.1 = {
+	liege = 0
+}
+
+252.2.2 = {
+	holder = 1006105
+}
+
+252.2.3 = {
+	liege = k_sseja
+}
+
+252.2.4 = {
+	liege = 0
+}
+
+408.2.1 = {
+	holder = 1019998
+}
+
+408.2.2 = {
+	liege = k_wogeard
+}
+
+408.2.3 = {
+	liege = 0
+}
+
+419.2.1 = {
+	holder = 1019842
+}
+
+419.2.2 = {
+	liege = k_wogeard
+}
+
+419.2.3 = {
+	liege = 0
+}
+
+435.2.1 = {
+	holder = 1016503
+}
+
+435.2.2 = {
+	liege = k_wogeard
+}
+
+435.2.3 = {
+	liege = 0
+}
+

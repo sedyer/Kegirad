@@ -1,0 +1,9 @@
+	title = c_ravupta
+	max_settlements = 3
+	culture = ricepan
+	religion = ticojan
+	b_aweroi = tribal
+330.3.1 = {
+	religion = rni
+}
+

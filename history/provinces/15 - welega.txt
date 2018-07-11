@@ -1,0 +1,9 @@
+	title = c_welega
+	max_settlements = 2
+	culture = akozerta
+	religion = lavukas
+	b_ekamega = tribal
+402.4.1 = {
+	culture = taaloin
+}
+

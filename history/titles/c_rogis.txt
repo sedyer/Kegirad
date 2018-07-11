@@ -1,0 +1,126 @@
+200.2.1 = {
+	holder = 1000040
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1001914
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_qaremar
+}
+
+200.2.4 = {
+	holder = 1001912
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+200.2.5 = {
+	liege = 0
+}
+
+204.2.1 = {
+	liege = k_lirew
+}
+
+204.2.2 = {
+	liege = 0
+}
+
+210.2.1 = {
+	holder = 1003561
+}
+
+211.2.1 = {
+	liege = k_lirew
+}
+
+211.2.2 = {
+	liege = 0
+}
+
+216.2.1 = {
+	holder = 1004703
+}
+
+233.2.1 = {
+	liege = k_lirew
+}
+
+233.2.2 = {
+	liege = 0
+}
+
+269.2.1 = {
+	holder = 1004928
+}
+
+281.2.1 = {
+	holder = 1010643
+}
+
+322.2.1 = {
+	holder = 1010728
+}
+
+342.2.1 = {
+	holder = 1014692
+}
+
+347.2.1 = {
+	holder = 1016168
+}
+
+380.2.1 = {
+	holder = 1017050
+}
+
+413.2.1 = {
+	holder = 1021420
+}
+
+416.2.1 = {
+	holder = 1021485
+}
+
+469.2.1 = {
+	holder = 1023621
+}
+
+481.2.1 = {
+	holder = 1026254
+}
+
+536.2.1 = {
+	holder = 1027523
+}
+
+567.2.1 = {
+	holder = 1031899
+}
+
+569.2.1 = {
+	holder = 1032498
+}
+
+621.2.1 = {
+	holder = 1033399
+}
+
+623.2.1 = {
+	holder = 1036094
+}
+
+654.2.1 = {
+	holder = 1037332
+}
+
+676.2.1 = {
+	holder = 1038360
+}
+

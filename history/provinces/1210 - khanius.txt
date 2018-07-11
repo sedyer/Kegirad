@@ -1,0 +1,9 @@
+	title = c_khanius
+	max_settlements = 2
+	culture = ranjada
+	religion = ticojan
+	b_wogaicu = tribal
+304.4.1 = {
+	culture = balilof
+}
+

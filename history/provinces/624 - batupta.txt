@@ -1,0 +1,17 @@
+	title = c_batupta
+	max_settlements = 7
+	culture = rresa
+	religion = emonurga
+	b_kolunai = tribal
+214.3.1 = {
+	religion = takice
+}
+
+229.3.1 = {
+	religion = emonurga
+}
+
+241.3.1 = {
+	religion = takice
+}
+

@@ -1,0 +1,21 @@
+	title = c_lremus
+	max_settlements = 2
+	culture = awuludah
+	religion = rni
+	b_lremesa = tribal
+222.3.1 = {
+	religion = ticojan
+}
+
+233.3.1 = {
+	religion = rni
+}
+
+235.3.1 = {
+	religion = ticojan
+}
+
+504.4.1 = {
+	culture = ricepan
+}
+

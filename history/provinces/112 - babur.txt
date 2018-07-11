@@ -1,0 +1,29 @@
+	title = c_babur
+	max_settlements = 2
+	culture = kujacob
+	religion = echukas
+	b_dabazal = tribal
+212.4.1 = {
+	culture = wubutr
+}
+
+216.3.1 = {
+	religion = wozine
+}
+
+223.3.1 = {
+	religion = echukas
+}
+
+241.3.1 = {
+	religion = wozine
+}
+
+248.3.1 = {
+	religion = echukas
+}
+
+271.3.1 = {
+	religion = wozine
+}
+

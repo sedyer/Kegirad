@@ -1,0 +1,5 @@
+	title = c_serine
+	max_settlements = 2
+	culture = kaloet
+	religion = echukas
+	b_laaliga = tribal

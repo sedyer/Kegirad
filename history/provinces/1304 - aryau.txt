@@ -1,0 +1,13 @@
+	title = c_aryau
+	max_settlements = 7
+	culture = ricepan
+	religion = ticojan
+	b_tavawid = tribal
+207.3.1 = {
+	religion = rni
+}
+
+519.4.1 = {
+	culture = talin
+}
+

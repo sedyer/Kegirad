@@ -1,0 +1,9 @@
+	title = c_laboge
+	max_settlements = 2
+	culture = akozerta
+	religion = lavukas
+	b_sviotas = tribal
+272.4.1 = {
+	culture = taaloin
+}
+

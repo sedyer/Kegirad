@@ -1,0 +1,5 @@
+	title = c_lyag
+	max_settlements = 2
+	culture = balilof
+	religion = ticojan
+	b_sinoaz = tribal

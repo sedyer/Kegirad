@@ -1,0 +1,49 @@
+	title = c_noven
+	max_settlements = 2
+	culture = relita
+	religion = echukas
+	b_surarid = tribal
+212.3.1 = {
+	religion = wering
+}
+
+227.3.1 = {
+	religion = echukas
+}
+
+243.3.1 = {
+	religion = wering
+}
+
+293.3.1 = {
+	religion = rerech
+}
+
+323.3.1 = {
+	religion = wering
+}
+
+333.3.1 = {
+	religion = rerech
+}
+
+350.3.1 = {
+	religion = wering
+}
+
+358.3.1 = {
+	religion = rerech
+}
+
+374.4.1 = {
+	culture = rinmi
+}
+
+383.3.1 = {
+	religion = wering
+}
+
+384.3.1 = {
+	religion = rerech
+}
+

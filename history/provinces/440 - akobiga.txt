@@ -1,0 +1,25 @@
+	title = c_akobiga
+	max_settlements = 2
+	culture = ributhe
+	religion = rerech
+	b_alega = tribal
+202.3.1 = {
+	religion = abonyi
+}
+
+203.3.1 = {
+	religion = rerech
+}
+
+209.3.1 = {
+	religion = abonyi
+}
+
+219.3.1 = {
+	religion = rerech
+}
+
+222.3.1 = {
+	religion = abonyi
+}
+

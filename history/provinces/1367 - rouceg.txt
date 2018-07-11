@@ -1,0 +1,13 @@
+	title = c_rouceg
+	max_settlements = 2
+	culture = awuludah
+	religion = rni
+	b_kiral = tribal
+206.3.1 = {
+	religion = ricily
+}
+
+426.3.1 = {
+	religion = rni
+}
+

@@ -1,0 +1,37 @@
+	title = c_tayakas
+	max_settlements = 7
+	culture = linian
+	religion = ricily
+	b_koucal = tribal
+201.3.1 = {
+	religion = rni
+}
+
+434.4.1 = {
+	culture = batna
+}
+
+456.3.1 = {
+	religion = emonurga
+}
+
+526.4.1 = {
+	culture = linian
+}
+
+587.3.1 = {
+	religion = rni
+}
+
+590.3.1 = {
+	religion = emonurga
+}
+
+593.4.1 = {
+	culture = batna
+}
+
+661.4.1 = {
+	culture = linian
+}
+

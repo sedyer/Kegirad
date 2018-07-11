@@ -1,0 +1,9 @@
+	title = c_dilahid
+	max_settlements = 2
+	culture = kujacob
+	religion = echukas
+	b_sawua = tribal
+254.4.1 = {
+	culture = kamat
+}
+

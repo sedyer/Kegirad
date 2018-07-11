@@ -1,0 +1,13 @@
+	title = c_ramada
+	max_settlements = 2
+	culture = wlick
+	religion = ninala
+	b_tatira = tribal
+290.3.1 = {
+	religion = rerech
+}
+
+623.3.1 = {
+	religion = tluku
+}
+

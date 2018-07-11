@@ -1,0 +1,13 @@
+	title = c_saging
+	max_settlements = 2
+	culture = rarugis
+	religion = kereze
+	b_qajyia = tribal
+356.4.1 = {
+	culture = dziga
+}
+
+475.4.1 = {
+	culture = banevi
+}
+

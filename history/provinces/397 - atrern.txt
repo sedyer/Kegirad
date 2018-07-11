@@ -1,0 +1,37 @@
+	title = c_atrern
+	max_settlements = 7
+	culture = kegirad
+	religion = bukena
+	b_korela = tribal
+307.3.1 = {
+	religion = kanyo
+}
+
+379.3.1 = {
+	religion = bukena
+}
+
+403.3.1 = {
+	religion = kanyo
+}
+
+408.3.1 = {
+	religion = bukena
+}
+
+411.3.1 = {
+	religion = kanyo
+}
+
+417.3.1 = {
+	religion = bukena
+}
+
+431.3.1 = {
+	religion = kanyo
+}
+
+491.3.1 = {
+	religion = emonurga
+}
+

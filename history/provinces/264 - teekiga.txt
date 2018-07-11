@@ -1,0 +1,25 @@
+	title = c_teekiga
+	max_settlements = 2
+	culture = safha
+	religion = emonurga
+	b_qeekiga = tribal
+228.3.1 = {
+	religion = echukas
+}
+
+237.3.1 = {
+	religion = emonurga
+}
+
+278.3.1 = {
+	religion = echukas
+}
+
+283.4.1 = {
+	culture = woumner
+}
+
+327.4.1 = {
+	culture = safha
+}
+

@@ -1,0 +1,13 @@
+	title = c_wmaret
+	max_settlements = 2
+	culture = sitilje
+	religion = kmemar
+	b_avitule = tribal
+275.4.1 = {
+	culture = dobius
+}
+
+312.4.1 = {
+	culture = eiremar
+}
+

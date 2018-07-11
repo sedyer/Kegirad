@@ -1,0 +1,33 @@
+	title = c_rukohn
+	max_settlements = 7
+	culture = dukanos
+	religion = bukena
+	b_ehoria = tribal
+251.3.1 = {
+	religion = emonurga
+}
+
+265.3.1 = {
+	religion = kanyo
+}
+
+288.3.1 = {
+	religion = bukena
+}
+
+342.3.1 = {
+	religion = kanyo
+}
+
+648.3.1 = {
+	religion = emonurga
+}
+
+686.3.1 = {
+	religion = kanyo
+}
+
+691.3.1 = {
+	religion = emonurga
+}
+

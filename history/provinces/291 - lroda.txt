@@ -1,0 +1,53 @@
+	title = c_lroda
+	max_settlements = 2
+	culture = roralka
+	religion = emonurga
+	b_esutusha = tribal
+208.3.1 = {
+	religion = agrakma
+}
+
+241.3.1 = {
+	religion = emonurga
+}
+
+241.3.1 = {
+	religion = agrakma
+}
+
+242.4.1 = {
+	culture = bozusa
+}
+
+260.3.1 = {
+	religion = emonurga
+}
+
+273.3.1 = {
+	religion = agrakma
+}
+
+275.3.1 = {
+	religion = emonurga
+}
+
+275.3.1 = {
+	religion = agrakma
+}
+
+290.3.1 = {
+	religion = emonurga
+}
+
+292.3.1 = {
+	religion = agrakma
+}
+
+310.3.1 = {
+	religion = emonurga
+}
+
+310.3.1 = {
+	religion = agrakma
+}
+

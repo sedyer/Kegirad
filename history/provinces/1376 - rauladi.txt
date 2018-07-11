@@ -1,0 +1,17 @@
+	title = c_rauladi
+	max_settlements = 7
+	culture = sakiz
+	religion = rni
+	b_kurapur = tribal
+286.3.1 = {
+	religion = ricily
+}
+
+379.3.1 = {
+	religion = rni
+}
+
+551.4.1 = {
+	culture = awuludah
+}
+

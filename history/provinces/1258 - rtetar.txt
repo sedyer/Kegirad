@@ -1,0 +1,9 @@
+	title = c_rtetar
+	max_settlements = 2
+	culture = kerada
+	religion = ticojan
+	b_nlala = tribal
+453.4.1 = {
+	culture = balilof
+}
+

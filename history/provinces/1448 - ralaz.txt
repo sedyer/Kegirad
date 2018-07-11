@@ -1,0 +1,9 @@
+	title = c_ralaz
+	max_settlements = 6
+	culture = beth
+	religion = emonurga
+	b_takohn = tribal
+357.4.1 = {
+	culture = rresa
+}
+

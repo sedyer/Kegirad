@@ -1,0 +1,5 @@
+	title = c_esrebe
+	max_settlements = 7
+	culture = drebe
+	religion = tluku
+	b_lrebe = tribal

@@ -1,0 +1,9 @@
+	title = c_dsedas
+	max_settlements = 2
+	culture = balilof
+	religion = rni
+	b_kovedas = tribal
+228.4.1 = {
+	culture = wenius
+}
+

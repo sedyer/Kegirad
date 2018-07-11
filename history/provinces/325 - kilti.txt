@@ -1,0 +1,5 @@
+	title = c_kilti
+	max_settlements = 2
+	culture = tlacik
+	religion = tedusa
+	b_tisan = tribal

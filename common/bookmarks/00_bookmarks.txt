@@ -1,0 +1,52 @@
+bm_charlemagne388 = { 
+	                    name = "BM_CHARLEMAGNE388"
+
+                        desc = "BM_BM_CHARLEMAGNE_DESC388"
+
+                        date = 388.9.15
+
+
+                                    era = yes						## Will be shown on Era screen.
+	                                picture = GFX_pick_era_image_1
+
+                                }
+                    
+bm_charlemagne464 = { 
+	                    name = "BM_CHARLEMAGNE464"
+
+                        desc = "BM_BM_CHARLEMAGNE_DESC464"
+
+                        date = 464.9.15
+
+
+                                    era = yes						## Will be shown on Era screen.
+	                                picture = GFX_pick_era_image_1
+
+                                }
+                    
+bm_charlemagne591 = { 
+	                    name = "BM_CHARLEMAGNE591"
+
+                        desc = "BM_BM_CHARLEMAGNE_DESC591"
+
+                        date = 591.9.15
+
+
+                                    era = yes						## Will be shown on Era screen.
+	                                picture = GFX_pick_era_image_1
+
+                                }
+                    
+bm_charlemagne700 = { 
+	                    name = "BM_CHARLEMAGNE700"
+
+                        desc = "BM_BM_CHARLEMAGNE_DESC700"
+
+                        date = 700.9.15
+
+
+                                    era = yes						## Will be shown on Era screen.
+	                                picture = GFX_pick_era_image_1
+
+                                }
+                    

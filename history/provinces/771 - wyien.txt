@@ -1,0 +1,17 @@
+	title = c_wyien
+	max_settlements = 2
+	culture = wlick
+	religion = ninala
+	b_esamind = tribal
+315.4.1 = {
+	culture = wobagik
+}
+
+561.3.1 = {
+	religion = wsosro
+}
+
+662.3.1 = {
+	religion = tluku
+}
+

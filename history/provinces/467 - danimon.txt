@@ -1,0 +1,9 @@
+	title = c_danimon
+	max_settlements = 2
+	culture = batanes
+	religion = abonyi
+	b_wayumon = tribal
+671.3.1 = {
+	religion = ninala
+}
+

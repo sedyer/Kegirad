@@ -1,0 +1,5 @@
+	title = c_ateja
+	max_settlements = 2
+	culture = sakiz
+	religion = rni
+	b_syun = tribal

@@ -1,0 +1,17 @@
+	title = c_wakasha
+	max_settlements = 2
+	culture = dlebe
+	religion = ninala
+	b_efoulra = tribal
+325.3.1 = {
+	religion = tluku
+}
+
+620.3.1 = {
+	religion = rerech
+}
+
+667.3.1 = {
+	religion = ninala
+}
+

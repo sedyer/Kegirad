@@ -1,0 +1,9 @@
+	title = c_bayarak
+	max_settlements = 2
+	culture = batna
+	religion = ricily
+	b_wupraar = tribal
+314.3.1 = {
+	religion = rni
+}
+

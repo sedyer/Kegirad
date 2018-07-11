@@ -1,0 +1,25 @@
+	title = c_etainua
+	max_settlements = 2
+	culture = alert
+	religion = agamel
+	b_buerra = tribal
+206.3.1 = {
+	religion = tedusa
+}
+
+240.3.1 = {
+	religion = agamel
+}
+
+277.4.1 = {
+	culture = wsaka
+}
+
+318.4.1 = {
+	culture = alert
+}
+
+532.4.1 = {
+	culture = wsaka
+}
+

@@ -1,0 +1,17 @@
+	title = c_etogat
+	max_settlements = 4
+	culture = batanes
+	religion = emonurga
+	b_lugira = tribal
+205.3.1 = {
+	religion = rerech
+}
+
+215.3.1 = {
+	religion = emonurga
+}
+
+483.4.1 = {
+	culture = dukanos
+}
+

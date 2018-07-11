@@ -1,0 +1,9 @@
+	title = c_duraner
+	max_settlements = 2
+	culture = kasius
+	religion = rni
+	b_nallohn = tribal
+293.4.1 = {
+	culture = wenius
+}
+

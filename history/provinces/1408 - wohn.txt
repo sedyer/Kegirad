@@ -1,0 +1,9 @@
+	title = c_wohn
+	max_settlements = 5
+	culture = beth
+	religion = emonurga
+	b_ladae = tribal
+442.4.1 = {
+	culture = rresa
+}
+

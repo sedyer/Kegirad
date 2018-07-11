@@ -1,0 +1,5 @@
+	title = c_wilapur
+	max_settlements = 4
+	culture = talin
+	religion = rni
+	b_epawapur = tribal

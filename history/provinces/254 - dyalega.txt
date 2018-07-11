@@ -1,0 +1,13 @@
+	title = c_dyalega
+	max_settlements = 2
+	culture = namuthe
+	religion = echukas
+	b_wamega = tribal
+261.3.1 = {
+	religion = emonurga
+}
+
+323.3.1 = {
+	religion = echukas
+}
+

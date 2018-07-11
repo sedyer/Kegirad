@@ -1,0 +1,81 @@
+	title = c_nafala
+	max_settlements = 2
+	culture = robas
+	religion = abonyi
+	b_ranin = tribal
+234.4.1 = {
+	culture = batanes
+}
+
+299.3.1 = {
+	religion = rerech
+}
+
+300.3.1 = {
+	religion = abonyi
+}
+
+309.3.1 = {
+	religion = rerech
+}
+
+312.3.1 = {
+	religion = abonyi
+}
+
+327.3.1 = {
+	religion = rerech
+}
+
+372.3.1 = {
+	religion = abonyi
+}
+
+404.3.1 = {
+	religion = rerech
+}
+
+413.3.1 = {
+	religion = abonyi
+}
+
+421.3.1 = {
+	religion = rerech
+}
+
+456.3.1 = {
+	religion = abonyi
+}
+
+459.3.1 = {
+	religion = rerech
+}
+
+484.3.1 = {
+	religion = abonyi
+}
+
+493.3.1 = {
+	religion = rerech
+}
+
+509.3.1 = {
+	religion = ninala
+}
+
+522.3.1 = {
+	religion = abonyi
+}
+
+524.3.1 = {
+	religion = ninala
+}
+
+530.3.1 = {
+	religion = abonyi
+}
+
+665.3.1 = {
+	religion = ninala
+}
+

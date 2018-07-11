@@ -1,0 +1,13 @@
+	title = c_boline
+	max_settlements = 5
+	culture = leuleja
+	religion = rni
+	b_nawivai = tribal
+223.3.1 = {
+	religion = takice
+}
+
+231.4.1 = {
+	culture = amurein
+}
+

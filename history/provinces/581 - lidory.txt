@@ -1,0 +1,45 @@
+	title = c_lidory
+	max_settlements = 2
+	culture = tujeth
+	religion = kanyo
+	b_didira = tribal
+296.3.1 = {
+	religion = rerech
+}
+
+303.3.1 = {
+	religion = kanyo
+}
+
+308.3.1 = {
+	religion = rerech
+}
+
+329.3.1 = {
+	religion = kanyo
+}
+
+361.3.1 = {
+	religion = rerech
+}
+
+361.3.1 = {
+	religion = kanyo
+}
+
+362.3.1 = {
+	religion = rerech
+}
+
+403.3.1 = {
+	religion = kanyo
+}
+
+523.4.1 = {
+	culture = rresa
+}
+
+650.3.1 = {
+	religion = wsosro
+}
+

@@ -1,0 +1,5 @@
+	title = c_tgiste
+	max_settlements = 7
+	culture = krance
+	religion = rgance
+	b_kasha = tribal

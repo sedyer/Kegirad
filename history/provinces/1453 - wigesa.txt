@@ -1,0 +1,41 @@
+	title = c_wigesa
+	max_settlements = 7
+	culture = rresa
+	religion = emonurga
+	b_akakaz = tribal
+211.3.1 = {
+	religion = bukena
+}
+
+234.3.1 = {
+	religion = emonurga
+}
+
+238.3.1 = {
+	religion = bukena
+}
+
+238.3.1 = {
+	religion = emonurga
+}
+
+334.3.1 = {
+	religion = bukena
+}
+
+447.3.1 = {
+	religion = emonurga
+}
+
+494.3.1 = {
+	religion = kanyo
+}
+
+494.4.1 = {
+	culture = kegirad
+}
+
+505.3.1 = {
+	religion = emonurga
+}
+

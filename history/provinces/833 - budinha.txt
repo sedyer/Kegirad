@@ -1,0 +1,9 @@
+	title = c_budinha
+	max_settlements = 5
+	culture = tance
+	religion = rgance
+	b_blasr = tribal
+404.4.1 = {
+	culture = norse
+}
+

@@ -1,0 +1,13 @@
+	title = c_barugis
+	max_settlements = 2
+	culture = dobius
+	religion = ninala
+	b_dietule = tribal
+211.3.1 = {
+	religion = kmemar
+}
+
+564.4.1 = {
+	culture = eiremar
+}
+

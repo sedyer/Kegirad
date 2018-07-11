@@ -1,0 +1,9 @@
+	title = c_wamech
+	max_settlements = 2
+	culture = kaloet
+	religion = echukas
+	b_ekozat = tribal
+658.4.1 = {
+	culture = svare
+}
+

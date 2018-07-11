@@ -1,0 +1,9 @@
+	title = c_kekalka
+	max_settlements = 2
+	culture = ekozusa
+	religion = emonurga
+	b_nozel = tribal
+290.3.1 = {
+	religion = agrakma
+}
+

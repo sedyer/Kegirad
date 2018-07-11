@@ -1,0 +1,9 @@
+	title = c_tagonia
+	max_settlements = 2
+	culture = rarugis
+	religion = kereze
+	b_ehanena = tribal
+579.4.1 = {
+	culture = banevi
+}
+

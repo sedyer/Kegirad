@@ -1,0 +1,21 @@
+	title = c_wrine
+	max_settlements = 6
+	culture = tujeth
+	religion = kanyo
+	b_batapur = tribal
+208.3.1 = {
+	religion = bukena
+}
+
+294.3.1 = {
+	religion = kanyo
+}
+
+452.3.1 = {
+	religion = bukena
+}
+
+461.3.1 = {
+	religion = kanyo
+}
+

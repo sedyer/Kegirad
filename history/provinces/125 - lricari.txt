@@ -1,0 +1,17 @@
+	title = c_lricari
+	max_settlements = 2
+	culture = waurat
+	religion = echukas
+	b_wainima = tribal
+275.3.1 = {
+	religion = emonurga
+}
+
+344.3.1 = {
+	religion = echukas
+}
+
+473.4.1 = {
+	culture = namuthe
+}
+

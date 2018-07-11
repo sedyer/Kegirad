@@ -1,0 +1,5 @@
+	title = c_ekubisa
+	max_settlements = 2
+	culture = dziga
+	religion = wering
+	b_donina = tribal

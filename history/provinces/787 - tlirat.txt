@@ -1,0 +1,13 @@
+	title = c_tlirat
+	max_settlements = 2
+	culture = tiiriz
+	religion = ninala
+	b_rtoss = tribal
+237.4.1 = {
+	culture = lriz
+}
+
+284.4.1 = {
+	culture = tiiriz
+}
+

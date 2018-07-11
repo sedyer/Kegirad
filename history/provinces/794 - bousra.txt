@@ -1,0 +1,5 @@
+	title = c_bousra
+	max_settlements = 5
+	culture = norse
+	religion = rgance
+	b_efoulick = tribal

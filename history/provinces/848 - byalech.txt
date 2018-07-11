@@ -1,0 +1,17 @@
+	title = c_byalech
+	max_settlements = 2
+	culture = ejoanel
+	religion = emonurga
+	b_delita = tribal
+224.3.1 = {
+	religion = echukas
+}
+
+253.3.1 = {
+	religion = emonurga
+}
+
+352.3.1 = {
+	religion = echukas
+}
+

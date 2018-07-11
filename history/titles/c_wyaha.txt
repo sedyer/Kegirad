@@ -1,0 +1,194 @@
+200.2.1 = {
+	holder = 1000000
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000001
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	holder = 1000002
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.4 = {
+	holder = 1000249
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+200.2.5 = {
+	liege = d_qeous
+}
+
+200.2.6 = {
+	holder = 1000247
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+300.2.1 = {
+	holder = 1010041
+}
+
+307.2.1 = {
+	holder = 1009936
+}
+
+308.2.1 = {
+	holder = 1012706
+}
+
+309.2.1 = {
+	holder = 1011819
+}
+
+309.2.2 = {
+	holder = 1013136
+}
+
+364.2.1 = {
+	holder = 1016318
+}
+
+383.2.1 = {
+	liege = d_svasha
+}
+
+384.2.1 = {
+	liege = d_svasha
+}
+
+384.2.2 = {
+	liege = k_bainind
+}
+
+385.2.1 = {
+	liege = d_svasha
+}
+
+385.2.2 = {
+	liege = k_bainind
+}
+
+386.2.1 = {
+	liege = d_svasha
+}
+
+386.2.2 = {
+	liege = k_bainind
+}
+
+387.2.1 = {
+	liege = d_svasha
+}
+
+387.2.2 = {
+	liege = k_bainind
+}
+
+388.2.1 = {
+	liege = d_svasha
+}
+
+388.2.2 = {
+	liege = k_bainind
+}
+
+389.2.1 = {
+	liege = d_svasha
+}
+
+389.2.2 = {
+	liege = k_bainind
+}
+
+390.2.1 = {
+	liege = d_svasha
+}
+
+390.2.2 = {
+	liege = k_bainind
+}
+
+391.2.1 = {
+	liege = d_svasha
+}
+
+391.2.2 = {
+	liege = k_bainind
+}
+
+391.2.3 = {
+	holder = 1019086
+}
+
+392.2.1 = {
+	liege = d_qeous
+}
+
+392.2.2 = {
+	liege = 0
+}
+
+392.2.3 = {
+	holder = 1015647
+}
+
+392.2.4 = {
+	holder = 1019687
+}
+
+392.2.5 = {
+	liege = k_bainind
+}
+
+392.2.6 = {
+	liege = k_bolivai
+}
+
+392.2.7 = {
+	holder = 1018190
+}
+
+393.2.1 = {
+	holder = 1019752
+}
+
+403.2.1 = {
+	holder = 1019086
+}
+
+403.2.2 = {
+	holder = 1020686
+}
+
+500.2.1 = {
+	holder = 1020687
+}
+
+500.2.2 = {
+	holder = 1020697
+}
+
+500.2.3 = {
+	holder = 1026842
+}
+
+500.2.4 = {
+	holder = 1027656
+}
+
+600.2.1 = {
+	holder = 1034392
+}
+
+700.2.1 = {
+	holder = 1035394
+}
+

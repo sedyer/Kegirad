@@ -1,0 +1,109 @@
+	title = c_ecalohn
+	max_settlements = 7
+	culture = rresa
+	religion = bukena
+	b_ratar = tribal
+245.3.1 = {
+	religion = emonurga
+}
+
+248.3.1 = {
+	religion = bukena
+}
+
+252.3.1 = {
+	religion = emonurga
+}
+
+258.3.1 = {
+	religion = bukena
+}
+
+264.3.1 = {
+	religion = emonurga
+}
+
+269.3.1 = {
+	religion = bukena
+}
+
+271.3.1 = {
+	religion = emonurga
+}
+
+273.3.1 = {
+	religion = bukena
+}
+
+275.3.1 = {
+	religion = emonurga
+}
+
+285.3.1 = {
+	religion = bukena
+}
+
+285.3.1 = {
+	religion = emonurga
+}
+
+301.3.1 = {
+	religion = bukena
+}
+
+305.3.1 = {
+	religion = emonurga
+}
+
+316.3.1 = {
+	religion = bukena
+}
+
+316.3.1 = {
+	religion = emonurga
+}
+
+323.3.1 = {
+	religion = bukena
+}
+
+327.3.1 = {
+	religion = emonurga
+}
+
+333.3.1 = {
+	religion = bukena
+}
+
+333.3.1 = {
+	religion = emonurga
+}
+
+334.3.1 = {
+	religion = bukena
+}
+
+339.3.1 = {
+	religion = emonurga
+}
+
+413.4.1 = {
+	culture = kegirad
+}
+
+507.4.1 = {
+	culture = rresa
+}
+
+533.3.1 = {
+	religion = kanyo
+}
+
+558.4.1 = {
+	culture = kegirad
+}
+
+566.3.1 = {
+	religion = emonurga
+}
+

@@ -1,0 +1,9 @@
+	title = c_llaka
+	max_settlements = 2
+	culture = kerada
+	religion = ticojan
+	b_krdas = tribal
+415.4.1 = {
+	culture = balilof
+}
+

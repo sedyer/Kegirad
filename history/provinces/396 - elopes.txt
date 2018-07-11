@@ -1,0 +1,13 @@
+	title = c_elopes
+	max_settlements = 7
+	culture = rresa
+	religion = bukena
+	b_kuruko = tribal
+331.3.1 = {
+	religion = kanyo
+}
+
+643.3.1 = {
+	religion = emonurga
+}
+

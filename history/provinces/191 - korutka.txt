@@ -1,0 +1,9 @@
+	title = c_korutka
+	max_settlements = 2
+	culture = wsaka
+	religion = agamel
+	b_nigti = tribal
+503.4.1 = {
+	culture = alert
+}
+

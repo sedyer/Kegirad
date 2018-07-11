@@ -1,0 +1,9 @@
+	title = c_ralti
+	max_settlements = 2
+	culture = tance
+	religion = rgance
+	b_egisonan = tribal
+386.4.1 = {
+	culture = norse
+}
+

@@ -1,0 +1,9 @@
+	title = c_kyha
+	max_settlements = 7
+	culture = rmada
+	religion = wsosro
+	b_sati = tribal
+518.3.1 = {
+	religion = tluku
+}
+

@@ -1,0 +1,9 @@
+	title = c_kugoba
+	max_settlements = 3
+	culture = dogugis
+	religion = ninala
+	b_dolius = tribal
+589.3.1 = {
+	religion = wsosro
+}
+

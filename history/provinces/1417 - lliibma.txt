@@ -1,0 +1,9 @@
+	title = c_lliibma
+	max_settlements = 2
+	culture = brirat
+	religion = egrirat
+	b_syigu = tribal
+437.3.1 = {
+	religion = rgance
+}
+

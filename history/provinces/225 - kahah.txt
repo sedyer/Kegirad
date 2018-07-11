@@ -1,0 +1,17 @@
+	title = c_kahah
+	max_settlements = 2
+	culture = relita
+	religion = echukas
+	b_nuyanr = tribal
+517.4.1 = {
+	culture = kujacob
+}
+
+560.3.1 = {
+	religion = wering
+}
+
+699.4.1 = {
+	culture = waurat
+}
+

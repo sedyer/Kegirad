@@ -1,0 +1,9 @@
+	title = c_kicevi
+	max_settlements = 2
+	culture = ranjada
+	religion = ticojan
+	b_leralia = tribal
+384.4.1 = {
+	culture = balilof
+}
+

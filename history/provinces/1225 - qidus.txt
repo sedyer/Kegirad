@@ -1,0 +1,9 @@
+	title = c_qidus
+	max_settlements = 2
+	culture = nrimir
+	religion = ricily
+	b_wogemis = tribal
+230.4.1 = {
+	culture = balilof
+}
+

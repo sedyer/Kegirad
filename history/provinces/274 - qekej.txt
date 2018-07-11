@@ -1,0 +1,13 @@
+	title = c_qekej
+	max_settlements = 7
+	culture = donada
+	religion = emonurga
+	b_lek = tribal
+245.3.1 = {
+	religion = agrakma
+}
+
+351.4.1 = {
+	culture = ryyab
+}
+

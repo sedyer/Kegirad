@@ -1,0 +1,13 @@
+	title = c_rhimayi
+	max_settlements = 7
+	culture = linian
+	religion = ricily
+	b_ryamin = tribal
+213.3.1 = {
+	religion = rni
+}
+
+494.3.1 = {
+	religion = emonurga
+}
+

@@ -1,0 +1,13 @@
+	title = c_klaya
+	max_settlements = 3
+	culture = balilof
+	religion = rni
+	b_tliya = tribal
+211.3.1 = {
+	religion = takice
+}
+
+312.3.1 = {
+	religion = ticojan
+}
+

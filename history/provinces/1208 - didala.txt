@@ -1,0 +1,33 @@
+	title = c_didala
+	max_settlements = 2
+	culture = nrimir
+	religion = ticojan
+	b_widius = tribal
+204.3.1 = {
+	religion = rni
+}
+
+225.3.1 = {
+	religion = ticojan
+}
+
+229.3.1 = {
+	religion = rni
+}
+
+258.3.1 = {
+	religion = ticojan
+}
+
+263.3.1 = {
+	religion = rni
+}
+
+272.4.1 = {
+	culture = balilof
+}
+
+278.3.1 = {
+	religion = ticojan
+}
+

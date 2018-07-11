@@ -1,0 +1,9 @@
+	title = c_nabael
+	max_settlements = 5
+	culture = norse
+	religion = rgance
+	b_ratiste = tribal
+525.4.1 = {
+	culture = rriste
+}
+

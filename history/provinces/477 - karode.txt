@@ -1,0 +1,21 @@
+	title = c_karode
+	max_settlements = 2
+	culture = tolugis
+	religion = ninala
+	b_kitis = tribal
+206.3.1 = {
+	religion = rerech
+}
+
+227.4.1 = {
+	culture = kanaha
+}
+
+379.3.1 = {
+	religion = abonyi
+}
+
+612.3.1 = {
+	religion = ninala
+}
+

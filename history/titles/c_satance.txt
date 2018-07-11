@@ -1,0 +1,120 @@
+200.2.1 = {
+	holder = 1000000
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000001
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	holder = 1000244
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+200.2.4 = {
+	liege = d_kolapur
+}
+
+200.2.5 = {
+	holder = 1000243
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+234.2.1 = {
+	holder = 1003572
+}
+
+273.2.1 = {
+	holder = 1006755
+}
+
+293.2.1 = {
+	holder = 1010646
+}
+
+307.2.1 = {
+	holder = 1011065
+}
+
+330.2.1 = {
+	holder = 1014540
+}
+
+331.2.1 = {
+	holder = 1011894
+}
+
+335.2.1 = {
+	holder = 1012908
+}
+
+357.2.1 = {
+	liege = d_keult
+}
+
+357.2.2 = {
+	holder = 1015647
+}
+
+357.2.3 = {
+	liege = k_bainind
+}
+
+392.2.1 = {
+	holder = 1017151
+}
+
+398.2.1 = {
+	holder = 1019840
+}
+
+417.2.1 = {
+	liege = 0
+}
+
+417.2.2 = {
+	holder = 1021734
+}
+
+418.2.1 = {
+	holder = 1020648
+}
+
+419.2.1 = {
+	holder = 1021879
+}
+
+419.2.2 = {
+	liege = k_bolivai
+}
+
+600.2.1 = {
+	holder = 1027658
+}
+
+600.2.2 = {
+	liege = d_alasha
+}
+
+600.2.3 = {
+	liege = d_drael
+}
+
+600.2.4 = {
+	holder = 1031377
+}
+
+600.2.5 = {
+	holder = 1034501
+}
+
+700.2.1 = {
+	holder = 1034508
+}
+

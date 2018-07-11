@@ -1,0 +1,9 @@
+	title = c_ebasalia
+	max_settlements = 2
+	culture = nrimir
+	religion = rni
+	b_kasuna = tribal
+289.3.1 = {
+	religion = ticojan
+}
+

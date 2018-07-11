@@ -1,0 +1,13 @@
+	title = c_knonia
+	max_settlements = 2
+	culture = tujeth
+	religion = kanyo
+	b_qruko = tribal
+447.3.1 = {
+	religion = bukena
+}
+
+457.3.1 = {
+	religion = kanyo
+}
+

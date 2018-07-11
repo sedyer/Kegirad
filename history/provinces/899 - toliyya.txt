@@ -1,0 +1,21 @@
+	title = c_toliyya
+	max_settlements = 7
+	culture = leuleja
+	religion = rni
+	b_krupta = tribal
+244.3.1 = {
+	religion = wsosro
+}
+
+353.3.1 = {
+	religion = rni
+}
+
+526.3.1 = {
+	religion = wsosro
+}
+
+638.3.1 = {
+	religion = rni
+}
+

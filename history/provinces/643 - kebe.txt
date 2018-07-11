@@ -1,0 +1,13 @@
+	title = c_kebe
+	max_settlements = 6
+	culture = arivai
+	religion = nerapur
+	b_sabilu = tribal
+204.3.1 = {
+	religion = wsosro
+}
+
+449.3.1 = {
+	religion = tluku
+}
+

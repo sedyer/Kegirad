@@ -1,0 +1,17 @@
+	title = c_qorat
+	max_settlements = 2
+	culture = wobagik
+	religion = rerech
+	b_lpada = tribal
+224.3.1 = {
+	religion = tluku
+}
+
+263.3.1 = {
+	religion = rerech
+}
+
+302.4.1 = {
+	culture = wlick
+}
+

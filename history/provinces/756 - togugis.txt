@@ -1,0 +1,9 @@
+	title = c_togugis
+	max_settlements = 2
+	culture = kiudene
+	religion = ninala
+	b_dmavak = tribal
+372.4.1 = {
+	culture = tiiriz
+}
+

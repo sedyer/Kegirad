@@ -1,0 +1,17 @@
+	title = c_kopaud
+	max_settlements = 2
+	culture = lorius
+	religion = rerech
+	b_ltech = tribal
+218.3.1 = {
+	religion = kanyo
+}
+
+280.3.1 = {
+	religion = wsosro
+}
+
+545.4.1 = {
+	culture = adietech
+}
+

@@ -1,0 +1,65 @@
+	title = c_kyiya
+	max_settlements = 7
+	culture = rresa
+	religion = bukena
+	b_apauloi = tribal
+201.4.1 = {
+	culture = wiragop
+}
+
+242.4.1 = {
+	culture = tujeth
+}
+
+244.3.1 = {
+	religion = kanyo
+}
+
+246.3.1 = {
+	religion = bukena
+}
+
+249.3.1 = {
+	religion = kanyo
+}
+
+256.3.1 = {
+	religion = bukena
+}
+
+259.3.1 = {
+	religion = kanyo
+}
+
+297.3.1 = {
+	religion = bukena
+}
+
+307.3.1 = {
+	religion = kanyo
+}
+
+347.3.1 = {
+	religion = bukena
+}
+
+349.3.1 = {
+	religion = kanyo
+}
+
+367.3.1 = {
+	religion = bukena
+}
+
+382.3.1 = {
+	religion = kanyo
+}
+
+397.3.1 = {
+	religion = bukena
+}
+
+398.3.1 = {
+	religion = kanyo
+}
+

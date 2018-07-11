@@ -1,0 +1,9 @@
+	title = c_dicisa
+	max_settlements = 2
+	culture = wubutr
+	religion = wering
+	b_dagonia = tribal
+378.4.1 = {
+	culture = dziga
+}
+

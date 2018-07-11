@@ -1,0 +1,13 @@
+	title = c_karice
+	max_settlements = 2
+	culture = ekozare
+	religion = echukas
+	b_khoge = tribal
+301.4.1 = {
+	culture = kaloet
+}
+
+651.3.1 = {
+	religion = lavukas
+}
+

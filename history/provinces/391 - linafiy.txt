@@ -1,0 +1,9 @@
+	title = c_linafiy
+	max_settlements = 7
+	culture = borama
+	religion = agrakma
+	b_btava = tribal
+310.4.1 = {
+	culture = ryyab
+}
+

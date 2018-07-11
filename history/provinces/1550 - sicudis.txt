@@ -1,0 +1,5 @@
+	title = c_sicudis
+	max_settlements = 3
+	culture = rresa
+	religion = emonurga
+	b_knibel = tribal

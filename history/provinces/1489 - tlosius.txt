@@ -1,0 +1,17 @@
+	title = c_tlosius
+	max_settlements = 6
+	culture = rresa
+	religion = emonurga
+	b_nresa = tribal
+218.3.1 = {
+	religion = rni
+}
+
+500.3.1 = {
+	religion = emonurga
+}
+
+679.3.1 = {
+	religion = rni
+}
+

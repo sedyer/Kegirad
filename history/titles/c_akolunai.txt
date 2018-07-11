@@ -1,0 +1,146 @@
+200.2.1 = {
+	holder = 1000020
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1001184
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.3 = {
+	liege = d_qogih
+}
+
+200.2.4 = {
+	holder = 1001182
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+201.2.1 = {
+	holder = 1002812
+}
+
+202.2.1 = {
+	holder = 1001429
+}
+
+209.2.1 = {
+	holder = 1003352
+}
+
+210.2.1 = {
+	liege = d_kaleth
+}
+
+225.2.1 = {
+	holder = 1005242
+}
+
+237.2.1 = {
+	liege = k_buyinen
+}
+
+243.2.1 = {
+	holder = 1007276
+}
+
+400.2.1 = {
+	holder = 1015712
+}
+
+400.2.2 = {
+	holder = 1020288
+}
+
+405.2.1 = {
+	liege = d_tarida
+}
+
+421.2.1 = {
+	holder = 1021868
+}
+
+434.2.1 = {
+	holder = 1015794
+}
+
+438.2.1 = {
+	holder = 1023111
+}
+
+442.2.1 = {
+	holder = 1018807
+}
+
+450.2.1 = {
+	holder = 1019992
+}
+
+454.2.1 = {
+	holder = 1019985
+}
+
+461.2.1 = {
+	liege = d_kaleth
+}
+
+461.2.2 = {
+	holder = 1024304
+}
+
+498.2.1 = {
+	holder = 1025227
+}
+
+499.2.1 = {
+	holder = 1027538
+}
+
+600.2.1 = {
+	holder = 1031771
+}
+
+606.2.1 = {
+	liege = d_qogih
+}
+
+606.2.2 = {
+	liege = 0
+}
+
+612.2.1 = {
+	holder = 1032999
+}
+
+628.2.1 = {
+	holder = 1036297
+}
+
+644.2.1 = {
+	liege = d_tolapur
+}
+
+655.2.1 = {
+	liege = d_qogih
+}
+
+655.2.2 = {
+	liege = 0
+}
+
+661.2.1 = {
+	liege = d_tolapur
+}
+
+673.2.1 = {
+	holder = 1037279
+}
+
+673.2.2 = {
+	holder = 1039146
+}
+

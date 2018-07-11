@@ -1,0 +1,5 @@
+	title = c_baroet
+	max_settlements = 2
+	culture = taaloin
+	religion = lavukas
+	b_azabanca = tribal

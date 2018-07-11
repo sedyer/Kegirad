@@ -1,0 +1,9 @@
+	title = c_thunla
+	max_settlements = 4
+	culture = azolachi
+	religion = rni
+	b_licilof = tribal
+242.3.1 = {
+	religion = ricily
+}
+

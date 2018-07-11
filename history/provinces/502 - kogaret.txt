@@ -1,0 +1,17 @@
+	title = c_kogaret
+	max_settlements = 2
+	culture = robas
+	religion = abonyi
+	b_deos = tribal
+241.3.1 = {
+	religion = rerech
+}
+
+372.3.1 = {
+	religion = abonyi
+}
+
+548.3.1 = {
+	religion = ninala
+}
+

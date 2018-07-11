@@ -1,0 +1,630 @@
+200.2.1 = {
+	holder = 1000015
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000937
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_nicuje
+}
+
+200.2.4 = {
+	holder = 1000935
+	law = succ_open_elective
+	law = cognatic_succession
+}
+
+236.2.1 = {
+	holder = 1006610
+}
+
+246.2.1 = {
+	holder = 1000815
+}
+
+246.2.2 = {
+	holder = 1007562
+}
+
+249.2.1 = {
+	holder = 1003848
+}
+
+257.2.1 = {
+	holder = 1007701
+}
+
+266.2.1 = {
+	liege = d_bhaniya
+}
+
+266.2.2 = {
+	holder = 1003718
+}
+
+273.2.1 = {
+	holder = 1009400
+}
+
+292.2.1 = {
+	liege = k_quprhi
+}
+
+292.2.2 = {
+	holder = 1011667
+}
+
+400.2.1 = {
+	holder = 1019767
+}
+
+400.2.2 = {
+	liege = d_lhatesa
+}
+
+414.2.1 = {
+	holder = 1020248
+}
+
+421.2.1 = {
+	liege = d_lhatesa
+}
+
+421.2.2 = {
+	liege = k_duogeya
+}
+
+422.2.1 = {
+	liege = d_lhatesa
+}
+
+422.2.2 = {
+	liege = k_duogeya
+}
+
+423.2.1 = {
+	liege = d_lhatesa
+}
+
+423.2.2 = {
+	liege = k_duogeya
+}
+
+424.2.1 = {
+	liege = d_lhatesa
+}
+
+424.2.2 = {
+	liege = k_duogeya
+}
+
+425.2.1 = {
+	liege = d_lhatesa
+}
+
+425.2.2 = {
+	liege = k_duogeya
+}
+
+426.2.1 = {
+	liege = d_lhatesa
+}
+
+426.2.2 = {
+	liege = k_duogeya
+}
+
+427.2.1 = {
+	liege = d_lhatesa
+}
+
+427.2.2 = {
+	liege = k_duogeya
+}
+
+428.2.1 = {
+	liege = d_lhatesa
+}
+
+428.2.2 = {
+	liege = k_duogeya
+}
+
+429.2.1 = {
+	liege = d_lhatesa
+}
+
+429.2.2 = {
+	liege = k_duogeya
+}
+
+430.2.1 = {
+	liege = d_lhatesa
+}
+
+430.2.2 = {
+	liege = k_duogeya
+}
+
+431.2.1 = {
+	liege = d_lhatesa
+}
+
+431.2.2 = {
+	liege = k_duogeya
+}
+
+432.2.1 = {
+	liege = d_lhatesa
+}
+
+432.2.2 = {
+	liege = k_duogeya
+}
+
+433.2.1 = {
+	liege = d_lhatesa
+}
+
+433.2.2 = {
+	liege = k_duogeya
+}
+
+434.2.1 = {
+	liege = d_lhatesa
+}
+
+434.2.2 = {
+	liege = k_duogeya
+}
+
+435.2.1 = {
+	liege = d_lhatesa
+}
+
+435.2.2 = {
+	liege = k_duogeya
+}
+
+436.2.1 = {
+	liege = d_lhatesa
+}
+
+436.2.2 = {
+	liege = k_duogeya
+}
+
+437.2.1 = {
+	liege = d_lhatesa
+}
+
+437.2.2 = {
+	liege = k_duogeya
+}
+
+438.2.1 = {
+	liege = d_lhatesa
+}
+
+438.2.2 = {
+	liege = k_duogeya
+}
+
+439.2.1 = {
+	liege = d_lhatesa
+}
+
+439.2.2 = {
+	liege = k_duogeya
+}
+
+440.2.1 = {
+	liege = d_lhatesa
+}
+
+440.2.2 = {
+	liege = k_quprhi
+}
+
+441.2.1 = {
+	liege = d_lhatesa
+}
+
+441.2.2 = {
+	liege = k_quprhi
+}
+
+442.2.1 = {
+	liege = d_lhatesa
+}
+
+442.2.2 = {
+	liege = k_quprhi
+}
+
+443.2.1 = {
+	liege = d_lhatesa
+}
+
+443.2.2 = {
+	liege = k_quprhi
+}
+
+444.2.1 = {
+	liege = d_lhatesa
+}
+
+444.2.2 = {
+	liege = k_quprhi
+}
+
+445.2.1 = {
+	liege = d_lhatesa
+}
+
+445.2.2 = {
+	liege = k_quprhi
+}
+
+446.2.1 = {
+	liege = d_lhatesa
+}
+
+446.2.2 = {
+	liege = k_quprhi
+}
+
+447.2.1 = {
+	liege = d_lhatesa
+}
+
+447.2.2 = {
+	liege = k_quprhi
+}
+
+458.2.1 = {
+	liege = d_lhatesa
+}
+
+458.2.2 = {
+	liege = k_quprhi
+}
+
+459.2.1 = {
+	liege = d_lhatesa
+}
+
+459.2.2 = {
+	liege = k_quprhi
+}
+
+460.2.1 = {
+	liege = d_lhatesa
+}
+
+460.2.2 = {
+	liege = k_duogeya
+}
+
+461.2.1 = {
+	liege = d_lhatesa
+}
+
+461.2.2 = {
+	liege = k_duogeya
+}
+
+462.2.1 = {
+	liege = d_lhatesa
+}
+
+462.2.2 = {
+	liege = k_duogeya
+}
+
+463.2.1 = {
+	holder = 1021651
+}
+
+463.2.2 = {
+	liege = d_lhatesa
+}
+
+463.2.3 = {
+	liege = k_duogeya
+}
+
+464.2.1 = {
+	liege = d_lhatesa
+}
+
+464.2.2 = {
+	liege = k_duogeya
+}
+
+465.2.1 = {
+	liege = d_lhatesa
+}
+
+465.2.2 = {
+	liege = k_duogeya
+}
+
+466.2.1 = {
+	liege = d_lhatesa
+}
+
+466.2.2 = {
+	liege = k_duogeya
+}
+
+467.2.1 = {
+	liege = d_lhatesa
+}
+
+467.2.2 = {
+	liege = k_duogeya
+}
+
+468.2.1 = {
+	liege = d_lhatesa
+}
+
+468.2.2 = {
+	liege = k_duogeya
+}
+
+469.2.1 = {
+	liege = d_lhatesa
+}
+
+469.2.2 = {
+	liege = k_duogeya
+}
+
+470.2.1 = {
+	liege = d_lhatesa
+}
+
+470.2.2 = {
+	liege = k_duogeya
+}
+
+471.2.1 = {
+	liege = d_lhatesa
+}
+
+471.2.2 = {
+	liege = k_duogeya
+}
+
+472.2.1 = {
+	liege = d_lhatesa
+}
+
+472.2.2 = {
+	liege = k_duogeya
+}
+
+473.2.1 = {
+	liege = d_lhatesa
+}
+
+473.2.2 = {
+	liege = k_duogeya
+}
+
+474.2.1 = {
+	liege = d_lhatesa
+}
+
+474.2.2 = {
+	liege = k_duogeya
+}
+
+475.2.1 = {
+	liege = d_lhatesa
+}
+
+475.2.2 = {
+	liege = k_duogeya
+}
+
+476.2.1 = {
+	liege = d_lhatesa
+}
+
+476.2.2 = {
+	liege = k_duogeya
+}
+
+477.2.1 = {
+	liege = d_lhatesa
+}
+
+477.2.2 = {
+	liege = k_duogeya
+}
+
+478.2.1 = {
+	holder = 1025164
+}
+
+478.2.2 = {
+	liege = d_lhatesa
+}
+
+478.2.3 = {
+	liege = k_duogeya
+}
+
+479.2.1 = {
+	liege = d_lhatesa
+}
+
+479.2.2 = {
+	liege = k_duogeya
+}
+
+480.2.1 = {
+	liege = d_lhatesa
+}
+
+480.2.2 = {
+	liege = k_quprhi
+}
+
+481.2.1 = {
+	liege = d_lhatesa
+}
+
+481.2.2 = {
+	liege = k_quprhi
+}
+
+482.2.1 = {
+	liege = d_lhatesa
+}
+
+482.2.2 = {
+	liege = k_quprhi
+}
+
+483.2.1 = {
+	liege = d_lhatesa
+}
+
+483.2.2 = {
+	liege = k_quprhi
+}
+
+484.2.1 = {
+	liege = d_lhatesa
+}
+
+484.2.2 = {
+	liege = k_quprhi
+}
+
+485.2.1 = {
+	liege = d_lhatesa
+}
+
+485.2.2 = {
+	liege = k_quprhi
+}
+
+486.2.1 = {
+	liege = d_lhatesa
+}
+
+486.2.2 = {
+	liege = k_quprhi
+}
+
+487.2.1 = {
+	liege = d_lhatesa
+}
+
+487.2.2 = {
+	liege = k_quprhi
+}
+
+488.2.1 = {
+	liege = d_lhatesa
+}
+
+488.2.2 = {
+	liege = k_quprhi
+}
+
+489.2.1 = {
+	liege = d_lhatesa
+}
+
+489.2.2 = {
+	liege = k_quprhi
+}
+
+490.2.1 = {
+	liege = d_lhatesa
+}
+
+490.2.2 = {
+	liege = k_quprhi
+}
+
+491.2.1 = {
+	holder = 1026485
+}
+
+491.2.2 = {
+	liege = d_lhatesa
+}
+
+491.2.3 = {
+	liege = k_quprhi
+}
+
+492.2.1 = {
+	liege = d_lhatesa
+}
+
+492.2.2 = {
+	liege = k_quprhi
+}
+
+493.2.1 = {
+	liege = d_lhatesa
+}
+
+493.2.2 = {
+	liege = k_quprhi
+}
+
+494.2.1 = {
+	liege = d_lhatesa
+}
+
+494.2.2 = {
+	liege = k_quprhi
+}
+
+495.2.1 = {
+	liege = d_lhatesa
+}
+
+495.2.2 = {
+	liege = k_quprhi
+}
+
+519.2.1 = {
+	holder = 1027536
+}
+
+532.2.1 = {
+	holder = 1029725
+}
+
+592.2.1 = {
+	liege = d_rhahis
+}
+
+592.2.2 = {
+	holder = 1031015
+}
+
+600.2.1 = {
+	holder = 1034633
+}
+
+700.2.1 = {
+	holder = 1039357
+}
+

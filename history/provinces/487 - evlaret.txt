@@ -1,0 +1,13 @@
+	title = c_evlaret
+	max_settlements = 2
+	culture = sitilje
+	religion = ninala
+	b_llemar = tribal
+288.3.1 = {
+	religion = kmemar
+}
+
+562.4.1 = {
+	culture = eiremar
+}
+

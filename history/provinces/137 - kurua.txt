@@ -1,0 +1,17 @@
+	title = c_kurua
+	max_settlements = 2
+	culture = relita
+	religion = echukas
+	b_ktunai = tribal
+420.4.1 = {
+	culture = kujacob
+}
+
+516.3.1 = {
+	religion = wozine
+}
+
+618.3.1 = {
+	religion = wering
+}
+

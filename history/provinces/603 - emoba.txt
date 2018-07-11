@@ -1,0 +1,29 @@
+	title = c_emoba
+	max_settlements = 4
+	culture = adietech
+	religion = wsosro
+	b_btaud = tribal
+201.3.1 = {
+	religion = rerech
+}
+
+203.3.1 = {
+	religion = wsosro
+}
+
+224.3.1 = {
+	religion = kanyo
+}
+
+224.3.1 = {
+	religion = wsosro
+}
+
+229.3.1 = {
+	religion = kanyo
+}
+
+257.3.1 = {
+	religion = wsosro
+}
+

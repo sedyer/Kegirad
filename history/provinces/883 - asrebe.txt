@@ -1,0 +1,21 @@
+	title = c_asrebe
+	max_settlements = 2
+	culture = brirat
+	religion = rriyya
+	b_doulick = tribal
+202.3.1 = {
+	religion = egrirat
+}
+
+416.3.1 = {
+	religion = rgance
+}
+
+478.3.1 = {
+	religion = egrirat
+}
+
+497.3.1 = {
+	religion = rgance
+}
+

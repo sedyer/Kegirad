@@ -1,0 +1,13 @@
+	title = c_takaka
+	max_settlements = 7
+	culture = kegirad
+	religion = bukena
+	b_nlae = tribal
+370.3.1 = {
+	religion = emonurga
+}
+
+419.4.1 = {
+	culture = rresa
+}
+

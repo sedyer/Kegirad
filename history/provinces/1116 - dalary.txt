@@ -1,0 +1,5 @@
+	title = c_dalary
+	max_settlements = 2
+	culture = wenius
+	religion = rni
+	b_riranet = tribal

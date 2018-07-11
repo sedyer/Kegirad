@@ -1,0 +1,17 @@
+	title = c_enumius
+	max_settlements = 2
+	culture = wobagik
+	religion = rerech
+	b_ratada = tribal
+229.3.1 = {
+	religion = wsosro
+}
+
+260.3.1 = {
+	religion = ninala
+}
+
+477.4.1 = {
+	culture = eliuden
+}
+

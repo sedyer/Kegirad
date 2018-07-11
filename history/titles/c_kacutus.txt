@@ -1,0 +1,162 @@
+200.2.1 = {
+	holder = 1000020
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.2 = {
+	holder = 1001207
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+200.2.3 = {
+	liege = d_enares
+}
+
+200.2.4 = {
+	holder = 1001206
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+236.2.1 = {
+	holder = 1004471
+}
+
+244.2.1 = {
+	holder = 1007344
+}
+
+279.2.1 = {
+	holder = 1007081
+}
+
+280.2.1 = {
+	holder = 1010580
+}
+
+400.2.1 = {
+	holder = 1015638
+}
+
+400.2.2 = {
+	holder = 1020259
+}
+
+500.2.1 = {
+	holder = 1025452
+}
+
+513.2.1 = {
+	holder = 1026992
+}
+
+538.2.1 = {
+	holder = 1030218
+}
+
+538.2.2 = {
+	liege = k_tsahid
+}
+
+540.2.1 = {
+	liege = k_sinahid
+}
+
+540.2.2 = {
+	liege = d_kozirad
+}
+
+540.2.3 = {
+	holder = 1027981
+}
+
+542.2.1 = {
+	liege = k_tsahid
+}
+
+542.2.2 = {
+	holder = 1030702
+}
+
+552.2.1 = {
+	liege = k_sinahid
+}
+
+552.2.2 = {
+	liege = d_werutus
+}
+
+552.2.3 = {
+	holder = 1025258
+}
+
+552.2.4 = {
+	liege = k_tsahid
+}
+
+554.2.1 = {
+	liege = k_sinahid
+}
+
+554.2.2 = {
+	liege = d_werutus
+}
+
+554.2.3 = {
+	holder = 1031466
+}
+
+554.2.4 = {
+	liege = k_tsahid
+}
+
+557.2.1 = {
+	liege = k_sinahid
+}
+
+557.2.2 = {
+	liege = d_werutus
+}
+
+557.2.3 = {
+	holder = 1025262
+}
+
+557.2.4 = {
+	liege = k_tsahid
+}
+
+561.2.1 = {
+	liege = k_sinahid
+}
+
+561.2.2 = {
+	liege = d_balun
+}
+
+561.2.3 = {
+	holder = 1031468
+}
+
+576.2.1 = {
+	liege = d_kozirad
+}
+
+576.2.2 = {
+	holder = 1032058
+}
+
+576.2.3 = {
+	liege = k_sinahid
+}
+
+583.2.1 = {
+	holder = 1033435
+}
+
+700.2.1 = {
+	holder = 1036252
+}
+

@@ -1,0 +1,13 @@
+	title = c_dodat
+	max_settlements = 2
+	culture = dsien
+	religion = rerech
+	b_rodius = tribal
+368.3.1 = {
+	religion = wsosro
+}
+
+627.4.1 = {
+	culture = adietech
+}
+

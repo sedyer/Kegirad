@@ -1,0 +1,9 @@
+	title = c_lya
+	max_settlements = 2
+	culture = stacik
+	religion = tedusa
+	b_aloanes = tribal
+214.4.1 = {
+	culture = norik
+}
+

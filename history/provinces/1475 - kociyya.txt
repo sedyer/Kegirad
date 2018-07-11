@@ -1,0 +1,9 @@
+	title = c_kociyya
+	max_settlements = 2
+	culture = linian
+	religion = ricily
+	b_kroshe = tribal
+202.4.1 = {
+	culture = batna
+}
+

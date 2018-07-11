@@ -1,0 +1,9 @@
+	title = c_etiggu
+	max_settlements = 2
+	culture = rmada
+	religion = wsosro
+	b_kouloss = tribal
+413.3.1 = {
+	religion = tluku
+}
+

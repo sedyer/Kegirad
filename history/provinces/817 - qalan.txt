@@ -1,0 +1,9 @@
+	title = c_qalan
+	max_settlements = 2
+	culture = rakael
+	religion = rgance
+	b_lanti = tribal
+209.4.1 = {
+	culture = tance
+}
+

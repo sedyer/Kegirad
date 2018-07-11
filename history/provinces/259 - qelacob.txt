@@ -1,0 +1,13 @@
+	title = c_qelacob
+	max_settlements = 2
+	culture = ejoanel
+	religion = emonurga
+	b_wamita = tribal
+373.3.1 = {
+	religion = echukas
+}
+
+638.4.1 = {
+	culture = namuthe
+}
+

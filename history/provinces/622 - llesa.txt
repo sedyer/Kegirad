@@ -1,0 +1,21 @@
+	title = c_llesa
+	max_settlements = 7
+	culture = wiragop
+	religion = emonurga
+	b_ralimus = tribal
+208.3.1 = {
+	religion = takice
+}
+
+214.3.1 = {
+	religion = emonurga
+}
+
+234.3.1 = {
+	religion = takice
+}
+
+305.4.1 = {
+	culture = amurein
+}
+

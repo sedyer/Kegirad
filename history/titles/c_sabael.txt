@@ -1,0 +1,830 @@
+200.2.1 = {
+	holder = 1000000
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.2 = {
+	holder = 1000122
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+200.2.3 = {
+	liege = d_alebe
+}
+
+200.2.4 = {
+	holder = 1000120
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+216.2.1 = {
+	liege = d_tanoses
+}
+
+216.2.2 = {
+	holder = 1002799
+}
+
+216.2.3 = {
+	liege = d_nla
+}
+
+217.2.1 = {
+	liege = d_tanoses
+}
+
+222.2.1 = {
+	holder = 1000736
+}
+
+226.2.1 = {
+	holder = 1003845
+}
+
+272.2.1 = {
+	holder = 1005858
+}
+
+278.2.1 = {
+	holder = 1005496
+}
+
+279.2.1 = {
+	liege = d_ririrat
+}
+
+293.2.1 = {
+	liege = d_tanoses
+}
+
+293.2.2 = {
+	holder = 1008814
+}
+
+293.2.3 = {
+	liege = d_ririrat
+}
+
+321.2.1 = {
+	liege = d_tanoses
+}
+
+321.2.2 = {
+	holder = 1011873
+}
+
+327.2.1 = {
+	liege = d_ririrat
+}
+
+327.2.2 = {
+	liege = d_ririrat
+}
+
+327.2.3 = {
+	liege = k_koulilu
+}
+
+328.2.1 = {
+	liege = d_ririrat
+}
+
+328.2.2 = {
+	liege = k_koulilu
+}
+
+329.2.1 = {
+	holder = 1014477
+}
+
+329.2.2 = {
+	liege = d_ririrat
+}
+
+329.2.3 = {
+	liege = k_koulilu
+}
+
+330.2.1 = {
+	liege = d_ririrat
+}
+
+330.2.2 = {
+	liege = k_koulilu
+}
+
+331.2.1 = {
+	liege = d_ririrat
+}
+
+331.2.2 = {
+	liege = k_koulilu
+}
+
+332.2.1 = {
+	liege = d_ririrat
+}
+
+332.2.2 = {
+	liege = k_koulilu
+}
+
+333.2.1 = {
+	liege = d_ririrat
+}
+
+333.2.2 = {
+	liege = k_koulilu
+}
+
+334.2.1 = {
+	liege = d_ririrat
+}
+
+334.2.2 = {
+	liege = k_koulilu
+}
+
+335.2.1 = {
+	liege = d_ririrat
+}
+
+335.2.2 = {
+	liege = k_koulilu
+}
+
+336.2.1 = {
+	liege = d_ririrat
+}
+
+336.2.2 = {
+	liege = k_koulilu
+}
+
+337.2.1 = {
+	liege = d_ririrat
+}
+
+337.2.2 = {
+	liege = k_koulilu
+}
+
+338.2.1 = {
+	liege = d_ririrat
+}
+
+338.2.2 = {
+	liege = k_koulilu
+}
+
+339.2.1 = {
+	liege = d_ririrat
+}
+
+339.2.2 = {
+	liege = k_koulilu
+}
+
+340.2.1 = {
+	liege = d_ririrat
+}
+
+340.2.2 = {
+	liege = k_sabance
+}
+
+341.2.1 = {
+	liege = d_ririrat
+}
+
+341.2.2 = {
+	liege = k_sabance
+}
+
+342.2.1 = {
+	liege = d_ririrat
+}
+
+342.2.2 = {
+	liege = k_sabance
+}
+
+343.2.1 = {
+	holder = 1014724
+}
+
+343.2.2 = {
+	liege = d_ririrat
+}
+
+343.2.3 = {
+	liege = k_sabance
+}
+
+344.2.1 = {
+	liege = d_ririrat
+}
+
+344.2.2 = {
+	liege = k_trasha
+}
+
+345.2.1 = {
+	liege = d_ririrat
+}
+
+345.2.2 = {
+	liege = k_trasha
+}
+
+346.2.1 = {
+	liege = d_ririrat
+}
+
+346.2.2 = {
+	liege = k_trasha
+}
+
+347.2.1 = {
+	liege = d_ririrat
+}
+
+347.2.2 = {
+	liege = k_trasha
+}
+
+348.2.1 = {
+	liege = d_ririrat
+}
+
+348.2.2 = {
+	liege = k_trasha
+}
+
+349.2.1 = {
+	liege = d_ririrat
+}
+
+349.2.2 = {
+	liege = k_trasha
+}
+
+350.2.1 = {
+	liege = d_ririrat
+}
+
+350.2.2 = {
+	liege = k_trasha
+}
+
+351.2.1 = {
+	liege = d_ririrat
+}
+
+351.2.2 = {
+	liege = k_trasha
+}
+
+352.2.1 = {
+	liege = d_ririrat
+}
+
+352.2.2 = {
+	liege = k_trasha
+}
+
+353.2.1 = {
+	liege = d_ririrat
+}
+
+353.2.2 = {
+	liege = k_trasha
+}
+
+354.2.1 = {
+	liege = d_ririrat
+}
+
+354.2.2 = {
+	liege = k_trasha
+}
+
+355.2.1 = {
+	liege = d_ririrat
+}
+
+355.2.2 = {
+	liege = k_trasha
+}
+
+356.2.1 = {
+	liege = d_ririrat
+}
+
+356.2.2 = {
+	liege = k_trasha
+}
+
+357.2.1 = {
+	liege = d_ririrat
+}
+
+357.2.2 = {
+	liege = k_trasha
+}
+
+358.2.1 = {
+	liege = d_ririrat
+}
+
+358.2.2 = {
+	liege = k_trasha
+}
+
+359.2.1 = {
+	liege = d_ririrat
+}
+
+359.2.2 = {
+	liege = k_trasha
+}
+
+360.2.1 = {
+	liege = d_ririrat
+}
+
+360.2.2 = {
+	liege = k_trasha
+}
+
+361.2.1 = {
+	liege = d_ririrat
+}
+
+361.2.2 = {
+	liege = k_trasha
+}
+
+362.2.1 = {
+	liege = d_ririrat
+}
+
+362.2.2 = {
+	liege = k_trasha
+}
+
+363.2.1 = {
+	liege = d_ririrat
+}
+
+363.2.2 = {
+	liege = k_trasha
+}
+
+364.2.1 = {
+	liege = d_ririrat
+}
+
+364.2.2 = {
+	liege = k_trasha
+}
+
+365.2.1 = {
+	liege = d_ririrat
+}
+
+365.2.2 = {
+	liege = k_trasha
+}
+
+366.2.1 = {
+	liege = d_ririrat
+}
+
+366.2.2 = {
+	liege = k_trasha
+}
+
+367.2.1 = {
+	liege = d_ririrat
+}
+
+367.2.2 = {
+	liege = k_trasha
+}
+
+368.2.1 = {
+	liege = d_ririrat
+}
+
+368.2.2 = {
+	liege = k_trasha
+}
+
+369.2.1 = {
+	liege = d_ririrat
+}
+
+369.2.2 = {
+	liege = k_trasha
+}
+
+370.2.1 = {
+	liege = d_ririrat
+}
+
+370.2.2 = {
+	liege = k_trasha
+}
+
+375.2.1 = {
+	liege = d_tvenr
+}
+
+376.2.1 = {
+	liege = d_tvenr
+}
+
+376.2.2 = {
+	liege = k_nlesha
+}
+
+376.2.3 = {
+	liege = d_tvenr
+}
+
+376.2.4 = {
+	liege = k_nlesha
+}
+
+377.2.1 = {
+	liege = d_tvenr
+}
+
+377.2.2 = {
+	liege = k_nlesha
+}
+
+378.2.1 = {
+	liege = d_tvenr
+}
+
+378.2.2 = {
+	liege = k_nlesha
+}
+
+379.2.1 = {
+	liege = d_tvenr
+}
+
+379.2.2 = {
+	liege = k_trasha
+}
+
+379.2.3 = {
+	holder = 1016023
+}
+
+380.2.1 = {
+	liege = d_tvenr
+}
+
+380.2.2 = {
+	liege = k_esyace
+}
+
+380.2.3 = {
+	holder = 1018791
+}
+
+381.2.1 = {
+	liege = d_tvenr
+}
+
+381.2.2 = {
+	liege = k_esyace
+}
+
+382.2.1 = {
+	liege = d_tvenr
+}
+
+382.2.2 = {
+	liege = k_esyace
+}
+
+383.2.1 = {
+	liege = d_tvenr
+}
+
+383.2.2 = {
+	liege = k_esyace
+}
+
+384.2.1 = {
+	liege = d_tvenr
+}
+
+384.2.2 = {
+	liege = k_esyace
+}
+
+385.2.1 = {
+	liege = d_tvenr
+}
+
+385.2.2 = {
+	liege = k_esyace
+}
+
+386.2.1 = {
+	liege = d_tvenr
+}
+
+386.2.2 = {
+	liege = k_esyace
+}
+
+387.2.1 = {
+	liege = d_tvenr
+}
+
+387.2.2 = {
+	liege = k_esyace
+}
+
+388.2.1 = {
+	liege = d_tvenr
+}
+
+388.2.2 = {
+	liege = k_esyace
+}
+
+389.2.1 = {
+	liege = d_tvenr
+}
+
+389.2.2 = {
+	liege = k_esyace
+}
+
+390.2.1 = {
+	liege = d_tvenr
+}
+
+390.2.2 = {
+	liege = k_esyace
+}
+
+391.2.1 = {
+	liege = d_tvenr
+}
+
+391.2.2 = {
+	liege = k_esyace
+}
+
+392.2.1 = {
+	liege = d_tvenr
+}
+
+392.2.2 = {
+	liege = k_esyace
+}
+
+393.2.1 = {
+	liege = d_tvenr
+}
+
+393.2.2 = {
+	liege = k_esyace
+}
+
+394.2.1 = {
+	liege = d_tvenr
+}
+
+394.2.2 = {
+	liege = k_esyace
+}
+
+395.2.1 = {
+	liege = d_tvenr
+}
+
+395.2.2 = {
+	liege = k_esyace
+}
+
+396.2.1 = {
+	liege = d_tvenr
+}
+
+396.2.2 = {
+	liege = k_esyace
+}
+
+397.2.1 = {
+	liege = d_tvenr
+}
+
+397.2.2 = {
+	liege = k_esyace
+}
+
+398.2.1 = {
+	liege = d_tvenr
+}
+
+398.2.2 = {
+	liege = k_esyace
+}
+
+399.2.1 = {
+	liege = d_tvenr
+}
+
+399.2.2 = {
+	liege = k_esyace
+}
+
+399.2.3 = {
+	holder = 1019168
+}
+
+400.2.1 = {
+	liege = d_tvenr
+}
+
+400.2.2 = {
+	liege = k_trasha
+}
+
+401.2.1 = {
+	liege = d_tvenr
+}
+
+401.2.2 = {
+	liege = k_trasha
+}
+
+402.2.1 = {
+	liege = d_tvenr
+}
+
+402.2.2 = {
+	liege = k_trasha
+}
+
+403.2.1 = {
+	liege = d_tvenr
+}
+
+403.2.2 = {
+	liege = k_trasha
+}
+
+404.2.1 = {
+	liege = d_tvenr
+}
+
+404.2.2 = {
+	liege = k_trasha
+}
+
+405.2.1 = {
+	liege = d_tvenr
+}
+
+405.2.2 = {
+	liege = k_trasha
+}
+
+406.2.1 = {
+	liege = d_tvenr
+}
+
+406.2.2 = {
+	liege = k_trasha
+}
+
+406.2.3 = {
+	holder = 1020925
+}
+
+406.2.4 = {
+	liege = d_qvance
+}
+
+406.2.5 = {
+	holder = 1018627
+}
+
+440.2.1 = {
+	liege = d_alebe
+}
+
+440.2.2 = {
+	liege = 0
+}
+
+440.2.3 = {
+	holder = 1020582
+}
+
+441.2.1 = {
+	holder = 1021150
+}
+
+441.2.2 = {
+	liege = d_qvance
+}
+
+471.2.1 = {
+	holder = 1025153
+}
+
+481.2.1 = {
+	liege = d_alebe
+}
+
+481.2.2 = {
+	liege = 0
+}
+
+482.2.1 = {
+	liege = d_alebe
+}
+
+482.2.2 = {
+	liege = 0
+}
+
+494.2.1 = {
+	liege = d_alebe
+}
+
+494.2.2 = {
+	liege = 0
+}
+
+495.2.1 = {
+	holder = 1026263
+}
+
+505.2.1 = {
+	holder = 1028239
+}
+
+505.2.2 = {
+	liege = d_qvance
+}
+
+600.2.1 = {
+	holder = 1033269
+}
+
+671.2.1 = {
+	holder = 1037566
+}
+
+675.2.1 = {
+	liege = d_alebe
+}
+
+675.2.2 = {
+	liege = 0
+}
+
+679.2.1 = {
+	liege = d_alebe
+}
+
+679.2.2 = {
+	liege = 0
+}
+
+680.2.1 = {
+	liege = k_trasha
+}
+
+680.2.2 = {
+	liege = 0
+}
+
+685.2.1 = {
+	holder = 1038461
+}
+
+693.2.1 = {
+	holder = 1040275
+}
+
+693.2.2 = {
+	liege = k_koulilu
+}
+

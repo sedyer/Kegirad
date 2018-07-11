@@ -1,0 +1,17 @@
+	title = c_birorna
+	max_settlements = 2
+	culture = batna
+	religion = rni
+	b_aratitar = tribal
+204.3.1 = {
+	religion = ricily
+}
+
+345.3.1 = {
+	religion = rni
+}
+
+433.4.1 = {
+	culture = talin
+}
+

@@ -1,0 +1,13 @@
+	title = c_balunai
+	max_settlements = 2
+	culture = tilirat
+	religion = slonan
+	b_azseem = tribal
+205.3.1 = {
+	religion = rerech
+}
+
+301.4.1 = {
+	culture = rinmi
+}
+

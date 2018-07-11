@@ -1,0 +1,65 @@
+	title = c_wacun
+	max_settlements = 2
+	culture = edanyi
+	religion = rerech
+	b_bobeze = tribal
+296.3.1 = {
+	religion = echukas
+}
+
+302.3.1 = {
+	religion = rerech
+}
+
+326.3.1 = {
+	religion = echukas
+}
+
+330.3.1 = {
+	religion = rerech
+}
+
+330.3.1 = {
+	religion = echukas
+}
+
+337.3.1 = {
+	religion = rerech
+}
+
+342.3.1 = {
+	religion = echukas
+}
+
+343.3.1 = {
+	religion = rerech
+}
+
+347.3.1 = {
+	religion = echukas
+}
+
+356.3.1 = {
+	religion = rerech
+}
+
+358.3.1 = {
+	religion = echukas
+}
+
+367.3.1 = {
+	religion = rerech
+}
+
+377.3.1 = {
+	religion = echukas
+}
+
+388.3.1 = {
+	religion = rerech
+}
+
+389.3.1 = {
+	religion = echukas
+}
+

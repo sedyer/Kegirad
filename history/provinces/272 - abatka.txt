@@ -1,0 +1,9 @@
+	title = c_abatka
+	max_settlements = 2
+	culture = doumat
+	religion = emonurga
+	b_tadyava = tribal
+254.3.1 = {
+	religion = agrakma
+}
+

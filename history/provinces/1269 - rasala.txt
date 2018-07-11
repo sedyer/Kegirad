@@ -1,0 +1,5 @@
+	title = c_rasala
+	max_settlements = 2
+	culture = kerada
+	religion = ticojan
+	b_nasya = tribal

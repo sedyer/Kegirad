@@ -1,0 +1,9 @@
+	title = c_lmala
+	max_settlements = 2
+	culture = robas
+	religion = abonyi
+	b_tidara = tribal
+398.4.1 = {
+	culture = batanes
+}
+

@@ -1,0 +1,33 @@
+	title = c_athuta
+	max_settlements = 2
+	culture = scachi
+	religion = ricily
+	b_ridagis = tribal
+270.3.1 = {
+	religion = rni
+}
+
+280.3.1 = {
+	religion = ricily
+}
+
+282.3.1 = {
+	religion = rni
+}
+
+303.3.1 = {
+	religion = ricily
+}
+
+309.3.1 = {
+	religion = rni
+}
+
+320.3.1 = {
+	religion = ricily
+}
+
+506.4.1 = {
+	culture = tuprind
+}
+

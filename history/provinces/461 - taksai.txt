@@ -1,0 +1,9 @@
+	title = c_taksai
+	max_settlements = 2
+	culture = qibemas
+	religion = abonyi
+	b_nusigid = tribal
+332.4.1 = {
+	culture = batanes
+}
+

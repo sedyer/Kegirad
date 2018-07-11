@@ -1,0 +1,33 @@
+	title = c_diiat
+	max_settlements = 2
+	culture = woumner
+	religion = echukas
+	b_qamerta = tribal
+224.3.1 = {
+	religion = rerech
+}
+
+259.3.1 = {
+	religion = echukas
+}
+
+343.3.1 = {
+	religion = rerech
+}
+
+392.3.1 = {
+	religion = abonyi
+}
+
+467.3.1 = {
+	religion = echukas
+}
+
+626.4.1 = {
+	culture = edanyi
+}
+
+644.4.1 = {
+	culture = woumner
+}
+

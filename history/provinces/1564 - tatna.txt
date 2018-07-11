@@ -1,0 +1,13 @@
+	title = c_tatna
+	max_settlements = 7
+	culture = rresa
+	religion = emonurga
+	b_eratarak = tribal
+202.3.1 = {
+	religion = rni
+}
+
+540.3.1 = {
+	religion = emonurga
+}
+

@@ -1,0 +1,13 @@
+	title = c_totayi
+	max_settlements = 2
+	culture = balilof
+	religion = rni
+	b_kluha = tribal
+240.3.1 = {
+	religion = takice
+}
+
+292.3.1 = {
+	religion = ticojan
+}
+

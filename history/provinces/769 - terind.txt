@@ -1,0 +1,17 @@
+	title = c_terind
+	max_settlements = 2
+	culture = wlick
+	religion = ninala
+	b_borat = tribal
+244.3.1 = {
+	religion = rerech
+}
+
+611.3.1 = {
+	religion = wsosro
+}
+
+642.3.1 = {
+	religion = tluku
+}
+

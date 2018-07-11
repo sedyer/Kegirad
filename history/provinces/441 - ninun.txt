@@ -1,0 +1,5 @@
+	title = c_ninun
+	max_settlements = 2
+	culture = ributhe
+	religion = abonyi
+	b_kaik = tribal

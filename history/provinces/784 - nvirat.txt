@@ -1,0 +1,17 @@
+	title = c_nvirat
+	max_settlements = 2
+	culture = bodoba
+	religion = wsosro
+	b_kousoss = tribal
+269.3.1 = {
+	religion = nerapur
+}
+
+269.3.1 = {
+	religion = wsosro
+}
+
+460.3.1 = {
+	religion = tluku
+}
+

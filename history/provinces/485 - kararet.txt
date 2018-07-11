@@ -1,0 +1,21 @@
+	title = c_kararet
+	max_settlements = 2
+	culture = kiren
+	religion = ninala
+	b_tarugis = tribal
+228.3.1 = {
+	religion = rerech
+}
+
+381.3.1 = {
+	religion = abonyi
+}
+
+401.4.1 = {
+	culture = qusala
+}
+
+586.3.1 = {
+	religion = ninala
+}
+
