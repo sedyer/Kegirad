@@ -3461,7 +3461,7 @@ latani = {
 	}
 }
 
-karish = {
+Karish = {
 	graphical_cultures = { westerngfx }
 	
 	telita = {

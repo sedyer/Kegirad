@@ -33140,7 +33140,7 @@ e_emeilha = {
 	title_female = emperor
 }
 
-e_wamat = {
+e_qorakma = {
 		color = { 134 44 11 }
 		color = { 134 44 11 }
 	capital = 281
